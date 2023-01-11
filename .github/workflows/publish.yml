@@ -21,9 +21,9 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ajou-hack/library-new-books
           cargo build --release
           LAST_ID=$(cat ./last_id)
-          XML=$(./target/release/notice-rss $LAST_ID xml 2> /dev/null)
-          MD=$(./target/release/notice-rss $LAST_ID md 2> /dev/null)
-          CM=$(./target/release/notice-rss $LAST_ID cm 2> /dev/null)
+          XML=$(./target/release/library-new-books-rss $LAST_ID xml 2> /dev/null)
+          MD=$(./target/release/library-new-books-rss $LAST_ID md 2> /dev/null)
+          CM=$(./target/release/library-new-books-rss $LAST_ID cm 2> /dev/null)
           if [ -z "$XML" ] || [ -z "$MD" ] || [ -z "$CM" ]; then
           echo "new books not found"
           exit 0
