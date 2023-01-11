@@ -1,4 +1,5 @@
 use chrono::Utc;
+use htmlescape::encode_minimal;
 use serde::Deserialize;
 use std::env;
 use std::fs::File;
@@ -107,8 +108,10 @@ fn compose_xml(books: &[Book]) -> String {
         .iter()
         .map(|book| -> String {
             let description = format!(
-                "{}, {}, {}",
-                book.author, book.publication, book.call_number
+                "{}, {} ({})",
+                encode_minimal(&book.author),
+                encode_minimal(&book.publication),
+                encode_minimal(&book.call_number),
             );
             let link = format!("https://library.ajou.ac.kr/#/search/detail/{}", book.id);
             format!(
@@ -117,7 +120,9 @@ fn compose_xml(books: &[Book]) -> String {
                 <link>{}</link>\n \
                 <description>{}</description>\n \
                 </item>",
-                book.title, link, description
+                encode_minimal(&book.title),
+                encode_minimal(&link),
+                encode_minimal(&description),
             )
         })
         .collect::<Vec<String>>()
@@ -127,17 +132,22 @@ fn compose_xml(books: &[Book]) -> String {
 }
 
 fn compose_md(books: &[Book]) -> String {
-    let header = "# 도서관 신간";
+    let header = "# 도서관 단행본 신착";
 
     let table_header =
         r"| 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |\n|----|----|----|----|----|----|";
 
+    let thumbnail_base_url = "https://library.ajou.ac.kr/pyxis-api";
     let items = books
         .iter()
         .map(|book| -> String {
             format!(
                 "| ![]({}) | {} | {} | {} | {} | {} |",
-                book.thumbnail_url,
+                if book.thumbnail_url.starts_with('/') {
+                    format!("{}/{}", thumbnail_base_url, book.thumbnail_url)
+                } else {
+                    book.thumbnail_url.clone()
+                },
                 book.title,
                 book.author,
                 book.publication,
