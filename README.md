@@ -1,9 +1,12 @@
-# 도서관 신간
+# 도서관 단행본 신착
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
 | ![](https://image.aladin.co.kr/product/26722/0/cover/k762730087_1.jpg) | 이계집 | 홍양호 | 서울 : 성균관대학교출판부, 2020-2021 | 811.9 홍63이 v.1/v.2/v.3/v.4/v.5 | 중앙도서관 |
-| ![](/attachments/biblio/thumbnails/72d5833b-f58a-413b-b728-9e52a2f55126) | 소재집 | 노수신 | 서울 : 한국고전번역원, 2013-2020 | 811.211 노56소K임 v.1/v.2/v.3/v.4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26055/93/cover/k222737051_1.jpg) | 만정당집 | 서종태 | 서울 : 학자원, 2020-2021 | 811.9 서75만K최 v.1/v.2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26023/87/cover/k472737855_1.jpg) | 설봉유고 | 강백년 | 대전 : 문진 : 한국고전번역원, 2020-2021 | 811.9 강43설K김 v.1/v.2/v.3/v.4/v.5 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 송사집 | 기우만 | 전주 : 흐름, 2020-2021 | 811.9 기66송K유 v.1/v.10/v.11/v.2/v.3/v.4/v.5/v.6/v.7/v.8/v.9 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/72d5833b-f58a-413b-b728-9e52a2f55126) | 소재집 | 노수신 | 서울 : 한국고전번역원, 2013-2020 | 811.211 노56소K임 v.1/v.2/v.3/v.4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/2545/37/cover/8978892663_1.jpg) | (특징으로 보는) 한반도 제비꽃 | 유기억 | 서울 : 지성사, 2013 | 583.6250951 유18한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/17302/96/cover/8997429965_1.jpg) | 울릉도 독도 식물도감 | 김태원 | 서울 : 자연과생태, 2018 | 581.951 김883울 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | '한국 근대문학과 중국' 자료총서 | 이광일 | 서울 : 역락, 2021 | 811.09 한16이역 v.7/v.8/v.9 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/26536/20/cover/k642738627_1.jpg) | 서비스 로봇 표준특허 전략맵 : 서비스 로봇 분야 표준특허 유망기술 | 특허청 | 서울 : 진한엠앤비, 2021 | 629.892 특94서 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26029/80/cover/8947546852_1.jpg) | 마케터는 잘못이 없다 : 초연결 시대의 설득전략은 무엇이 달라야 하는가 | 이동훈 | 서울 : 한국경제신문 : 한경BP, 2021 | 658.8 이25마 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30735/68/cover/k722830151_1.jpg) | 고집불통 철학자들 | 강성률 | 서울 : 글로벌콘텐츠, 2023 | 102 강54고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/17457/72/cover/k972534201_3.jpg) | (세상 쉽고 맛있는) 튼이 이유식 : 큐브와 밥솥 칸막이로 한 번에 3가지 9끼 이유식 완성 | 정주희 | 서울 : 서사원, 2019 | 641.5622 정76튼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30458/88/cover/k002830471_1.jpg) | 머니 트렌드 2023 : 45가지 키워드로 전망하는 대한민국 돈의 흐름 | 정태익 | [대구] : 북모먼트 : 북로망스, 2022 | 332.024 머198정 2023 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 西丰西岔沟 : 西汉时期东北民族墓地 | 료저성박물관 | 北京 : 文物, 2022 | 952.31 료74서 v.1/v.2/v.3 | 중앙도서관 |
