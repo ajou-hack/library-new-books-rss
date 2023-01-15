@@ -2,7 +2,23 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/26173/62/cover/8928407990_1.jpg) | (校勘標點) 古芸堂筆記 | 유득공 | 서울 : 韓國古典飜譯院, 2020 | 811.9 유27고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26173/83/cover/8928407982_1.jpg) | 고운당필기 | 유득공 | 서울 : 한국고전번역원, 2020 | 811.9 유27고K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26665/78/cover/892840620x_1.jpg) | 송자대전 | 송시열 | 서울 : 한국고전번역원, 2019 | 811.9 송58송K김 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (校勘標點) 孤山遺稿 | 윤선도 | 서울 : 韓國古典飜譯院, 2019 | 811.916 윤54고 v.1/v.2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (校勘標點) 竹石館遺集 | 서영보 | 서울 : 韓國古典飜譯院, 2019 | 811.916 서64죽 v.1/v.2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (校勘標點) 響山集 | 이만도 | 서울 : 韓國古典飜譯院, 2019 | 811.916 이32향 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26665/80/cover/8928407745_1.jpg) | 수몽집 | 정엽 | 서울 : 한국고전번역원, 2020 | 811.9 정64수K서 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26666/3/cover/8928407729_1.jpg) | 산당집 | 최충성 | 서울 : 한국고전번역원, 2020 | 811.9 최85산K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대곡집 | 성운 | 서울 : 한국고전번역원, 2020 | 811.94 성66대K변 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 구봉집 | 송익필 | 서울 : 한국고전번역원, 2020 | 811.9 송68구K정 v.1/v.2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 석재고 | 윤행임 | 파주 : 보고사, 2021 | 811.9 윤93석K김 v.1/v.2/v.3/v.4/v.5/v.6/v.7 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 소산집 | 이광정 | 파주 : 점필재, 2021 | 811.9 이15소K남 v.1/v.2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 태계집 | 하진 | 파주 : 점필재, 2021 | 811.9 하78태K김 v.1/v.2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/18827/93/cover/899971716x_1.jpg) | 발달심리학 : 전생애 인간발달 | 정옥분 | 서울 : 학지사, 2019 | 155 정65발3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 滄溪集 | 임영 | 서울 : 韓國古典飜譯院, 2018-2020 | 811.916 임64창K김 v.1/v.2/v.3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/ac975007-185c-404f-8e0f-7d35346f7423) | 창계집 | 임영 | 서울 : 한국고전번역원, 2015-2019 | 811.916 임64창K전 v.1/v.2/v.3/v.4/v.5/v.6/v.7/v.8 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 동명집 | 정두경 | 서울 : 한국고전번역원, 2013-2020 | 811.908 정26동K정 v.2/v.3/v.6/v.7/v.8 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 약봉유고 | 서성 | 안동 : 한국국학진흥원, 2021 | 811.9 서54약K장 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 뇌연집 | 남유용 | 서울 : 학자원, 2021 | 811.9 남66뇌K이 v.1/v.2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 경와집 | 김휴 | 안동 : 한국국학진흥원, 2021 | 811.9 김96경K우 v.1/v.2 | 중앙도서관 |
@@ -36,19 +52,3 @@
 | ![](https://image.aladin.co.kr/product/14019/68/cover/8952790316_2.jpg) | 서부 해안 연대기 : 기프트·보이스·파워 | Le Guin, Ursula K | 서울 : 시공사, 2018 | 823.914 L521aK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/6170/2/cover/896147216x_1.jpg) | 요가 : 불멸과 자유 | Eliade, Mircea | 서울 : 이학사, 2015 | 181.45 E42yK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/9957/32/cover/8955864728_1.jpg) | 하이데거의 「"신은 죽었다"는 니체의 말」 읽기 | 박찬국 | 서울 : 세창미디어, 2016 | 193 박82하세 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29881/24/cover/k602838830_1.jpg) | 호크하이머와 아도르노의 계몽의 변증법 해설 : 새로운 시각으로 본질을 파헤친 비판적 해설서 | 송다니엘 | 안산 : 토브북스, 2022 | 193 송22호 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28551/56/cover/k232835042_1.jpg) | 리눅스를 다루는 기술 | 신재훈 | 서울 : 길벗, 2021 | 005.432 신73리 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/8126/8/cover/8994242422_1.jpg) | 벼과·사초과 생태도감 : 한국에 분포하는 벼과 274분류군, 사초과 232분류군 | 조양훈 | 서울 : 지오북, 2016 | 584.0951 조63벼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30664/41/cover/k412830039_1.jpg) | 일생에 단 한번은 독기를 품어라 : 한번 사는 인생 간절히, 후회 없이 살아라 | 권민창 | 서울 : Mindset : 바이포엠스튜디오, 2022 | 158.1 권38일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30747/71/cover/k102830355_1.jpg) | 자바스크립트로 배우는 SICP : 컴퓨터 프로그램의 구조와 해석 | Abelson, Harold | 서울 : 한빛미디어, 2022 | 005.133 S927aK류 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30211/54/cover/k902839394_1.jpg) | 워런 버핏의 버크셔 해서웨이 투자 원칙 : 버크셔 해서웨이의 연대기적 분석을 통한 워런 버핏의 경영과 투자 철학의 집대성 | Mead, Adam J | 서울 : 서울문화사, 2022 | 338.860973 M479cK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29131/38/cover/k662837465_1.jpg) | 고양이를 부탁해 : 20주년 아카이브 | 정재은 | 파주 : 플레인아카이브, 2022 | 811.27 고63정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22254/15/cover/k382636821_1.jpg) | 윤희에게 : 시나리오 | 임대형 | 서울 : 클, 2020 | 811.27 임23윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/8939/72/cover/8994040897_1.jpg) | 아가씨 각본 | 정서경 | 서울 : 그책, 2016 | 811.27 정54아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30585/22/cover/k842830716_1.jpg) | 밥 챙겨 먹어요, 행복하세요 : 마음 편한 맛이 필요한 날, 마포농수산쎈타가 전하는 밥+술 한상차림 레시피 | 마포농수산쎈타 | 서울 : 세미콜론, 2022 | 641.5 마895밥 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 작은 아씨들 : 정서경 대본집 | 정서경 | 파주 : 플레인아카이브, 2022 | 811.27 정54작 v.1/v.2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30701/0/cover/8960519626_1.jpg) | 블루프린트 : 이기적 인간은 어떻게 좋은 사회를 만드는가 | Christakis, Nicholas A | 서울 : 부키, 2022 | 576.801 C554bK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30782/41/cover/k422831267_1.jpg) | 기호와 현대철학 | 김상범 | 서울 : 바른북스, 2022 | 194 김52기 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30665/13/cover/k672830030_1.jpg) | 에피쿠로스 쾌락 | Epicurus | 서울 : 현대지성, 2022 | 187 E64eK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30763/86/cover/8960907863_1.jpg) | 어슐러 K. 르 귄의 말 : 상상의 세계를 쌓아 올리는 SF 거장의 글쓰기 | Le Guin, Ursula K | 서울 : 마음산책, 2022 | 823.914 L521uK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30494/83/cover/8970443800_1.jpg) | 과학, 명화에 숨다 : 명화 속 물리 이야기 | 김달우 | 서울 : 전파과학사, 2022 | 530 김22과 | 중앙도서관 |
