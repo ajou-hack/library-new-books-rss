@@ -2,53 +2,53 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://image.aladin.co.kr/product/26173/62/cover/8928407990_1.jpg) | (校勘標點) 古芸堂筆記 | 유득공 | 서울 : 韓國古典飜譯院, 2020 | 811.9 유27고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26173/83/cover/8928407982_1.jpg) | 고운당필기 | 유득공 | 서울 : 한국고전번역원, 2020 | 811.9 유27고K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26665/78/cover/892840620x_1.jpg) | 송자대전 | 송시열 | 서울 : 한국고전번역원, 2019 | 811.9 송58송K김 v.1 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (校勘標點) 孤山遺稿 | 윤선도 | 서울 : 韓國古典飜譯院, 2019 | 811.916 윤54고 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (校勘標點) 竹石館遺集 | 서영보 | 서울 : 韓國古典飜譯院, 2019 | 811.916 서64죽 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (校勘標點) 響山集 | 이만도 | 서울 : 韓國古典飜譯院, 2019 | 811.916 이32향 v.1 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26665/80/cover/8928407745_1.jpg) | 수몽집 | 정엽 | 서울 : 한국고전번역원, 2020 | 811.9 정64수K서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26666/3/cover/8928407729_1.jpg) | 산당집 | 최충성 | 서울 : 한국고전번역원, 2020 | 811.9 최85산K김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대곡집 | 성운 | 서울 : 한국고전번역원, 2020 | 811.94 성66대K변 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 구봉집 | 송익필 | 서울 : 한국고전번역원, 2020 | 811.9 송68구K정 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 석재고 | 윤행임 | 파주 : 보고사, 2021 | 811.9 윤93석K김 v.1/v.2/v.3/v.4/v.5/v.6/v.7 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 소산집 | 이광정 | 파주 : 점필재, 2021 | 811.9 이15소K남 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 태계집 | 하진 | 파주 : 점필재, 2021 | 811.9 하78태K김 v.1/v.2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/18827/93/cover/899971716x_1.jpg) | 발달심리학 : 전생애 인간발달 | 정옥분 | 서울 : 학지사, 2019 | 155 정65발3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 滄溪集 | 임영 | 서울 : 韓國古典飜譯院, 2018-2020 | 811.916 임64창K김 v.1/v.2/v.3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/ac975007-185c-404f-8e0f-7d35346f7423) | 창계집 | 임영 | 서울 : 한국고전번역원, 2015-2019 | 811.916 임64창K전 v.1/v.2/v.3/v.4/v.5/v.6/v.7/v.8 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 동명집 | 정두경 | 서울 : 한국고전번역원, 2013-2020 | 811.908 정26동K정 v.2/v.3/v.6/v.7/v.8 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 약봉유고 | 서성 | 안동 : 한국국학진흥원, 2021 | 811.9 서54약K장 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 뇌연집 | 남유용 | 서울 : 학자원, 2021 | 811.9 남66뇌K이 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 경와집 | 김휴 | 안동 : 한국국학진흥원, 2021 | 811.9 김96경K우 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 문정공유고 | 민유중 | 서울 : 학자원, 2021 | 811.9 민66문K장 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 노주집 | 오희상 | 서울 : 학자원, 2021 | 811.9 오97노K김 v.1/v.2/v.3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28669/44/cover/k332836862_1.jpg) | 잠야집 | 박지계 | 대전 : 문진, 2021 | 811.9 박78잠K강 v.1/v.2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29/49/cover/s182534253_1.jpg) | 아리스토파네스 희곡선 | Aristophanes | 서울 : 범우사, 2001 | 882.01 A717아K최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30728/37/cover/k572830445_1.jpg) | 라이언 블루 : 오승호 장편소설 | 오승호 | 파주 : 블루홀식스, 2022 | 813.37 오57라K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29806/74/cover/k042838113_1.jpg) | (NX 메카트로닉스 개념설계자를 활용한) 스마트팩토리 구현 | 이건범 | 서울 : 부크크, 2022 | 658.5 이14스 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Notes from deep time : a journey through our past and future worlds | Gordon, Helen | London : Profile Books, 2021. | 550 G663n | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Teaching graphic design history | Heller, Steven | New York, New York : Allworth Press, 2019. | 741.609 H477t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | After the Bauhaus, before the Internet : a history of graphic design pedagogy | Kaplan, Geoff | New York : No Place Press, 2022. | 741.607 K17a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Masters of tonewood : the hidden art of fine stringed-instrument making | Greene, Jeffrey | Charlottesville ; London : University of Virginia Press, 2022. | 787.19 G811m | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Mr. B : George Balanchine's 20th century | Homans, Jennifer | New York : Random House, 2022 | 792.82092 B171h | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26722/0/cover/k762730087_1.jpg) | 이계집 | 홍양호 | 서울 : 성균관대학교출판부, 2020-2021 | 811.9 홍63이 v.1/v.10/v.11/v.12/v.2/v.3/v.4/v.5/v.6/v.7/v.8/v.9 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26055/93/cover/k222737051_1.jpg) | 만정당집 | 서종태 | 서울 : 학자원, 2020-2021 | 811.9 서75만K최 v.1/v.2/v.3/v.4/v.5 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26023/87/cover/k472737855_1.jpg) | 설봉유고 | 강백년 | 대전 : 문진 : 한국고전번역원, 2020-2021 | 811.9 강43설K김 v.1/v.2/v.3/v.4/v.5/v.6/v.7 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 눌은집 | 이광정 | 안동 : 드림, 2020-2021 | 811.9 이15눌K권 v.1/v.2/v.3/v.4/v.5/v.6/v.7 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26056/21/cover/k872737051_1.jpg) | 진암집 | 이천보 | 서울 : 학자원, 2020-2021 | 811.9 이83진K박 v.1/v.2/v.3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 송사집 | 기우만 | 전주 : 흐름, 2020-2021 | 811.9 기66송K유 v.4/v.5/v.6/v.7/v.8/v.9 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/17668/57/cover/8971805048_1.jpg) | 입재집 | 정종로 | 대구 : 경북대학교출판부, 2017-2021 | 811.916 정75입K김 v.9 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/10056/39/cover/k882536878_1.jpg) | 매산집 | 홍직필 | 서울 : 학자원, 2016-2021 | 811.916 홍78매K성 v.4/v.5/v.6/v.7/v.8/v.9 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/d3f1ff17-ea2b-46eb-bc27-16408ae17b26) | 녹문집 | 임성주 | 서울 : 한국고전번역원, 2015-2020 | 811.916 임54녹K이 v.1/v.2/v.3/v.4/v.5/v.6/v.7 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/72d5833b-f58a-413b-b728-9e52a2f55126) | 소재집 | 노수신 | 서울 : 한국고전번역원, 2013-2020 | 811.211 노56소K임 v.1/v.2/v.3/v.4/v.5/v.6 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2545/37/cover/8978892663_1.jpg) | (특징으로 보는) 한반도 제비꽃 | 유기억 | 서울 : 지성사, 2013 | 583.6250951 유18한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/17302/96/cover/8997429965_1.jpg) | 울릉도 독도 식물도감 | 김태원 | 서울 : 자연과생태, 2018 | 581.951 김883울 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | '한국 근대문학과 중국' 자료총서 | 이광일 | 서울 : 역락, 2021 | 811.09 한16이역 v.7/v.8/v.9 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/3542/50/cover/8957333444_1.jpg) | 안티크리스트 | Nietzsche, Friedrich Wilhelm | 서울 : 아카넷, 2013 | 193 N677aK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22042/30/cover/s572636032_1.jpg) | 캐롤 각본집 | Nagy, Phyllis | 파주 : 플레인아카이브, 2020 | 822.914 N152cK박2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/16934/39/cover/k802534372_2.jpg) | 바닷마을 다이어리 각본집 | 시지유화 | 파주 : 플레인아카이브, 2019 | 813.27 시78해K정2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/14019/68/cover/8952790316_2.jpg) | 서부 해안 연대기 : 기프트·보이스·파워 | Le Guin, Ursula K | 서울 : 시공사, 2018 | 823.914 L521aK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/6170/2/cover/896147216x_1.jpg) | 요가 : 불멸과 자유 | Eliade, Mircea | 서울 : 이학사, 2015 | 181.45 E42yK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/9957/32/cover/8955864728_1.jpg) | 하이데거의 「"신은 죽었다"는 니체의 말」 읽기 | 박찬국 | 서울 : 세창미디어, 2016 | 193 박82하세 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 단위 테스트 : 생산성과 품질을 위한 단위 테스트 원칙과 패턴 | Khorikov, Vladimir | 서울 : 에이콘, 2021 | 006.7 K45uK임 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 길을 묻다 : 이길여 회고록 : 김충식 대담 | 이길여 | 서울 : 샘터 : 샘터사, 2022 | 370.92 이18길 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (0~6세 아이의 언어·감각·운동·정서 발달을 이끄는) 하루 5분 언어 자극 놀이 120 | 장재진 | 서울 : 카시오페아, 2022 | 649.58 장73하 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 바디 멀티플 : 의료실천에서의 존재론 | Mol, Annemarie | 서울 : 그린비, 2022 | 362.196136 M717bK송 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 책의 형태와 타이포그래피에 관하여 | Tschichold, Jan | 파주 : 안그라픽스, 2022 | 686.33 T879aK안 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 데이터로 전문가처럼 말하기 | Allchin, Carl | 서울 : 한빛미디어, 2022 | 001.64 A421cK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (데이터로 공감하고 똑똑하게 의사결정하는) 데이터 드리븐 디자인씽킹 | 에이블런 | 파주 : 위키북스, 2023 | 658.4063 에68데 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (만들면서 배우는) 러스트 프로그래밍 : 다양한 예제로 쉽게 익히고 널리 활용하는 고효율 언어 Rust 실전 가이드 | 쿠지라비행궤 | 파주 : 위키북스, 2023 | 005.133 쿠78고K양 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 혼자 공부하는 데이터 분석 with 파이썬 | 박해선 | 서울 : 한빛미디어, 2023 | 005.133 박93혼 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 무조건 합격하는 암기의 기술 : 26살 9개월 만에 사법시험을 패스한 이윤규 변호사의 책 한 권 통째로 씹어먹는 공부법 | 이윤규 | 서울 : 더퀘스트 : 길벗, 2023 | 371.30281 이66무 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 칼끝의 심장 : 현대 심장 수술의 개척자가 돌아본 위태롭고 매혹적인 모든 순간들 | Westaby, Stephen | 서울 : 지식서가, 2022 | 617.412092 W522kK서 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30636/69/cover/k942830927_1.jpg) | (나 혼자 만든다!) 영화 추천 웹 서비스로 배우는 풀스택 : 파이썬, 리액트, 깃허브 액션에서 스타트업 개발자 성장 노하우까지 | 최규민 | 서울 : 비제이퍼블릭, 2022 | 006.76 최16영 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 생존배낭 : 재난에서 나를 지켜주는 대피 & 피난법 | 우승엽 | 파주 : 들녘, 2022 | 613.69 우57생 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 다시, 어떻게 읽을 것인가 : 종이에서 스크린, 오디오까지 디지털 전환 시대의 새로운 읽기 전략 | Baron, Naomi S | 서울 : 어크로스 : 어크로스출판그룹, 2023 | 028.90285 B265hK전 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 빅 히스토리 : 우주와 지구, 인간을 하나로 잇는 새로운 역사 | Christian, David | 파주 : 웅진지식하우스 : 웅진씽크빅, 2022 | 909 C555bK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (함세웅의 붓으로 쓰는) 역사기도 | 함세웅 | 서울 : 라의눈, 2022 | 320.02 함54역 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 콘텐츠의 신 : 메가 히트 콘텐츠를 만들기 위해 알아야 할 유튜브 속성의 모든 것 | 직업의모든것 | 서울 : 라이스메이커, 2022 | 658.8 직64콘 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 헤이세이사 : 1989-2019 : 어제의 세계, 모든 것 | 여나패윤 | 세종 : 마르코폴로, 2022 | 953.7 여192평K이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 시네마 에피파니 : 김응교 영화에세이 1991-2021 | 김응교 | 서울 : 새물결플러스, 2021 | 791.43015 김67시 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 기분대로 아이를 키우지 않겠습니다 : 뇌과학으로 배우는 엄마의 감정 수업 | 곽윤정 | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2022 | 649.1 곽66기 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 장단기 투자의 비밀 : 세계트레이딩월드컵 신기록 보유자의 마켓 사이클과 최적의 타이밍 매수법 | Williams, Larry R | 파주 : 이레미디어, 2023 | 332.6328 W724L2K이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 파이썬 기반 금융 인공지능 | Hilpisch, Yves J | 서울 : 한빛미디어, 2022 | 332.10285 H655aK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 셜록을 찾아서 : 표창원 추리여행에세이 | 표창원 | 용인 : 신사와전사, 2018 | 811.87 표82셜 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 캐릭터 아크 만들기 : 캐릭터 변화 곡선으로 탄탄한 스토리를 구축하는 법 | Weiland, K. M | 서울 : 경당, 2022 | 808.3 W422cK박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (고객과 함께 하는 도메인 특화 언어) DSL | Fowler, Martin | 서울 : 인사이트, 2012 | 005.133 F787dK송 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 스케일의 법칙 : 행복하고 성공적인 삶의 기술 | 김병완 | 파주 : 아템포, 2018 | 650.1 김44스 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 블록체인 경제 : 블록체인과 암호화폐가 이끄는 새로운 경제 패러다임 | 정희연 | 서울 : 미래와혁신21, 2021 | 332.178 정97블 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 경제 기사 처음 읽기 : 하루 30분, 경제 기사가 술술 읽히는 습관 | 스노우볼 | 부천 : 새로운 제안, 2022 | 330.02 스195경 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30591/17/cover/k612830918_1.jpg) | 리얼 오사카 : 교토 고베 나라 | 황성민 | 서울 : 한빛라이프, 2022 | 915.304 황54리3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30636/72/cover/8984374547_1.jpg) | 안젤리크 : 귀욤 뮈소 장편소설 | Musso, Guillaume | 파주 : 밝은세상, 2022 | 843.92 M989aK양밝 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30328/61/cover/k362839230_1.jpg) | 인생의 역사 : '공무도하가'에서 '사랑의 발명'까지 : 신형철 시화(詩話) | 신형철 | 파주 : 난다, 2022 | 809.1 신94인 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30211/80/cover/8954680003_1.jpg) | 이토록 평범한 미래 : 김연수 소설 | 김연수 | 파주 : 문학동네, 2022 | 811.37 김64이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23973/11/cover/k422639014_1.jpg) | 인스타 브레인 :몰입을 빼앗긴 시대, 똑똑한 뇌 사용법 | Hansen, Anders | 서울 :동양북스, 2020 | 612.82 H249sK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27509/16/cover/k262837373_2.jpg) | 롤랑의 노래 | Moignet, Gérard | 서울 : 휴머니스트출판그룹, 2022 | 841.1 C458김3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30444/15/cover/k692830379_1.jpg) | (데이비드 댐로쉬의) 세계문학 읽기 | Damrosch, David | 서울 : 앨피, 2022 | 809 D166h2K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30480/40/cover/k292830488_1.jpg) | 격정의 문장들 : 상언(上言)에서 독자 투고까지, 여성들의 목소리를 찾아서 | 김경미 | 서울 : 푸른역사, 2022 | 305.40951 김14격 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30382/60/cover/k412830862_1.jpg) | 그라운드 룰스 : 콘텐츠와 플랫폼 생태계를 전복한 혁신가들의 이야기 | 이주현 | 서울 : 멀리깊이, 2022 | 658.4063 이76그 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30407/53/cover/k662830165_1.jpg) | 인간들의 가장 은밀한 기억 : 모하메드 음부가르 사르 장편소설 | Mbougar Sarr, Mohamed | 서울 : 엘리, 2022 | 843.92 M478pK윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30517/85/cover/8965403448_1.jpg) | (코드 한 줄 없이 시작하는) Microsoft 파워 앱스 | 김성준 | 부천 : 프리렉, 2022 | 005.268 M626김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30482/67/cover/k482830481_1.jpg) | (직장인을 위한) 실무 엑셀 | 선양미 | 서울 : 길벗, 2022 | 005.54 선63실 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30481/98/cover/k262830480_1.jpg) | (개발자를 위한) 위협 모델링 | Tarandach, Izar | 서울 : 에이콘, 2023 | 005.8 T176tK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30516/68/cover/k972830490_1.jpg) | 신장 위구르 디스토피아 : 중국의 첨단기술 형벌 식민지에서 벌어지는 탄압과 착취의 기록 | Byler, Darren | 서울 : 생각의힘, 2022 | 365.45092 B993iK홍 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30514/18/cover/8978895107_1.jpg) | AI는 중립적인가? : 과학기술과 정치 | 박재형 | 서울 : 지성사, 2022 | 320.0285 박73a | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30519/97/cover/k022830494_1.jpg) | 복지의 문법 : 부유한 나라의 가난한 정부, 가난한 국민 | 김용익 | 서울 : 한겨레 : 한겨레엔, 2022 | 361.61 김65복 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30508/93/cover/8960519537_1.jpg) | 나는 단단하게 살기로 했다 : 불안, 초조, 무기력, 번아웃으로부터 나를 지키는 인생 전환법 | Stulberg, Brad | 서울 : 부키, 2022 | 158.1 S934ptK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30520/10/cover/k262830495_1.jpg) | 어떻게 행복해질 것인가 : 마음을 다스리는 지혜 | André, Christophe | 서울 : 정민미디어, 2022 | 158.1 A555aK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30480/10/cover/k642830387_1.jpg) | 나이듦의 철학 : 지속하는 삶을 위한 성격의 힘 | Hillman, James | 서울 : 청미, 2022 | 155.67 H654fK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29747/62/cover/k162830710_1.jpg) | 야만의 꿈들 : 장소, 풍경, 자연과 우리의 관계에 대하여 | Solnit, Rebecca | 서울 : 반비, 2022 | 978 S688sK양 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30344/41/cover/k982839549_2.jpg) | 인간 이하 : 타인을 인간 이하로 보는 비인간화에 대한 거의 모든 역사 | Smith, David Livingstone | 서울 : 웨일북, 2022 | 305.568 S645LK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30460/89/cover/k652830474_1.jpg) | 나는 왜 매번 불행을 선택할까 : 어떤 상황에서도 포기하지 않고 행복을 향해 가는 법 | 나근월 | 서울 : 위즈덤하우스, 2022 | 158.1 나17생K이 | 중앙도서관 |
