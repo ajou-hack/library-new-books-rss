@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (판례중심) 형법각론 | 원형식 | 서울 : 동방문화사, 2022 | 345 원94형각 2022 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (민사법) 로스쿨 선택형의 정석 최신·빈출지문 3000 | 정연석 | 서울 : 필통북스, 2022 | 346.0076 정64로필 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/3562/60/cover/8961541706_1.jpg) | (콕스) 분자생물학 | Cox, Michael M | 서울 : 라이프사이언스, 2014 | 572.8 C877mK강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29252/44/cover/k582837397_1.jpg) | (인격장애 환자를 위한) 마음헤아리기 치료 : 임상가 실무 가이드 | Bateman, Anthony | 남양주 : 눈출판그룹, 2022 | 616.8581 B328mK석 v.1/v.2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 서구의 몰락 | Spengler, Oswalt | 파주 : 범우사, 20012022(3쇄) | 901 S747uK박2 v.3 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/30682/66/cover/8977707366_1.jpg) | 상법강의 | 송옥렬 | 서울 : 弘文社, 2023 | 346.07 송65상13 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30752/52/cover/k762830454_1.jpg) | (사법연수원) 형사판결서 작성론 | 사법연수원 | 서울 : 사법발전재단, 2022 | 345.077 사44형작 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30752/52/cover/k632830454_1.jpg) | (사법연수원) 민사판결서 작성론 : 이유편 | 사법연수원 | 서울 : 사법발전재단, 2022 | 347 사44민이 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/29538/28/cover/k552837953_1.jpg) | 부동산등기법 | 구연모 | 서울 : 박영사, 2022 | 346.0438 구64부박2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30428/36/cover/k692830170_1.jpg) | 법조윤리 강의 : 문제편 | 정형근 | 고양 : 정독, 2023 | 340.076 정94법 2023 | 법학도서관 |
