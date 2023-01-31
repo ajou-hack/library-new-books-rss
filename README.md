@@ -2,8 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (판례중심) 형법각론 | 원형식 | 서울 : 동방문화사, 2022 | 345 원94형각 2022 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (민사법) 로스쿨 선택형의 정석 최신·빈출지문 3000 | 정연석 | 서울 : 필통북스, 2022 | 346.0076 정64로필 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/25911/90/cover/8954676448_1.jpg) | 파울 첼란 전집 | Celan, Paul | 파주 : 문학동네, 2020-2022 | 831.914 C392gK허 v.1/v.2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29875/47/cover/k912838730_1.jpg) | (판례중심) 형법각론 | 원형식 | 서울 : 동방문화사, 2022 | 345 원94형각 2022 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/30495/8/cover/k342830580_1.jpg) | (민사법) 로스쿨 선택형의 정석 최신·빈출지문 3000 | 정연석 | 서울 : 필통북스, 2022 | 346.0076 정64로필 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/3562/60/cover/8961541706_1.jpg) | (콕스) 분자생물학 | Cox, Michael M | 서울 : 라이프사이언스, 2014 | 572.8 C877mK강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29252/44/cover/k582837397_1.jpg) | (인격장애 환자를 위한) 마음헤아리기 치료 : 임상가 실무 가이드 | Bateman, Anthony | 남양주 : 눈출판그룹, 2022 | 616.8581 B328mK석 v.1/v.2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 서구의 몰락 | Spengler, Oswalt | 파주 : 범우사, 20012022(3쇄) | 901 S747uK박2 v.3 | 중앙도서관 |
@@ -25,7 +26,7 @@
 | ![](https://image.aladin.co.kr/product/30708/88/cover/k442830248_2.jpg) | DAO, 미래의 조직이 만드는 새로운 기회 : 블록체인/NFT/암호화폐/메타버스가 만드는 web 3.0 기업의 미래, 다오 | 필자생 | 서울 : 크리에이티브크루, 2022 | 658.4 필72d | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 구경이 : 성초이 대본집 | 성초이 | 파주 : 플레인아카이브, 2022 | 811.27 성84구 v.1/v.2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/3538654b-a314-4042-a9f7-6d92bc80d532) | 서울대 한국어 : workbook | 서울대학교 | 서울 : Moonjinmedia, 2013 | 411.8 서66서w v.1/v.2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30782/24/cover/k532831266_1.jpg) | (2023) 대한민국 산업지도 : 투자자를 위한 업종별 투자 가이드 | 이래학 | 서울 : 경이로움 : 사이다경제, 2023 | 330.951 이293대 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30782/24/cover/k532831266_1.jpg) | (2023) 대한민국 산업지도 : 투자자를 위한 업종별 투자 가이드 | 이래학 | 서울 : 경이로움 : 사이다경제, 2023 | 330.951 이293대 2023 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30792/25/cover/k872831461_1.jpg) | 데이터로 말해요! : 데이터 중심의 사고·기획·보고의 기술 | 김철수 | 파주 : 위키북스, 2023 | 006.312 김83데 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30571/67/cover/k892830719_2.jpg) | 기분이 태도가 되지 말자 : 감정조절이 필요한 당신을 위한 책 | 김수현 | [서울] : 하이스트, 2022 | 152.4 김56기 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30739/51/cover/8970125620_1.jpg) | 꽃이 문득 말을 걸었다 : 송호근 연작소설 | 송호근 | 파주 : 문학사상, 2022 | 811.37 송95꽃 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/30875/36/cover/k342831186_1.jpg) | 상법강의요론 | 정찬형 | 서울 : 박영사, 2023 | 346.07 정82상요19 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30682/66/cover/8977707366_1.jpg) | 상법강의 | 송옥렬 | 서울 : 弘文社, 2023 | 346.07 송65상13 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30752/52/cover/k762830454_1.jpg) | (사법연수원) 형사판결서 작성론 | 사법연수원 | 서울 : 사법발전재단, 2022 | 345.077 사44형작 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30752/52/cover/k632830454_1.jpg) | (사법연수원) 민사판결서 작성론 : 이유편 | 사법연수원 | 서울 : 사법발전재단, 2022 | 347 사44민이 | 법학도서관 |
