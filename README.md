@@ -2,6 +2,10 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (이공계생을 위한) 실험실 안전 길잡이 | 이근원 | 수원 : 아주대학교 출판부, 2023 | 620.86 이17실 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Checkout 19 | Bennett, Claire-Louise | New York : Riverhead Books, 2022. | 823.92 B471c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Legacy of violence : a history of the British empire | Elkins, Caroline | New York : Alfred A. Knopf, 2022. | 909.0971241 E43L | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26552/28/cover/k872738837_1.jpg) | 일반물리학 | Halliday, David | 서울 : 텍스트북스, 2021 | 530 H188h11K고 v.1/v.2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30681/2/cover/k212830133_1.jpg) | 부는 어디서 오는가 | Wattles, W. D | 서울 : 콘텐츠그룹 포레스트 : 포레스트북스, 2022 | 650.12 W347sK이포 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30785/2/cover/k402831363_1.jpg) | 부자는 됐고, 적당히 벌고 적당히 잘사는 법 : "10년 전, 그 많던 100억 부자들은 다 어디 갔을까" | 풍백 | 용인 : 잇콘, 2023 | 332.024 풍43부 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Mechanics of materials | Beer, Ferdinand P | New York, NY : McGraw-Hill Education, 2020. | 620.1123 M486b8 | 중앙도서관 |
@@ -48,7 +52,3 @@
 | ![](https://image.aladin.co.kr/product/30441/35/cover/k772830274_1.jpg) | IT 트렌드 2023 : 웹3가 바꾸는 미래 | 김지현 | 서울 : 크레타, 2022 | 303.4833 김78i 2023 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30498/29/cover/k622830584_1.jpg) | B2B 경영, 훅하고 딜하라 : 배재훈 전 현대상선 대표의 글로벌 시장 정복 전략 | 배재훈 | [서울] : 포르체, 2022 | 658.84 배73b | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30457/27/cover/k082830478_1.jpg) | 절대적이며 상대적인 리더십의 물리학 : 상식 밖의 리더, 유연한 리더만이 살아남는다 | 진원재 | 서울 : 비즈니스북스, 2022 | 658.4092 진66절 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30468/46/cover/k992830288_1.jpg) | 소크라테스 성공법칙 : 일터의 고민이 해결되는 순간 인생의 문제도 풀린다 | Brendel, David H | 서울 : 동양북스, 2022 | 658.312 B837tK신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30460/89/cover/k602830474_1.jpg) | 간호사 혁명 시대 : 1% nurse revolution | 이경주 | 서울 : RAON BOOK : 라온아시아, 2022 | 610.7302 이14간 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30409/56/cover/k942830261_1.jpg) | 싱크 엑설런트 : 탁월함을 찾을 때까지 좋은 것을 버려라 | 신기주 | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2022 | 658.4012 신18싱 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Theorizing colonial cinema : reframing production, circulation, and consumption of film in Asia | Kwon, Nayoung Aimee | Bloomington, Indiana : Indiana University Press, 2022. | 791.43095 K98t | 중앙도서관 |
