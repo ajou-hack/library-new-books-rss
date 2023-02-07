@@ -2,53 +2,53 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/0c64d616-d8c5-49ca-893c-ce403bfff5ff) | 오장환 전집 | 박수연 | 서울 : 솔, 2018 | 811.08 오72박 v.1/v.2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30889/82/cover/k942831387_2.jpg) | 오늘이 온다 : 제헌국회 회의록 속의 건국 | 권기돈 | 서울 : 소명, 2022 | 320.951 권18오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30828/20/cover/8965965462_1.jpg) | 씽킹 101 : 더 나은 삶을 위한 생각하기 연습 | 안우경 | 서울 : 흐름, 2023 | 153.46 안66tK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27001/8/cover/k552730223_1.jpg) | (한 권으로 종결하는) 약국 브랜딩 : 진심약사 현진의 신개념 경영 처방전 | 심현진 | 서울 : 행복에너지, 2021 | 615.1068 심94약 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30842/28/cover/k442831376_1.jpg) | 2차전지 산업분야 취업가이드 | 미래기술정보리서치 | 서울 : 비티타임즈, 2023 | 658.311 미293이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29875/86/cover/8976965728_1.jpg) | 문안 편지 한 장으로 족합니다 : 고문서와 옛 편지에 관한 에세이, 독사수필(讀史隨筆) | 김현영 | 고양 : 역사비평사, 2022 | 951.5 김94문 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30437/99/cover/k502830270_1.jpg) | 제4 간빙기 | 안부공방 | 서울 : 알마, 2022 | 813.37 안46제K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30382/78/cover/k872830862_1.jpg) | 세 번째 장례 : 윤이안 소설집 | 윤이안 | 서울 : 아작, 2022 | 811.37 윤68세 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30388/67/cover/8976965787_1.jpg) | 우리 안의 친일 : 반일을 넘어 탈식민의 성찰로 | 조형근 | 고양 : 역사비평사, 2022 | 951.6 조94우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30443/23/cover/k092830378_2.jpg) | 카프카 스트림즈와 ksqlDB 정복 : 실시간 데이터 처리 | Seymour, Mitch | 서울 : 에이콘, 2023 | 005.74 S521mK오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30434/55/cover/k782830173_1.jpg) | 채쌤의 스프링 부트 프로젝트 | 채규태 | 부천 : 쌤즈, 2022 | 005.133 채16채카 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30541/46/cover/k832830700_1.jpg) | (혼자서도 쉽게 익힐 수 있는) 자기주도 파이썬 | 한컴에듀케이션 | 서울 : 복두, 2022 | 005.133 한874자3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30407/97/cover/k602830167_1.jpg) | 원쌤의 리액트 퀵스타트 with 타입스크립트 | 원형섭 | 부천 : 쌤즈, 2022 | 005.2762 원94원 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30571/34/cover/k272830719_1.jpg) | (Do it!) 모던 자바스크립트 프로그래밍의 정석 : 한 권으로 끝내는 웹 개발 교과서 | 고경희 | 서울 : 이지스, 2022 | 005.133 고14모 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30476/28/cover/k372830381_1.jpg) | (규칙으로 배우는) 임베디드 시스템 : 회로 설계 및 PCB 설계 규칙 | 장선웅 | 서울 : 북랩, 2022 | 005.43 장54임회 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30468/35/cover/k202830187_1.jpg) | Notion : 업무와 일상을 정리하는 새로운 방법 | 전시진 | 파주 : 제이펍, 2022 | 005.57 전58n3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30408/3/cover/k852830167_1.jpg) | 팅커캐드 & 아두이노 : 전기 전자 소프트웨어 개발의 시작과 활용 | 최훈 | 서울 : 길벗캠퍼스 : 길벗, 2022 | 621.381 최96팅 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30534/92/cover/k832830595_1.jpg) | (우리 속에 숨은) 사이코패스 : 정상의 가면을 쓴 그들의 이야기 | 이윤호 | 서울 : 도도 : 퍼시픽 도도, 2022 | 616.8582 이66사 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30562/29/cover/8946074027_1.jpg) | 미래전 전략과 군사혁신 모델 : 주요국 사례의 비교연구 | 김상배 | 파주 : 한울아카데미 : 한울엠플러스, 2022 | 355.02 미293김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30508/27/cover/k392830291_1.jpg) | (재미있는 진로선택) 내 인생의 내비게이션 | 조명실 | 대구 : 계명대학교 출판부, 2022 | 371.425 조34내2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30410/69/cover/k022830263_1.jpg) | 브랜드로 산다는 것 : 최고 리더를 위한 퍼스널 브랜딩 전략 | 김진향 | 서울 : 리치케이북스, 2022 | 650.1 김78브 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30456/57/cover/k252830377_1.jpg) | 기후 전환 사회 | 권희중 | 서울 : 모시는사람들, 2022 | 363.7 권97기 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30534/1/cover/k912830592_1.jpg) | 이 진리가 당신에게 닿기를 : 전 세계를 울린 영혼의 치유자가 전하는 다섯 가지 삶의 지혜 | Ruiz, Miguel | 서울 : 페이지2북스, 2022 | 299.792 R934fK노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30498/77/cover/k382830587_1.jpg) | 지구가 평평하다고 믿는 사람과 즐겁고 생산적인 대화를 나누는 법 | McIntyre, Lee C | 서울 : 위즈덤하우스, 2022 | 306.45 M152hK노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30456/67/cover/k352830377_2.jpg) | 성장할 수 있는 용기 : 조벽·최성애 박사의 라이프코칭 | 조벽 | 서울 : 해냄, 2022 | 158.1 조44성 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30461/68/cover/k972830579_1.jpg) | 한국의 행동원리 | 소창기장 | 세종 : 마르코폴로, 2022 | 306.0951 소82한K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30388/8/cover/k312830962_1.jpg) | 최대한의 최소주의 : 진정한 설명의 탐구 | 심재영 | 서울 : 역락, 2022 | 401.5 심73최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30479/30/cover/8997465570_2.jpg) | 정신분석 심리치료 | Lemma, Alessandra | 서울 : 현대정신분석연구소, 2022 | 616.8917 L554i2K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30585/94/cover/k592830810_1.jpg) | 의식 지도 해설 : 궁극의 잠재성을 실현하는 에너지 척도 | Hawkins, David R | 서울 : 판미동, 2022 | 153 H393mK데 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30514/19/cover/8961474219_1.jpg) | 불의 정신분석 | Bachelard, Gaston | 서울 : 이학사, 2022 | 150.195 B119pK김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30436/68/cover/8998079569_1.jpg) | 만화 형식의 역사 : 윌리엄 호가스에서 장 자크 상페까지 | 오혁진 | 부산 : 해피북미디어, 2022 | 741.59 오94만 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30414/50/cover/k882830360_1.jpg) | (그래픽 디자이너와 일러스트레이터에게 영감을 주는) 완벽한 배색 : 색 조합, 의미, 문화별 선호도 | Caldas, Sara | 고양 : 지금이책, 2022 | 701.85 C145pK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30471/20/cover/k272830283_1.jpg) | 생물고고학 : 인간유해 연구에 대한 통합적 접근 | Martin, Debra L | 서울 : 사회평론아카데미, 2022 | 930.1 M379bK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30508/29/cover/8946074035_1.jpg) | 맥주의 역사 | DeSalle, Rob | 파주 : 한울아카데미 : 한울엠플러스, 2022 | 641.23 D441nK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30481/64/cover/k952830480_1.jpg) | 이미지로 읽는 고대문명 | 한총요 | 서울 : 역락, 2022 | 930 한84전K오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30556/25/cover/8901266822_1.jpg) | 걸을 때마다 조금씩 내가 된다 : 휘청거리는 삶을 견디며 한 걸음씩 나아가는 법 | May, Katherine | 파주 : 웅진지식하우스 : 웅진씽크빅, 2022 | 616.858832 M466eK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30495/67/cover/k182830581_1.jpg) | 잃어버린 옆모습 | Sagan, Françoise | 파주 : 북포레스트, 2022 | 843.914 S129pK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30585/14/cover/k822830715_1.jpg) | 여자아이 기억 | Ernaux, Annie | 서울 : 레모, 2022 | 843.914 E71mK백 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30508/30/cover/k642830291_1.jpg) | 청년 창업자를 위한 알기 쉬운 원가관리 | 노영래 | 서울 : 행복에너지, 2022 | 657.42 노64청 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (이종우의) 넥스트 스텝 : 2023-2025 | 이종우 | 파주 : 김영사, 2022 | 332.6322 이75넥 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30425/41/cover/8960519502_1.jpg) | 경제학자의 시대 : 그들은 성공한 혁명가인가, 거짓 예언자인가 | Appelbaum, Binyamin | 서울 : 부키, 2022 | 330.973 A646eK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30313/43/cover/k192839037_2.jpg) | (2023) 산업대전망 | 한상춘 | 서울 : 한국경제신문, 2022 | 338.544 한52인 2023 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26552/28/cover/k872738837_1.jpg) | 일반물리학 | Halliday, David | 서울 : 텍스트북스, 2021 | 530 H188f11K고 v.1/v.2, 530 H188h11K고 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (이공계생을 위한) 실험실 안전 길잡이 | 이근원 | 수원 : 아주대학교 출판부, 2023 | 620.86 이17실 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (新編) 사비백제사 : 사비백제의 새로운 인식 | 충청남도 | 서울 : 논형, 2022 | 951.33 부64사 v.1/v.2/v.3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29825/10/cover/k792838317_1.jpg) | 글로벌 리더를 위한 암호 | Park, Elliott | 고양 : 북퀘이크, 2022 | 658.4092 P235글 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28512/86/cover/896054289x_1.jpg) | 나폴레온 힐 성공의 법칙 : 세계 최고 성공자 507명의 성공 비결 | Hill, Napoleon | 서울 : 중앙경제평론사, 2022 | 650.1 H647LtK김3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/19305/23/cover/k092635301_1.jpg) | 리더십의 법칙 2.0 | Maxwell, John C | 서울 : 비전과리더십, 2019 | 658.4092 M465d2K정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/671/64/cover/8972731595_1.jpg) | 마이스터 에크하르트 : 유비, 일의성 그리고 단일성 | Mojsisch, Burkhard | 서울 : 서강대학교 출판부, 2010 | 189.5 M715마 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30707/91/cover/k182830146_1.jpg) | 목도리를 풀지 않아도 저무는 저녁 : 유계자 시집 | 유계자 | 대전 : 지혜 : 애지, 2022 | 811.17 유14목 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (중급) 내부회계관리제도 실무 | 김형남 | 서울 : 삼일인포마인, 2022 | 325.956 김94내 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (2022년 신고대비) 법인세 조정과 신고 실무 | 삼일회계법인 | 서울 : 삼일인포마인, 2021 | 336.243 삼68법 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/12036/10/cover/895702462x_1.jpg) | 지역약국 우수약무 개론 | 한국임상약학회 | 서울 : 신일북스, 2017 | 615.1068 한16지 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/22868/99/cover/892001616x_1.jpg) | 제3세계의 역사와 문화 | 조흥국 | 서울 : Knou Press : 한국방송통신대학교출판문화원, 20152021(7쇄) | 909 제52조2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 의약품 제형 : 정제 | Augsburger, Larry L | 서울 : 신일북스, 2014 | 615.1901 A921p3K전 v.1/v.2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3282/22/cover/8957023380_1.jpg) | 염류의약품 : 물성과 선택 및 응용 | Stahl, P. Heinrich | 서울 : 신일북스, 2013 | 615.19 S781hK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23296/69/cover/8920017662_1.jpg) | 세계의 역사 | 박구병 | 서울 : Knou Press : 한국방송통신대학교출판문화원, 20162021(6쇄) | 909 세14박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 미중의 아태질서 건축경쟁 | 하영선 | 서울 : EAI : 동아시아연구원, 2017 | 327.73052 하64미 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (멘붕 탈출!) 스트레스 관리 | 최윤미 | 서울 : 학지사, 2013 | 155.9042 스887최 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 라이노 파이썬 | 김성욱 | 서울 : 창조와지식, 2021 | 005.133 김54라 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23348/41/cover/8920000972_1.jpg) | 동서양문학고전산책 | 한국방송통신대학교 | 서울 : Knou PRESS : 한국방송통신대학교 출판부 : 한국방송통신대학교 출판문화원, 20102021(12쇄) | 809 한16동2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26333/42/cover/8920038368_1.jpg) | 노사관계론 | 박호환 | 서울 : Knou Press : 한국방송통신대학교출판문화원, 2021 | 331.8 박95노 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24404/5/cover/k922630411_1.jpg) | 글로벌 개량신약 연구개발과 질환별 사업화전략 | 이범진 | 서울 : 신일서적, 2020 | 338.476151 이44글 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11047/58/cover/8993512310_1.jpg) | 고령화 사회의 현황과 대안 : 황금꽃-인생 2라운드의 행복 | 신현숙 | 서울 : 한림원, 2012 | 362.6 신94고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/22498/84/cover/8983963743_1.jpg) | 20세기 미국소설 강의 | 한국근대영미소설학회 | 서울 : 신아사, 2019 | 823.09 한16이신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28590/80/cover/k382835647_1.jpg) | 상황별 채권관리와 회수 실무 : 누구나 쉽게 배우는 실무 가이드 A-Z | 이충호 | 서울 : 삼일인포마인, 2022 | 346.02 이85상4 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 처음 만나는 Vulkan : 차세대 그래픽스 API 표준 Vulkan 으로 고성능, 고효율 3D 그래픽스 만들기 | Singh, Parminder | 서울 : 한빛미디어, 2017 | 006.6869 S617LK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 생활 속의 물리 | Bloomfield, Louis A | 파주 : 청문각 : 교문사, 2018 | 530 B655h6K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 생태학 | Stiling, Peter | 파주 : 교보문고, 2014 | 577 S856eK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/5140/96/cover/8934969679_1.jpg) | 한일관계, 이렇게 풀어라 | NEAR재단 | 파주 : 김영사, 2015 | 327.51053 N354한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2390/56/cover/8926840913_2.jpg) | 한반도 블루오션, 선진통일 : 5년 준비, 10년 완성 | 한반도선진화재단 | 파주 : 한국학술정보, 2013 | 320.951 한42한오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3176/80/cover/113030017x_1.jpg) | 한국 전자감독제도론 : 범죄인 위치추적과 전자발찌 운용에 관한 이론과 실무 | 한영수 | 서울 : 박영사, 2013 | 364.630951 한64한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/12804/80/cover/k342532887_1.jpg) | 포퓰리즘과 민주주의 | 진태원 | 서울 : 소명, 2017 | 320.5662 진883포 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/9053/76/cover/8968667578_1.jpg) | 통신이론 | Ziemer, Rodger E | 서울 : 시그마프레스, 20162021(2쇄) | 621.38 Z66p7K박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 토착화 사례연구 | 하태수 | 고양 : 대영문화사, 2020 | 351.51 토82하 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/13364/71/cover/k712532000_1.jpg) | 커리어 개발과 상담 | Brown, Duane | 서울 : 시그마프레스, 2018 | 331.702 B877ci11K박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 창의적 리더십이 교육과 세상을 바꾼다 : 정답이 없는 4차 산업혁명 시대 | 조영호 | 서울 : 학지사, 2017 | 371.2011 조64창 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 중국 발전모델의 변화와 미중경쟁 | 이승주 | 서울 : 명인문화사, 2020 | 327.73052 이57중 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 정당정치의 변화, 왜 어디로 | 정진민 | 파주 : 형설, 2015 | 324.2 정22정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11250/89/cover/k922531798_1.jpg) | 인공지능과 렌즈설계 입문 | Dilworth, Donald C | 용인 : 겨울나무, 2017 | 681.423 D581sK조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/7110/19/cover/k542434685_2.jpg) | (이공학도를 위한) 물리화학 | Chang, Raymond | 파주 : 자유아카데미, 20152020(2쇄) | 541 C456pK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11768/61/cover/8920026742_1.jpg) | 영화 속 역사와 현실 : 다시 보고, 사색하기 | 이정호 | 서울 : 지식의날개 : 한국방송통신대학교출판문화원, 2017 | 791.4302 영95이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6231/59/cover/8962788063_1.jpg) | 약물작용 기본이론 | Pandit, Nita K | 서울 : 군자, 2015 | 615.7 P189i2K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/5228/19/cover/8999705331_1.jpg) | (아동정신분석의 거장) 도널드 위니컷 | Jacobs, Michael | 서울 : 학지사, 20142020(2쇄) | 150.195092 W776jK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 심리학의 역사 101 | Devonis, David C | 서울 : 시그마프레스, 2018 | 150.973 D499hK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (스트레스 없는) 풍요로운 삶 | Blonna, Richard | 서울 : 시그마프레스, 2013 | 158.1 B654sK최 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 스마트 모바일 헬스케어 서비스 트렌드 | 조위덕 | 서울 : 진한엠앤비, 2012 | 610.285 조66스 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 순암 안정복의 학문과 사상 | 임형택 | 서울 : 성균관대학교 출판부, 2013 | 181.16 안74임 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 비전공자 컴퓨팅사고력 향상을 위한 파이썬 응용 | 오하영 | 서울 : 휴먼싸이언스, 2019 | 005.133 오92비 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 비전공자 이산적 컴퓨팅사고력 향상을 위한 R 응용 | 오하영 | 서울 : 휴먼싸이언스, 2019 | 519.50285 오92비 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/8694/88/cover/8959339865_2.jpg) | 분단70년의 국제관계 | 경남대학교 | 서울 : 선인, 2016 | 327.51 경192분 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/4725/74/cover/8993324700_1.jpg) | 북한의 오늘 | 윤영관 | 서울 : 늘품플러스, 2014-2019 | 320.9518 윤64북 v.1/v.2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/8997/4/cover/895809446x_1.jpg) | 보육과정 | 곽승주 | 파주 : 정민사, 2016 | 372.21 곽57보 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 변화와 개혁을 이끈 경기인물 | 이근호 | 수원 : 경기문화재단, 2018 | 951.95 이17변 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3731/5/cover/8960513741_1.jpg) | 방송학의 이해 : 이론에서 적용까지 방송의 모든 것 | 노동렬 | 서울 : 부키, 2014 | 384.54 방55노 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18657/44/cover/k662635461_1.jpg) | 모빌리티와 생활세계의 생산 | 김수철 | 서울 : 앨피, 2019 | 303.483 모48김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 동아시아 지역 거버넌스와 초국적 협력 : 현대사적 조명 | 김의영 | 서울 : 푸른길, 2019 | 327.5 김67동 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 더 넓은 세계문학 : 우리의 세계는 문학으로 넓어질 수 있다 | 강우성 | 서울 : 홍시 : 홍시커뮤니케이션, 2017 | 809 더194강 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대학 글쓰기 | 서울대학교 | 서울 : 서울대학교출판문화원, 2019 | 808.066 서66대 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (글로컬 시대의) 한국영화와 도시공간 | 현대영화연구소 | 서울 : 박이정, 2018 | 791.430951 현23한 v.1/v.2 | 중앙도서관 |
