@@ -2,7 +2,34 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 형법총론 : 다듬은 말 | 배종대 | 서울 : 홍문사, 2023 | 345 배75형총17 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/23293/32/cover/8920028249_1.jpg) | 평생교육방법론 | 이해주 | 서울 : KNOU Press : 한국방송통신대학교 출판문화원, 20182023(6쇄) | 374 평53이한2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/21573/56/cover/k832636495_1.jpg) | (Teaching과 learning의 어울림을 위한) 성인교수학습의 이론과 실제 | 김창엽 | 고양 : 공동체, 2019 | 374 김82성 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23310/80/cover/8920014272_1.jpg) | 일본학개론 | 정현숙 | 서울 : KNOU Press : 한국방송통신대학교출판문화원, 20152022(8쇄) | 306.0953 일45정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18466/68/cover/k682534457_1.jpg) | 파이썬 프로그래밍 : 데이터과학 및 응용프로그램 | Guttag, John V | 서울 : 홍릉과학, 2019 | 005.133 G985i2K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/10932/96/cover/895853429x_1.jpg) | 경영학 | 구동모 | 파주 : 학현사, 2017 | 658 구25경 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Statistics for engineers : an introduction | Morrison, S. J | Chichester, U.K. : Wiley, 2009. | 620.00727 M882s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Interpretable Machine Learning : a guide for making black box models explainable | Molnar, Chiristoph | München : Chiristoph Molnar, 2022. | 006.31 M727i2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fundamentals of momentum, heat, and mass transfer | Welty, James R | Hoboken, NJ : John Wiley & Sons, 2019. | 620.106 W464f7 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Lehninger principles of biochemistry | Nelson, David L | Austin : Macmillan Learning, 2021. | 572 L523L8 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fundamentals of biochemistry : life at the molecular level | Voet, Donald | Hoboken, NJ : John Wiley ＆ Sons, 2016. | 572 V876f5 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The design of high performance mechatronics : high-tech functionality by multidisciplinary system integration | Schmidt, Robert Munnig | Amsterdam, The Netherlands : Delft University Press, 2020. | 621.381 D457s3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Advertising, promotion, and other aspects of integrated marketing communications | Shimp, Terence A | Boston, MA : Cengage, 2018. | 658.82 S556a10 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introduction to flat panel displays | Lee, Jiun-Haw | Hoboken, NJ : John Wiley ＆ Sons, Inc., 2020. | 621.3815422 L484i2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Quantum mechanics : concepts and applications | Zettili, Nouredine | Hoboken, NJ : John Wiley ＆ Sons, Inc., 2022. | 530.12 Z61q3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Principles of foundation engineering | Das, Braja M | Boston, MA : Cengage Learning, 2024. | 624.15 D229p10 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Theory and design for mechanical measurements | Figliola, Richard S | Hoboken : John Wiley ＆ Sons, 2019. | 681.2 F472t7 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Globalization and sport | Giulianotti, Richard | Malden, MA ; Oxford : Blackwell Pub., 2007. | 306.483 G537g | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Matrix analysis of structures | Kassimali, Aslam | Boston, MA : Cengage, 2022. | 624.171 K19m3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Statistics for management and economics | Keller, Gerald | Boston, MA : Cengage, 2023. | 658.4033 K29s12 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Computational materials science : an introduction | Lee, June Gunn | Boca Raton : CRC Press, Taylor ＆ Francis, 2017. | 620.110113 L478c2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | River mechanics | Julien, Pierre Y | Cambridge, United Kingdom ; New York, NY: Cambridge University Press, 2018. | 627.12 J94r2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Global political economy | Ravenhill, John | New York, NY : Oxford University Press, 2020. | 337 R253g6 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26316/94/cover/k962738826_1.jpg) | 미시경제학 | Goolsbee, Austan | 서울 : 시그마프레스, 2021 | 338.5 G659m3K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Digital image processing using MATLAB | Gonzalez, Rafael C | Knoxville : Gatesmark Publishing, 2020. | 621.367 G643dm3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23372/20/cover/k082637111_1.jpg) | 미시경제학 : 미시적 경제분석의 이해 | 김영산 | 서울 : 박영사, 2020 | 338.5 김64미3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Guidelines for chemical process quantitative risk analysis | American Institute of Chemical Engineers | New York : Wiley-AIChE, 2000. | 660.2804 A512g2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Mathematics for economists | Simon, Carl P | New York : W. W. Norton , 1994. | 510.24339 S594m | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30763/9/cover/8977707374_1.jpg) | 형법총론 : 다듬은 말 | 배종대 | 서울 : 홍문사, 2023 | 345 배75형총17 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/23569/14/cover/k762638123_1.jpg) | (파이썬 기반의 AI를 위한) 기초수학, 확률 및 통계 | 강봉주 | 파주 : 자유아카데미, 2020 | 519.50285 강45기 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23774/44/cover/k472639060_1.jpg) | 누구나 파이썬 통계분석 : 통계 4차 산업혁명 필수 지식 | 곡합광기 | 서울 : 한빛아카데미, 2020 | 519.50285 곡92pK권 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29565/50/cover/8928727294_1.jpg) | 핀테크 4.0 : 핀테크 혁명과 금융의 미래 | 김종현 | 서울 : 한국금융연수원 출판미디어사업부, 2022 | 332.0285 김75핀7 | 중앙도서관 |
@@ -25,30 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The unconscious body image | Dolto, Françoise | Milton Park, Abingdon, Oxon ; New York, NY : Routledge, 2023. | 306.4613 D665ib | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Metonymy and pragmatic inferencing | Panther, Klaus-Uwe | Philadelphia : John Benjamins Pub., 2003. | 306.44 P197m | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Metonymy and metaphor in grammar | Panther, Klaus-Uwe | Amsterdam ; Philadelphia : John Benjamins Pub. Co., 2009. | 401.43 P197m | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | In love : a memoir of love and loss | Bloom, Amy | New York : Random House, 2022. | 616.83110092 B655i | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Financial economics | Mele, Antonio | Cambridge, Massachusetts : The MIT Press, 2022. | 332 M519f | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26573/73/cover/k452739366_1.jpg) | 디스플레이 이야기 | 주병권 | 고양 : 열린책빵, 2021 | 621.381542 주44디 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/2f4ccf05-ef45-4fe7-96dd-886fc672a5cd) | 질적 연구의 30가지 노하우 | Creswell, John W | 서울 :박영story :피와이메이트,2017 | 001.42 C923tK한 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/b0453dfb-9c7f-4d63-a9ef-89bae9d00744) | 병태생리학 | Rubin, Emanuel | 서울 : 군자, 2013 | 616.07 R896e5K대2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27286/12/cover/k652732029_1.jpg) | 파이썬을 활용한 데이터 분석과 응용 | 이성건 | 파주 : 자유아카데미, 2021 | 519.50285 이54파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25793/35/cover/8961543474_1.jpg) | 생활 속의 화학 | Hill, John W | 서울 : 라이프사이언스, 2020 | 540 H646h15aK대 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/15988/48/cover/8999715248_2.jpg) | 학교폭력 예방 및 학생의 이해 | 정여주 | 서울 : 학지사, 2018 | 371.782 학15정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28128/62/cover/8959127620_1.jpg) | (전문코치를 위한) ICF 8가지 코칭핵심역량 | 도미향 | 서울 : 신정, 2021 | 658.3124 I15도 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/14320/0/cover/8934980753_1.jpg) | 박물관 테크놀로지 : 인문과 기술의 융합으로 예술을 경험하다 | 이보아 | 파주 : 김영사, 2018 | 069.068 이45박인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28676/37/cover/8927443152_1.jpg) | (학예사를 위한) 전시기획입문 | 윤병화 | 파주 : 예문사, 2022 | 659.152 윤44전12 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 전략경영 : 개념과 사례 : 경쟁우위 접근법 | David, Fred R | [서울] : 한빛아카데미, 2022 | 658.4012 D249s17K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27209/90/cover/8961543709_1.jpg) | (Vander's) 인체생리학 | Widmaier, Eric P | 서울 : 라이프사이언스, 2021 | 612 W641v15K라 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7588/37/cover/s152635347_1.jpg) | 북유럽 신화 : 바이킹의 신들 | Crossley-Holland, Kevin | 파주 : 현대지성, 20162021(4쇄) | 293.13 C951nK서2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/10381/22/cover/8961542680_1.jpg) | 미생물의 도전 : 공중보건의 관점에서 | Krasner, Robert I | 서울 : 라이프사이언스, 2017 | 616.9041 K89m3K권 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/13682/32/cover/k252532618_1.jpg) | 시민참여론 | 이승종 | 서울 : 박영사, 2018 | 323.042 이57시2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25154/4/cover/8986377578_1.jpg) | 시나리오 워크북 : 시나리오 쓰기의 시작부터 완성까지 | Field, Syd | 서울 : 경당, 2020 | 808.23 F463s2K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29037/10/cover/8957337830_1.jpg) | 서양사 강좌 | 박윤덕 | 파주 : 아카넷, 2022 | 940 서63박2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7670/63/cover/8998521474_1.jpg) | 생리심리학 | Carlson, Neil R | 서울 : 박학사, 2016 | 612.8 C284fb9K정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24848/29/cover/8999410153_1.jpg) | 사회복지프로그램 개발과 평가 | 이민홍 | 파주 : 양서원, 2020 | 361.0068 이38사3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28433/24/cover/8970505229_1.jpg) | (으뜸) 데이터 분석과 머신러닝 | 박동규 | 파주 : 생능, 2021 | 006.31 박25데 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30955/96/cover/k912831005_1.jpg) | 헌재 결정의 구조 | 정주백 | 대전 : 충남대학교출판문화원, 2023 | 342 정76헌재 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31049/4/cover/k082831329_1.jpg) | 헌법소송법론 | 허영 | 서울 : 박영사, 2023 | 342.00269 허64헌17 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30917/43/cover/k152831192_1.jpg) | 헌법강의 | 김하열 | 서울 : 박영사, 2023 | 342 김92헌의 2023 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31059/38/cover/k842831426_1.jpg) | (한 권에 담은) 개인회생·파산 사건처리 | 이희범 | 서울 : 바른북스, 2023 | 346.078 이97개 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30814/98/cover/k932831668_1.jpg) | 의료소송 실무 | 곽종훈 | 서울 : 박영사, 2023 | 344.0411 곽75의증 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30881/96/cover/8918913702_1.jpg) | 영화와 법률산책 | 최명구 | 파주 : 法文社, 2023 | 340.02 최34영4 | 법학도서관 |
