@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/28541/89/cover/8930319203_1.jpg) | 통합환경법 제정에 관한 연구 : 가칭 「이산화탄소 저장 등에 관한 법률」안 제정을 중심으로 | 고문현 | 서울 : 집문당, 2021 | 344.046 고36통 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31220/54/cover/8993391327_1.jpg) | 호기심 많은 로맨틱 과학자의 독서 기행 : 거의 모든 것의 기원을 찾아서 | 이원식 | 서울 : 미들하우스, 2023 | 502 이66호 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 광둥 견직업의 어제와 오늘 | 류영련 | 파주 : 경인문화사, 2022 | 382.0952 류64고K김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 중국과 서양에서 환경사의 기원과 전망 | Perdue, Peter C | 파주 : 경인문화사, 2022 | 952 P433eK김 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/30830/56/cover/8934942754_1.jpg) | 이토록 다정한 기술 : 지구와 이웃을 보듬는 아이디어 | 변택주 | 파주 : 김영사, 2023 | 338.927 변883이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30679/49/cover/8997137581_2.jpg) | 동물노동 : 종간 정의를 이야기하다 | Blattner, Charlotte E | 서울 : 책공장더불어, 2023 | 344.049 B644aK평 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30993/42/cover/k722831508_1.jpg) | 히어 : 듣기는 어떻게 나의 영향력을 높이는가? | 산근양사 | 서울 : 밀리언서재, 2023 | 808.56 산17히K신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30926/97/cover/k302831295_1.jpg) | (조셉 머피) 끌어당김의 기적 : 우주 에너지를 극한으로 사용하는 15가지 법칙 | Murphy, Joseph | 파주 : 다산북스, 2023 | 154.2 M978pyK조 | 중앙도서관 |
