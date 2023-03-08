@@ -2,8 +2,16 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Engineering mechanics : Statics | Hibbeler, R. C | Harlow : Pearson Education Limited, 2023. | 620.103 H624e15 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Inspire : méthode de français | Le Bougnec, Jean-Thierry | [Vanves] : Hachette français langue étrangère, 2020. | 448.24 L449i v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cosmopolite : méthode de français | Hirschsprung, Nathalie | Vanves : Hachette français langue étrangère, 2018. | 448.24 C834h v.3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Political Science and Digitalization : Global Perspectives | Kneuer, Marianne | Berlin ; Toronto : Verlag Barbara Budrich, 2019. | 320.072 K68p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Electrodeposition of composite materials | Mohamed, A. M. A | [Rijeka, Croatia] : Intech, 2016. | 620.118 M697e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Engineering steels and high entropy-alloys | Sharma, Ashutosh | London : IntechOpen, 2020. | 620.17 S531e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Similarity in difference : marriage in Europe and Asia, 1700-1900 | Lundh, Christer | Cambridge Massachusetts ; London, England : The MIT Press, 2014 | 306.8109409 L962s | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Macroeconomics | Abel, Andrew B | Harlow, England : Pearson, 2021. | 339 A139m10 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Options, futures, and other derivatives | Hull, John | New York, NY :Pearson, 2018. | 332.645 H913o10 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/d2d23dc2-4565-4843-9c0a-e9ba33cc12ef) | Probability & statistics for engineers & scientists | Walpole, Ronald E | Boston, MA : Pearson Education, 2012[2017] | 519.02462 P962w9 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28541/89/cover/8930319203_1.jpg) | 통합환경법 제정에 관한 연구 : 가칭 「이산화탄소 저장 등에 관한 법률」안 제정을 중심으로 | 고문현 | 서울 : 집문당, 2021 | 344.046 고36통 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31220/54/cover/8993391327_1.jpg) | 호기심 많은 로맨틱 과학자의 독서 기행 : 거의 모든 것의 기원을 찾아서 | 이원식 | 서울 : 미들하우스, 2023 | 502 이66호 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 광둥 견직업의 어제와 오늘 | 류영련 | 파주 : 경인문화사, 2022 | 382.0952 류64고K김 | 중앙도서관 |
@@ -44,11 +52,3 @@
 | ![](https://image.aladin.co.kr/product/30961/69/cover/k972831208_1.jpg) | 생태적 삶 : 티머시 모튼의 생태철학 특강 | Morton, Timothy | 서울 : 앨피, 2023 | 577 M891bK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30882/7/cover/k392831284_1.jpg) | 금리의 역습 : 금리는 어떻게 부의 질서를 뒤흔드는가 | Chancellor, Edward | 서울 : 위즈덤하우스, 2023 | 332.8 C454pK임 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28966/10/cover/k262836721_1.jpg) | 딥러닝 파이토치 교과서 | 서지영 | 서울 : 길벗, 2022 | 006.31 서78딥기 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31037/15/cover/k982831516_1.jpg) | (시작하세요!) 엘라스틱 스택 8 : 엘라스틱서치, 키바나, 비츠, 로그스태시를 활용한 강력하고 확장 가능한 데이터 플랫폼 구축 | Athick, Asjad | 파주 : 위키북스, 2023 | 006.312 A871gK진 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30933/42/cover/k192831396_1.jpg) | 제로 트러스트 보안 : 기업 환경에서의 보안 운영 | Garbis, Jason | 서울 : 에이콘, 2023 | 005.8 G213zK서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30886/11/cover/k392831383_1.jpg) | (Do it!) 스위프트로 아이폰 앱 만들기 : 입문 | 송호정 | 서울 : 이지스, 2023 | 005.26 송95스8 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30813/37/cover/k032831566_1.jpg) | 포토샵 & 일러스트레이터 CC 2023 : 무작정 따라하기 | 민지영 | 서울 : 길벗, 2023 | 006.686 민78포 2023 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30935/11/cover/k292831490_1.jpg) | (맛있는 디자인) 포토샵 & 일러스트레이터 CC 2023 | 빨간고래 | 서울 : 한빛미디어, 2023 | 006.686 빨12포 2023 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30962/69/cover/k592831209_1.jpg) | 숲으로 간 여성들 : 그들이 써 내려간 세계 환경운동의 역사 | 오애리 | 파주 : 들녘, 2023 | 363.7 오63숲 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30816/40/cover/k372831660_1.jpg) | 영국에는 젠틀맨이 없다 : 런던 특파원이 알려주는 대영제국의 다섯 가지 비밀 | 장일현 | 서울 : 북랩, 2023 | 306.0942 장68영 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30830/56/cover/8934942754_1.jpg) | 이토록 다정한 기술 : 지구와 이웃을 보듬는 아이디어 | 변택주 | 파주 : 김영사, 2023 | 338.927 변883이 | 중앙도서관 |
