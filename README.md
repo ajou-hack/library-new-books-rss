@@ -2,6 +2,11 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 한미법학 = Korean-America Law Review. 제1권 | 한미법학회 | 서울 : 한미법학회, 2022 | 349.51 한38한 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/30740/79/cover/k472830250_2.jpg) | (실전 비즈니스) 영문 계약서 | 장시혁 | 서울 : 한올, 2023 | 346.02 장58영 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31017/21/cover/k222831411_1.jpg) | (해외거주자를 위한) 스마트 상속·증여 | 이우리 | 서울 : 바른북스, 2023 | 346.052 스66이 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Semantics | Saeed, John I | Chichester, West Sussex [England] ; Malden, MA : Wiley Blackwell, 2016 | 401.43 S127s4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31185/33/cover/8946422343_1.jpg) | 국선변호인이 만난 사람들 : 사건 너머 마주한 삶과 세상 | 몬스테라 | 서울 : 샘터, 2023 | 340.02 몬57국 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Engineering mechanics : Statics | Hibbeler, R. C | Harlow : Pearson Education Limited, 2023. | 620.103 H624e15 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Inspire : méthode de français | Le Bougnec, Jean-Thierry | [Vanves] : Hachette français langue étrangère, 2020. | 448.24 L449i v.1 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cosmopolite : méthode de français | Hirschsprung, Nathalie | Vanves : Hachette français langue étrangère, 2018. | 448.24 C834h v.3 | 중앙도서관 |
@@ -47,8 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 유림외사 | 오경재 | 서울 : 올재, 2020 | 812.3 오14유K김 v.1/v.2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30866/90/cover/k942831577_1.jpg) | 컬러 오브 아트 : 80점의 명화로 보는 색의 미술사 | Ashby, Chloë | 서울 : 아르카디아, 2023 | 701.85 A823cK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30740/57/cover/896357265x_2.jpg) | 『건건록(蹇蹇錄)』의 세계 | 중총명 | 서울 : 논형, 2023 | 953.61 중84건K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30763/42/cover/8932431531_1.jpg) | 프랭크 게리 : 건축을 넘어서 | Goldberger, Paul | 서울 : 을유문화사, 2022 | 720.92 G311gK강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30829/68/cover/k582831278_1.jpg) | 게임 : 행위성의 예술 | Nguyen, C. Thi | 서울 : 워크룸프레스, 2022 | 793.01 N576gK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30961/69/cover/k972831208_1.jpg) | 생태적 삶 : 티머시 모튼의 생태철학 특강 | Morton, Timothy | 서울 : 앨피, 2023 | 577 M891bK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30882/7/cover/k392831284_1.jpg) | 금리의 역습 : 금리는 어떻게 부의 질서를 뒤흔드는가 | Chancellor, Edward | 서울 : 위즈덤하우스, 2023 | 332.8 C454pK임 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28966/10/cover/k262836721_1.jpg) | 딥러닝 파이토치 교과서 | 서지영 | 서울 : 길벗, 2022 | 006.31 서78딥기 | 중앙도서관 |
