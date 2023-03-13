@@ -2,6 +2,16 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (2023) 민사소송법 정리 | 박승수 | 서울 : 에듀비, 2023 | 347.05076 박57민정 2023 v.1 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 추포집 | 황신 | 대전 : 문진, 2022 | 811.9 황58추 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 죽음집 | 조희일 | 광주 : 심미안, 2022 | 811.9 조97죽 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 정재집 | 류치명 | 안동 : 한국국학진흥원, 2022 | 811.9 류86정 v.1/v.2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인재집 | 최현 | 대구 : 경북대학교출판부, 2022 | 811.9 최94인 v.1/v.2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 연재집 | 송병선 | 전주 : 흐름, 2022 | 811.9 송44연 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 시남집 | 유계 | 대전 : 문진, 2022 | 811.9 유14시 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 백강집 | 이경여 | 전주 : 흐름, 2022 | 811.9 이14백흐 v.1/v.2/v.3/v.4/v.5 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 노애집 | 류도원 | 안동 : 동인출판인쇄, 2022 | 811.9 류25노 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 가오고략 | 이유원 | 서울 : 성균관대학교 출판부, 2022 | 811.9 이66가 v.1 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28499/13/cover/k402835621_1.jpg) | 그림자 상점 : 당신의 상처를 치유해드립니다 | 변윤하 | 파주 : & : 넥서스, 2022 | 811.37 변66그 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30569/50/cover/8927866991_1.jpg) | 골목 방랑기 : 픽셀로 교차하는 OOO의 기묘한 여정 : OOO에세이 | OOO | 서울 : 중앙books : 중앙일보에스, 2022 | 811.87 이67골 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30619/44/cover/8954688888_1.jpg) | 춘향전 | 심경호 | 파주 : 문학동네, 2022 | 811.35 춘93심 | 중앙도서관 |
@@ -39,16 +49,6 @@
 | ![](https://image.aladin.co.kr/product/82/85/cover/8950909650_1.jpg) | 공병호의 희망 리더십 | 공병호 | 파주 : 북이십일 : 21세기북스, 2006 | 658.4092 공44공 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29490/9/cover/8955662947_1.jpg) | 의료인을 위한 R 생존분석 | 문건웅 | 서울 : 한나래아카데미 : 한나래플러스, 2022 | 519.5460285 문14의 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Space groups for solid state scientists | Burns, Gerald | Waltham, MA : Elsevier, 2013. | 530.41 B967se3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 석재고 | 윤행임 | 파주 : 보고사, 2021 | 811.9 윤93석K김 v.1/v.2/v.3/v.4/v.5/v.6/v.7 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 소산집 | 이광정 | 파주 : 점필재, 2021 | 811.9 이15소K남 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 뇌연집 | 남유용 | 서울 : 학자원, 2021 | 811.9 남66뇌K이 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 문정공유고 | 민유중 | 서울 : 학자원, 2021 | 811.9 민66문K장 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 노주집 | 오희상 | 서울 : 학자원, 2021 | 811.9 오97노K김 v.1/v.2/v.3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26722/0/cover/k762730087_1.jpg) | 이계집 | 홍양호 | 서울 : 성균관대학교출판부, 2020-2021 | 811.9 홍63이 v.1/v.10/v.11/v.12/v.2/v.3/v.4/v.5/v.6/v.7/v.8/v.9 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 기암집 | 정홍명 | 파주 : 경인문화사, 2020 | 811.9 정95기K장 v.1/v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/07c14544-a7ec-4cee-b271-415b678b3e83) | (대상관계이론을 중심으로) 쉽게 쓴 정신분석이론 | 최영민 | 서울 : 학지사, 2010 | 150.195 최64쉽 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31152/6/cover/k692831047_1.jpg) | (90세 정신과의사,) 인간과 종교를 말하다 | 이호영 | 서울 : 청년의사, 2023 | 201 이95인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30812/54/cover/k242831564_2.jpg) | 스카이 버스 : 명문 대학으로 직행하는 초등 공부 전략서 | 분당강쌤 | 파주 : 다산에듀 : 다산북스, 2023 | 371.30281 분22스 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30933/81/cover/k402831498_2.jpg) | (아이에게 주는) 감정 유산 : 가족심리학자 엄마가 열어준 마음 성장의 힘 | 이남옥 | 서울 : 라이프앤페이지, 2023 | 158.24 이192감 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30276/15/cover/k362839727_2.jpg) | 이국에서 : 이승우 장편소설 | 이승우 | 서울 : 은행나무, 2022 | 811.37 이57이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31135/44/cover/8933708162_1.jpg) | 최신정신의학 | 민성길 | 서울 : 일조각, 2023 | 616.89 최58민7 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 석재고 | 윤행임 | 파주 : 보고사, 2021-2022 | 811.9 윤93석K김 v.1/v.10/v.2/v.3/v.4/v.5/v.6/v.7/v.8/v.9 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 소산집 | 이광정 | 파주 : 점필재, 2021-2022 | 811.9 이15소K남 v.1/v.2/v.3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 뇌연집 | 남유용 | 서울 : 학자원, 2021-2022 | 811.9 남66뇌K이 v.1/v.2/v.3 | 중앙도서관 |
