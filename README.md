@@ -2,7 +2,26 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/18794/52/cover/k192635572_1.jpg) | (유아교사를 위한) 특수아동의 이해 | 조윤경 | 고양 : 공동체, 2019 | 371.9 조66특2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30701/33/cover/8999727866_1.jpg) | 융 학파의 꿈 해석 매뉴얼 | Hall, James A | 서울 : 학지사, 2022 | 154.63 H177jK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23696/98/cover/8960698733_1.jpg) | (아이들을 이해하고 돕기 위한) 감각통합 Q&A | 토전령자 | 서울 : 학지사메디컬, 2020 | 371.9 토74감2K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31134/89/cover/8936324330_1.jpg) | 아동발달 | 박성연 | 파주 : 교문사, 2023 | 155.4 박54아2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23989/44/cover/8972758477_1.jpg) | 중독자의 죽음 | Beaton, M. C | 서울 : 현대문학, 2020 | 823.914 B369dK지현 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29909/58/cover/k292838335_1.jpg) | 약사윤리학 | 손현순 | 서울 : 범문에듀케이션, 2022 | 174.2951 약52손 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25968/92/cover/k352737221_1.jpg) | 분석화학실험 | 대한화학회 | 서울 : 사이플러스, 2021 | 543 대92분2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/19652/19/cover/k632635625_1.jpg) | 처음 만난 오키나와 | 안정언 | 서울 : 한뼘책방, 2019 | 306.0953 안74처K심 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31249/10/cover/8999728706_1.jpg) | 나는 오늘부터 힘센 기획자가 되기로 했다 | 홍경수 | 서울 : 학지사, 2023 | 658.401 홍14나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29327/2/cover/8999726657_1.jpg) | 중도장애 및 최중도중복장애 학생 교육과정 | Imray, Peter | 서울 : 학지사, 2022 | 371.9 I34cK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29321/96/cover/k522837818_1.jpg) | 질적연구와 문화기술지의 이해 | 김영순 | 하남 : 패러다임북, 2022 | 300.72 김64질패 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The cell : a molecular approach | Cooper, Geoffrey M | New York, NY : Oxford University Press, [2023] | 571.6 C776c9 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Blockchain technology for IoT applications | Lee, Seok-Won | Gateway East, Singapore : Springer, 2021. | 005.74 L481b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Microbial polymers : applications and ecological perspectives | Vaishnav, Anukool | Gateway East, Singapore : Springer, 2021 | 620.1923 V132m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Reliability Improvement Technology for Power Converters | Lee, Kyo-Beum | Gateway East, Singapore : Springer, 2017 | 621.3815322 L478r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Techniques and Environments for Big Data Analysis : Parallel, Cloud, and Grid Computing | Mishra, B. S. P | Switzerland : Springer International Publishing, 2016. | 006.312 T255m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Virus-derived nanoparticles for advanced technologies : methods and protocols | Wege, Christina | New York, NY : Humana Press : Springer, 2018 | 660.6 W411v | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cold War crucible : the Korean conflict and the postwar world | Masuda, Hajimu | Cambridge, Massachusetts : Harvard University Press, 2015. | 909.825 M424c | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23799/43/cover/k662639084_1.jpg) | 완벽주의자들 :허용오차 제로를 향한 집요하고 위대한 도전 | Winchester, Simon | 서울 :북라이프, 2020 | 620.009 W759pK공 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/0fc70e34-d7cc-4223-aeec-0dc62d5ba323) | Corpus linguistics and statistics with R :introduction to quantitative methods in linguistics | Desagulier, Guillaume | Cham, Switzerland :Springer,2017. | 410.188 D441c | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31189/99/cover/k142831856_1.jpg) | 투자의 기술 | 김준송 | 서울 : 연합인포맥스북스, 2023 | 332.64 김76투 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31132/76/cover/896833417x_1.jpg) | 조선 미술관 : 풍속화와 궁중기록화로 만나는 문화 절정기 조선의 특별한 순간들 | 탁현규 | 서울 : 블랙피쉬 : 백도씨, 2023 | 709.51 탁94조 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/1794/55/cover/8963720659_2.jpg) | 그대들, 어떻게 살 것인가 | 길야원삼랑 | 서울 : 양철북, 2012 | 179.7 길63그K김 | 중앙도서관 |
@@ -33,22 +52,3 @@
 | ![](https://image.aladin.co.kr/product/18193/10/cover/8952128745_1.jpg) | 사랑해요 한국어 | 서울대학교 | 서울 : 서울대학교출판문화원, 2019 | 411.8 서66사 v.1-1/v.1-2/v.2-1/v.2-2/v.3-1/v.3-2/v.4-1/v.4-2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28244/71/cover/k432835576_1.jpg) | 노동에 대해 말하지 않는 것들 : 종속적 자영업자에서 플랫폼 일자리까지 | 전혜원 | 파주 : 서해문집, 2021 | 331.12 전94노 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26247/73/cover/8932038007_1.jpg) | 쌀 재난 국가 : 한국인은 어떻게 불평등해졌는가 | 이철승 | 서울 : 문학과지성사, 2021 | 305.50951 이83쌀 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25453/96/cover/8984078018_1.jpg) | 엘리트 세습 : 중산층 해체와 엘리트 파멸을 가속하는 능력 위주 사회의 함정 | Markovits, Daniel | 서울 : 세종 : 세종서적, 2020 | 305.550973 M346mK서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27217/84/cover/k792732292_1.jpg) | 미리 캔버스 : 너도 디자인 할 수 있어! | 전경옥 | 서울 : 슬로디미디어 : 슬로디미디어그룹, 2021 | 006.686 전14미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31112/61/cover/k462831849_1.jpg) | (입학부터 학위논문까지) 대학원에서 살아남는 레시피 | 김창현 | 고양 : 애플씨드, 2023 | 378.155 김82대 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31055/87/cover/k462831420_1.jpg) | 개강한 대학생활백서 | 박세리 | 서울 : 애플북스 : 비전비엔피, 2023 | 378.198 박54개 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31184/66/cover/k352831851_1.jpg) | 디지털 시대, 대학 글쓰기 | 아주대학교 | 서울 : 역락, 2023 | 808 아76디2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30990/15/cover/8950929767_1.jpg) | 한 문장이라도 제대로 쓰는 법 : 비문을 쓰고도 모르는 당신을 위한 최소한의 글쓰기 법칙 | 이연정 | 파주 : 21세기북스 : 북이십일 21세기북스, 2023 | 808 이64한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30444/25/cover/k872830379_1.jpg) | 이 와중에 스무 살 : 최지연 장편소설 | 최지연 | 서울 : 창비 : 창비교육, 2022 | 811.37 최78이창 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29086/81/cover/k812837761_1.jpg) | 나는 대학 생활이 처음인데요 | 장한별 | 서울 : 더문, 2022 | 378.198 장92나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28420/27/cover/k352835214_1.jpg) | 나 없이 자취하지마라 : 슬기로운 1인 가구 라이프 | 정단비 | [용인] : 뮤즈, 2021 | 306.815 정22나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27286/35/cover/k002732020_1.jpg) | 그렇다면 실험실 죽순이가 될 수밖에 : 하루의 실패 속에서 나만의 중심을 잡는 법 | 도영실 | 서울 : 미래북, 2021 | 811.87 도64그 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26314/35/cover/8972995266_1.jpg) | (미래와 진로를 고민하는) 20대가 준비해야 할 것들 : 현실과 타협하는 삶에서도 행복을 만드는 방법 | 김주형 | 고양 : 미래문화사, 2021 | 158.1 김76이2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24308/40/cover/k132630594_1.jpg) | 어리고 아리고 여려서 | 주야요루 | 서울 : 소미미디어, 2020 | 813.37 주63청K양 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 조선시대 대소설의 이념적 지평 | 조광국 | 파주 : 태학사, 2023 | 811.3509 조15조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25567/53/cover/k882735489_1.jpg) | 기독교와 정치, 한국 : "역사-성경-대응" 한국의 기독교와 정치 관계의 겉모습 세 가지 | 이근영 | 서울 : 좋은땅, 2020 | 261.7 이17기 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28129/80/cover/8928408695_1.jpg) | 몽오집 | 김종수 | 서울 : 한국고전번역원, 2021 | 811.9 김75몽한 v.1/v.2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31243/66/cover/k402832162_1.jpg) | 비교정부와 정치 | McCormick, John | 서울 : 명인문화사, 2023 | 320.3 H147c12K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31114/76/cover/k022831845_1.jpg) | 형사법 기록형 : 이해와 해설 | 한상규 | 고양 : 정독, 2023 | 345.0076 한52형 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/7905/50/cover/8946048948_1.jpg) | 민주주의를 만드는 사람들 : 인권과 국제 질서 | Guilhot, Nicolas | 파주 : 한울아카데미 : 한울, 2014 | 323 G956dK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/3405/0/cover/8954623476_1.jpg) | 구운몽 | 김만중 | 파주 : 문학동네, 2013 | 811.3 김32구문 | 중앙도서관 |
