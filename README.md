@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/30888/83/cover/k612831384_1.jpg) | 포토보이스, 공감의 연구 방법 | 임윤서 | 서울 : 학이시습, 2023 | 371.3352 임66포 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이런 비에는 | Schwarzenbach, Annemarie | [서울] : 알큐북스, 2021 | 833.912 S411bK알 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31196/89/cover/8901269406_1.jpg) | 그들의 생각을 바꾸는 방법 : 극단의 시대, 견고한 믿음에 균열을 내는 설득의 과학 | McRaney, David | 파주 : 웅진지식하우스 : 웅진씽크빅, 2023 | 153.4 M174hK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30921/6/cover/k142831299_1.jpg) | 노는 만큼 배우는 아이들 : 5세부터 10세까지 초등 공부로 이어지는 엄마표 놀공법 | 엄예정 | 서울 : 시공사, 2023 | 649.5 엄64노 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/49/22/cover/898287643x_2.jpg) | (중등학교 교육과정 개선을 위한) 8년 연구 이야기 | Aikin, Wilford Merton | 서울 : 교육과학사, 2002 | 373.73 A292sK김 | 중앙도서관 |
@@ -10,7 +12,7 @@
 | ![](https://image.aladin.co.kr/product/31016/62/cover/k882831410_3.jpg) | 챗GPT : 마침내 찾아온 특이점 | 반병현 | 파주 : 생능북스 : 생능, 2023 | 006.3 반44챗 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30818/71/cover/8979662394_1.jpg) | 정체성 정치와 남녀 대립적 페미니즘 : 마르크스주의적 비판 | 정진희 | 서울 : 책갈피, 2023 | 305.42 정78정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/691/64/cover/8925403749_1.jpg) | 에릭슨의 인간이해 | 박아청 | 파주 : 교육과학사, 2010 | 155 E68박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/15681/40/cover/k772533138_1.jpg) | 인간발달 : 문화적 접근 | Arnett, Jeffrey Jensen | 서울 : 시그마프레스, 20182023(2쇄) | 305.2 A748h2K정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/15681/40/cover/k772533138_1.jpg) | 인간발달 : 문화적 접근 | Arnett, Jeffrey Jensen | 서울 : 시그마프레스, 2018(2023 2쇄) | 305.2 A748h2K정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30040/64/cover/k542839368_1.jpg) | 변방의 언어로 사랑하며 : 이유운 시산문집 | 이유운 | 서울 : 아침달, 2022 | 811.47 이66변 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31034/85/cover/k642831510_1.jpg) | 미술관을 좋아하게 될 당신에게 : 미술 전시 감상에서 아트 컬렉팅까지 예술과 가까워지는 방법 | 김진혁 | 서울 : 초록비책공방, 2023 | 708 김78미미 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26175/13/cover/k612737450_1.jpg) | 돈이 보이는 주식의 역사 : 주식시장의 폭락과 버블 속에서 배우는 주식투자 인사이트 | 윤재수 | 서울 : 길벗, 2021 | 332.6322 윤73돈 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/19652/19/cover/k632635625_1.jpg) | 처음 만난 오키나와 | 안정언 | 서울 : 한뼘책방, 2019 | 306.0953 안74처K심 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31249/10/cover/8999728706_1.jpg) | 나는 오늘부터 힘센 기획자가 되기로 했다 | 홍경수 | 서울 : 학지사, 2023 | 658.401 홍14나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29327/2/cover/8999726657_1.jpg) | 중도장애 및 최중도중복장애 학생 교육과정 | Imray, Peter | 서울 : 학지사, 2022 | 371.9 I34cK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29321/96/cover/k522837818_1.jpg) | 질적연구와 문화기술지의 이해 | 김영순 | 하남 : 패러다임북, 2022 | 300.72 김64질패 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The cell : a molecular approach | Cooper, Geoffrey M | New York, NY : Oxford University Press, [2023] | 571.6 C776c9 | 중앙도서관 |
