@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | My first 500 Korean words : 이야기로 배우는 한국어 기본 단어 500 | TalkToMeInKorean | 서울 : 롱테일북스, 2017 | 411.8 T146m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Build & extend your Korean sentences : by adding, modifying, combining, and changing! | TalktomeinKorean | 서울 : 롱테일북스, 2021 | 411.8 T146b | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30888/83/cover/k612831384_1.jpg) | 포토보이스, 공감의 연구 방법 | 임윤서 | 서울 : 학이시습, 2023 | 371.3352 임66포 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이런 비에는 | Schwarzenbach, Annemarie | [서울] : 알큐북스, 2021 | 833.912 S411bK알 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31196/89/cover/8901269406_1.jpg) | 그들의 생각을 바꾸는 방법 : 극단의 시대, 견고한 믿음에 균열을 내는 설득의 과학 | McRaney, David | 파주 : 웅진지식하우스 : 웅진씽크빅, 2023 | 153.4 M174hK이 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/29909/58/cover/k292838335_1.jpg) | 약사윤리학 | 손현순 | 서울 : 범문에듀케이션, 2022 | 174.2951 약52손 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25968/92/cover/k352737221_1.jpg) | 분석화학실험 | 대한화학회 | 서울 : 사이플러스, 2021 | 543 대92분2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/19652/19/cover/k632635625_1.jpg) | 처음 만난 오키나와 | 안정언 | 서울 : 한뼘책방, 2019 | 306.0953 안74처K심 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31249/10/cover/8999728706_1.jpg) | 나는 오늘부터 힘센 기획자가 되기로 했다 | 홍경수 | 서울 : 학지사, 2023 | 658.401 홍14나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29327/2/cover/8999726657_1.jpg) | 중도장애 및 최중도중복장애 학생 교육과정 | Imray, Peter | 서울 : 학지사, 2022 | 371.9 I34cK박 | 중앙도서관 |
