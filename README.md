@@ -2,7 +2,34 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hybrid systems | Grossman, Robert L | Berlin ; New York : Springer-Verlag, 1993-1999 | 004.19 H992g v.1/v.2/v.4/v.5 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hybrid systems : computation and control : 12th International Conference, HSCC 2009, San Francisco, CA, USA, April 13-15, 2009 : proceedings | HSCC 2009 | Berlin ; New York : Springer, 2009. | 004.19 H873h 2009 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hybrid systems : computation and control : 8th international workshop, HSCC 2005, Zurich, Switzerland, March 9-11, 2005 : proceedings | HSCC 2005 | Berlin ; New York : Springer, 2005. | 004.19 H873h 2005 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hybrid systems : computation and control : 7th international workshop, HSCC 2004, Philadelphia, PA, USA, March 25-27, 2004 : proceedings | HSCC 2004 | Berlin ; New York : Springer-Verlag, 2004. | 004.19 H873h 2004 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hybrid systems : computation and control : 6th International Workshop, HSCC 2003, Prague, Czech Republic, April 3-5, 2003 : proceedings | HSCC 2003 | Berlin ; New York : Springer-Verlag, 2003. | 004.19 H873h 2003 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hybrid systems : computation and control : 5th International Workshop, HSCC 2002, Stanford, CA, USA, March 25-27, 2002 : proceedings | HSCC 2002 | Berlin ; New York : Springer-Verlag, 2002. | 004.19 H873h 2002 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hybrid systems : computation and control : 4th International Workshop, HSCC 2001, Rome, Italy, March 28-30, 2001 : proceedings | HSCC 2001 | Berlin ; New York : Springer-Verlag, 2001. | 004.19 H873h 2001 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hybrid systems : computation and control : Third International Workshop, HSCC 2000, Pittsburgh, PA, USA, March 23-25, 2000 : proceedings | HSCC 2000 | Berlin ; New York : Springer-Verlag, 2000. | 004.19 H873h 2000 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hybrid systems : computation and control : Second International Workshop, HSCC '99, Berg en Dal, The Netherlands, March 29-31, 1999 : proceedings | HSCC'99 | Berlin ; New York : Springer-Verlag, 1999. | 004.19 H873h 1999 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hybrid systems : computation and control : First International Workshop, HSCC'98, Berkeley, California, USA, April 13-15, 1998 : proceedings | HSCC'98 | Berlin ; New York : Springer-Verlag, 1998. | 004.19 H873h 1998 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Rage | Woodward, Bob | New York, NY : Simon & Schuster, 2020. | 973.933092 T871ws | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The United States of war : a global history of America's endless conflicts, from Columbus to the Islamic State | Vine, David | Oakland, California : University of California Press, 2020 | 355.00973 V782u | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Money and totality : a macro-monetary interpretation of Marx's logic in Capital and the end of the 'transformation problem' | Moseley, Fred | Chicago, IL : Haymarket Books, 2016 | 335.41 M392mm | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Labor economics | Borjas, George J | New York : McGraw-Hill Education, 2016 | 331 B734L7 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/9589/23/cover/k242535538_1.jpg) | 이일재, 최후의 코뮤니스트 | 안재성 | 서울 : 인문서원, 2016 | 335.4092 이68안 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11506/18/cover/8935211761_1.jpg) | 더 박스 : 컨테이너는 어떻게 세계 경제를 바꾸었는가 | Levinson, Marc | 서울 : 청림, 2017 | 387.5442 L665b2K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/7215/27/cover/894605820x_1.jpg) | 세계화와 한국의 축적체제 변화 | 정성진 | 파주 : 한울아카데미 : 한울엠플러스, 2015 | 330.951 세14정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11445/33/cover/8979661274_1.jpg) | 1917년 러시아 혁명 : 노동계급이 권력을 잡다 | Rabinowitch, Alexander | 서울 : 책갈피, 2017 | 947.0841 R116b3K류 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31373/83/cover/8971106360_1.jpg) | 가족과 친밀성의 사회학 | 김혜경 | 서울 : 다산, 2023 | 306.85 가75김다2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31196/50/cover/k892831050_2.jpg) | 인공지능과 지적재산권 | 백욱인 | 서울 : 커뮤니케이션북스, 2023 | 346.048 백66인 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31226/71/cover/892787966x_1.jpg) | 이홍구 평전 : 효당(曉堂) 이홍구(李洪九) 전 국무총리의 정치철학과 현장실천 | 김학준 | 서울 : 중앙books : 중앙일보에스, 2023 | 324.2092 이95김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31298/7/cover/k842832781_1.jpg) | 헌법총론 | 최우정 | 대구 : 준커뮤니케이션즈, 2023 | 342 최66헌준4 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (판례로 배우는) 물권법 | 박영규 | 서울 : 法元社, 2023 | 346.04 박64물2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31222/6/cover/k602831250_1.jpg) | 지식재산법의 이해 | 손승우 | 서울 : 동방문화사, 2023 | 346.048 손57지동 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/29413/61/cover/k102837329_1.jpg) | 중대재해처벌법상 책임과 기업의 대응실무 | 이건우 | [서울] : 공공노무법인, 2022 | 344.0465 중23이공 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31200/21/cover/k182831158_1.jpg) | 세법개론1 : 조세총론·국세기본법·부가가치세법·소득세법 | 강경태 | 서울 : 샘앤북스, 2023 | 343.04 강14세21 v.1 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/30993/1/cover/k392831508_1.jpg) | 국제통상과 중국지식재산권 | 윤승연 | 부산 : 세종, 2022 | 346.048 윤57국 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/30023/62/cover/k952838453_1.jpg) | (실무자를 위한) 산재보상 매뉴얼 | 정봉수 | 서울 : 강남노무법인, 2022 | 344.021 정45산 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Martin's physical pharmacy and pharmaceutical sciences : physical chemical and biopharmaceutical principles in the pharmaceutical sciences | Sinko, Patrick J | Philadelphia, PA. : Wolters Kluwer, 2024 | 615.19 S617m8 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Consumer behavior : buying, having, and being | Solomon, Michael R | Harlow, England : Pearson Education, 2020 | 658.8342 S689c13 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | L'Afrique au futur : le renversement des mondes | Mangeon, Anthony | Paris : Hermann, 2022. | 809.93326 M277a | 중앙도서관 |
@@ -25,30 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31311/15/cover/k852832783_1.jpg) | 형법강론 | 이상돈 | 서울 : 박영사, 2023 | 345 이52형박4 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30841/64/cover/k312831374_1.jpg) | 행정법원론상 | 홍정선 | 서울 : 박영사, 2023 | 342.06 홍74행31 v.1 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31281/62/cover/k732832473_1.jpg) | 특허법 3.1 | 조영선 | 서울 : 박영사, 2023 | 346.0486 조64특8 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31049/7/cover/k512831329_1.jpg) | 자본시장법 | 임재연 | 서울 : 박영사, 2023 | 346.09 임73자 2023 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31340/74/cover/k672832999_1.jpg) | 영화 속 인권과 법률 | 이성진 | 대구 : 책과세계, 2023 | 340 이54영 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31181/88/cover/k532831757_1.jpg) | 언론을 상대하는 법 : 언론사 출신 변호사가 알려 주는 언론 피해자를 위한 법 안내서 | 신상진 | 파주 : 이담북스 : 한국학술정보, 2023 | 340 신52언 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31080/95/cover/8947286397_1.jpg) | 슬기로운 생활과 법률 | 이환경 | 파주 : 형설, 2023 | 340 이95슬 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30916/32/cover/8932322694_1.jpg) | 법률용어사전 | 현암사 | 서울 : 현암사, 2023 | R 340.03 법296현 2023 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31088/18/cover/k662831838_1.jpg) | 민사소송법 | 강현중 | 서울 : 박영사, 2023 | 347.05 강94민박 2023 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31132/14/cover/k292831940_1.jpg) | 민사소송법 | 김홍엽 | 서울 : 박영사, 2023 | 347.05 김95민박11 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31098/10/cover/k712831532_1.jpg) | 민법사례연습Ⅲ : 채권총론 | 이병준 | 서울 : 세창, 2023 | 346 이44민5 v.3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31098/11/cover/k852831532_1.jpg) | 민법사례연습Ⅰ : 민법총칙 | 이병준 | 서울 : 세창, 2023 | 346 이44민8 v.1 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31080/84/cover/8947286370_1.jpg) | 민법강의 : 민총·물권·채권 | 임윤수 | 파주 : 형설, 2023 | 346 임66민8 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30992/86/cover/k972831508_1.jpg) | 공공계약제도 해설 | 최홍석 | [과천] : 삼일, 2023 | 346.02 양82공개 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31151/35/cover/8944505675_1.jpg) | 비즈니스 법 | Kim, Byung-Tae | Seoul : SamYoungSa, 2023 | 346.066 K49비 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31049/5/cover/891891380x_1.jpg) | 보험법 | 장덕조 | 서울 : 법문사, 2023 | 346.086 장24보법6 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31325/40/cover/k732832686_1.jpg) | 첨삭 글쓰기 : 전방위 글쟁이 백우진이 공유하는 글쓰기의 원리 | 백우진 | 서울 : 사개모개, 2023 | 808.066 백66첨 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30797/78/cover/8999728048_1.jpg) | 사랑의 심리학 : 인간이 경험하는 세 종류의 사랑에 대하여 | 권석만 | 서울 : 학지사, 2022 | 152.41 권54사 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/16831/41/cover/8999716546_1.jpg) | (예비교사를 위한) 교육평가 | 김성훈 | 서울 : 학지사, 2018 | 371.26 교66김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30706/24/cover/k392830141_2.jpg) | 김유정 문학과 세계문학 | 김유정학회 | 서울 : 소명, 2022 | 811.3609 김66김세 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28980/35/cover/8999725790_1.jpg) | (초심상담자를 위한) 상담면접의 실제 | 천성문 | 서울 : 학지사, 2022 | 158.3 상22천실 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Civil procedure | Friedenthal, Jack H | West Academic Publishing, 2021 | 347.05 F899c | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30929/51/cover/k732831392_2.jpg) | 세이노의 가르침 : 피보다 진하게 살아라 | 세이노 | [서울] : 데이원, 2023 | 650.1 세68세 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 자연의 권리에 관한 비교법적 연구 | 김선희 | 서울 : 헌법재판소 헌법재판연구원, 2023 | 342 김54자 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 코로나19 백신접종 의무화에 관한 헌법적 고찰 : 미국과 독일사례를 중심으로 | 박규환 | 서울 : 헌법재판소 헌법재판연구원, 2023 | 342 박16코 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 적법절차원칙의 발전과 주요 헌법적 쟁점에 관한 연구 | 김종현 | 서울 : 헌법재판소 헌법재판연구원, 2023 | 342 김75적 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 프랑스의 예산법률에 대한 헌법적 검토 | 한동훈 | 서울 : 헌법재판소 헌법재판연구원, 2023 | 342 한25헌 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 환경권의 위헌심사기준에 관한 연구 : 비교법적 연구를 중심으로 | 김찬희 | 서울 : 헌법재판소 헌법재판연구원, 2023 | 342 김82환 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 정신적 장애인의 선거권 보장을 위한 헌법적 연구 | 배소연 | 서울 : 헌법재판소 헌법재판연구원, 2023 | 342 배55정 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 재정헌법 이해의 기초 : 국가재정에 대한 헌법적 요청의 개관 | 이장희 | 서울 : 헌법재판소 헌법재판연구원, 2023 | 34 이72재 | 법학도서관 |
