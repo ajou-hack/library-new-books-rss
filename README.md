@@ -2,8 +2,39 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/1594/47/cover/8971803282_1.jpg) | 수령의 사생활 | 김혁 | 대구 : 경북대학교출판부, 2011 | 951.5 수294김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31222/25/cover/k822831251_1.jpg) | 한국어 의미론 | 박철우 | 서울 : 사회평론아카데미, 2023 | 411.2 한16박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 朝鮮後期經濟史硏究 | 김덕진 | 서울 : 선인, 2002 | 330.951 김24조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31294/82/cover/k492832676_2.jpg) | (챗GPT와 오픈AI가 촉발한) 생성 AI 혁명 | 강정수 | 서울 : 더퀘스트 : 길벗, 2023 | 006.3 생54강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31288/41/cover/8925576759_2.jpg) | 챗GPT 거대한 전환 : AI 전쟁의 승자는 누가 될 것인가? | 김수민 | 서울 : 알에이치코리아, 2023 | 006.3 김56챗 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 짝 없는 여자와 도시 | Gornick, Vivian | 파주 : 글항아리, 2023 | 828.914 G671oK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31331/62/cover/k532832796_1.jpg) | 빈곤의 가격 : 원자재 시장은 어떻게 우리의 세계를 흔들었는가 | Russell, Rupert | 서울 : 책세상, 2023 | 332.644 R966pK윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31062/88/cover/8959729221_1.jpg) | 범죄자 마인드 : 임상심리학자가 찾아낸 범죄자의 사고방식 | Samenow, Stanton E | 서울 : 청람, 2023 | 364.3019 S187i2K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31112/66/cover/k652831849_1.jpg) | (알기 쉽게 해설한) 파이썬 with 컴퓨팅 사고력 | 김충석 | 서울 : 한빛아카데미, 2023 | 005.133 김85파 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30986/89/cover/8970506586_1.jpg) | (단계별로 쉽게 배우는) Visual C++ 2022 MFC 윈도우 프로그래밍 | 정일홍 | 파주 : 생능, 2023 | 005.133 정68v생 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 텐서플로 케라스를 이용한 딥러닝 : 원리와 실제 응용 | 박유성 | 파주 : 자유아카데미, 2023 | 006.31 박66텐3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (메타버스 시대의) 사물 인터넷(IoT) | 양순옥 | 파주 : 생능, 2023 | 004.678 양56사2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (개념 잡는) 데이터 분석 with 머신러닝 | 장은실 | 파주 : 배움터, 2023 | 006.31 장67데 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (소통과 설득을 위한) 프레젠테이션 | 김경민 | 진주 : 경상국립대학교출판부, 2023 | 658.452 프294김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 유튜브 시대에 문화는 어떻게 기억되는가 | 서영호 | 파주 : 푸른사상사 : 푸른사상, 2023 | 306.4 서64유 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 감각 및 지각심리학 | Goldstein, E. Bruce | 서울 : 박학사, 2023 | 152.1 G624s11K박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 시대의 마음 : 선우은실 평론집 | 선우은실 | 파주 : 문학동네, 2023 | 811.09 선66시 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 자연계 글쓰기 | 서강대학교 | 서울 : 서강대학교출판부, 2023 | 808.066 서12자 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (예비 사회인을 위한) 실용문 쓰기 | 김민정 | 진주 : 경상국립대학교출판부, 2023 | 808 실65김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 식민 정책 논쟁 : 1885년 7월 28일과 30일 프랑스 하원에서 | 우무상 | 대구 : 경북대학교 출판부, 2023 | 944 식38우 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31001/11/cover/8946073543_1.jpg) | 아마존의 길 | 양은미 | 파주 : 한울아카데미 : 한울엠플러스, 2023 | 980 아32양 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31108/58/cover/k912831746_1.jpg) | 동아시아의 포스트제국과 문화권력 : 민족, 문화, 국경의 갈등 | 한림대학교 | 서울 : 소명, 2022 | 953.7 한298동 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31136/41/cover/k472831048_1.jpg) | 언어가 숨어 있는 세계 : 언어치료사가 쓴 말하기와 마음 쌓기의 기록 | 김지호 | 서울 : 한겨레 : 한겨레엔, 2023 | 616.85506092 김78언 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31113/37/cover/k922831842_1.jpg) | 사는 마음 : 나를 돌보는 반려 물건 이야기 | 이다희 | 서울 : 한겨레 : 한겨레엔, 2023 | 811.87 이22사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30992/25/cover/8954690564_1.jpg) | 작별들 순간들 : 배수아 산문 | 배수아 | 파주 : 문학동네, 2023 | 811.47 배56작 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 라파엘로가 사랑한 철학자들 : 예술은 어떻게 과학과 철학의 힘이 되는가 | 김종성 | 서울 : 비제이퍼블릭, 2023 | 102 R136김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 부동산업 입문 | 김희선 | 서울 : 지식공작소, 2023 | 333.33 김97부 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31049/9/cover/k892831329_1.jpg) | DAO, 탈중앙화 자율조직 | 정성식 | 서울 : 커뮤니케이션북스, 2023 | 658.4 정54d | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28907/76/cover/k622836606_1.jpg) | 요즘 사는 맛 | 디에디트 | 서울 : 위즈덤하우스, 2022-2023 | 811.8708 요77김 v.1/v.2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28725/54/cover/k532836575_1.jpg) | 어떤 죽음 : 죽음에 대한 인문학 이야기 | 이상덕 | 서울 : 모시는사람들, 2022-2023 | 128.5 어24이 v.1/v.2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26236/48/cover/k992738388_1.jpg) | 라캉 세미나·에크리 독해 | Dor, Jöel | 남양주 : 눈출판그룹, 2021-2023 | 150.195092 L129dK홍 v.1/v.2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31314/81/cover/k152832884_1.jpg) | 진짜 챗GPT 활용법 : 엑셀 활용법부터 블로그 자동화, 유튜브 콘텐츠 생성, 미드저니와 ChatGPT API 사용법까지 | 김준성 | 파주 : 위키북스, 2023 | 006.3 김76진 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | ‘좋아요’ 는 어떻게 지구를 파괴하는가 : 디지털 인프라를 둘러싼 국가, 기업, 환경문제 간의 지정학 | Pitron, Guillaume | 서울 : 갈라파고스, 2023 | 363.7 P686eK양 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31291/52/cover/k952832672_1.jpg) | ‘좋아요’ 는 어떻게 지구를 파괴하는가 : 디지털 인프라를 둘러싼 국가, 기업, 환경문제 간의 지정학 | Pitron, Guillaume | 서울 : 갈라파고스, 2023 | 363.7 P686eK양 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31240/13/cover/k362832061_1.jpg) | 일머리 문해력 : 문해력은 어떻게 당신의 무기가 되는가? | 송숙희 | 파주 : 교보문고, 2023 | 302.2244 송56일 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31333/31/cover/k262832899_1.jpg) | 호모 이레알리스 : 비현실적 인간 : 시간 그리고 경험과 예술에 대한 고찰 | Aciman, André | 김포 : 잔, 2023 | 824.92 A181hK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31318/62/cover/k832832982_1.jpg) | 당신이 모르는 민주주의 : 자본주의와 자유주의의 불편한 공존 | Sandel, Michael J | 서울 : 와이즈베리 : 미래엔, 2023 | 320.973 S214dK이 | 중앙도서관 |
@@ -19,36 +50,5 @@
 | ![](https://image.aladin.co.kr/product/31147/90/cover/k002831043_1.jpg) | (피공의 심플하지만 강력한) PPT 디자인 : 실전에 바로 적용하는 내가 찾던 그 파워포인트 | 피공 | 파주 : 영진미디어, 2023 | 005.58 피15p | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31157/5/cover/k102831141_1.jpg) | (한 권으로 끝내는) 국제표준 정보보안(Information security)+사이버보안(Cyber security)+개인정보보호(Privacy protection) | 박억남 | 서울 : 위즈플래닛, 2023 | 005.8 박64국 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31010/65/cover/k132831313_1.jpg) | 취준생/직장인을 위한 프레젠테이션! 초스피드완성 : 청중을 압도하는 최고의 프레젠터 되는 법 | 김연정 | 서울 : 시대인 : 시대고시기획, 2023 | 658.452 김64취6 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Giant : 내면의 거인을 깨우는 방법 | 고윤 | 서울 : Deep&Wide, 2023 | 650.1 고66g | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31015/87/cover/k062831419_2.jpg) | Giant : 내면의 거인을 깨우는 방법 | 고윤 | 서울 : Deep&Wide, 2023 | 650.1 고66g | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31063/28/cover/k852831522_1.jpg) | 레버리지 독서 : 세상을 바꾼 타이탄들의 책읽기 : 무작정 읽지 말라 | Cohen, Martin | 파주 : 윌북, 2023 | 028.1 C678LK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 다산의 마지막 편지 : '다산 정약용의 편지'와 함께 시작하는 마음공부! | 박석현 | 서울 : 모모북스, 2023 | 181.16 박54다 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31196/66/cover/k452831051_1.jpg) | 괜히 끌리는 사람들, 호감의 법칙 50 : 그 사람은 왜 또 만나고 싶은 생각이 드는 걸까? | 신용준 | 서울 : 리텍 콘텐츠, 2023 | 158.2 신65괜 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31185/15/cover/k282831852_1.jpg) | 인류의 여정 : 부와 불평등의 기원 그리고 우리의 미래 | Galor, Oded | 서울 : 시공사, 2023 | 338.9001 G178jK장 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31148/89/cover/k652831044_1.jpg) | 이야기를 횡단하는 호모 픽투스의 모험 : 인류의 저주이자 축복, 질병이자 치료제, 숙명이자 구원, 인간의 스토리텔링 본성을 찾아서 | Gottschall, Jonathan | 서울 : 위즈덤하우스, 2023 | 808 G687sK노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30992/26/cover/k122831405_1.jpg) | 인문의 마음으로 세상을 읽다 | 염철현 | 서울 : 박영story : 피와이메이트, 2023 | 001.3 염83인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31008/17/cover/k832831217_1.jpg) | 역사인식은 어떻게 말해지고 있는가 | 목촌간 | 서울 : 박영사, 2023 | 327.51053 목84력K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31105/43/cover/8950940264_1.jpg) | 해적 : 유럽에서 아시아, 바이킹에서 소말리아 해적까지 | Lehr, Peter | 파주 : R : 북이십일 레드리버, 2023 | 910.45 L524pK홍 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31186/1/cover/8928518180_1.jpg) | 한자와 중국어 그리고 중국문화 | 사화 | 서울 : 민속원, 2023 | 306.0952 사95한K주 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 공대생도 생각하는가 | 박진성 | 서울 : 지식과감성#, 2023 | 811.87 박78공 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31016/47/cover/k392831410_1.jpg) | 요리의 정신 : 맛에 멋을 더하다 | 박영봉 | 부산 : 산지니, 2023 | 641.502 박64요 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31090/64/cover/k552831835_1.jpg) | 다이다이 서점에서 | 전고구자 | [서울] : 니라이카나이, 2023 | 813.87 전15등K한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31186/61/cover/8997533487_1.jpg) | 개 그리고 동물과의 대화 : 노벨상 수상자의 개와 동물 이야기! | Lorenz, Konrad Zacharias | 서울 : 간디서원, 2023 | 636.7 L869sK이2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31191/36/cover/8954672027_1.jpg) | 반에 반의 반 : 천운영 소설 | 천운영 | 파주 : 문학동네, 2023 | 811.37 천66반 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31003/39/cover/k102831214_1.jpg) | 도시의 밤하늘 : 빌딩 사이로 보이는 별빛을 찾아서 | 김성환 | [부천] : 오르트, 2023 | 523.8 김54도 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31058/37/cover/k362831425_1.jpg) | 스타트업 대표가 돼볼까 합니다 : 스타트업 창업의 정석 | 조시영 | 서울 : 애플트리태일즈, 2023 | 658.11 조58스 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31000/98/cover/k672831114_1.jpg) | 퀀트의 정석 : 현직 퀀트 트레이더가 알려주는 퀀트 투자를 위한 7가지 빌딩블록 | 김성진 | 서울 : 로드북, 2023 | 332.6322 김54퀀 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31116/55/cover/k892831847_1.jpg) | 부의 빅 히스토리 : 세상은 어떻게 부유해지는가 | Koyama, Mark | 파주 : 윌북, 2023 | 338.9 K88hK유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31080/75/cover/k352831629_1.jpg) | 금융시장의 이해 : 언택트금융·오픈뱅킹시스템 암호화폐의 이해 | 이요섭 | 서울 : 연암사, 2023 | 332 이65금9 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31179/92/cover/k122831756_1.jpg) | 경제학 입문 : 돈의 작동원리 | Yaruss, Howard | 서울 : 박영사, 2023 | 330 Y29uK이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 위대한 경제학 고전 30권을 1권으로 읽는 책 | 홍기훈 | 서울 : 빅피시, 2023 | 330.1 홍18위 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 디지털 부의 미래 : 메타버스와 웹 3.0 시대의 투자 나침반 | 이승환 | 서울 : 위너스북, 2023 | 338.544 이57디 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31222/20/cover/k792831251_1.jpg) | 불확실을 이기는 전략 : 센스메이킹 | 김양민 | 서울 : 박영사, 2023 | 658.4012 김63불2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인게이지먼트 : 내 안의 활력, 전념, 심취를 끌어내는 힘 | 권기범 | 화성 : 플랜비디자인, 2023 | 650.1 권18인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31042/48/cover/k432831613_1.jpg) | 치매에 관한 새로운 생각 : 인생의 마지막 순간까지 행복하고 존엄한 삶을 누리기 위한 제언 | Powell, Tia | 서울 : BRONSTEIN : 로크미디어, 2023 | 616.831 P886dK제 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 젊게, 오래 살려면 폐를 지켜라 : 한 권으로 끝내는 호흡기 사용설명서 | Beeh, Kai-Michael | 서울 : 쌤앤파커스, 2023 | 612.24 B414aK노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27217/84/cover/k792732292_1.jpg) | 미리 캔버스 : 너도 디자인 할 수 있어! | 전경옥 | 서울 : 슬로디미디어 : 슬로디미디어그룹, 2021 | 006.686 전14미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24308/40/cover/k132630594_1.jpg) | 어리고 아리고 여려서 | 주야요루 | 서울 : 소미미디어, 2020 | 813.37 주63청K양 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (한 권으로 해결한) 회계와 세무실무 | 이문희 | 서울 : 삼일인포마인, 2022 | 343.04 이36한 2022 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/29037/16/cover/k382836839_1.jpg) | (2022년 개정된 양도소득세법을 반영한) 재개발 재건축 권리와 세금뽀개기 | 김예림 | 서울 : 삼일인포마인, 2022 | 346.045 김64재 2022 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/29127/49/cover/k782837367_1.jpg) | 부동산개발 세무실무 | 임영택 | 삼일인포마인, 2022 | 343.0546 임64부 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 부가가치세법 실무 | 박성욱 | 서울 : 삼일인포마인, 2022 | 343.055 박54부 2022 | 법학도서관 |
