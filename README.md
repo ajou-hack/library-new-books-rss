@@ -2,8 +2,19 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (원사료로 보는) 로마법의 일반원리 : D.1.1~D.1.4, D.50.16, D.50.17 대역 및 역주 | Mommsen, Theodor | 서울 : 민속원, 2023 | 340.54 D572최 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (Union) 형법 변호사시험 기출문제집Ⅰ : 기출편 선택형 | 엠지아이 메가고시 연구소 | 서울 : 인해, 2023 | 345.0076 엠78형선 2023 v.1 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 아주대학교 50년사 : 통사 | 아주대학교 | 수원 : 아주대학교, 2023 | 378.51 아76아50 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31438/18/cover/894642236x_1.jpg) | 재롱 잔치 : 지구최강 사랑둥이 강아지 재롱이의 성장일기 | 재롱이 누나 | 서울 : 샘터 : 샘터사, 2023 | 811.87 재295재 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31328/46/cover/8976828194_1.jpg) | 에픽테토스 강의 1·2 | Epictetus | 서울 : 그린비, 2023 | 188 E64eK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18952/13/cover/8942009042_1.jpg) | 국제재무 | Eun, Cheol S | 서울 : 경문사, 2019 | 658.1599 E88i8K임 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11378/11/cover/k952531590_1.jpg) | 1987 노동자 대투쟁 : 노동자 인간선언 | 양규헌 | 서울 : 한내, 2017 | 331.89 양16천 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/21017/15/cover/8946071109_1.jpg) | 사회과학 지식의 담론사 : 발전과 냉전의 얽힘 | 오경환 | 파주 : 한울아카데미 : 한울엠플러스, 2019 | 300.2 오14사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31273/93/cover/k012832668_2.jpg) | 인간기계론 | La Mettrie, Julien Offray de | 서울 : b, 2023 | 194 L229hK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/19168/70/cover/896285225x_1.jpg) | 그래스호퍼 시크릿노트 : 37가지 팁과 함께하는 디자이너를 위한 안내서 | 한기준 | 고양 : 대가, 2019 | 006.693 한18그 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27031/59/cover/k642730629_1.jpg) | 데이비드 치퍼필드 건축설계 그룹(David Chipperfield Architects Berlin)의 아모레퍼시픽 그룹 본사 건물 건축 자료집 : 최근 극동아시아(서울)에 건축된 대형 건물 대한 건축 자료집 | Chipperfield, David | [서울] : 엠지에이치북스, 2021 | 692.1 데68cKm | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (Union) 민소법 변호사시험 기출문제집Ⅰ : 기출편 선택형 | 엠지아이 메가고시 연구소 | 서울 : 인해, 2023 | 347.05076 엠78민 2023 v.1 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | MMPI-2 해석 상담, 어떻게 할 것인가 : 긍정심리학적 접근 | Nichols, David S | 서울 : 마음사랑, 2015 | 155.283 T398LK마 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31367/39/cover/8928518245_1.jpg) | (원사료로 보는) 로마법의 일반원리 : D.1.1~D.1.4, D.50.16, D.50.17 대역 및 역주 | Mommsen, Theodor | 서울 : 민속원, 2023 | 340.54 D572최 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31251/1/cover/k222832361_1.jpg) | (Union) 형법 변호사시험 기출문제집Ⅰ : 기출편 선택형 | 엠지아이 메가고시 연구소 | 서울 : 인해, 2023 | 345.0076 엠78형선 2023 v.1 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30374/4/cover/k062839959_1.jpg) | 분절된 노동, 변형된 계급 : 울산 대공장 노동자의 생애와 노동운동 | 유형근 | 부산 : 산지니, 2022 | 331.0951 유94분 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31273/7/cover/k542832564_1.jpg) | 거인의 노트 : 인생에서 무엇을 보고 어떻게 기록할 것인가 | 김익한 | 파주 : 다산북스, 2023 | 808 김68거 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31294/95/cover/8936439006_1.jpg) | 두고 온 여름 : 성해나 소설 | 성해나 | 파주 : 창비, 2023 | 811.37 성93두 | 중앙도서관 |
@@ -41,14 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31319/39/cover/k542832984_1.jpg) | 도망치는 게 뭐 어때서 : 씩씩한 실패를 넘어 새로운 길을 만드는 모험 | 김수민 | 서울 : 한겨레 : 한겨레엔, 2023 | 811.87 김56도 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31267/14/cover/8955479905_1.jpg) | 너에게 오는 건 사람이 아니라 사랑이야 | 청산미지자 | 서울 : 빚은책들 : 크레용하우스, 2023 | 813.37 청52적K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31325/52/cover/k472832687_1.jpg) | 나의 마지막 엄마 : 아사다 지로 장편소설 | 천전차랑 | 파주 : 다산책방 : 다산북스, 2023 | 813.37 천74모K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31317/26/cover/k772832988_1.jpg) | 견딜 수 없는 사랑 : 이언 매큐언 장편소설 | McEwan, Ian | 서울 : 복복서가, 2023 | 823.914 M142eK한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31132/21/cover/k082831941_2.jpg) | 날씨와 얼굴 : 이슬아 칼럼집 | 이슬아 | 파주 : 위고, 2023 | 811.87 이57날 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31102/9/cover/k722831633_1.jpg) | 조선사 스무고개 : 고소설 연구자가 발견한 역사의 조각들 | 이윤석 | [서울] : 한뼘책방, 2023 | 951.5 이66조고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31011/64/cover/k912831314_1.jpg) | 서울은 기억이다 : 오늘의 서울을 만든 시공간의 역사 | 공간담화 | 파주 : 서해문집, 2023 | 951.91 공12서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31005/64/cover/k482831217_1.jpg) | 용의 불길, 신냉전이 온다 : 일대일로 정책에서 타이완해협의 위기까지 더 은밀하고 거대해진 중국의 위협 | Williams, Ian | 서울 : 반니, 2023 | 320.952 W723fK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30960/70/cover/k002831102_1.jpg) | (세상에서 가장 쓸모 있는) 철학 강의 | 소수전건 | 서울 : 더숲, 2023 | 100 소56철K오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30927/58/cover/k002831398_1.jpg) | 리더의 태도(態度) : 리더의 차이는 어디에서 나오는가 | 문성후 | 서울 : 카시오페아, 2023 | 658.4092 문54리 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30988/52/cover/8964362349_2.jpg) | 동아시아 속 2.8독립선언, 그 역사적 의의 : 젊은이들의 만남과 꿈 | 재일한인역사자료관 | 서울 : 삼인, 2023 | 951.61 재68동K배 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30912/81/cover/k462831583_1.jpg) | 인간 같은 동물, 동물 같은 인간 : 동물과 인간에 대한 편견을 넘어서 | 이정전 | 파주 : 여문책, 2023 | 590 이74인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31040/31/cover/k522831517_2.jpg) | 데이터베이스 신뢰성 엔지니어링 : 탄력적인 데이터베이스 시스템 설계와 관리 | Campbell, Laine | 서울 : 에이콘, 2023 | 005.75 C188dK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31060/47/cover/k462831528_1.jpg) | (코딩 자율학습) 나도코딩의 파이썬 입문 : 초보자 눈높이에 맞춘 친절한 프로그래밍 자습서 | 나도코딩 | 서울 : 길벗, 2023 | 005.133 나25나초 | 중앙도서관 |
