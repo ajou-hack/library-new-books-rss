@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31215/64/cover/k842831159_2.jpg) | 챗GPT 세계미래보고서 : 새로운 부의 기회는 어떻게 오는가 | 박영숙 | 서울 : 더블북, 2023 | 303.483 박64챗 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 아주대학교 50년사 : 통사 | 아주대학교 | 수원 : 아주대학교, 2023 | 378.51 아76아50 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31438/18/cover/894642236x_1.jpg) | 재롱 잔치 : 지구최강 사랑둥이 강아지 재롱이의 성장일기 | 재롱이 누나 | 서울 : 샘터 : 샘터사, 2023 | 811.87 재295재 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31328/46/cover/8976828194_1.jpg) | 에픽테토스 강의 1·2 | Epictetus | 서울 : 그린비, 2023 | 188 E64eK김 | 중앙도서관 |
@@ -11,7 +12,7 @@
 | ![](https://image.aladin.co.kr/product/31273/93/cover/k012832668_2.jpg) | 인간기계론 | La Mettrie, Julien Offray de | 서울 : b, 2023 | 194 L229hK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/19168/70/cover/896285225x_1.jpg) | 그래스호퍼 시크릿노트 : 37가지 팁과 함께하는 디자이너를 위한 안내서 | 한기준 | 고양 : 대가, 2019 | 006.693 한18그 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27031/59/cover/k642730629_1.jpg) | 데이비드 치퍼필드 건축설계 그룹(David Chipperfield Architects Berlin)의 아모레퍼시픽 그룹 본사 건물 건축 자료집 : 최근 극동아시아(서울)에 건축된 대형 건물 대한 건축 자료집 | Chipperfield, David | [서울] : 엠지에이치북스, 2021 | 692.1 데68cKm | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (Union) 민소법 변호사시험 기출문제집Ⅰ : 기출편 선택형 | 엠지아이 메가고시 연구소 | 서울 : 인해, 2023 | 347.05076 엠78민 2023 v.1 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31239/22/cover/k162832967_1.jpg) | (Union) 민소법 변호사시험 기출문제집Ⅰ : 기출편 선택형 | 엠지아이 메가고시 연구소 | 서울 : 인해, 2023 | 347.05076 엠78민 2023 v.1 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | MMPI-2 해석 상담, 어떻게 할 것인가 : 긍정심리학적 접근 | Nichols, David S | 서울 : 마음사랑, 2015 | 155.283 T398LK마 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31367/39/cover/8928518245_1.jpg) | (원사료로 보는) 로마법의 일반원리 : D.1.1~D.1.4, D.50.16, D.50.17 대역 및 역주 | Mommsen, Theodor | 서울 : 민속원, 2023 | 340.54 D572최 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31251/1/cover/k222832361_1.jpg) | (Union) 형법 변호사시험 기출문제집Ⅰ : 기출편 선택형 | 엠지아이 메가고시 연구소 | 서울 : 인해, 2023 | 345.0076 엠78형선 2023 v.1 | 법학도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31321/19/cover/k892832381_1.jpg) | 경제기사를 읽어야 경제가 보인다 | 임현우 | 파주 : 책들의정원, 2023 | 330.02 임94경 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31319/39/cover/k542832984_1.jpg) | 도망치는 게 뭐 어때서 : 씩씩한 실패를 넘어 새로운 길을 만드는 모험 | 김수민 | 서울 : 한겨레 : 한겨레엔, 2023 | 811.87 김56도 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31267/14/cover/8955479905_1.jpg) | 너에게 오는 건 사람이 아니라 사랑이야 | 청산미지자 | 서울 : 빚은책들 : 크레용하우스, 2023 | 813.37 청52적K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31325/52/cover/k472832687_1.jpg) | 나의 마지막 엄마 : 아사다 지로 장편소설 | 천전차랑 | 파주 : 다산책방 : 다산북스, 2023 | 813.37 천74모K이 | 중앙도서관 |
