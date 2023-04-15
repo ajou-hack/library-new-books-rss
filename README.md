@@ -2,6 +2,17 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31272/84/cover/k752832563_1.jpg) | 마음은 어떻게 기계가 되었나 : 인지과학의 기원 또는 사이버네틱스 | Dupuy, Jean-Pierre | 서울 : 지식공작소, 2023 | 153 D945aK배 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30440/37/cover/k722830271_1.jpg) | (2023) 상법 작은 OX 네모 | 장원석 | 안양 : 나눔에듀, 2022 | 346.07076 장66상오 2022 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/2663/59/cover/8990641977_2.jpg) | 미술관이 된 시자의 고양이 : mimesis art museum 2005-2013 | 홍지웅 | 파주 : 미메시스, 2013 | 727.7 홍78미 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The dark interval : letters on loss, grief, and transformation | Rilke, Rainer Maria | New York : Modern Library, 2018. | 831.912 R5739cEb | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The spirit of the common law | Pound, Roscoe | New Brunswick, N.J. : Transaction Publishers, 1999. | 340.57 P876s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | まなの本棚 | 호전애채 | 東京 : 小学館, 2019 | 028.1 호74마2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Manual of political economy : a critical and variorum edition | Pareto, Vilfredo | Oxford, United Kingdom ; New York, NY : Oxford University Press, 2020. | 330 P228m | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31091/0/cover/k102831836_1.jpg) | (2024) 상법 핵심 암기장 | 장원석 | 안양 : 나눔에듀, 2023 | 346.07 장66상 2023 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Metaphor and metonymy at the crossroads : a cognitive perspective | Barcelona, Antonio | Berlin ; New York : Mouton de Gruyter, 2003. | 420.141 B242m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Supreme Court Decisions | Supreme Court Library of Korea | Seoul : Supreme Court Library of Korea, 2004- | 348.044 S959s v.4/v.5/v.6/v.7/v.8 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 司法年鑑 | 한국, 대법원 법원행정처 | 서울 : 法院行政處, 1991- | R 340.0202 한16사 2019, R 340.0202 한16사 2020, R 340.0202 한16사 2021, R 340.0202 한16사 2022, R 340.0202 한16사 2012/2013/2014/2015/2016/2017/2018/`99 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31215/64/cover/k842831159_2.jpg) | 챗GPT 세계미래보고서 : 새로운 부의 기회는 어떻게 오는가 | 박영숙 | 서울 : 더블북, 2023 | 303.483 박64챗 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 아주대학교 50년사 : 통사 | 아주대학교 | 수원 : 아주대학교, 2023 | 378.51 아76아50 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31438/18/cover/894642236x_1.jpg) | 재롱 잔치 : 지구최강 사랑둥이 강아지 재롱이의 성장일기 | 재롱이 누나 | 서울 : 샘터 : 샘터사, 2023 | 811.87 재295재 | 중앙도서관 |
@@ -41,14 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Liberalism : a counter-history | Losurdo, Domenico | London ; New York : Verso, 2014. | 320.51 L881cEe | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Where the crawdads sing | Owens, Delia | New York : G.P. Putnam's Sons, 2018. | 823.92 O97w | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Black fire this time | McMillon, Kim | Detroit : Aquarius Press, 2022. | 820.8 M167b v.1 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Oxford handbook of international organizations | Cogan, Jacob Katz | Oxford, United Kingdom : Oxford University Press, 2016. | 338.88 C676o | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Oxford handbook of social networks | Light, Ryan | New York, NY : Oxford University Press, 2020. | 302.3 L723o | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Assurance of sterility for sensitive combination products and materials : new paradigms to bring innovative healthcare products to patients | Lambert, Byron James | London, United Kingdom ; San Diego, CA : Academic Press, an imprint of Elsevier, 2020. | 614.48 A851L | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/16875/58/cover/k672534977_1.jpg) | 감 매거진 | garmSSI | 서울 : garmSSI : 에잇애플, 2018-2019 | 691 G233감 v.11/v.9 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/9d1eb782-a08a-464c-a56c-8517fedd59a0) | 이중톈 중국사 | 이중천 | 파주 : 글항아리, 2013-2022 | 952 이76이K김 v.8/v.9 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31017/86/cover/k872831412_1.jpg) | ChatGPT 인공지능 융합 교육법 | 변문경 | 서울 : 다빈치Bbooks : 스토리피아 : 메타유니버스, 2023 | 371.334 C492변 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31251/66/cover/k622832362_1.jpg) | 서평가의 독서법 : 분열과 고립의 시대의 책읽기 | Kakutani, Michiko | 파주 : 돌베개, 2023 | 028.9 K13서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31273/63/cover/k592832566_1.jpg) | 코딩 좀 아는 사람 : IT 시대의 필수 문해력 : 디지털 세상을 움직이는 마법의 언어 | Keeshin, Jeremy | 파주 : 윌북, 2023 | 005.13 K26rK오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31321/19/cover/k892832381_1.jpg) | 경제기사를 읽어야 경제가 보인다 | 임현우 | 파주 : 책들의정원, 2023 | 330.02 임94경 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31319/39/cover/k542832984_1.jpg) | 도망치는 게 뭐 어때서 : 씩씩한 실패를 넘어 새로운 길을 만드는 모험 | 김수민 | 서울 : 한겨레 : 한겨레엔, 2023 | 811.87 김56도 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31267/14/cover/8955479905_1.jpg) | 너에게 오는 건 사람이 아니라 사랑이야 | 청산미지자 | 서울 : 빚은책들 : 크레용하우스, 2023 | 813.37 청52적K이 | 중앙도서관 |
