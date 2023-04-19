@@ -2,26 +2,29 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 우리는 우리를 잊지 못하고 : 닿을 수 없는 그곳의 우리가 잊을 수 없는 오늘의 우리에게 | 김민철 | 서울 : 창비 : 미디어창비, 2021 | 811.87 김38우닿 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 클레브 공작부인 : 라파예트 부인 장편소설 | La Fayette | 파주 : 문학동네, 2011 | 843.4 L161pK류 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 기록보존의 실제 | 신종순 | 파주 : 세화, 2019 | 025.1714 기295신4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | GPT세대가 온다 : 잡아먹을 것인가, 잡아먹힐 것인가 | 송진주 | 서울 : 마인드셋, 2023 | 303.483 송78g | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 오늘부터 내 그릇을 키우기로 했다 : 무엇이든 될 수 있는 큰 그릇 인생 로드맵 | 이진아 | 서울 : 카멜북스, 2023 | 158.1 이78오 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 말랑말랑 생각법 : 일도 삶도 바뀌잖아 | 한명수 | 파주 : 김영사, 2023 | 153.35 한34말 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 사진으로 보는 우리 문화유산 | 강형원 | 서울 : 알에이치코리아, 2022 | 951 강94사 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 교육사회학 | 김신일 | 파주 : 교육과학사, 2022 | 370.193 김58교6 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 교육과정 문해력 : 교육과정-수업-평가-기록 일체화와 과정중심평가 key | 유영식 | 서울 : 테크빌교육, 2018 | 375 유64교 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 교육과정의 이해 | 소경희 | 파주 : 교육과학사, 2017(2022 9쇄) | 375 소14교교 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 고교학점제, 진로교육을 다시 디자인하다 : 고교학점제로 구상하는 진로교육 로드맵 | 정미라 | 서울 : 맘에드림, 2021 | 371.42 고15정 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 더 모먼트, 혁신의 변환점 | 하영욱 | 서울 : 예문, 2023 | 658.4063 하64더 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 투자는 심리게임이다 | Kostolany, André | 서울 : 미래의창, 2023 | 332.6 K86k3K정 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 돈, 뜨겁게 사랑하고 차갑게 다루어라 | Kostolany, André | 서울 : 미래의창, 2023 | 332.6 K86k5K한 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 부동산마케팅론 : 이론과 실무 | 김재태 | 서울 : 부연사, 2021 | 333.33 부25김3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 기초공학 | Das, Braja M | [서울] : 센게이지러닝코리아, 2017(2023 2쇄) | 624.15 D229p8K신 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 부부가 둘 다 잘 먹었습니다 : 성북동 소행성 부부의 일상 식사 일기 | 윤혜자 | 서울 : 몽스북, 2023 | 811.87 윤94부 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 퀄리티 투자, 그 증명의 기록 : 테리 스미스의 투자자 서한과 칼럼들 | Smith, Terry | 서울 : 워터베어프레스, 2023 | 332.6 S662iK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 도둑맞은 자전거 : 우밍이 장편소설 | 오명익 | 파주 : 비채 : 김영사, 2023 | 812.37 오34단K허 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (개인을 넘어 기업가로 가는 길, 모두가 묻고 싶은 120가지 주제를 담은) 사장학개론 | 김승호 | 파주 : 스노우폭스북스, 2023 | 658.4092 김57사 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 예방약학 | 한국약학교육협의회 | 서울 : 신일북스, 2023 | 615 한16예10 v.1/v.2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 韩国大法院判例选编=korean Supreme Court Decisions | 법원도서관 | 고양 : 法院图书馆, 2009- | 348.044 한16대도 v.1/v.10/v.11/v.12/v.13/v.2/v.3/v.4/v.5/v.6/v.7/v.8... | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 외국사법제도연구 | 법원행정처 | 서울 : 법원행정처, 2007- | 347 법66외 v.7/v.8/v.9 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/29711/4/cover/k382838797_1.jpg) | 우리는 우리를 잊지 못하고 : 닿을 수 없는 그곳의 우리가 잊을 수 없는 오늘의 우리에게 | 김민철 | 서울 : 창비 : 미디어창비, 2021 | 811.87 김38우닿 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/1437/56/cover/8954616895_1.jpg) | 클레브 공작부인 : 라파예트 부인 장편소설 | La Fayette | 파주 : 문학동네, 2011 | 843.4 L161pK류 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/20420/76/cover/8931709994_1.jpg) | 기록보존의 실제 | 신종순 | 파주 : 세화, 2019 | 025.1714 기295신4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31426/27/cover/k272832214_1.jpg) | GPT세대가 온다 : 잡아먹을 것인가, 잡아먹힐 것인가 | 송진주 | 서울 : 마인드셋, 2023 | 303.483 송78g | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31404/20/cover/k432832300_1.jpg) | 오늘부터 내 그릇을 키우기로 했다 : 무엇이든 될 수 있는 큰 그릇 인생 로드맵 | 이진아 | 서울 : 카멜북스, 2023 | 158.1 이78오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31374/17/cover/8934966033_1.jpg) | 말랑말랑 생각법 : 일도 삶도 바뀌잖아 | 한명수 | 파주 : 김영사, 2023 | 153.35 한34말 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30169/56/cover/8925577623_2.jpg) | 사진으로 보는 우리 문화유산 | 강형원 | 서울 : 알에이치코리아, 2022 | 951 강94사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28965/95/cover/8925416735_1.jpg) | 교육사회학 | 김신일 | 파주 : 교육과학사, 2022 | 370.193 김58교6 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/17443/41/cover/k582534003_1.jpg) | 교육과정 문해력 : 교육과정-수업-평가-기록 일체화와 과정중심평가 key | 유영식 | 서울 : 테크빌교육, 2018 | 375 유64교 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/10515/39/cover/8925411490_1.jpg) | 교육과정의 이해 | 소경희 | 파주 : 교육과학사, 2017(2022 9쇄) | 375 소14교교 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27318/93/cover/k992732229_2.jpg) | 고교학점제, 진로교육을 다시 디자인하다 : 고교학점제로 구상하는 진로교육 로드맵 | 정미라 | 서울 : 맘에드림, 2021 | 371.42 고15정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31036/50/cover/8956594619_1.jpg) | 더 모먼트, 혁신의 변환점 | 하영욱 | 서울 : 예문, 2023 | 658.4063 하64더 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31289/30/cover/k932832679_2.jpg) | 투자는 심리게임이다 | Kostolany, André | 서울 : 미래의창, 2023 | 332.6 K86k3K정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31010/51/cover/k802831312_2.jpg) | 돈, 뜨겁게 사랑하고 차갑게 다루어라 | Kostolany, André | 서울 : 미래의창, 2023 | 332.6 K86k5K한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26625/81/cover/8984659673_1.jpg) | 부동산마케팅론 : 이론과 실무 | 김재태 | 서울 : 부연사, 2021 | 333.33 부25김3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/17013/47/cover/8962184087_1.jpg) | 기초공학 | Das, Braja M | [서울] : 센게이지러닝코리아, 2017(2023 2쇄) | 624.15 D229p8K신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31239/84/cover/k422832069_1.jpg) | 부부가 둘 다 잘 먹었습니다 : 성북동 소행성 부부의 일상 식사 일기 | 윤혜자 | 서울 : 몽스북, 2023 | 811.87 윤94부 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31370/37/cover/k312832807_1.jpg) | 퀄리티 투자, 그 증명의 기록 : 테리 스미스의 투자자 서한과 칼럼들 | Smith, Terry | 서울 : 워터베어프레스, 2023 | 332.6 S662iK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31086/21/cover/893494367x_1.jpg) | 도둑맞은 자전거 : 우밍이 장편소설 | 오명익 | 파주 : 비채 : 김영사, 2023 | 812.37 오34단K허 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31325/1/cover/k832832683_3.jpg) | (개인을 넘어 기업가로 가는 길, 모두가 묻고 싶은 120가지 주제를 담은) 사장학개론 | 김승호 | 파주 : 스노우폭스북스, 2023 | 658.4092 김57사 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31337/5/cover/8960519790_1.jpg) | 장하준의 경제학 레시피 : 마늘에서 초콜릿까지 18가지 재료로 요리한 경제 이야기 | Chang, Ha-Joon | 서울 : 부키, 2023 | 330 C456ehK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31315/8/cover/k872832884_1.jpg) | 챗GPT와 업무자동화 : 1분 만에 끝내는 엑셀, 구글 시트, 파워포인트, 파이썬 자동화 with ChatGPT | 김철수 | 파주 : 위키북스, 2023 | 006.3 김83챗 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31016/62/cover/k882831410_3.jpg) | 챗GPT : 마침내 찾아온 특이점 | 반병현 | 파주 : 생능북스 : 생능, 2023 | 006.3 반44챗 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/19168/70/cover/896285225x_1.jpg) | 그래스호퍼 시크릿노트 : 37가지 팁과 함께하는 디자이너를 위한 안내서 | 한기준 | 고양 : 대가, 2019 | 006.693 한18그 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27031/59/cover/k642730629_1.jpg) | 데이비드 치퍼필드 건축설계 그룹(David Chipperfield Architects Berlin)의 아모레퍼시픽 그룹 본사 건물 건축 자료집 : 최근 극동아시아(서울)에 건축된 대형 건물 대한 건축 자료집 | Chipperfield, David | [서울] : 엠지에이치북스, 2021 | 692.1 데68cKm | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31239/22/cover/k162832967_1.jpg) | (Union) 민소법 변호사시험 기출문제집Ⅰ : 기출편 선택형 | 엠지아이 메가고시 연구소 | 서울 : 인해, 2023 | 347.05076 엠78민 2023 v.1 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | MMPI-2 해석 상담, 어떻게 할 것인가 : 긍정심리학적 접근 | Nichols, David S | 서울 : 마음사랑, 2015 | 155.283 T398LK마 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31367/39/cover/8928518245_1.jpg) | (원사료로 보는) 로마법의 일반원리 : D.1.1~D.1.4, D.50.16, D.50.17 대역 및 역주 | Mommsen, Theodor | 서울 : 민속원, 2023 | 340.54 D572최 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31251/1/cover/k222832361_1.jpg) | (Union) 형법 변호사시험 기출문제집Ⅰ : 기출편 선택형 | 엠지아이 메가고시 연구소 | 서울 : 인해, 2023 | 345.0076 엠78형선 2023 v.1 | 법학도서관 |
