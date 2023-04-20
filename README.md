@@ -2,6 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/3844/1/cover/1185502025_1.jpg) | 사람 곁에 사람 곁에 사람 : 인권운동가 박래군의 삶과 인권 이야기 | 박래군 | 서울 : 클, 2014 | 323.4 박293사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/5519/35/cover/899404468x_1.jpg) | 교육과정의 이해 | 김철주 | 고양 : 서현사, 2015 | 375 김83교 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31322/34/cover/k522832682_1.jpg) | 성격심리학 : 아홉 가지 접근법과 현대적 고찰 | Schultz, Duane P | 서울 : 사회평론아카데미, 2023 | 155.2 S387t11K박 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 예방약학 | 한국약학교육협의회 | 서울 : 신일북스, 2023 | 615 한16예10 v.1/v.2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 韩国大法院判例选编=korean Supreme Court Decisions | 법원도서관 | 고양 : 法院图书馆, 2009- | 348.044 한16대도 v.1/v.10/v.11/v.12/v.13/v.2/v.3/v.4/v.5/v.6/v.7/v.8... | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 외국사법제도연구 | 법원행정처 | 서울 : 법원행정처, 2007- | 347 법66외 v.7/v.8/v.9 | 법학도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/11378/11/cover/k952531590_1.jpg) | 1987 노동자 대투쟁 : 노동자 인간선언 | 양규헌 | 서울 : 한내, 2017 | 331.89 양16천 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/21017/15/cover/8946071109_1.jpg) | 사회과학 지식의 담론사 : 발전과 냉전의 얽힘 | 오경환 | 파주 : 한울아카데미 : 한울엠플러스, 2019 | 300.2 오14사 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31273/93/cover/k012832668_2.jpg) | 인간기계론 | La Mettrie, Julien Offray de | 서울 : b, 2023 | 194 L229hK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/19168/70/cover/896285225x_1.jpg) | 그래스호퍼 시크릿노트 : 37가지 팁과 함께하는 디자이너를 위한 안내서 | 한기준 | 고양 : 대가, 2019 | 006.693 한18그 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27031/59/cover/k642730629_1.jpg) | 데이비드 치퍼필드 건축설계 그룹(David Chipperfield Architects Berlin)의 아모레퍼시픽 그룹 본사 건물 건축 자료집 : 최근 극동아시아(서울)에 건축된 대형 건물 대한 건축 자료집 | Chipperfield, David | [서울] : 엠지에이치북스, 2021 | 692.1 데68cKm | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31239/22/cover/k162832967_1.jpg) | (Union) 민소법 변호사시험 기출문제집Ⅰ : 기출편 선택형 | 엠지아이 메가고시 연구소 | 서울 : 인해, 2023 | 347.05076 엠78민 2023 v.1 | 법학도서관 |
