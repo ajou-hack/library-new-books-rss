@@ -2,6 +2,19 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 창작과 이용을 위한 저작권 | 배대헌 | 대구 : 경북대학교출판부, 2023 | 346.0482 배23창 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/30763/72/cover/k892830550_1.jpg) | (일상생활에서 꼭 알아두어야 할) 생활법률 | 김용한 | 서울 : 법문북스, 2023 | 340 김65생법 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 슬기로운 대처법 : 10년 차 베테랑 변호사가 일반인의 시선으로 풀어낸 법률실용서 | 강진석 | 서울 : 지식과감성#, 2022 | 340 강78슬 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31448/98/cover/8947548855_1.jpg) | 베어마켓 : 네 번의 금융위기에서 발견한 부의 기회 | Napier, Russell | 서울 : 한국경제신문 : 한경BP, 2023 | 332.6322 N211a4K권 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31311/70/cover/8944902313_1.jpg) | 헌법Ⅰ | 조재현 | 부산 : 동아대학교출판부, 2023 | 342.0076 조73헌 v.1 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31182/72/cover/k982831859_1.jpg) | (2023) 행정법전 | 정선균 | 서울 : 필통북스, 2023 | 342.06076 정54행법7 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31049/9/cover/8949966832_1.jpg) | 프랑스의 공무원 파업권 | 이철진 | 파주 : 경인문화사, 2023 | 342.068 이83프 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31246/74/cover/k702832167_1.jpg) | 지적재산권법 | 조영선 | 서울 : 박영사, 2023 | 346.048 조64지6 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/8173/13/cover/8944902739_1.jpg) | 중국법문화론연구서설 | 이종길 | 부산 : 동아대학교출판부, 2023 | 340.0952 이75중 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31150/69/cover/8963764958_1.jpg) | 정보공개제도 이해 : 소송실무자료 | 법률연구회 | 서울 : 법률정보센터, 2023 | 342.0662 법296정 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31192/78/cover/k442831954_1.jpg) | 민사소송법 사례연습2 | 문영화 | 서울 : 성균관대학교출판부, 2023 | 347.05076 문64민3 v.2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31216/11/cover/8977707412_1.jpg) | 기업경영과 법 | 오수근 | 서울 : 弘文社, 2023 | 346.065 오56기2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31249/11/cover/k142832267_1.jpg) | 4차산업시대 유니콘 되는 법 | 전삼현 | 고양 : 화산미디어, 2023 | 658.11 전52사 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Playing and reality | Winnicott, D. W | Milton Park, Abingdon, Oxon ; New York : Routledge, 2005. | 618.9289165 W776p | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The environment in world history | Mosley, Stephen | Milton Park, Abingdon, Oxon ; New York, NY : Routledge, 2010. | 304.2 M912e | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30007/11/cover/k562838352_1.jpg) | (조현기 변호사의 쉽게 이해하는) 위기탈출 부동산 투자·거래 해설집 | 조현기 | 서울 : 바른북스, 2022 | 346.0438 조94위 | 법학도서관 |
@@ -39,16 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31288/86/cover/k392832577_1.jpg) | 형법총론강의 | 김태명 | 고양 : 정독, 2023 | 345 김883형2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31415/8/cover/k212832119_1.jpg) | 형법총론 | 김성천 | 서울 : 소진, 2023 | 345 김54형10 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30830/76/cover/k062831270_1.jpg) | 형법사용설명서 | 임동민 | 서울 : 박영사, 2023 | 345 임25형2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30995/39/cover/8918913761_1.jpg) | 刑法各論 | 임웅 | 파주 : 法文社, 2023 | 345 임66형각16 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31056/8/cover/k252831421_1.jpg) | 형법각론 | 김혜정 | 고양 : 정독, 2023 | 345 형44김각3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31219/75/cover/8971806044_1.jpg) | 헌법재판법 강의 | 성중탁 | 대구 : 경북대학교출판부, 2023 | 342 성76헌 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30987/93/cover/k712831400_1.jpg) | 행정법총론 | 이영무 | 고양 : 정독, 2023 | 342.06 이64행정 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30860/35/cover/k952831477_1.jpg) | 행정법 | 김남철 | 고양 : 정독, 2023 | 342.06 김192행정3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31105/10/cover/k142831636_1.jpg) | 한국헌법론 | 전광석 | 서울 : 집현재, 2023 | 342 전15한17 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30782/67/cover/k242831369_1.jpg) | 친족상속법 | 조은희 | 고양 : 정독, 2023 | 346.015 조67친 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31294/28/cover/8968499470_1.jpg) | 채권법총론 : 이론·판례 | 송오식 | 광주 : 전남대학교출판문화원, 2023 | 346.02 송65채 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31198/75/cover/k832831055_1.jpg) | 저작권 기초 | 김경숙 | 서울 : 아이피코쿤, 2023 | 346.0482 김14저 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31382/38/cover/k052832007_1.jpg) | 인공지능과 법Vol. 1 | 한양대학교 법학연구소 | 서울 : 오래, 2023 | 343.0999 한63인 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31288/39/cover/k822832574_1.jpg) | 新 형사소송법 | 정웅석 | 서울 : 박영사, 2023 | 345.05 정66신 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31008/21/cover/k342831318_1.jpg) | (스토리텔링) 범죄학Ⅰ : 기초 및 이론 | 정진성 | 서울 : 솔과학, 2023 | 364 정78범 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31352/94/cover/k102832991_1.jpg) | 쉽지만 꽤 쓸 만한 형사법 100 : 박변과 백변의 친절한 형사법 가이드 | 박성배 | 고양 : 가갸날, 2023 | 345 박54쉽 | 법학도서관 |
