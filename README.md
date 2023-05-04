@@ -2,6 +2,25 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31532/81/cover/k232832443_1.jpg) | (해커스변호사) 민법 맥 암기장 | 윤동환 | 서울 : 해커스변호사 : 해커스패스, 2023 | 346.0076 윤25민해2 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Project Hail Mary : a novel | Weir, Andy | New York : Ballantine Books, 2021. | 823.92 W425p | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31272/80/cover/k322832563_1.jpg) | (시민을 위한) 행정법 입문 | 홍준형 | 서울 : 박영사, 2023 | 342.06 홍76행입3 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A research agenda for neoliberalism | Birch, Kean | Cheltenham, UK ; Northampton, MA, USA : Edward Elgar Publishing, 2018. | 330.122 B617r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Ultrasocial : the evolution of human nature and the quest for a sustainable future | Gowdy, John M | Cambridge ; New York, NY : Cambridge University Press, 2021. | 304.2 G722u | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Is there a future for heterodox economics? : institutions, ideology and a scientific community | Hodgson, Geoffrey Martin | Cheltenham, UK ; Northampton, MA, USA : Edward Elgar Publishing, 2019. | 330 H691i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Barozzi Veiga : arquitectura 2011-2021 | Ricardo Meri de la Maza | Valencia : General de Ediciones de Arquitectura, 2022. | 720.922 R488b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | La croix, la baleine et le canon : La France face à la Corée au milieu du XIXe siècle | Roux, Pierre-Emmanuel | Paris : Les Éditions du Cerf, 2012. | 327.44051 R871c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Imposing, maintaining, and tearing open the Iron Curtain : the Cold War and East-Central Europe, 1945-1989 | Kramer, Mark | Lanham, Maryland : Lexington Books, 2014. | 947.0009045 K89i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | After the enlightenment : political realism and international relations in the mid-twentieth century | Guilhot, Nicolas | Cambridge, United Kingdom ; New York, NY, USA : Cambridge University Press, 2017. | 327.101 G956a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Limits of the numerical : the abuses and uses of quantification | Newfield, Christopher | Chicago ; London : The University of Chicago Press, 2022. | 001.42 N547L | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Money and empire : Charles P. Kindleberger and the dollar system | Mehrling, Perry | Cambridge, United Kingdom ; New York, NY : Cambridge University Press, 2023. | 332.4973 K51m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Debt : the first 5,000 years | Graeber, David | Brooklyn, NY : Melville House, 2021. | 332 G734d2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The great reversal : how America gave up on free markets | Philippon, Thomas | Cambridge, Massachusetts : The Belknap Press of Harvard University Press, 2019. | 330.973 P552g | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hyper-organization : global organizational expansion | Bromley, Patricia | Oxford : Oxford University Press, 2015. | 300 B868h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Philosophy of sport : key questions | Ryall, Emily | London : Bloomsbury Sport, 2016. | 796.01 R988p | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31267/48/cover/k312832462_1.jpg) | 마이크로전자회로 | Razavi, Behzad | 서울 : 한티에듀, 2023 | 621.381 R278f3K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Thinking about history | Maza, Sarah C | Chicago : The University of Chicago Press, 2017. | 900 M475t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | When proliferation causes peace : the psychology of nuclear crises | Cohen, Michael D | Washington, D.C. : Georgetown University Press, 2017. | 327.1747 C678w | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30177/2/cover/8934940646_1.jpg) | 헌법의 자리 : 시민을 위한 헌법 수업 | 박한철 | 파주 : 김영사, 2022 | 342.519 박92헌 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31325/58/cover/8968503524_1.jpg) | 환경 에너지 리빙랩 : 사용자 주도의 미세먼지, 기후변화, 순환도시 문제 해결 | 이태동 | 서울 : 연세대학교 대학출판문화원, 2019 | 628 이883환 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27350/82/cover/8990701473_1.jpg) | #지그재그HR : X세대와 MZ세대를 위한 교차 리더십 | Claus, Lisbeth | 서울 : KMAC, 2021 | 658.4092 C616zK정 | 중앙도서관 |
@@ -33,22 +52,3 @@
 | ![](https://image.aladin.co.kr/product/7715/56/cover/8964212452_1.jpg) | 회로이론 | Nilsson, James William | 서울 :한티미디어,2016 | 621.3192 N712e10K장 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31448/98/cover/8947548855_1.jpg) | 베어마켓 : 네 번의 금융위기에서 발견한 부의 기회 | Napier, Russell | 서울 : 한국경제신문 : 한경BP, 2023 | 332.6322 N211a4K권 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31311/70/cover/8944902313_1.jpg) | 헌법Ⅰ | 조재현 | 부산 : 동아대학교출판부, 2023 | 342.0076 조73헌 v.1 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31182/72/cover/k982831859_1.jpg) | (2023) 행정법전 | 정선균 | 서울 : 필통북스, 2023 | 342.06076 정54행법7 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31049/9/cover/8949966832_1.jpg) | 프랑스의 공무원 파업권 | 이철진 | 파주 : 경인문화사, 2023 | 342.068 이83프 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31246/74/cover/k702832167_1.jpg) | 지적재산권법 | 조영선 | 서울 : 박영사, 2023 | 346.048 조64지6 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/8173/13/cover/8944902739_1.jpg) | 중국법문화론연구서설 | 이종길 | 부산 : 동아대학교출판부, 2023 | 340.0952 이75중 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31150/69/cover/8963764958_1.jpg) | 정보공개제도 이해 : 소송실무자료 | 법률연구회 | 서울 : 법률정보센터, 2023 | 342.0662 법296정 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31192/78/cover/k442831954_1.jpg) | 민사소송법 사례연습2 | 문영화 | 서울 : 성균관대학교출판부, 2023 | 347.05076 문64민3 v.2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31216/11/cover/8977707412_1.jpg) | 기업경영과 법 | 오수근 | 서울 : 弘文社, 2023 | 346.065 오56기2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31249/11/cover/k142832267_1.jpg) | 4차산업시대 유니콘 되는 법 | 전삼현 | 고양 : 화산미디어, 2023 | 658.11 전52사 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Playing and reality | Winnicott, D. W | Milton Park, Abingdon, Oxon ; New York : Routledge, 2005. | 618.9289165 W776p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The environment in world history | Mosley, Stephen | Milton Park, Abingdon, Oxon ; New York, NY : Routledge, 2010. | 304.2 M912e | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30007/11/cover/k562838352_1.jpg) | (조현기 변호사의 쉽게 이해하는) 위기탈출 부동산 투자·거래 해설집 | 조현기 | 서울 : 바른북스, 2022 | 346.0438 조94위 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/26427/75/cover/k982738527_1.jpg) | 유튜법 : 현직 미디어 업계 변호사가 알려주는 유튜버를 위한 법 안내서 | 신상진 | 파주 : 이담Books : 한국학술정보, 2021 | 343.0994 신52유 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31281/92/cover/k272832475_2.jpg) | 형사특별법 | 박상기 | 서울 : 집현재, 2023 | 345 박52형집4 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31314/88/cover/8918914016_1.jpg) | 형법각론 | 이형국 | 파주 : 法文社, 2023 | 345 이94형각3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31132/14/cover/k182831940_1.jpg) | 한국헌법론 | 허영 | 서울 : 박영사, 2023 | 342 허64한19 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31325/0/cover/k882832683_1.jpg) | 新民事訴訟法 | 이시윤 | 서울 : 博英社, 2023 | 347.05 이58신 2023 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31222/11/cover/k272831251_1.jpg) | 신국제법 강의 : 이론과 사례 | 정인섭 | 서울 : 박영사, 2023 | 341 정68국13 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31098/8/cover/8944505616_1.jpg) | 생활과 법률 | 임윤수 | 서울 : 三英社, 2023 | 340 원64생7 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31179/55/cover/8918913923_1.jpg) | 법학원론 | 허순철 | 파주 : 法文社, 2023 | 340 허56법 | 법학도서관 |
