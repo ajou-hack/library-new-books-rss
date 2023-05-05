@@ -2,6 +2,20 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31187/43/cover/k312832006_1.jpg) | 바람이 되어 살아낼게 : 세월호 생존학생 청년이 되어 쓰는 다짐 | 유가영 | 서울 : 다른, 2023 | 811.87 유12바 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31316/87/cover/k792832886_1.jpg) | 네이버 스마트스토어 실전 마케팅 : 네이버쇼핑 상위노출부터 SNS 활용까지 | 최재혁 | 서울 : 다온북스, 2023 | 658.872 최73네2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31403/27/cover/k212832309_1.jpg) | 가모 저택 사건 | 궁부미유키 | 고양 : 북스피어, 2023 | 813.37 궁46포K이북 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31495/45/cover/k162832335_1.jpg) | 천년의 독서 : 오직 읽기로만 열리는 세계 | 삼사경명 | 고양 : 시프, 2023 | 028.1 삼52천K하 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 돌연한 출발 : 프란츠 카프카 단편선 | Kafka, Franz | 서울 : 민음사, 2023 | 833.912 K11aK전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31515/58/cover/8960908088_1.jpg) | 고요한 포옹 : 박연준 산문 | 박연준 | 서울 : 마음산책, 2023 | 811.47 박64고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29150/19/cover/8964476778_2.jpg) | 신학적 미학 : 상상력, 아름다움, 예술 속의 하나님 | Viladesau, Richard | 서울 : 동연, 2022 | 230 V695tK손2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31555/41/cover/896196433x_1.jpg) | 나의 뉴욕 수업 : 호퍼의 도시에서 나를 발견하다 | 곽아람 | 파주 : 아트북스, 2023 | 811.87 곽62결2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31279/15/cover/k242832471_1.jpg) | (왕초보 판매자도 파워셀러가 되는) 네이버 스마트스토어 시작하기 | 서미진 | 서울 : 한빛미디어, 2023 | 658.872 서38네 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24780/0/cover/k742631727_1.jpg) | (트래픽을 쓸어 담는) 검색엔진 최적화 : 검색엔진이 가장 좋아하는 사이트 만들기 | 김건오 | 서울 : e비즈북스, 2020 | 658.872 김14검 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30860/25/cover/k002831475_1.jpg) | 디스 이즈 홋카이도 | 권예나 | 서울 : 테라, 2023 | 915.304 권64디2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31382/80/cover/k932832108_1.jpg) | 이미 시작된 전쟁 : 북한은 왜 전쟁을 일으킬 수밖에 없는가 | 이철 | 서울 : page2 : 페이지2북스, 2023 | 355.033551 이83이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31443/29/cover/8925576775_1.jpg) | 솔드 아웃 : ‘서서히 그리고 갑자기’ 세계 경제를 파괴하는 공급망 위기와 부의 미래 | Rickards, James | 서울 : 알에이치코리아, 2023 | 332.45 R539sK조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11995/70/cover/k512531637_1.jpg) | 나는 돈이 없어도 사업을 한다 : 스펙도 나이도 필요 없는 주말 48시간의 기적 | Doherty, Fraser | 서울 : 비즈니스북스, 2017(2023 17쇄) | 658.11 D655fK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31532/81/cover/k232832443_1.jpg) | (해커스변호사) 민법 맥 암기장 | 윤동환 | 서울 : 해커스변호사 : 해커스패스, 2023 | 346.0076 윤25민해2 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Project Hail Mary : a novel | Weir, Andy | New York : Ballantine Books, 2021. | 823.92 W425p | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31272/80/cover/k322832563_1.jpg) | (시민을 위한) 행정법 입문 | 홍준형 | 서울 : 박영사, 2023 | 342.06 홍76행입3 | 법학도서관 |
@@ -38,17 +52,3 @@
 | ![](https://image.aladin.co.kr/product/27308/5/cover/k682732129_1.jpg) | (1년에 10억 버는) 방구석 비즈니스 : 29세에 자본도 직원도 없이 매출 10억을 달성한 사업 천재의 월급 독립 프로젝트 | Moran, Ryan Daniel | 서울 : 비즈니스북스, 2021 | 658.11 M829tK신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31132/13/cover/k022831940_1.jpg) | 시민정치와 NGO | 이태동 | 서울 : 박영사, 2023 | 323.042 이883시 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31284/31/cover/k852832570_1.jpg) | 손정의 사업가 정신 : 창업과 경영의 본질을 말하다 | 정상독부 | 서울 : 비즈니스랩, 2023 | 658.0092 손74정K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/13489/66/cover/k082532508_1.jpg) | Node.js 마이크로서비스 코딩 공작소 | 정대천 | 서울 : 길벗, 2018 | 005.2762 정23n | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31313/14/cover/k342832880_1.jpg) | 뜨거운 감자 IB : 한국 교육 혁신의 대안인가, 유행인가? | 최종홍 | 서울 : 에듀니티, 2023 | 371.9 최75뜨 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31362/56/cover/k802832490_1.jpg) | 챗GPT : GPT 노마드의 탄생 | 반병현 | 파주 : 생능북스 : 생능, 2023 | 006.3 반44챗g | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31376/36/cover/k842832906_1.jpg) | 증오를 품은 이를 위한 변명 : 증오의 사회학, 그 첫 번째 | 엄한진 | 서울 : 성균관대학교출판부, 2023 | 361.1 엄92증 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31222/6/cover/8971806036_1.jpg) | 창작과 이용을 위한 저작권 | 배대헌 | 대구 : 경북대학교출판부, 2023 | 346.0482 배23창 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31367/4/cover/k982832809_1.jpg) | 국제법으로 세상 보기 | 대한국제법학회 | 서울 : 박영사, 2023 | 341 대92국 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30639/19/cover/k242830024_1.jpg) | 타이포그래피 용어정리 | 이용제 | 서울 : 활자공간, 2022 | 686.22 이65타 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30763/72/cover/k892830550_1.jpg) | (일상생활에서 꼭 알아두어야 할) 생활법률 | 김용한 | 서울 : 법문북스, 2023 | 340 김65생법 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/e9d04dce-a1a7-42f2-94af-064bff6209bf) | 슬기로운 대처법 : 10년 차 베테랑 변호사가 일반인의 시선으로 풀어낸 법률실용서 | 강진석 | 서울 : 지식과감성#, 2022 | 340 강78슬 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/28962/10/cover/8954683371_1.jpg) | H마트에서 울다 | Zauner, Michelle | 파주 : 문학동네, 2022 | 782.42166092 Z39cK정 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/73e91916-d4dd-4c31-bd80-3fe0114f6225) | 슬픔을 공부하는 슬픔 :신형철 산문 | 신형철 | 서울 :한겨레,2018 | 811.47 신94슬 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7715/56/cover/8964212452_1.jpg) | 회로이론 | Nilsson, James William | 서울 :한티미디어,2016 | 621.3192 N712e10K장 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31448/98/cover/8947548855_1.jpg) | 베어마켓 : 네 번의 금융위기에서 발견한 부의 기회 | Napier, Russell | 서울 : 한국경제신문 : 한경BP, 2023 | 332.6322 N211a4K권 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31311/70/cover/8944902313_1.jpg) | 헌법Ⅰ | 조재현 | 부산 : 동아대학교출판부, 2023 | 342.0076 조73헌 v.1 | 법학도서관 |
