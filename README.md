@@ -2,6 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/30258/37/cover/k592839606_3.jpg) | (건강과 다이어트를 동시에 잡는 7대 3의 법칙) 채소·과일식 : 단순하면서 자연스러운 가장 효과적인 식단 | 조승우 | 서울 : 바이북스, 2022 | 613.262 조57채 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25654/7/cover/k362735140_1.jpg) | 베토벤의 생애 : 위대한 투쟁 | Rolland, Romain | 서울 : 포노, 2020 | 780.92 B415rK임 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29688/34/cover/k172838583_1.jpg) | 파이토치 딥러닝 마스터 : 모의 암 진단 프로젝트로 배우는 신경망 모델 구축부터 훈련, 튜닝, 모델 서빙까지 | Stevens, Eli | 안양 : 책만, 2022 | 006.32 S844dK현 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28205/59/cover/8968333424_1.jpg) | (보는 순간 사게 되는) 1초 문구 : 당신의 수익을 끌어올릴 1초 문구의 힘 | 장문정 | 서울 : 블랙피쉬 : 백도씨, 2021 | 659.13 장36일 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Chicago price theory | Jaffe, Sonia | Princeton, New Jersey : Princeton University Press, 2019. | 330.1553 C532j | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Graph neural networks : foundations, frontiers, and applications | Wu, Lingfei | Singapore : Springer, 2022. | 006.32 G766w | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31359/16/cover/k982832094_1.jpg) | 내가 읽는 그림 : 숨겨진 명화부터 동시대 작품까지 나만의 시선으로 감상하는 법 | BGA 백그라운드아트웍스 | 서울 : 위즈덤하우스, 2023 | 750.2 B574내 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31418/34/cover/8976045823_1.jpg) | 왕 곁에 잠들지 못한 왕비들 : 왕비릉 답사를 통해 본 조선왕비열전 | 홍미숙 | 서울 : 문예춘추사, 2023 | 951.5 홍38왕 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31383/30/cover/k862832108_1.jpg) | 로봇 시대 살아남기 : 포에니 전쟁부터 미중 갈등까지 세계사로 보는 로봇 시대 이야기 | 염규현 | 파주 : 지식의숲 : 넥서스, 2023 | 909 염16로 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31311/78/cover/k862832787_1.jpg) | (한 권으로 읽는) 미생물 세계사 | 석홍지 | 고양 : 사람과나무사이, 2023 | 579 석95감K서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31396/1/cover/k402832105_1.jpg) | 괜찮아, 그 길 끝에 행복이 기다릴 거야 : camino de Santiago | 손미나 | 서울 : 코알라컴퍼니, 2023 | 914.61104 손38괜 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31396/84/cover/8934951613_1.jpg) | 시골 소방관 심바 씨 이야기 : 최규영 에세이 | 최규영 | 파주 : 김영사, 2023 | 811.87 최16시 | 중앙도서관 |
