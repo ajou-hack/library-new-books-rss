@@ -2,6 +2,11 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 팔능거사 석재 서병오 | 심후섭 | 서울 : 민속원, 2019 | 745.61092 서44심 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31529/11/cover/k042832345_1.jpg) | 네트워크 사이언스 | Barabási, Albert-László | 서울 : 에이콘, 2023 | 004.6 B223nK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31561/53/cover/k992832855_1.jpg) | 표정없는 검사의 분투 : 나카야마 시치리 장편소설 | 중산칠리 | 파주 : 블루홀6 : 블루홀식스, 2023 | 813.37 중52능분K문 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29604/64/cover/k162838560_1.jpg) | 나는 당신의 숙제가 아니에요 | 김성남 | 서울 : 쌤스토리, 2022 | 362.3 김54나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27587/94/cover/8954681158_1.jpg) | 홍학의 자리 :정해연 장편소설 | 정해연 | 파주 :엘릭시르 :문학동네, 2021 | 811.37 정93홍 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30258/37/cover/k592839606_3.jpg) | (건강과 다이어트를 동시에 잡는 7대 3의 법칙) 채소·과일식 : 단순하면서 자연스러운 가장 효과적인 식단 | 조승우 | 서울 : 바이북스, 2022 | 613.262 조57채 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25654/7/cover/k362735140_1.jpg) | 베토벤의 생애 : 위대한 투쟁 | Rolland, Romain | 서울 : 포노, 2020 | 780.92 B415rK임 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29688/34/cover/k172838583_1.jpg) | 파이토치 딥러닝 마스터 : 모의 암 진단 프로젝트로 배우는 신경망 모델 구축부터 훈련, 튜닝, 모델 서빙까지 | Stevens, Eli | 안양 : 책만, 2022 | 006.32 S844dK현 | 중앙도서관 |
@@ -47,8 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31225/8/cover/k082831359_1.jpg) | 프레드릭 제임슨 | Buchanan, Ian | 서울 : 책세상, 2023 | 801.95092 J31bK민 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31279/14/cover/k262832471_2.jpg) | 유인원과의 산책 : 제인 구달 다이앤 포시 비루테 갈디카스 | Montgomery, Sy | 서울 : 돌고래, 2023 | 599.880922 M788wK김제 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31411/46/cover/k182832014_1.jpg) | 과학의 위로 : 답답한 인생의 방정식이 선명히 풀리는 시간 | 이강룡 | 서울 : 한빛비즈, 2023 | 502 이12과 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31353/1/cover/k462832991_1.jpg) | 멜랑콜리 치료의 역사 | Starobinski, Jean | 서울 : 읻다, 2023 | 128.37 S795eK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28582/75/cover/k922832104_1.jpg) | 갈대 속의 영원 : 저항하고 꿈꾸고 연결하는 발명품, 책의 모험 | Vallejo Moreu, Irene | 서울 : 반비, 2023 | 002.09 V182iK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31359/16/cover/k982832094_1.jpg) | 내가 읽는 그림 : 숨겨진 명화부터 동시대 작품까지 나만의 시선으로 감상하는 법 | BGA 백그라운드아트웍스 | 서울 : 위즈덤하우스, 2023 | 750.2 B574내 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31418/34/cover/8976045823_1.jpg) | 왕 곁에 잠들지 못한 왕비들 : 왕비릉 답사를 통해 본 조선왕비열전 | 홍미숙 | 서울 : 문예춘추사, 2023 | 951.5 홍38왕 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31383/30/cover/k862832108_1.jpg) | 로봇 시대 살아남기 : 포에니 전쟁부터 미중 갈등까지 세계사로 보는 로봇 시대 이야기 | 염규현 | 파주 : 지식의숲 : 넥서스, 2023 | 909 염16로 | 중앙도서관 |
