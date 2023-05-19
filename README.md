@@ -2,13 +2,14 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/30078/22/cover/k882839376_1.jpg) | 영어과학기술논문 작성법 | 남기석 | 전주 : 짓다, 2022 | 808.066 남18영2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29017/70/cover/k662836624_1.jpg) | (전근대부터 현대까지 빠짐없이 둘러보는) 일본 문화 이야기 | 신종대 | 서울 : 글로벌콘텐츠, 2022 | 306.0953 신75일글 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 빅데이터와 텍스트네트워크 분석 | 이정락 | 경산 : 영남대학교출판부, 2022 | 006.312 빅24이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28996/24/cover/8975818497_1.jpg) | 빅데이터와 텍스트네트워크 분석 | 이정락 | 경산 : 영남대학교출판부, 2022 | 006.312 빅24이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29783/32/cover/8944491038_1.jpg) | 선박의 이해 | 김부기 | 부산 : 한국해양과학기술원, 2022 | 623.81 장54선2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (미셸 오바마) 자기만의 빛 | Obama, Michelle | 파주 : 웅진지식하우스 : 웅진씽크빅, 2023 | 973.932092 O12LK이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이상심리 증상별 사례개념화 | 조은문 | 서울 : 나눔Book, 2022 | 616.89 조67이3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 불가사의한 그리스도교 | 교조대삼랑 | 구리 : 북&월드, 2023 | 230.01 교75불K고 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 논리의 기술 : 이해 못 할 세상을 수학적으로 이해하는 방법 | Cheng, Eugenia | 파주 : 열린책들, 2020 | 511.3 C518aK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31499/83/cover/8901269961_3.jpg) | (미셸 오바마) 자기만의 빛 | Obama, Michelle | 파주 : 웅진지식하우스 : 웅진씽크빅, 2023 | 973.932092 O12LK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29881/37/cover/k082838831_1.jpg) | 이상심리 증상별 사례개념화 | 조은문 | 서울 : 나눔Book, 2022 | 616.89 조67이3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31367/53/cover/k062832801_1.jpg) | 불가사의한 그리스도교 | 교조대삼랑 | 구리 : 북&월드, 2023 | 230.01 교75불K고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25399/64/cover/893292046x_1.jpg) | 논리의 기술 : 이해 못 할 세상을 수학적으로 이해하는 방법 | Cheng, Eugenia | 파주 : 열린책들, 2020 | 511.3 C518aK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31402/81/cover/8934950927_1.jpg) | 물질의 재발견 : 탄소에서 암흑물질까지, 11가지 물질로 살펴보는 물리학의 최전선 | 정세영 | 파주 : 김영사, 2023 | 530.4 물78정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31266/29/cover/8934951036_1.jpg) | (인생을 바꾸는) 퍼스널 컬러 이야기 | 팽정은 | 파주 : 김영사, 2023 | 646.7 팽74퍼 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31312/89/cover/8937444615_1.jpg) | 푸코와 철학자들 : 동반자 또는 경쟁자와 함께 읽는 푸코 | 김은주 | 서울 : 민음사, 2023 | 194 F762김 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31568/13/cover/k402832650_1.jpg) | 별일은 없고요? : 이주란 소설집 | 이주란 | 서울 : 한겨레 : 한겨레엔, 2023 | 811.37 이76별 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31579/46/cover/8936439014_1.jpg) | 작별 곁에서 : 신경숙 연작소설 | 신경숙 | 파주 : 창비, 2023 | 811.37 신14작 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26837/13/cover/k772730296_1.jpg) | 슬픔이 질병이라면 나는 이미 죽었을 텐데 | 김제인 | 서울 : Deep&Wide, 2021 | 811.87 김74슬 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31611/74/cover/k192833773_1.jpg) | 레비나스, 타자를 말하다 | 내전수 | 서울 : 세창, 2023 | 194 L665내라K박 | 중앙도서관 |
