@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (Union) 2023년도 제12회 변호사시험 기출문제집 : 공법·형사법·민사법 : 사례·기록형 | 엠지아이 메가고시 연구소 | 서울 : 인해, 2023 | 340.076 엠78변기 2023 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31399/32/cover/k752832202_1.jpg) | (새로쓴 로스쿨) 특별형법사례 | 이재상 | 서울 : 윌비스, 2023 | 345.0076 이73특 2023 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31531/13/cover/k972832441_1.jpg) | AI 이후의 세계 : 챗GPT는 시작일 뿐이다, 세계질서 대전환에 대비하라 | Kissinger, Henry | 파주 : 윌북, 2023 | 303.4834 K61aK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31571/9/cover/k792832655_1.jpg) | 인사이트 상법 실전 암기장 | 이정엽 | 서울 : 자비스, 2023 | 346.07076 이74인암 2023 | 법학도서관 |
@@ -51,4 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook of industrial organization | Schmalensee, Richard | Amsterdam ; Oxford : North-Holland : Elsevier, 1989-2021 | 338.6 S347h v.1/v.2/v.3/v.4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31568/81/cover/k672832652_3.jpg) | 이끼숲 : 천선란 연작소설 | 천선란 | 고양 : 자이언트북스, 2023 | 811.37 천54이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31518/46/cover/k872832537_1.jpg) | 나에겐 가까운 바다가 있다 : 이상협 에세이 | 이상협 | 고양 : 이른비, 2023 | 811.87 이52나이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31570/98/cover/k402832655_1.jpg) | 낯선 사람 : 뒤흔들거나 균열을 내거나 | 김도훈 | 서울 : 한겨레 : 한겨레엔, 2023 | 811.87 김25낯 | 중앙도서관 |
