@@ -2,6 +2,23 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/56/80/cover/8974430703_2.jpg) | 나무를 심은 사람 | Giono, Jean | 서울 : 두레, 2005(2013 24쇄) | 843.912 G496hK김2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/10596/12/cover/8960779865_1.jpg) | 불칸 프로그래밍 가이드 : 불칸 제작자의 공식 가이드 | Sellers, Graham | 서울 : 에이콘, 2017 | 006.66 S467vK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31748/76/cover/k512833905_1.jpg) | 부다페스트 1900년 | Lukacs, John | 파주 : 글항아리, 2023 | 943.91 L954bK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31576/70/cover/8960519839_2.jpg) | 칩워 : 누가 반도체 전쟁의 최후 승자가 될 것인가 | Miller, Chris | 서울 : 부키, 2023 | 338.476213815 M647cK노 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이럴 줄 알았으면 말이나 타고 다닐걸 : 난감하고 화나도 멈출 수 없는 운전의 맛 : 손화신 에세이 | 손화신 | 파주 : arte : 북이십일 아르테, 2023 | 811.87 손95이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31698/67/cover/k132833586_1.jpg) | 우리의 삶은 어쩌면 NLP : 우리는 이미 온전하며, 완벽하게 기능하고 있습니다 | 오영미 | 서울 : 렛츠북, 2023 | 155.9 우298오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31598/75/cover/k612833965_1.jpg) | 추천 시스템 입문 | 풍간정홍 | 서울 : 한빛미디어, 2023 | 006.33 풍12추K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6470/84/cover/8955186843_1.jpg) | (한국어 교사가 꼭 알아야 할) 한국어 발음 교육의 이론과 실제 | 신지영 | 서울 : 한글파크, 2015 | 411.11 한16신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31642/70/cover/k362833372_2.jpg) | 돈은, 너로부터다 : 부를 묻자 돈의 신이 답했다 | 김종봉 | 파주 : 다산북스, 2023 | 332.024 김75돈부 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29762/81/cover/8931558813_1.jpg) | 인생 언리얼 교과서 | 이영호 | 서울 : BM 성안당, 2022 | 794.81526 인53이언 v.1/v.2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31643/0/cover/k692833373_1.jpg) | 슬픔을 아는 사람 : 유진목의 작은 여행 | 유진목 | 파주 : 난다, 2023 | 811.47 유78슬 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이토록 클래식이 끌리는 순간 : 대한민국 클래식 입문자&애호가들이 가장 사랑한 불멸의 명곡 28 | 최지환 | 서울 : 북라이프, 2023 | 780.15 최78이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (최신) 발전공학 | 송길영 | 서울 : 동일, 2022 | 621.31 송18발공 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 石齋 서병오 : 취한 붓 마음대로 휘두르니 | 김봉규 | 대구 : 만인사, 2020 | 745.61092 김45석2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 실험설계와 분석 | Montgomery, Douglas C | 파주 : 자유아카데미, 2021 | 519.57 M787d10K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 정서중심 부부치료 : 부부관계 회복 | Johnson, Susan M | 서울 : 학지사, 2022 | 616.891562 J69p3K박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28103/87/cover/k892734541_1.jpg) | 초밥 챌린지 : 김동식 작가와 초단편소설 출간하기 3기 | 김동식 | 서울 : 북크루, 2021 | 811.3708 초42김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 성범죄 재판의 현안과 과제들 | 법원 현대사회와 성범죄 연구회 | 서울 : 사법발전재단, 2023 | 345.0253 법66성 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30885/95/cover/8958813121_1.jpg) | 유전자 클로닝과 DNA 분석 | Brown, T. A | 서울 : 월드사이언스, 2022 | 572.8633 B881g8K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31672/71/cover/8954692966_1.jpg) | 나는 왜 이렇게 웃긴가 | 이반지하 | 파주 : 이야기장수 : 문학동네, 2023 | 811.87 이42나 | 중앙도서관 |
@@ -35,20 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31288/54/cover/k562832575_1.jpg) | 상법원론2 : 어음·수표법·보험법 | 원용수 | 서울 : 박영사, 2023 | 346.07 원65상박 v.2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31418/51/cover/k722832112_3.jpg) | 民法講義 | 지원림 | 서울 : 弘文社, 2023 | 346 지66민20 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31535/35/cover/k012832444_1.jpg) | 미국사법의 이해 | 권영준 | 서울 : 박영사, 2023 | 349.73 권64미 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31239/58/cover/8977707390_1.jpg) | 국제환경법 | 김홍균 | 서울 : 弘文社, 2023 | 344.046 김95국4 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31367/4/cover/8947286524_1.jpg) | 국제법 | 류병운 | 파주 : 형설, 2023 | 341 류44국5 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31579/21/cover/k512833765_1.jpg) | 계몽 : 빛의 사상 입문 | Robertson, John | 서울 : 박영사, 2023 | 190.9033 R651eK양 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31186/36/cover/k062831854_1.jpg) | 형사소송법요론 : 이론·판례·사례 기본서 | 신호진 | 서울 : 문형사, 2023 | 345.05 신95형요 2023 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31579/23/cover/k812833765_1.jpg) | (2023) 판례 민법전 | 김재형 | 서울 : 박영사, 2023 | R 346 김73민판 2023 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31375/38/cover/k942832905_1.jpg) | 민법정론 | 박수곤 | 서울 : 학연, 2023 | 346 박56민 2023 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30171/79/cover/k642839683_1.jpg) | 현대 철학의 최전선 | 중정창수 | 서울 : 이비, 2022 | 190 중74현K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31579/93/cover/8954692516_1.jpg) | 형사 박미옥 | 박미옥 | 파주 : 이야기장수 : 문학동네, 2023 | 363.2 박38형 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30892/22/cover/k052831480_1.jpg) | 당신의 마음에 영화를 처방해 드립니다 : 영화를 사랑한 심리학, 심리학이 새겨진 영화 | 전우영 | 파주 : 행성비, 2022 | 791.43019 전66당 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31529/13/cover/k212832345_2.jpg) | 인벤션 : 발명의 성공과 실패 그리고 미래를 이야기하다! | Smil, Vaclav | 서울 : 처음북스, 2023 | 600 S641iK조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25302/52/cover/k382633301_1.jpg) | 제주도(濟州島) 방언(方言)의 언어지리 | 김순자 | 제주 : 각, 2020 | 411.7 김56제 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30310/34/cover/8931467478_1.jpg) | 그림 잘 그리는 법 | 요ー청수 | 서울 : 영진닷컴, 2022 | 741.6 요83회K고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31600/84/cover/k612833060_1.jpg) | 하늘과 바람과 별과 인간 : 원자에서 인간까지 | 김상욱 | 서울 : 바다, 2023 | 502 김52하 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31557/48/cover/k632832755_1.jpg) | 우주를 듣는 소년 : 루스 오제키 장편소설 | Ozeki, Ruth | 서울 : 인플루엔셜, 2023 | 823.914 O99bK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31541/71/cover/k392832649_1.jpg) | 디지털 시대의 타이포그래피 : T/SCHOOL 2022 | 고현선 | 파주 : 안그라픽스, 2023 | 686.22 디78고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31438/27/cover/k932832318_1.jpg) | 감정에 휘둘리는 아이 감정을 잘 다루는 아이 : 자존감 높고 자립심 강한 아이로 키우는 4~7세 감정 코칭 | 손승현 | 서울 : 빅피시, 2023 | 649.1 손57감 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29956/25/cover/k332838148_1.jpg) | 투잡말고 N잡하기 : 돈걱정 없이 사는 N잡러의 세계 | 장이지 | 서울 : 미래와사람, 2022 | 650.1 투72장 | 중앙도서관 |
