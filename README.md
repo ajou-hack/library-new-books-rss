@@ -2,6 +2,15 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/27849/14/cover/k102734680_1.jpg) | 시골의 진화 : 고향납세의 기적, 가미시호로 이야기 | 흑정극행 | 서울 : 더가능연구소, 2021 | 307.14120953 흑74시K윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31112/71/cover/8999728412_1.jpg) | 고령자 심리의 이해 | 박창호 | 서울 : 학지사, 2023 | 155.67 고294박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30963/88/cover/k202831201_1.jpg) | 아동·청소년 이상심리학 | Weis, Robert | 서울 : 시그마프레스, 2023 | 618.9289 W426i4K정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27882/86/cover/8999724921_1.jpg) | (DSM-5에 의한) 최신 이상심리학 | 이우경 | 서울 : 학지사, 2021 | 616.89 이66최2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/4927/94/cover/8984104671_1.jpg) | 노인과 가족 | 한림대학교 | 서울 : 소화, 2014 | 362.6 한298노 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23428/92/cover/k422638485_1.jpg) | 유전체 데이터 분석 | 김주한 | 서울 : 범문에듀케이션, 2020 | 660.65 김76유2 v.2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31412/82/cover/k922832016_1.jpg) | 유전체 데이터 분석 | 김주한 | 서울 : 범문에듀케이션, 2023 | 660.65 김76유3 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/48/81/cover/8958171065_1.gif) | 옥린몽의 작가와 작품세계 | 최호석 | 서울 : 다운샘, 2004 | 811.3109 이74최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30632/18/cover/k902830928_1.jpg) | 혼자라는 길, 브랜드의 일 : 스몰 패션 브랜드 제작자의 일과 생각 | 고예빈 | 서울 : 프랙티컬프레스, [2022] | 658.827 고64혼 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31532/66/cover/8968801762_1.jpg) | 누구를 위해 특수교육은 존재하는가 : 평등한 분리 교육은 없다 | 윤상원 | 서울 : 교육공동체벗, 2023 | 371.9 윤52누 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31753/51/cover/k702833002_1.jpg) | 숨겨진 뼈, 드러난 뼈 : 뼈의 5억 년 역사에서 최첨단 뼈 수술까지 아름답고 효율적이며 무한한 뼈 이야기 | Meals, Roy A | 서울 : 해나무 : 북하우스, 2023 | 599.947 M482bK양 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26612/37/cover/k002739030_1.jpg) | 나는 사별하였다 | 이정숙 | 의왕 : 꽃자리, 2021 | 155.937 나197이 | 중앙도서관 |
@@ -43,12 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31251/24/cover/8932322848_1.jpg) | (연표로 보는) 서양 음악사 | 조현영 | 서울 : 현암사, 2023 | 780.9 조94서 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31374/18/cover/8954698891_1.jpg) | 1미터는 없어 : 양지예 장편소설 | 양지예 | 파주 : 문학동네, 2023 | 811.37 양78일 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31313/17/cover/8933871942_1.jpg) | 엣지 : 한 끗의 차이를 만드는 내 안의 힘 | Huang, Laura | 서울 : 세계사, 2023 | 650.13 H874eK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31331/60/cover/k562832796_1.jpg) | 수소경제의 과학 : 다가올 수소경제, 우리가 꼭 알아야 할 과학 이야기 | 김희준 | 서울 : 사회평론, 2023 | 546.2 김97수 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31285/9/cover/k152832572_1.jpg) | 죄 없는 죄인 만들기 : 결백한 사람은 어떻게 유죄가 되는가 | Godsey, Mark | 서울 : 원더박스, 2023 | 345.01 G589bK박 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31313/38/cover/k082832881_1.jpg) | 다른 방식으로 듣기 | Krukowski, Damon | 서울 : 마티, 2023 | 781.17 K94wK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31311/58/cover/k982832787_2.jpg) | 헬로 베이비 : 김의경 장편소설 | 김의경 | 서울 : 은행나무, 2023 | 811.37 김67헬 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31317/29/cover/8954690785_1.jpg) | 이웃집 방문 프로젝트 : 동네 사람에게 건넨 수제 케이크 200개의 기적 | Quitterer, Stephanie | 파주 : 문학동네, 2023 | 307.3362 Q8hK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30796/13/cover/8994606211_1.jpg) | 현대 중국의 탄생 : 청제국에서 시진핑까지 | Mühlhahn, Klaus | 서울 : 너머북스 : 너머, 2023 | 952 M952mK윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31331/85/cover/k412832797_1.jpg) | 보이지 않는 군대 : 게릴라전, 테러, 반란전과 대반란전의 5천년 역사 | Boot, Max | 서울 : 플래닛미디어, 2023 | 355.021809 B725iK문 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31291/41/cover/8957694951_1.jpg) | 우리 모두 댓글 폭력의 공범이다 : 악플러의 탄생과 디지털 공론장 붕괴의 드라마 | 정지혜 | 원주 : 개마고원, 2023 | 302.231 정78우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31248/23/cover/k582832264_1.jpg) | 로보틱스 알고리듬 : 중고등학생을 위한 입문서 | Ben-Ari, Mordechai | 서울 : 에이콘, 2023 | 006.3 B456로eK김 | 중앙도서관 |
