@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/24160/27/cover/k392639647_1.jpg) | 코로나19 데카메론 | 경희대학교 | 서울 : 모시는사람들, 2020-2023 | 303.485 경97코 v.1/v.2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/b7093259-c21b-4c3c-87f3-d4f36ef55fe3) | 역사의 연구 : 신축약판 | Toynbee, Arnold | 서울 : 바른북스, 2017-2023 | 901 T756sK김 v.1 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27849/14/cover/k102734680_1.jpg) | 시골의 진화 : 고향납세의 기적, 가미시호로 이야기 | 흑정극행 | 서울 : 더가능연구소, 2021 | 307.14120953 흑74시K윤 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31112/71/cover/8999728412_1.jpg) | 고령자 심리의 이해 | 박창호 | 서울 : 학지사, 2023 | 155.67 고294박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30963/88/cover/k202831201_1.jpg) | 아동·청소년 이상심리학 | Weis, Robert | 서울 : 시그마프레스, 2023 | 618.9289 W426i4K정 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sport and the media : managing the nexus | Nicholson, Matthew | Milton Park, Abingdon, Oxon ; New York : Routledge, 2015. | 796.0698 N627s2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31427/7/cover/k162832215_1.jpg) | 매니페스토 : ChatGPT와의 협업으로 완성한 ‘SF 앤솔러지’ | 김달영 | 파주 : 네오픽션 : 네오북스, 2023 | 811.3708 매198김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31251/24/cover/8932322848_1.jpg) | (연표로 보는) 서양 음악사 | 조현영 | 서울 : 현암사, 2023 | 780.9 조94서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31374/18/cover/8954698891_1.jpg) | 1미터는 없어 : 양지예 장편소설 | 양지예 | 파주 : 문학동네, 2023 | 811.37 양78일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31313/17/cover/8933871942_1.jpg) | 엣지 : 한 끗의 차이를 만드는 내 안의 힘 | Huang, Laura | 서울 : 세계사, 2023 | 650.13 H874eK이 | 중앙도서관 |
