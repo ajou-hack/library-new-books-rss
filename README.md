@@ -2,6 +2,20 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/394/39/cover/8981631468_1.jpg) | 근대가족의 성립과 종언 | 상야천학자 | 서울 : 당대, 2009 | 306.85 상63근K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30763/11/cover/899972784x_1.jpg) | 정신건강 임상가를 위한 핸드북 : 면담 수행 및 보고서 작성 지침 | Zuckerman, Edward L | 서울 : 학지사, 2023 | 616.890014 Z94c8K조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31770/20/cover/k332833007_1.jpg) | (인지행동치료의 모든 정수가 녹아 들어가 있는) 인지행동치료 이론과 실제 | Beck, Judith S | 서울 : 하나醫學社, 2023 | 616.891425 B393c3K최 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (피부과 성형외과 전문의가 집필한) 녹는실 리프팅의 정석 : PDO thread lifting 101 | 이원석 | 서울 : 정우의학서적, 2014 | 617.95 녹197이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/10658/78/cover/k442530341_1.jpg) | (생체 영상을 바탕으로 한) 안전하게 필러하기 | 오승민 | 서울 : 대한의학 : 대한의학서적, 2017 | 617.95 오57안2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/490/30/cover/8996126861_1.jpg) | 목적없는 수단 : 정치에 관한 11개의 노트 | Agamben, Giorgio | 서울 : 난장, 2009 | 320.01 A259mK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/10383/54/cover/8984116661_1.jpg) | 공간으로 세상 읽기 : 집·터·길의 인문사회학 | 전상인 | 서울 : 세창, 2017 | 001.3 전52공 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Levinas and Lacan : the missed encounter | Harasym, Sarah | Albany : State University of New York Press, 1998. | 194 L665h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Reframing Japonisme : women and the Asian art market in nineteenth-century France, 1853-1914 | Emery, Elizabeth | London, UK ; New York, NY : Bloomsbury Visual Arts, 2022. | 709.53 E53r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Memory speaks : on losing and reclaiming language and self | Sedivy, Julie | Cambridge, Massachusetts : The Belknap Press of Harvard University Press, 2021. | 401.93 S448m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Financial economics of insurance | Koijen, Ralph S. J | Princeton, New Jersey : Princeton University Press, 2023. | 368 K79f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Optimally irrational : the good reasons we behave the way we do | Page, Lionel | Cambridge : Cambridge University Press, 2023. | 330.019 P132o | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/14231/59/cover/8958918535_1.jpg) | SCT 문장완성검사의 이해와 활용 | 이우경 | 서울 : 학지사 : 인싸이트 심리검사연구소 : 인싸이트, 2018 | 616.89 이66s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/d0671faf-4fad-4220-9d5e-85e556c5cec9) | 학자의 글쓰기 : 사회과학자의 책과 논문 쓰기에 대하여 | Becker, Howard Saul | 서울 : 학지사, 2018(2023 2쇄) | 808.0663 B395w2K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/8211/0/cover/k532434750_1.jpg) | (10대를 위한) 빨간책 : 유럽 학생들이 어른 몰래 돌려 읽던 책! | Andersen, Bo Dan | 서울 : 레디앙, 2016 | 371.80971 A544LK목 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/13348/64/cover/8965236606_1.jpg) | 박정희는 노동자를 착취했는가 : 대한민국 기능공의 탄생과 노동귀족의 기원 | 류석춘 | 서울 : 기파랑, 2018 | 331.0951 박74류 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31797/57/cover/k742833215_2.jpg) | 죽음의 심리학 : 죽음에 대한 두려움은 어떻게 인류 사회를 형성했는가 | Menzies, Rachel E | 서울 : Being, 2023 | 306.9 M551mK석 | 중앙도서관 |
@@ -38,17 +52,3 @@
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/22010f6b-61b1-4cfd-bc86-697d9efe80e4) | 헤겔 레스토랑 : 헤겔과 변증법적 유물론의 그늘 | Zizek, Slavoj | 서울 : 새물결, 2013 | 193 Z82LK조 v.1/v.2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/14593/25/cover/k622532646_1.jpg) | 노인의 자살생각 및 자살예방 | 한림대학교 | 서울 : 박문사, 2018 | 362.6 한298노박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30107/25/cover/k632839889_1.jpg) | 로스쿨 국제법 사례연습 | 김성원 | 서울 : 박영사, 2022 | 341.076 국74김 2022 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31337/8/cover/8972970751_1.jpg) | 개가 보는 세상이 흑백이라고? : 동물 상식 바로잡기 | Brown, Matt | 파주 : 동녘, 2023 | 590 B879eK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31334/91/cover/893494241x_1.jpg) | 당신이 우주다 : 나는 무엇인가, 그리고 왜 이것이 중요한가 | Chopra, Deepak | 파주 : 김영사, 2023 | 111 C549yK조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31315/44/cover/8959066826_1.jpg) | 공감의 비극 : 차라리 공감하지 마라 | 강준만 | 서울 : 인물과사상사, 2023 | 301.0951 강76공 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31190/12/cover/8960519723_1.jpg) | 역발상 트렌드 2023 : 메가 트렌드를 뒤집는 역발상 전략 15 | 민병운 | 서울 : 부키, 2023 | 338.544 민44역 2023 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31246/78/cover/k222832268_1.jpg) | 고객의 탄생 : 고객에 대한 모든 생각 | 이유재 | 서울 : KSAM : 한국표준협회미디어, 2023 | 658.812 이66고고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31215/60/cover/k522831159_1.jpg) | 마음의 중심이 무너지다 : 조현병 환자의 우정, 사랑, 그리고 법학 교수가 되기까지의 인생 여정 | Saks, Elyn R | 용인 : 소우주, 2023 | 616.8980092 S158cK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31117/17/cover/k182831949_1.jpg) | (SQL과 NoSQL 기반의) 데이터베이스 입문 | 박성진 | 파주 : 생능 : 배움터, 2023 | 005.7585 박54데 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31249/15/cover/k222832267_1.jpg) | (파이썬으로 배우는) 인공지능 수학 | 이재광 | 고양 : 인피니티북스, 2023 | 510.285 이73인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31215/82/cover/k572831150_1.jpg) | (실무에 바로 적용하는) AI 대비 파이썬 기초 입문서 : 파이썬 기초부터 웹스크래핑, 통계 실무, 데이터 분류, 예측, 객체 탐지까지 | 강봉주 | 파주 : 자유아카데미, 2023 | 005.133 강45a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31216/22/cover/k242831152_1.jpg) | (몬테카를로 시뮬레이션으로 배우는) 확률통계 with 파이썬 : 기초 개념부터 확률 과정 기반 데이터 예측까지 | 장철원 | 서울 : 비제이퍼블릭, 2023 | 519.50285 장83확 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31375/47/cover/k332832905_1.jpg) | 핵심코어! 데이터 분석 with 파이썬 | 최희식 | 고양 : INFINITY BOOKS, 2023 | 005.133 최97핵 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31407/13/cover/k872832712_1.jpg) | (칼퇴족 김대리는 알고 나만 모르는) HTML5+CSS3 | 김태광 | 서울 : 책밥, 2023 | 006.74 김883h | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31326/78/cover/k472832790_1.jpg) | 파이썬 머신러닝을 이용한 금융 리스크 관리 | Karasan, Abdullah | 서울 : 에이콘, 2023 | 658.155 K18mK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31222/41/cover/k532831252_1.jpg) | 파이썬 : 기초와 활용 | 한정란 | 파주 : 21세기사, 2023 | 005.133 한74파 | 중앙도서관 |
