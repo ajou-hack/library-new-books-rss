@@ -2,6 +2,14 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | l' Arte del manifesto giapponese | Calza, Gian Carlo | Milan : Skira, 2021. | 741.674 C171a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Japonisme and the rise of the modern art movement : the arts of the Meiji period : the Khalili collection | Irvine, Gregory | London : Thames & Hudson, 2013. | 709.53 I72j | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Inside the Cuban Revolution : Fidel Castro and the urban underground | Sweig, Julia E | Cambridge, Mass. : Harvard University Press, 2002. | 972.91063 C355s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Language and the brain : a slim guide to neurolinguistics | Brennan, Jonathan R | New York, NY : Oxford University Press, 2022. | 612.82336 B838L | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The fiscal theory of the price level | Cochrane, John H | Princeton : Princeton University Press, 2023. | 339.53 C663f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | International macroeconomics : a modern approach | Schmitt-Grohé, Stephanie | Princeton, New Jersey : Princeton University Press, 2022. | 339 S355i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 아주대학교 50년사 | 아주대학교 | 수원 : 아주대학교, 2023 | 378.51 아76아50 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (신주 사마천) 사기 | 사마천 | 서울 : 한가람역사문화연구소, 2020-2022 | 952.2 사32사K한 v.7/v.8/v.9 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/394/39/cover/8981631468_1.jpg) | 근대가족의 성립과 종언 | 상야천학자 | 서울 : 당대, 2009 | 306.85 상63근K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30763/11/cover/899972784x_1.jpg) | 정신건강 임상가를 위한 핸드북 : 면담 수행 및 보고서 작성 지침 | Zuckerman, Edward L | 서울 : 학지사, 2023 | 616.890014 Z94c8K조 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31770/20/cover/k332833007_1.jpg) | (인지행동치료의 모든 정수가 녹아 들어가 있는) 인지행동치료 이론과 실제 | Beck, Judith S | 서울 : 하나醫學社, 2023 | 616.891425 B393c3K최 | 중앙도서관 |
@@ -44,11 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31033/67/cover/8932923043_1.jpg) | 수확자 : 닐 셔스터먼 장편소설 | Shusterman, Neal | 파주 : 열린책들, 2023 | 823.92 S562sK이 v.1/v.2/v.3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29507/45/cover/k872837249_1.jpg) | 사이버전의 모든 것 : 한눈에 보는 사이버전의 역사 | 박동휘 | 서울 : 플래닛미디어, 2022 | 355.343 박25사 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/24290/50/cover/8959967416_1.jpg) | 글쓰기 교육과 교수 방법 | 정희모 | 서울 : 경진, 2020 | 808 글57정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31083/79/cover/k912831735_1.jpg) | (월스트리트의 전설, 추세매매의 아버지) 제시 리버모어의 주식투자 바이블 | Livermore, Jesse L | 파주 : 이레미디어, 2023 | 332.6322 L784hK이2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26102/42/cover/8960883700_3.jpg) | 마케터를 위한 구글 애널리틱스 | 조하준 | 서울 : 디지털북스, 2021 | 006.3 조92마 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31649/94/cover/k102833578_1.jpg) | 디지털 마케터의 챗GPT 활용 전략 : 실전! ChatGPT 프롬프트 엔지니어링 | 전용준 | 파주 : 위키북스, 2023 | 006.3 전65디 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31325/1/cover/k832832683_3.jpg) | (개인을 넘어 기업가로 가는 길, 모두가 묻고 싶은 120가지 주제를 담은) 사장학개론 | 김승호 | 파주 : 스노우폭스북스, 2023 | 658.4092 김57사 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/140ad9c1-8b32-4819-9c52-a8dfbf4493cb) | (Peebles의) 확률, 랜덤변수 및 랜덤신호 원리 | Peebles, Peyton Z | 서울 :McGraw-Hill Education,2015 | 519.2 P373p5K강 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/22010f6b-61b1-4cfd-bc86-697d9efe80e4) | 헤겔 레스토랑 : 헤겔과 변증법적 유물론의 그늘 | Zizek, Slavoj | 서울 : 새물결, 2013 | 193 Z82LK조 v.1/v.2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/14593/25/cover/k622532646_1.jpg) | 노인의 자살생각 및 자살예방 | 한림대학교 | 서울 : 박문사, 2018 | 362.6 한298노박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30107/25/cover/k632839889_1.jpg) | 로스쿨 국제법 사례연습 | 김성원 | 서울 : 박영사, 2022 | 341.076 국74김 2022 | 법학도서관 |
