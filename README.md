@@ -2,14 +2,18 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 그땐 그랬지 : 아주대학교 50년 스토리북 | 아주대학교 | 수원 : 아주대학교, 2023 | 378.51 아76아그50 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 수목장 : 김관식 제19 시집 | 김관식 | 서울 : 서정문학, 2022 | 811.17 김15수 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 설비상태 감시를 위한 전력 IoT : 대한민국 전력 산업의 싱크탱크, 전력연구원이 이야기하는 | 이병성 | 서울 : 홍릉, 2022 | 621.31042 설48이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | KAIST 100년의 꿈 : 과학기술의 미래를 상상하다 | 카이스트 | 서울 : 지식공감, 2022 | 378.51 카68k | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | l' Arte del manifesto giapponese | Calza, Gian Carlo | Milan : Skira, 2021. | 741.674 C171a | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Japonisme and the rise of the modern art movement : the arts of the Meiji period : the Khalili collection | Irvine, Gregory | London : Thames & Hudson, 2013. | 709.53 I72j | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Inside the Cuban Revolution : Fidel Castro and the urban underground | Sweig, Julia E | Cambridge, Mass. : Harvard University Press, 2002. | 972.91063 C355s | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Language and the brain : a slim guide to neurolinguistics | Brennan, Jonathan R | New York, NY : Oxford University Press, 2022. | 612.82336 B838L | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The fiscal theory of the price level | Cochrane, John H | Princeton : Princeton University Press, 2023. | 339.53 C663f | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | International macroeconomics : a modern approach | Schmitt-Grohé, Stephanie | Princeton, New Jersey : Princeton University Press, 2022. | 339 S355i | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 아주대학교 50년사 | 아주대학교 | 수원 : 아주대학교, 2023 | 378.51 아76아50 v.1 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (신주 사마천) 사기 | 사마천 | 서울 : 한가람역사문화연구소, 2020-2022 | 952.2 사32사K한 v.7/v.8/v.9 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 아주대학교 50년사 | 아주대학교 | 수원 : 아주대학교, 2023 | 378.51 아76아50 v.1/v.2/v.3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (신주 사마천) 사기 | 사마천 | 서울 : 한가람역사문화연구소, 2020-2022 | 952.2 사32사K한 v.20/v.21/v.22/v.23/v.24/v.25/v.3/v.4/v.5/v.6/v.7/v.8... | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/394/39/cover/8981631468_1.jpg) | 근대가족의 성립과 종언 | 상야천학자 | 서울 : 당대, 2009 | 306.85 상63근K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30763/11/cover/899972784x_1.jpg) | 정신건강 임상가를 위한 핸드북 : 면담 수행 및 보고서 작성 지침 | Zuckerman, Edward L | 서울 : 학지사, 2023 | 616.890014 Z94c8K조 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31770/20/cover/k332833007_1.jpg) | (인지행동치료의 모든 정수가 녹아 들어가 있는) 인지행동치료 이론과 실제 | Beck, Judith S | 서울 : 하나醫學社, 2023 | 616.891425 B393c3K최 | 중앙도서관 |
@@ -48,7 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31520/73/cover/8962624923_1.jpg) | 태양을 먹다 : 생명의 고리를 잇는 광합성 서사시 | Morton, Oliver | 서울 : 동아시아, 2023 | 572.46 M891eK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31250/64/cover/8920045437_1.jpg) | 권리란 무엇인가 | Thomson, Judith Jarvis | 서울 : 에피스테메 : 한국방송통신대학교출판문화원, 2023 | 170 T483rK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31790/65/cover/k012833110_1.jpg) | 데일 카네기 비밀의 문장 : 거인의 마음을 훔친 인생 잠언 | Carnegie, Dale | [서울] : 월요일의꿈, 2023 | 158.1 C289dtK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31312/38/cover/k472832889_1.jpg) | 아주 세속적인 지혜 : 400년 동안 사랑받은 인생의 고전 | Gracián y Morales, Baltasar | 서울 : 페이지2북스, 2023 | 179.9 G731wK강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31033/67/cover/8932923043_1.jpg) | 수확자 : 닐 셔스터먼 장편소설 | Shusterman, Neal | 파주 : 열린책들, 2023 | 823.92 S562sK이 v.1/v.2/v.3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29507/45/cover/k872837249_1.jpg) | 사이버전의 모든 것 : 한눈에 보는 사이버전의 역사 | 박동휘 | 서울 : 플래닛미디어, 2022 | 355.343 박25사 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24290/50/cover/8959967416_1.jpg) | 글쓰기 교육과 교수 방법 | 정희모 | 서울 : 경진, 2020 | 808 글57정 | 중앙도서관 |
