@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31836/31/cover/k362833223_1.jpg) | 파괴할 수 없는 것 : 안희정 캠프 막내 사무원이 본 페미니즘 광풍 5년, 그리고 여전한 진실공방 | 권윤지 | 성남 : 오프로드, 2023 | 305.4 권66파 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31868/71/cover/k692833521_1.jpg) | 교양 고전 독서 : 어제보다 더 나은 사람이 되려면 어떤 책을 읽어야 할까요? | 노명우 | 서울 : 클, 2023 | 028.1 노34교 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31561/46/cover/k782832854_1.jpg) | 구의 증명 : 최진영 소설 | 최진영 | 서울 : 은행나무, 2023 | 811.37 최78구2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Les grands arrêts du contentieux administratif | Bonichot, Jean-Claude | Paris : Dalloz, 2022. | 342.06 B715g8 | 법학도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31495/6/cover/k642833373_3.jpg) | 다크투어, 내 여행의 이름 | 양재화 | 서울 : 어떤책, 2023 | 910.4 양73다 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31417/54/cover/8954692001_2.jpg) | 패스토럴리아 : 조지 손더스 소설 | Saunders, George | 파주 : 문학동네, 2023 | 823.914 S257pK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31724/99/cover/k662833893_1.jpg) | 더티 워크 : 비윤리적이고 불결한 노동은 누구에게 어떻게 전가되는가 | Press, Eyal | 서울 : 한겨레 : 한겨레엔, 2023 | 331.700973 P935dK오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31395/76/cover/k732832104_2.jpg) | 노동계급 세계사 : 날마다 읽는 저항과 반란의 역사 | Working Class History | 파주 : 오월의봄, 2023 | 306.09 W926wK유 | 중앙도서관 |
