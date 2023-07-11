@@ -2,18 +2,31 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31536/93/cover/k402832549_1.jpg) | 신민사법 선택형 연습. 3 : 민사법 회차별 | 송영곤 | 서울 : 헤르메스, 2023 | 346.0076 송64신연 2023 v.1~2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31877/37/cover/k902833431_1.jpg) | 노회찬 평전 | 이광호 | 서울 : 사회평론 : 사회평론아카데미, 2023 | 320.092 노95이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25424/19/cover/k082633317_1.jpg) | 공의회 역사를 걷다 : 사회사로 읽는 공의회 | 최종원 | 파주 : 비아토르, 2020 | 262.509 최75공 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이충무공전서 | 이순신 | 파주 : 태학사, 2023 | 951.54092 이56이태 v.1~4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31862/25/cover/k972833421_1.jpg) | 미국에서 살기로 했습니다 : 더 넓은 세상으로 나아가기 위해 | 박소나 | 파주 : 책이라는신화, 2023 | 811.87 박55미 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30064/75/cover/8999727386_1.jpg) | (쉽게 풀어 쓴) MMPI-2/A : 해석상담 및 심리상담에서의 적용 | 성태훈 | 서울 : 학지사, 2022 | 155.283 성883m | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30933/74/cover/8999728218_1.jpg) | 정서와 작업하기 : 정신역동, 인지행동 그리고 정서중심 심리치료에서 | Greenberg, Leslie S | 서울 : 학지사, 2023 | 616.8914 G798weK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Remember it! : the names of people you meet, all of your passwords, where you left your keys, and everything else you tend to forget | Dellis, Nelson | New York : Abrams Image, 2018. | 153.14 D357r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Vile bodies : a novel | Waugh, Evelyn | New York : Back Bay Books, 2012. | 823.912 W354v | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Pintori | Pintori, Giovanni | [Milan] : Moleskine, 2015. | 741.6092 P659p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Research design : quantitative, qualitative, mixed methods, arts-based, and community-based participatory research approaches | Leavy, Patricia | New York, NY : The Guilford Press, 2023. | 300.72 L439r2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Trusting enemies : interpersonal relationships in international conflict | Wheeler, Nicholas J | Oxford, United Kingdom ; New York : Oxford University Press, 2018. | 327 W563t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introduction to psycholinguistics : understanding language science | Traxler, Matthew J | Hoboken, NJ : John Wiley ＆ Sons Ltd., 2023. | 401.9 T783i2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31817/8/cover/k782833411_1.jpg) | 벤 버냉키의 21세기 통화 정책 : 연방준비제도 : 대 인플레이션에서 코로나 팬데믹까지 | Bernanke, Ben | 성남 : 상상스퀘어, 2023 | 332.110973 B517tK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31956/4/cover/8955924720_1.jpg) | 1673-1968 근대건축이론 | Mallgrave, Harry Francis | 서울 : Spacetime : 시공문화사, 2023 | 720.1 M253mK송 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31689/2/cover/k972833589_1.jpg) | Code 612 : 누가 어린왕자를 죽였는가 | Bussi, Michel | 서울 : 힘찬북스, 2023 | 843.92 B981cK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31862/57/cover/k992833422_1.jpg) | 은퇴 준비와 희망노트 : "은퇴는 절망이 아니라 희망이다" | 김두년 | 서울 : 글로벌콘텐츠, 2023 | 646.79 김26은 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31865/21/cover/k572833426_1.jpg) | 칼국수 아줌마의 수육 한 접시 | 이재태 | 대구 : 학이사, 2023 | 610.92 이73칼 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31517/6/cover/k742832534_1.jpg) | 전국김밥일주 : 죽기 전에 꼭 먹어봐야 할 김밥 맛집 136 | 정다현 | 서울 : 가디언, 2023 | 647.9551 정22전 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 연수 : 장류진 소설집 | 장류진 | 파주 : 창비, 2023 | 811.37 장296연 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (항공종사자를 위한) 비행의 원리 | 진원진 | 서울 : BM 성안당, 2022 | 629.13 진66비 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 항공역학 | 윤선주 | 서울 : BM 성안당, 2022 | 629.1323 윤54항3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 정체성 : 청소년과 위기 | Erikson, Erik H | 파주 : 교육과학사, 2022 | 155.2 E68iK윤 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 지형학 입문 : 지형과 그 형성 과정 | Harvey, A. M | 서울 : 푸른길, 2015 | 551.41 H341iK이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 듣기의 말들 : 들리지 않는 것까지 듣기 위하여 | 박총 | 파주 : 유유, 2023 | 811.87 박84듣 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31877/95/cover/8936439170_1.jpg) | 연수 : 장류진 소설집 | 장류진 | 파주 : 창비, 2023 | 811.37 장296연 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29022/54/cover/8931533837_1.jpg) | (항공종사자를 위한) 비행의 원리 | 진원진 | 서울 : BM 성안당, 2022 | 629.13 진66비 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30136/66/cover/k892839189_1.jpg) | 항공역학 | 윤선주 | 서울 : BM 성안당, 2022 | 629.1323 윤54항3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30695/15/cover/8925417294_1.jpg) | 정체성 : 청소년과 위기 | Erikson, Erik H | 파주 : 교육과학사, 2022 | 155.2 E68iK윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6170/32/cover/8962912872_1.jpg) | 지형학 입문 : 지형과 그 형성 과정 | Harvey, A. M | 서울 : 푸른길, 2015 | 551.41 H341iK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31931/14/cover/k222833957_1.jpg) | 듣기의 말들 : 들리지 않는 것까지 듣기 위하여 | 박총 | 파주 : 유유, 2023 | 811.87 박84듣 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31604/15/cover/k362833661_1.jpg) | (신의 건축가로 이 땅에 온) 인간 가우디를 만나다 | 권혁상 | 서울 : J&jj, 2023 | 720.92 G267권 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31909/3/cover/k762833745_1.jpg) | 다정한 말이 똑똑한 말을 이깁니다 : 마음의 문을 여는 말투와 태도에 관하여 | 이재은 | 서울 : 더퀘스트 : 길벗, 2023 | 808.56 이73다 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31753/55/cover/8997533495_1.jpg) | 어쩌다 대한민국은 불평등 공화국이 되었나? : 21세기 대한민국의 미래를 그리는 설계도 | 김윤태 | 서울 : 간디서원, 2023 | 305.50951 김66어 | 중앙도서관 |
@@ -36,19 +49,6 @@
 | ![](https://image.aladin.co.kr/product/31879/27/cover/k452833437_1.jpg) | 회사에서는 어떻게 말해야 하나요? : 회의부터 발표까지, 말센스 10배 높이는 법 | 히키타 요시아키 | 서울 : 인플루엔셜, 2023 | 808.5 히878오K한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31753/50/cover/k792833002_2.jpg) | 아파트, 이 가격 오면 사라 : 부동산 가치평가 바이블, 소름공식 | 채상욱 | [서울] : 라이프런, 2023 | 332.6324 채52아 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31836/31/cover/k362833223_1.jpg) | 파괴할 수 없는 것 : 안희정 캠프 막내 사무원이 본 페미니즘 광풍 5년, 그리고 여전한 진실공방 | 권윤지 | 성남 : 오프로드, 2023 | 305.4 권66파 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | War and trade in maritime East Asia | Oka, Mihoko | Singapore : Palgrave Macmillan, 2022. | 950.3 O41w | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Parachute infantry : the book that inspired Band of Brothers | Webster, David Kenyon | London : Ebury, 2011. | 940.54092 W378p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | With the old breed | Sledge, E. B | London : Ebury, 2011. | 940.5425 S632w | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Helmet for my pillow | Leckie, Robert | London : Ebury, 2011. | 940.54092 L461h | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | On photography | Sontag, Susan | London : Penguin Books, 2008. | 770.1 S699o | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Regarding the pain of others | Sontag, Susan | New York : Picador, 2003. | 303.6 S699r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Illness as metaphor ＆ AIDS and its metaphors | Sontag, Susan | London : Penguin Books, 2002. | 306.461 S699i | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | From Kim Jong Il to Kim Jong Un: how the hardliners prevailed : on the political history of North Korea (2007-2020) | Schäfer, Thomas | [S.l.] : Thomas Schäfer, 2021. | 320.9518 S296f | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Constructing a colonial people : Puerto Rico and the United States, 1898-1932 | Cabán, Pedro A | New york ; Abingdon, Oxon : Routledge, 2018. | 327.7307295 C112c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Digital leisure cultures : critical perspectives | Carnicelli, Sandro | Abingdon, Oxon ; New York, NY : Routledge, 2017. | 302.231 C289d | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Perspectives on volunteering : voices from the South | Butcher, Jacqueline | Cham : Springer, 2017. | 302.14 B983p | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31868/71/cover/k692833521_1.jpg) | 교양 고전 독서 : 어제보다 더 나은 사람이 되려면 어떤 책을 읽어야 할까요? | 노명우 | 서울 : 클, 2023 | 028.1 노34교 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31561/46/cover/k782832854_1.jpg) | 구의 증명 : 최진영 소설 | 최진영 | 서울 : 은행나무, 2023 | 811.37 최78구2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Les grands arrêts du contentieux administratif | Bonichot, Jean-Claude | Paris : Dalloz, 2022. | 342.06 B715g8 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/28616/1/cover/k882835955_1.jpg) | 킬 체인 : 미래 전쟁과 국방력 건설 방향 | Brose, Christian | 서울 : 박영사, 2022 | 355.033573 B874kK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31869/7/cover/k332833522_1.jpg) | 고래 도서관 | Zidrou | 서울 : 바람북스, 2023 | 741.5944 Z64bK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31485/26/cover/k322832625_1.jpg) | (2023) 상법 & 세무회계 실무 | 이항수 | 서울 : 경제법륜사, 2023 | 346.07 이92상세 2023 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 가상자산 판례백선 : 민사·신청편 | 이정엽 | 서울 : 박영사, 2023 | 347 이74가 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 1948년 헌법을 만들다 : 제헌국회 20일의 현장 | 안도경 | 서울 : 포럼, 2023 | 342.519 안251천 | 법학도서관 |
