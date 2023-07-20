@@ -2,6 +2,12 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31784/7/cover/k012833019_1.jpg) | 신민사법 기록형 연습. 2 : 기출해설 | 송영곤 | 서울 : 헤르메스, 2023 | 346.0076 송64신 2023 v.2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31704/67/cover/8932474893_1.jpg) | (유현준의) 인문 건축 기행 | 유현준 | 서울 : 을유문화사, 2023 | 720.2 유94인 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31600/84/cover/k612833060_1.jpg) | 하늘과 바람과 별과 인간 : 원자에서 인간까지 | 김상욱 | 서울 : 바다, 2023 | 502 김52하 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31381/47/cover/k292832005_1.jpg) | 모든 삶은 흐른다 : 삶의 지표가 필요한 당신에게 바다가 건네는 말 | Devillairs, Laurence | 서울 : 피카, 2023 | 158.1 D494pK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25694/47/cover/8937473305_1.jpg) | 초급 한국어 : 문지혁 장편소설 | 문지혁 | 서울 : 민음사, 2020 | 811.37 문78초 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/d81db579-1316-40e9-8d55-211711a2c42d) | 마당이 있는 집 | 김진영 | 파주 : 엘릭시르 : 문학동네, 2018(2023 15쇄, 16쇄) | 811.37 김78마 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The four elements of architecture and other writings | Semper, Gottfried | Cambridge : Cambridge University Press, 2010. | 720.1 S473f | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Oxford handbook of negation | Déprez, Viviane M | Oxford ; New York : Oxford University Press, 2020. | 415 D424o | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The drive for knowledge : the science of human information seeking | Dezza, Irene Cogliati | Cambridge, United Kingdom ; New York, NY : Cambridge University Press, 2022. | 153 D532d | 중앙도서관 |
@@ -46,9 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31608/48/cover/8963013049_1.jpg) | 죽은 고양이를 태우다 : 김양미 소설 | 김양미 | 고양 : 문학세상 : 가치창조, 2023 | 811.37 김63죽 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31572/6/cover/8932041512_1.jpg) | SF 보다 | 곽재식 | 서울 : 문학과지성사, 2023 | 811.3708 S523곽 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31490/19/cover/k582832234_1.jpg) | 엄마와 딸 여행이 필요할 때 : 달라도 너무 다른 딸과 함께 20개 나라를 누비며 얻은 것들 | 한명석 | [서울] : 사우, 2023 | 811.87 한34엄 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31801/69/cover/k482833313_1.jpg) | 어머니의 유산 : 미즈무라 미나에 장편소설 | 수촌미묘 | 서울 : 복복서가, 2023 | 813.37 수84모K송 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31770/66/cover/k192833109_2.jpg) | 파도가 닿는 미래 : 서윤빈 소설집 | 서윤빈 | 서울 : 허블, 2023 | 811.37 서66파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31751/70/cover/8936439081_1.jpg) | 없는 층의 하이쎈스 : 김멜라 장편소설 | 김멜라 | 파주 : 창비, 2023 | 811.37 김34없 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31748/20/cover/k922833905_1.jpg) | 서울 라이프스타일 기획자들 | 유지연 | 서울 : 책사람집, 2023 | 658.401 유78서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31744/41/cover/k632833807_1.jpg) | 우리에게는 아직 시간이 있습니다 : 생명살림 노장청 기후연대 제안 | 정성헌 | 서울 : 산현글방 : 산현재, 2023 | 304.2 정54우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31744/97/cover/8934981725_1.jpg) | 엘레나는 알고 있다 : 클라우디아 피녜이로 장편소설 | Piñeiro, Claudia | 파주 : 비채 : 김영사, 2023 | 863.7 P649eK엄 | 중앙도서관 |
