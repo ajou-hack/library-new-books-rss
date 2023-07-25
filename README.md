@@ -2,6 +2,18 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 성제고 역주 | 이왕무 | 수원 : 수원시정연구원 수원학연구센터, 2020 | 951.95 성74경 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Land of exile : contemporary Korean fiction | Pihl, Marshall R | Armonk, N.Y. : M.E. Sharpe/UNESCO Pub., 1993. | 811.3608 L258cEp | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Karl Marx : greatness and illusion | Stedman Jones, Gareth | Cambridge, Massachusetts : The Belknap Press of Harvard University Press, 2016 | 335.4092 M392s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Korea : time, change and administration | Lee, Hahn-Been | Honolulu : East-West Center Press, 1968 | 951.7 L478k | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Helen Silving : memoirs | Silving, Helen | New York : Vantage Press, 1988. | 340.092 S587h | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31956/19/cover/8950937573_1.jpg) | 창조적 시선 : 인류 최초의 창조 학교 바우하우스 이야기 | 김정운 | 파주 : arte : 북이십일 아르테, 2023 | 707.1143 김74창 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/20267/85/cover/k922635959_1.jpg) | 마이스터 에크하르트와 불교 : 하나님의 신성과 공 | 김형근 | 옥천군 : 은소몽, 2017 | 248.22 김94마2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Droit des contrats administratifs | Ubaud-Bergeron, Marion | Paris : LexisNexis, 2022 | 342.06 U12d4 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Droit des contrats administratifs | Richer, Laurent | Paris : LGDJ, 2021 | 342.06 R529d12 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Droit administratif général. tome 2 | Chapus, René | Paris : Montchrestien, 2001 | 342.06 C468d15 v.2 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Droit du contentieux administratif | Chapus, Rene | Paris : Montchrestien, 2008 | 342.066 C468d13 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Droit administratif général. tome 1 | Chapus, René | Paris : Montchrestien, 2001 | 342.06 C468d15 v.1 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31791/7/cover/k282833112_1.jpg) | (MITRE D3FEND) 디지털 아티팩트 기술과 실무 | 박원형 | 서울 : 홍릉, 2023 | 005.8 디78박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31791/8/cover/k472833112_1.jpg) | (MITRE D3FEND) 공격자 교전 기술과 실무 | 박원형 | 서울 : 홍릉, 2023 | 005.8 공14박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/4907/37/cover/8997318888_1.jpg) | 명작 속의 질병 이야기 : 의사가 들려주는 문학 속의 의학 | 김애양 | 서울 : 황금알, 2014 | 809.933561 김63명의 | 중앙도서관 |
@@ -40,15 +52,3 @@
 | ![](https://image.aladin.co.kr/product/18930/48/cover/k712635282_1.jpg) | 데이터 시각화와 자료분석 | 고길곤 | 서울 : 박영사, 2019 | 519.50285 고18데 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31197/24/cover/k732831053_1.jpg) | 미식가를 위한 스페인어 안내서 : 최소한의 스페인어로 떠나는 미식 여행 | 이지가을 | 서울 : 휴머니스트출판그룹, 2023 | 460 이78미 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/11352/22/cover/k332531392_1.jpg) | 안드로이드 임베디드 프로그래밍 깊게 들어가기 | Ye, Roger | 서울 : 스포트라잇북, 2017 | 004.167 Y37eK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31784/7/cover/k012833019_1.jpg) | 신민사법 기록형 연습. 2 : 기출해설 | 송영곤 | 서울 : 헤르메스, 2023 | 346.0076 송64신 2023 v.2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31704/67/cover/8932474893_1.jpg) | (유현준의) 인문 건축 기행 | 유현준 | 서울 : 을유문화사, 2023 | 720.2 유94인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31600/84/cover/k612833060_1.jpg) | 하늘과 바람과 별과 인간 : 원자에서 인간까지 | 김상욱 | 서울 : 바다, 2023 | 502 김52하 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31381/47/cover/k292832005_1.jpg) | 모든 삶은 흐른다 : 삶의 지표가 필요한 당신에게 바다가 건네는 말 | Devillairs, Laurence | 서울 : 피카, 2023 | 158.1 D494pK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25694/47/cover/8937473305_1.jpg) | 초급 한국어 : 문지혁 장편소설 | 문지혁 | 서울 : 민음사, 2020 | 811.37 문78초 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/d81db579-1316-40e9-8d55-211711a2c42d) | 마당이 있는 집 | 김진영 | 파주 : 엘릭시르 : 문학동네, 2018(2023 15쇄, 16쇄) | 811.37 김78마 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The four elements of architecture and other writings | Semper, Gottfried | Cambridge : Cambridge University Press, 2010. | 720.1 S473f | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Oxford handbook of negation | Déprez, Viviane M | Oxford ; New York : Oxford University Press, 2020. | 415 D424o | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The drive for knowledge : the science of human information seeking | Dezza, Irene Cogliati | Cambridge, United Kingdom ; New York, NY : Cambridge University Press, 2022. | 153 D532d | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Geschichte der Fotografie : von Daguerre bis Gursky | Kemp, Wolfgang | München : C.H. Beck, 2019. | 770.9 K32g | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | How to spend ＄50 billion to make the world a better place | Lomborg, Bjørn | Cambridge, [Eng.] ; New York : Cambridge University Press, 2006. | 361.26 L843h | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Probiotic research in therapeutics.volume 4, Probiotics in neurodegenerative disorders | Kaur, Indu Pal | Singapore : Springer, 2023. | 616.804 D418p | 중앙도서관 |
