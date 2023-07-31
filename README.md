@@ -2,7 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 일제강점기 친일세력 연구 : 조선귀족·중추원·친일단체(1910~1937)를 중심으로 | 변은진 | 서울 : 동북아역사재단, 2022 | 951.6 변67일 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18782/11/cover/k212635470_1.jpg) | 전쟁 그리고 패션 | 남보람 | 서울 : 와이즈플랜, 2019-2021 | 746.92 남45전 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31318/86/cover/8961877704_1.jpg) | 일제강점기 친일세력 연구 : 조선귀족·중추원·친일단체(1910~1937)를 중심으로 | 변은진 | 서울 : 동북아역사재단, 2022 | 951.6 변67일 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31491/91/cover/8976828216_1.jpg) | (강수돌 교수의) '나부터' 교육혁명 | 강수돌 | 서울 : 그린비, 2023 | 370.951 강56나2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/13728/62/cover/8964473809_1.jpg) | 경계선 위에서 : 폴 틸리히의 자전적 사상 탐구 | Tillich, Paul | 서울 : 동연, 2018 | 230.092 T577aK김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (혼자서 터득하는) 원천징수와 4대보험 업무 가이드 | 윤지영 | 서울 : 삼일인포마인, 2022 | 658.32 윤78원5 | 법학도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31877/37/cover/k982833431_2.jpg) | 문과 남자의 과학 공부 : 나는 무엇이고 왜 존재하며 어디로 가는가? | 유시민 | 파주 : 돌베개, 2023 | 502 유58문 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31600/84/cover/k612833060_1.jpg) | 하늘과 바람과 별과 인간 : 원자에서 인간까지 | 김상욱 | 서울 : 바다, 2023 | 502 김52하 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/fe69ab2a-cfe4-4d69-86b9-5fbd082e8091) | 모순 : 양귀자 소설 | 양귀자 | 서울 : 쓰다, 2013(2022 51쇄) | 811.37 양16모2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 성제고 역주 | 이왕무 | 수원 : 수원시정연구원 수원학연구센터, 2020 | 951.95 성74경 | 중앙도서관 |
