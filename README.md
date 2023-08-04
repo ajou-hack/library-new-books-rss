@@ -2,16 +2,26 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Why love hurts : a sociological explanation | Illouz, Eva | Cambridge, U.K. ; Malden, M.A. : Polity, 2012. | 152.41 I29w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Emerging adults in America : coming of age in the 21st century | Arnett, Jeffrey Jensen | Washington, DC : American Psychological Association, 2006. | 305.2420973 A748e | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6314/82/cover/8998742519_1.jpg) | 조선불교유신론 | 한용운 | 서울 : 민족사, 2015 | 294.30951 한65조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/7888/21/cover/k022434831_1.jpg) | (인류의 보물창고) 뮤지엄 아키텍춰 | 아치앤북 | 서울 : 아치앤북, 2016 | 727.6 아86뮤 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25496/81/cover/k482633020_1.jpg) | 프로그래머를 위한 파이썬 | Hillard, Dane | 파주 : 제이펍, 2020 | 005.133 H649pK황 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31375/50/cover/8928781302_1.jpg) | 국제금융 리스크관리 | 최영한 | 서울 : 한국금융연수원 출판사업부, 2023 | 332.042 최64국5 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30683/41/cover/k702830239_2.jpg) | (2023) 상장기업 업종 지도 : 주식 투자자를 위한 종목 발굴 내비게이션 | 박찬일 | 서울 : 에프엔미디어, 2023 | 332.6322 박82상 2023 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Chat GPT bible : 10 books in 1 | Codi Byte | North Haven, CT : Codi Byte, 2023. | 006.3 C669c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Physics of photonic devices | Chuang, Shun Lien | Hoboken, N.J. : John Wiley ＆ Sons, 2009. | 621.381045 C559p2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Schinkel : a meander through his life and work | Forster, Kurt Walter | Basel : Birkhauser, c2018. | 720.92 F733s | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31356/33/cover/k442832098_1.jpg) | 파이썬과 Qt6로 GUI 애플리케이션 만들기 : 파이썬 애플리케이션 제작 실습 가이드 | Fitzpatrick, Martin | 서울 : 에이콘, 2023 | 005.133 F559c5K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29744/94/cover/k472838692_1.jpg) | 실무자를 위한 Vissim manual | 기한솔 | 인천 : 트랜북스, 2022 | 629.04 기92실 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29803/29/cover/8918913206_1.jpg) | 금융리스크관리 | 원재환 | 파주 : 法文社, 2022 | 658.155 원73금2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31325/49/cover/899972848x_1.jpg) | (좌충우돌) 미국의 통합교육 이야기 : ADHD, 자폐스펙트럼장애, 학습장애, 정서장애, 적대적 반항장애 학생들과의 학교생활 이야기 | 신경아 | 서울 : 학지사, 2023 | 371.90973 신14미 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28612/87/cover/8966263313_1.jpg) | 컴파일러 개발자가 들려주는 C 이야기 : 아무도 알려주지 않던 심오한 C의 비밀 | Van der Linden, Peter | 서울 : 인사이트, 2022 | 005.133 V235eK정 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 현대정신분석의 임상기법 : 하인즈 코헛의 자기치료 해설 | 김병훈 | 서울 : 하나醫學社, 2022 | 150.195 김44현 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 배민 기획자의 일 | 엄유진 | [고양] : 갈라북스, 2023 | 658.4012 배38엄 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 마가복음 정치적으로 읽기 | 박원일 | 고양 : 한국기독교연구소, 2016(2022 3쇄) | 226.306 박66마 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (개역개정판 성경본문에 맞춘) 라이프 성경단어 사전 | 가스펠서브 | 서울 : 생명의 말씀사, 2011(20221 5쇄) | R 220.3 가57라생 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 라이프 성경사전 | 가스펠서브 | 서울 : 생명의말씀사, 2006(2023 16쇄) | R 220.3 가57라 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30742/26/cover/k292830253_1.jpg) | 현대정신분석의 임상기법 : 하인즈 코헛의 자기치료 해설 | 김병훈 | 서울 : 하나醫學社, 2022 | 150.195 김44현 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31728/48/cover/k342833896_1.jpg) | 배민 기획자의 일 | 엄유진 | [고양] : 갈라북스, 2023 | 658.4012 배38엄 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/9156/49/cover/8997339281_1.jpg) | 마가복음 정치적으로 읽기 | 박원일 | 고양 : 한국기독교연구소, 2016(2022 3쇄) | 226.306 박66마 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/1388/25/cover/8904010438_1.jpg) | (개역개정판 성경본문에 맞춘) 라이프 성경단어 사전 | 가스펠서브 | 서울 : 생명의 말씀사, 2011(2021 5쇄) | R 220.3 가57라생 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/68/37/cover/890401039x_1.jpg) | 라이프 성경사전 | 가스펠서브 | 서울 : 생명의말씀사, 2006(2023 16쇄) | R 220.3 가57라 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 津山 : 美しい建築の街 | 稲葉なおと | 岡山 : 山陽新聞社, 2022 | 720.953 도64진 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31843/81/cover/k252833323_2.jpg) | 마음의 자유 : 행복이란 마음이 어디에도 얽매이지 않는 것 | 정윤 | [대구] : 북로망스, 2023 | 811.87 정66마 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32086/19/cover/8997066846_1.jpg) | 잃어버린 사람 : 김숨 장편소설 | 김숨 | 고양 : 모요사, 2023 | 811.37 김56잃 | 중앙도서관 |
@@ -42,13 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31706/52/cover/8975818667_1.jpg) | 청춘을 위한 융합인문학 | 정병규 | 경산 : 영남대학교출판부, 2023 | 001.3 청85정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31636/39/cover/k032833975_1.jpg) | 철학자와 예술가의 이야기 마당 | 인문예술연구소 | 서울 : 문사철, 2022 | 700.951 인36철 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31674/59/cover/k142833676_1.jpg) | 상담심리학 | 임수진 | 서울 : 북앤정, 2023 | 158.3 상22임 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31698/90/cover/8971806095_1.jpg) | 아동문학의 발견 : 마법과 환상, 그리고 아이다움 | 변학수 | 대구 : 경북대학교출판부, 2023 | 809.89282 변92아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31601/0/cover/k082833061_1.jpg) | 문학 더하기 : 문학의 조건과 변수 | 장일구 | 서울 : 역락, 2023 | 801 장68문 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31700/16/cover/k042833680_1.jpg) | 한글의 발전 | 이상규 | 서울 : 한국문화사, 2023 | 411.12 이52한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31673/29/cover/k612833673_1.jpg) | 미래 사회를 위한 리터러시 교육의 다각화 모색 | 김성수 | 하남 : 박이정, 2023 | 371.3 미293김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31649/51/cover/8961877801_2.jpg) | 관습조사 : 일제의 조선 관습조사와 식민지 법제 추진 | 왕현종 | 서울 : 동북아역사재단, 2022 | 951.6 왕94관 v.2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31699/5/cover/8961877879_1.jpg) | 지방제도 : 통감부 시기와 1910년대 | 김윤정 | 서울 : 동북아역사재단, 2022 | 951.6 김66지 v.1 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31729/99/cover/892851844x_1.jpg) | 다시 일어서는 코끼리, 인도 근현대사 | Metcalf, Barbara Daly | 서울 : 민속원, 2023 | 954 M588c3K장 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31744/60/cover/8928518547_1.jpg) | 강물 위의 세상 : 중국 운하의 역사 | 채계림 | 서울 : 민속원, 2023 | 915.2 채14천K려 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31637/20/cover/8928518431_1.jpg) | 추석 : 더도 말고 덜도 말고 한가위만 같아라 | 신종원 | 서울 : 민속원, 2023 | 394.26951 추54신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31606/54/cover/8928518474_1.jpg) | 한국과 일본의 劍道 | 김당택 | 서울 : 민속원, 2023 | 796.86 김22한 | 중앙도서관 |
