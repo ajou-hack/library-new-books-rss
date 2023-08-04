@@ -2,6 +2,17 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31356/33/cover/k442832098_1.jpg) | 파이썬과 Qt6로 GUI 애플리케이션 만들기 : 파이썬 애플리케이션 제작 실습 가이드 | Fitzpatrick, Martin | 서울 : 에이콘, 2023 | 005.133 F559c5K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29744/94/cover/k472838692_1.jpg) | 실무자를 위한 Vissim manual | 기한솔 | 인천 : 트랜북스, 2022 | 629.04 기92실 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29803/29/cover/8918913206_1.jpg) | 금융리스크관리 | 원재환 | 파주 : 法文社, 2022 | 658.155 원73금2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31325/49/cover/899972848x_1.jpg) | (좌충우돌) 미국의 통합교육 이야기 : ADHD, 자폐스펙트럼장애, 학습장애, 정서장애, 적대적 반항장애 학생들과의 학교생활 이야기 | 신경아 | 서울 : 학지사, 2023 | 371.90973 신14미 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28612/87/cover/8966263313_1.jpg) | 컴파일러 개발자가 들려주는 C 이야기 : 아무도 알려주지 않던 심오한 C의 비밀 | Van der Linden, Peter | 서울 : 인사이트, 2022 | 005.133 V235eK정 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 현대정신분석의 임상기법 : 하인즈 코헛의 자기치료 해설 | 김병훈 | 서울 : 하나醫學社, 2022 | 150.195 김44현 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 배민 기획자의 일 | 엄유진 | [고양] : 갈라북스, 2023 | 658.4012 배38엄 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 마가복음 정치적으로 읽기 | 박원일 | 고양 : 한국기독교연구소, 2016(2022 3쇄) | 226.306 박66마 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (개역개정판 성경본문에 맞춘) 라이프 성경단어 사전 | 가스펠서브 | 서울 : 생명의 말씀사, 2011(20221 5쇄) | R 220.3 가57라생 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 라이프 성경사전 | 가스펠서브 | 서울 : 생명의말씀사, 2006(2023 16쇄) | R 220.3 가57라 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 津山 : 美しい建築の街 | 稲葉なおと | 岡山 : 山陽新聞社, 2022 | 720.953 도64진 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31843/81/cover/k252833323_2.jpg) | 마음의 자유 : 행복이란 마음이 어디에도 얽매이지 않는 것 | 정윤 | [대구] : 북로망스, 2023 | 811.87 정66마 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32086/19/cover/8997066846_1.jpg) | 잃어버린 사람 : 김숨 장편소설 | 김숨 | 고양 : 모요사, 2023 | 811.37 김56잃 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26665/83/cover/899972350x_1.jpg) | 사회복지와 인권 | 김수정 | 서울 : 학지사, 2021 | 361.2 사95김 | 중앙도서관 |
@@ -15,9 +26,9 @@
 | ![](https://image.aladin.co.kr/product/30828/48/cover/k732831175_1.jpg) | 크로아티아 홀리데이 | 양인선 | 파주 : 꿈의지도, 2023 | 914.97204 양68크3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/11981/55/cover/k562531535_1.jpg) | 내 몸을 사랑하게 되는 날 : 몸과 마음을 돌보는 8주 폭식증 클리닉 | 박지현 | 파주 : 수오서재, 2017 | 616.8526 박78내 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29233/96/cover/k162837292_1.jpg) | 당신의 커리어는 안녕하십니까? | 박윤희 | 서울 : 북랩, 2022 | 650.1 박66당 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (HMI를 활용한) 스마트팜, 스마트 팩토리 DIY : ICT 입문자들을 위한 노코딩 스마트팜 학습서 | 변정한 | 고양 : 생각나눔, 2023 | 658.5 변74스 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32112/77/cover/k122834200_1.jpg) | (HMI를 활용한) 스마트팜, 스마트 팩토리 DIY : ICT 입문자들을 위한 노코딩 스마트팜 학습서 | 변정한 | 고양 : 생각나눔, 2023 | 658.5 변74스 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30565/36/cover/8968334080_1.jpg) | 무조건 통하는 피드백, 강점 말하기 : 팀원의 마음을 사로잡는 요즘 리더의 비밀 무기 | 이윤경 | 서울 : 블랙피쉬 : 백도씨, 2022 | 658.4092 이66무 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 탱크 : 김희재 장편소설 | 김희재 | 서울 : 한겨레 : 한겨레엔, 2023 | 811.37 김97탱 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32090/61/cover/k922834195_1.jpg) | 탱크 : 김희재 장편소설 | 김희재 | 서울 : 한겨레 : 한겨레엔, 2023 | 811.37 김97탱 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31815/42/cover/8963475565_1.jpg) | 권력의 법칙 | Wieser, Friedrich, Freiherr von | 과천 : 진인진, 2023 | 303.33 W651gK현 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31693/4/cover/8927879821_1.jpg) | ESG 생존경영 : 메가 리스크 시대를 돌파하는 기업의 필수 무기 | 이준희 | 서울 : 중앙books : 중앙일보에스, 2023 | 658.408 E75이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31688/21/cover/s422833112_1.jpg) | (재난만큼 위험한 AI 오류) 인공지능 안전성에 주목하라 | 김창익 | 서울 : 홍릉, 2023 | 006.3 김82인 | 중앙도서관 |
@@ -41,14 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31744/60/cover/8928518547_1.jpg) | 강물 위의 세상 : 중국 운하의 역사 | 채계림 | 서울 : 민속원, 2023 | 915.2 채14천K려 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31637/20/cover/8928518431_1.jpg) | 추석 : 더도 말고 덜도 말고 한가위만 같아라 | 신종원 | 서울 : 민속원, 2023 | 394.26951 추54신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31606/54/cover/8928518474_1.jpg) | 한국과 일본의 劍道 | 김당택 | 서울 : 민속원, 2023 | 796.86 김22한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31678/98/cover/8928518504_1.jpg) | 삼전도비 | 심영환 | 서울 : 민속원, 2023 | 951.54 심64삼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31656/53/cover/k522833575_1.jpg) | (알기쉬운) 반도체 제조공정 | 김도우 | 서울 : B.C.Info : 복두, 2023 | 621.38152 김25반제2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31577/41/cover/8989069947_1.jpg) | (제조와 사용자를 위한) 알루미늄 빌릿 : 이론과 실제 | 강원덕 | 서울 : S&M미디어, 2023 | 673.722 강66알 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31532/14/cover/k232832442_1.jpg) | 비즈니스 액티비스트 : 지구를 살리는 혁신가드을 만나다 | 주영재 | 서울 : 다른백년, 2023 | 363.7 주64비 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31649/28/cover/k012833475_1.jpg) | (한 권으로 끝내는) 부동산 경매의 바이블 | 최재근 | 서울 : 좋은땅, 2023 | 332.6324 최73부 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31574/35/cover/8962387719_1.jpg) | 한국의 졸부적 민족주의와 다문화주의 | Han, Gil Soo | 서울 : 해남, 2023 | 305.800951 H233nK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31642/58/cover/k922833372_1.jpg) | 생명을 지키는 인체의 골든타임 | 김인선 | 대구 : 계명대학교출판부, 2023 | 613.7 김68생 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32042/66/cover/k842834889_1.jpg) | 그레이트 마인드셋 : 세계 최고 대가들의 인생을 바꾼 결정적 순간 | Howes, Lewis | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2023 | 650.1 H859gK정 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Speaking in subtitles : revaluing screen translation | Dwyer, Tessa | Edinburgh : Edinburgh University Press, 2017. | 791.436 D993s | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31533/25/cover/k422832443_2.jpg) | 아버지의 상자 : 가족, 혈통, 상속에 대한 도발 | Bärfuss, Lukas | [서울] : 마라카스, 2023 | 834.92 B249vK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31867/74/cover/8964452658_1.jpg) | 프로메테우스의 야망 : 자연의 완전성을 탐구하는 연금술의 역사 | Newman, William R | 서울 : 길, 2023 | 509.024 N556pK박 | 중앙도서관 |
