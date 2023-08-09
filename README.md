@@ -2,6 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/29103/79/cover/k152837161_1.jpg) | (인권과 함께 살펴보는) 사회복지 윤리와 철학 | 윤성호 | 고양 : 지식공동체, 2022 | 361.001 윤54사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31395/72/cover/k522832104_1.jpg) | 사회복지역사 | 원석조 | 고양 : 지식터, 2023 | 361.9 원54사7 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32042/63/cover/8918914148_1.jpg) | 상법판례 백선 | 강대섭 | 파주 : 法文社, 2023 | 346.07 상44강9 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Why love hurts : a sociological explanation | Illouz, Eva | Cambridge, U.K. ; Malden, M.A. : Polity, 2012. | 152.41 I29w | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Emerging adults in America : coming of age in the 21st century | Arnett, Jeffrey Jensen | Washington, DC : American Psychological Association, 2006. | 305.2420973 A748e | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/6314/82/cover/8998742519_1.jpg) | 조선불교유신론 | 한용운 | 서울 : 민족사, 2015 | 294.30951 한65조 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31746/55/cover/8933708219_1.jpg) | 미드웨이 해전과 나 : 전설적인 미군 급강하폭격기 조종사의 회고록 | Kleiss, N. Jack | 서울 : 일조각, 2023 | 940.5426 K64nK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31745/19/cover/k482833909_1.jpg) | 루치아노 플로리디, 정보 윤리학 | 목광수 | 서울 : 컴북스캠퍼스, 2023 | 306.42 목15루 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31770/15/cover/k832833006_1.jpg) | 유라시아 지역의 인문학적 연구 방향 | 박선아 | 서울 : 글로벌콘텐츠, 2023 | 950 유292박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31706/52/cover/8975818667_1.jpg) | 청춘을 위한 융합인문학 | 정병규 | 경산 : 영남대학교출판부, 2023 | 001.3 청85정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31636/39/cover/k032833975_1.jpg) | 철학자와 예술가의 이야기 마당 | 인문예술연구소 | 서울 : 문사철, 2022 | 700.951 인36철 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31674/59/cover/k142833676_1.jpg) | 상담심리학 | 임수진 | 서울 : 북앤정, 2023 | 158.3 상22임 | 중앙도서관 |
