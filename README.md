@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31940/75/cover/k042833154_1.jpg) | 자본시장과 불공정거래 : 내부자거래·시세조종·부정거래행위·시장질서 교란행위 | 임재연 | 서울 : 박영사, 2023 | 343.072 임73자4 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31956/46/cover/k182833257_1.jpg) | 독점규제법 | 신동권 | 서울 : 박영사, 2023 | 343.0721 신25독4 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/29103/79/cover/k152837161_1.jpg) | (인권과 함께 살펴보는) 사회복지 윤리와 철학 | 윤성호 | 고양 : 지식공동체, 2022 | 361.001 윤54사 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31395/72/cover/k522832104_1.jpg) | 사회복지역사 | 원석조 | 고양 : 지식터, 2023 | 361.9 원54사7 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32042/63/cover/8918914148_1.jpg) | 상법판례 백선 | 강대섭 | 파주 : 法文社, 2023 | 346.07 상44강9 | 법학도서관 |
@@ -12,6 +14,9 @@
 | ![](https://image.aladin.co.kr/product/25496/81/cover/k482633020_1.jpg) | 프로그래머를 위한 파이썬 | Hillard, Dane | 파주 : 제이펍, 2020 | 005.133 H649pK황 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31375/50/cover/8928781302_1.jpg) | 국제금융 리스크관리 | 최영한 | 서울 : 한국금융연수원 출판사업부, 2023 | 332.042 최64국5 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30683/41/cover/k702830239_2.jpg) | (2023) 상장기업 업종 지도 : 주식 투자자를 위한 종목 발굴 내비게이션 | 박찬일 | 서울 : 에프엔미디어, 2023 | 332.6322 박82상 2023 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31937/5/cover/k582833054_1.jpg) | (법률용어중심) 민법입문 | 강양원 | 서울 : 더솜, 2023 | 346 강63민3 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31891/94/cover/8949967057_1.jpg) | 주거공익법제연구 | 태평양 | 파주 : 景仁文化社, 2023 | 346.045 태894주 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31938/9/cover/k872833057_1.jpg) | 법적 사고의 작은 입문서 | Puppe, Ingeborg | 대구 : 준커뮤니케이션즈, 2023 | 340.10943 P984kK김4 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Chat GPT bible : 10 books in 1 | Codi Byte | North Haven, CT : Codi Byte, 2023. | 006.3 C669c | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Physics of photonic devices | Chuang, Shun Lien | Hoboken, N.J. : John Wiley ＆ Sons, 2009. | 621.381045 C559p2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Schinkel : a meander through his life and work | Forster, Kurt Walter | Basel : Birkhauser, c2018. | 720.92 F733s | 중앙도서관 |
@@ -47,8 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31688/21/cover/s422833112_1.jpg) | (재난만큼 위험한 AI 오류) 인공지능 안전성에 주목하라 | 김창익 | 서울 : 홍릉, 2023 | 006.3 김82인 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31642/59/cover/8946074418_1.jpg) | (시대의 새로운 지평을 향한) ArcGIS Pro 기초와 공간분석 실무 | 김남신 | 파주 : 한울아카데미 : 한울엠플러스, 2023 | 910.285 김192a | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31574/24/cover/8928518466_1.jpg) | 한국 야구의 탄생 | 손환 | 서울 : 민속원, 2023 | 796.3570951 손95한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31629/87/cover/8955663048_1.jpg) | 광고 리터러시 : 디지털 미디어 시대, 브랜디드 콘텐츠와 뒷광고를 중심으로 | 안순태 | 서울 : 한나래플러스, 2023 | 659.1 안56광 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31709/24/cover/k702833793_1.jpg) | 파라과이와 메르코수르 | 김선태 | 서울 : HU:iNE : 한국외국어대학교 지식출판콘텐츠원, 2023 | 382.09892 김54파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31746/55/cover/8933708219_1.jpg) | 미드웨이 해전과 나 : 전설적인 미군 급강하폭격기 조종사의 회고록 | Kleiss, N. Jack | 서울 : 일조각, 2023 | 940.5426 K64nK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31745/19/cover/k482833909_1.jpg) | 루치아노 플로리디, 정보 윤리학 | 목광수 | 서울 : 컴북스캠퍼스, 2023 | 306.42 목15루 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31770/15/cover/k832833006_1.jpg) | 유라시아 지역의 인문학적 연구 방향 | 박선아 | 서울 : 글로벌콘텐츠, 2023 | 950 유292박 | 중앙도서관 |
