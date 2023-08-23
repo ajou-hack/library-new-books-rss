@@ -2,6 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31222/11/cover/k272831251_1.jpg) | 신국제법 강의 : 이론과 사례 | 정인섭 | 서울 : 박영사, 2023 | 341 정68국13 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/30815/14/cover/k212831668_1.jpg) | 물권법 | 송덕수 | 서울 : 박영사, 2023 | 346.04 송24물6 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/29762/13/cover/k582838300_1.jpg) | 친족상속법 | 송덕수 | 서울 : 박영사, 2022 | 346.015 송24친6 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Blender 3.2 : the beginner's guide | Brito, Allan | [S.l] : Alan Brito, 2022. | 006.696 B862bg | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | OpenIntro statistics | Diez, David M | [Great britain] : OpenIntro, Inc., 2019. | 519.5 D568o4 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Artificial intelligence : a modern approach | Russell, Stuart J | Harlow, United Kingdom : Pearson Education Limited, 2022. | 006.3 R967a4g | 중앙도서관 |
@@ -16,6 +19,7 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Understanding NMR spectroscopy | Keeler, James | Chichester, U.K. : John Wiley and Sons, 2010. | 543.66 K26u2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Linear models in statistics | Rencher, Alvin C | Hoboken, N.J. : Wiley-Interscience, 2008. | 519.535 R396L2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31830/41/cover/k902833125_1.jpg) | 다정한 비인간 : 메타휴먼과의 알콩달콩 수다 | 한유아 | 서울 : 이음, 2023 | 811.87 한66다 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Islands of the damned : a Marine at war in the Pacific | Burgin, R. V | New York : Dutton Caliber, 2018. | 940.5459 B956i | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Electric circuits | Nilsson, James William | Harlow : Pearson Education Limited, 2020 | 621.3192 N712e11g | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fundamentals of thermodynamics | Borgnakke, C | Hoboken : John Wiley ＆ Sons, Inc., 2022. | 621.4021 B733f10i | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Probability ＆ statistics for engineers ＆ scientists | Walpole, Ronald E | Harlow, United Kingdom : Pearson Education Limited, 2016. | 519.02462 P962w9g | 중앙도서관 |
@@ -48,7 +52,3 @@
 | ![](https://image.aladin.co.kr/product/27306/58/cover/k642732128_1.jpg) | (행동과학을 위한) 기초 통계학 | Nolan, Susan A | 서울 : 시그마, 2021 | 519.5 N789e4K신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29984/59/cover/8999727319_1.jpg) | 학생 생활지도와 상담 | 강진령 | 서울 : 학지사, 2022 | 371.4 강78학생 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/19724/98/cover/k932635038_1.jpg) | 하버드 비즈니스 스쿨 사업계획서의 정석 : 스타트업을 위한 사업계획서 쓰기 | Sahlman, William Andrews | 부산 : 유엑스리뷰, 2019 | 658.401 S131hK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26410/84/cover/897050480x_1.jpg) | (파이썬으로 경험하는) 빅데이터 분석과 머신러닝 | 이영호 | 파주 : 생능, 2021 | 006.312 이64빅 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30812/18/cover/k642831563_2.jpg) | (누구나 쉽게) 자료구조와 알고리즘 with 파이썬 | 김현정 | 서울 : 길벗캠퍼스 : 길벗, 2023 | 005.133 김94자 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23550/35/cover/8961543245_1.jpg) | 인체해부생리학 | Shier, David | 서울 : 라이프사이언스, 2020 | 612 S555h15K한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/6579/44/cover/8930088228_1.jpg) | 인권과 사회복지 | 배화옥 | 파주 : 나남, 2015(2021 6쇄) | 323.4 인16배 | 중앙도서관 |
