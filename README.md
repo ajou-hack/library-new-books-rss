@@ -2,6 +2,19 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 마음이 아니라 뇌가 불안한 겁니다 : 최신 과학이 밝힌 뇌 유형별 회복 탄력의 비밀 | Amen, Daniel G | 서울 : 위즈덤하우스, 2023 | 152.42 A511yK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 지질학 : 46억 년 지구의 시간을 여행하는 타임머신 | Zalasiewicz, J. A | 파주 : 김영사, 2023 | 551 Z22gK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이상한 그림 | 우혈 | 파주 : 북다 : 교보문고, 2023 | 813.37 우94변K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 부모, 쉼표 : 흔들리는 부모와 아이를 위한 고전 명구 마음 수업 | 이명학 | [파주] : 책폴, 2023 | 649.1 이34부 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (주식시장을 더 이기는) 마법의 멀티플 : 그린블랫의 마법공식을 능가하는 칼라일의 신마법공식 | Carlisle, Tobias E | 서울 : 에프엔미디어, 2020 | 332.6322 C283aK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 코어 마인드 : 내 마음대로 살 수 있는 내면의 힘 | 지나영 | 서울 : 위즈덤하우스, 2023 | 158.1 지192코 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (30개 도시로 읽는) 한국사 : 한 권으로 독파하는 우리 도시 속 재미있는 역사 이야기 | 함규진 | 파주 : 다산초당 : 다산북스, 2023 | 951 함16한 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (관계의 힘을 키우는) 부모 심리 수업 | 권경인 | 서울 : 라이프앤페이지, 2023 | 158.24 권14부 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32144/66/cover/k412834113_1.jpg) | 관계력 : 오롯이 혼자 설 수 있을 때 비로소 가질 수 있는 것 | 김단 | 파주 : 클레이하우스, 2023 | 158.2 김22관 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이중섭, 편지화 : 바다 건너 띄운 꿈, 그가 이룩한 또 하나의 예술 | 최열 | 서울 : 혜화1117, 2023 | 759.11 최64이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 학생들의 성공적 삶과 사회정서 학습 : 긍정적인 학교생활을 촉진하는 교사들의 사회·정서적 기술 다섯 가지 | Frey, Nancy | 서울 : 밥북, 2021 | 370.153 F893aK안 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인생이 바뀌는 시간관리의 비밀 : 뇌를 완전히 바꿔서 시간을 장악하라 | Norton, Richie | 서울 : 동양북스, 2023 | 650.11 N887aK신 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이 집에서 슬픔은 안 된다 : 김상혁 시집 | 김상혁 | 서울 : 민음사, 2013(2019 5쇄) | 811.17 김52이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31961/41/cover/8936439200_1.jpg) | 제주도우다 : 현기영 장편소설 | 현기영 | 파주 : 창비, 2023 | 811.37 현18제 v.1~3 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Adult development ＆ aging : biopsychosocial perspectives | Whitbourne, Susan Krauss | Hoboken : Wiley, 2020. | 305.26 W579a7 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The language of Bion : a dictionary of concepts | Sandler, P. C | Abingdon, Oxon : Routledge, 2018. | 150.195 S217L | 중앙도서관 |
@@ -39,16 +52,3 @@
 | ![](https://image.aladin.co.kr/product/23178/92/cover/k422639518_1.jpg) | 수평 조직의 구조 : 일을 바꾸는 조직 혁신 전략 | 김성남 | 서울 : 스리체어스, 2020 | 658.402 김54수 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25019/47/cover/k612632825_1.jpg) | 로컬의 진화 | 류석진 | 서울 : 스리체어스, 2020 | 307.76 류54로 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25311/30/cover/k382633409_1.jpg) | 인공지능, 말을 걸다 | 박현아 | 서울 : 스리체어스, 2020 | 303.4834 박94인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25956/43/cover/k072737807_1.jpg) | 우주에 투자합니다 | 한대훈 | 서울 : 스리체어스, 2021 | 338.476291 한23우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26064/27/cover/k182737056_1.jpg) | 산업 대전환 | 박종구 | 서울 : 스리체어스, 2021 | 338.544 박75산 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26944/15/cover/k152730819_1.jpg) | 스타트업 플레이북 | 허윤경 | 서울 : 스리체어스, 2021 | 658.11 스882허 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27048/44/cover/k712731881_1.jpg) | 불안한 어른 | 이민경 | 서울 : 스리체어스, 2021 | 305.242 이38불 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27100/59/cover/k482731040_1.jpg) | 왜 차별금지법인가 | 이주민 | 서울 : 스리체어스, 2021 | 342.085 이76왜 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27257/31/cover/k392732699_1.jpg) | 뉴 룰스 | 강민이 | 서울 : 스리체어스, 2021 | 650.1 뉴296강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27899/10/cover/k852734402_1.jpg) | 의사들은 왜 그래? | 김선영 | 서울 : 스리체어스, 2021 | 610.695 김54의 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28334/90/cover/k462835906_1.jpg) | 알고리즘의 블랙박스 | 오세욱 | 서울 : 스리체어스, 2021 | 302.23 오54알 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27358/23/cover/8930040209_1.jpg) | 유명한 철학자들의 생애와 사상 | Διογένης Λαέρτιος | 파주 : 나남, 2021 | 180 D591bK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/11047/60/cover/k232531279_1.jpg) | (알기 쉬운) 정보보호개론 : 흥미로운 암호 기술의 세계 | 결성호 | 고양 : INFINITYBOOKS, 2017 | 005.8 결54암3K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1141/46/cover/8963522059_1.jpg) | 노인상담론 | 박재간 | 고양 : 공동체, 2011(2020 4쇄) | 362.66 노68박2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24974/44/cover/k762632708_1.jpg) | (웰빙과 웰다잉을 위한) 노인돌봄과 노인상담 | 이미나 | 고양 : 공동체, 2020 | 362.6 노68이공 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29250/62/cover/k892837391_1.jpg) | 노인상담의 이해 | 김희수 | 서울 : 동문사, 2022 | 362.66 김97노 | 중앙도서관 |
