@@ -2,6 +2,15 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 돌봄의 시간들 : 돌봄에 관한 9가지 정동적 시선 | 권범철 | 서울 : 모시는사람들, 2023 | 361.65 돌45권 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이문구 소설어 사전 | 민충환 | 서울 : 아로파, 2020 | R 811.3603 민85이2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 한국의 지질공원 : '태고의 신비를 만나다!' | 김상일 | 서울 : 혜성, 2022 | 555.1 김52한 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인공 지능 음악 : 인공 지능 소개 및 스크래치와 파이썬 활용 | 최영준 | 서울 : 예솔, 2023 | 786.76 최64인 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (기획에서 유통까지,) 나만의 책 만들기 | 마이크 | [서울] : STORAGE BOOK AND FILM, 2023 | 070.5 마68나 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 미메시스, 시뮬레이션, 상상력 | 이윤석 | 서울 : 연세대학교 대학출판문화원, 2017 | 001.3 미34이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (중학생을 위한) 사회정서학습 프로그램 : 교사용 지도서 | 신현숙 | 서울 : 학지사, 2015 | 370.1534 사95신 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 그림책 365 | 학교도서관저널 | 서울 : 학교도서관저널, 2016 | 011.62 학15그 v.2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 음향학 언해 2022 : 학부 강의용 | 이진우 | 서울 : 퍼플, 2022 | 534 이78음 2022 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30217/66/cover/k702839497_1.jpg) | 모든 식물에는 이야기가 있다 | 김현경 | 서울 : 빌리버튼, 2022 | 581.7 김94모 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31652/49/cover/893742987x_1.jpg) | 기만 | Mann, Thomas | 서울 : 민음사, 2023 | 833.912 M282bK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31884/93/cover/k372833535_1.jpg) | 나는 어떻게 삶의 해답을 찾는가 : 고명환의 독서 내공 | 고명환 | 서울 : 라곰, 2023 | 028.55 고34나 | 중앙도서관 |
@@ -43,12 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32011/99/cover/k402834472_1.jpg) | 고수의 처신법 | 한근태 | 파주 : 스노우폭스북스, 2023 | 650.1 한17고우 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32181/33/cover/k842834511_1.jpg) | (대한민국) 돈의 역사 : 돈을 벌기 위해서는 역사에서 교훈을 얻어야 한다 | 홍춘욱 | 성남 : 상상스퀘어, 2023 | 332.49 홍85돈상 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32152/10/cover/k942834319_1.jpg) | 우리는 왜 시국선언을 하는가 : 윤석열 정부 1년간의 분노와 저항의 기록 | 김성진 | 서울 : 민들레북, 2023 | 320.951 우298김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Biochemistry : a short course | Tymoczko, John L | New York : W.H. Freeman and Company, 2019. | 572 T986b4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Basic ＆ clinical pharmacology | Katzung, Bertram G | New York : McGraw-Hill, 2021. | 615.1 K19b15 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fixed income analysis | Adams, James F | Hoboken, New Jersey : Joh Wiley ＆ Sons, Inc., 2022. | 332.642 A214f5 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Grammar and beyond | Reppen, Randi | Cambridge : Cambridge University Press, 2021. | 425 R425g2 v.1A | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Small unmanned aircraft : theory and practice | Beard, Randal W | Princeton, N.J. : Princeton University Press, 2012. | 623.7469 B368s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Essentials of performance analysis of sport | Hughes, Mike | New York : Routledge, 2020. | 613.71 H894e3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Narrative comprehension and film | Branigan, Edward | London ; New York : Routledge, 1992. | 791.4375 B821n | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Aerosol technology : properties, behavior, and measurement of airborne particles | Hinds, William C | Hoboken, NJ : John Wiley ＆ Sons, Inc., 2022. | 628.53 H662a3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Density functional theory : a practical introduction | Sholl, David S | Hoboken, NJ : Wiley, 2023. | 541.28 S559d2 | 중앙도서관 |
