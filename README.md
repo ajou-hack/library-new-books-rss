@@ -2,6 +2,26 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/28354/82/cover/k222835304_1.jpg) | 스마트 조직행동 | 최진남 | 파주 : 생능, 2021 | 658.402 최78스 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3998/83/cover/8956607745_1.jpg) | 세븐킹덤의 기사 : 얼음과 불의 노래 외전 : 조지 R. R. 마틴 장편소설 | Martin, George R. R | 서울 : 은행나무, 2014(2021 7쇄) | 823.914 M381hK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24800/56/cover/k802631930_1.jpg) | 드래곤과의 춤 : 조지 R. R. 마틴 장편소설 | Martin, George R. R | 서울 : 은행나무, 2020 | 823.914 M381dK이2 v.1~3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/20129/1/cover/k262635444_1.jpg) | 까마귀의 향연 : 조지 R. R. 마틴 장편소설 | Martin, George R. R | 서울 : 은행나무, 2019 | 823.914 M381fK이3 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27062/45/cover/8961952641_1.jpg) | 브뤼노 라투르 : 정치적인 것을 다시 회집하기 | Harman, Graham | 서울 : 갈무리, 2021 | 320.092 L359bK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/7492/10/cover/893291768x_1.jpg) | 이것이 모든 것을 바꾼다 : 자본주의 대 기후 | Klein, Naomi | 파주 : 열린책들, 2016 | 363.73874 K64tK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29265/84/cover/k502837801_1.jpg) | 세종과 이순신, K 리더십 : 광화문광장에서 만난 우리의 리더상(象) | 국정호 | 서울 : 해드림, 2022 | 658.4092 국74세 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/17842/44/cover/8950978970_1.jpg) | 너는 기억 못하겠지만 : 후지마루 장편소설 | 등마루 | 파주 : arte : 북이십일 아르테, 2019 | 813.37 등32시K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32220/61/cover/k072834629_1.jpg) | 최강록의 요리 노트 : 요리가 즐거워지는 셰프의 기본 공식 | 최강록 | 서울 : 클, 2023 | 641.5 최12최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/17006/14/cover/8999716406_1.jpg) | DSM-5 노인 정신건강 가이드북 | Wang, Sophia | 서울 : 학지사, 2018 | 616.89075 W246dK강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32248/66/cover/k682834740_1.jpg) | 나쁜 마음은 없다 | Schwartz, Richard C | 서울 : 온마음, 2023 | 616.8914 S399nK신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30912/68/cover/k782831582_2.jpg) | 도둑맞은 이름들 : 한국 근대문학과 식민지 모더니즘 | 최현희 | 서울 : 소명, 2023 | 811.09 최94도 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/17943/47/cover/k622534137_1.jpg) | 번역의 시대, 번역의 문화정치 : 1945-1969 : 냉전 지(知)의 형성과 저항담론의 재구축 | 박지영 | 서울 : 소명, 2019 | 401.802 박78번 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30666/32/cover/k572830032_1.jpg) | 조선왕실 이혼의 사회사 : 쫓아낸 자와 쫓겨난 여성들의 민낯 | 한희숙 | 서울 : 솔과학, 2022 | 951.5 한97조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31282/47/cover/8928518202_1.jpg) | 조선후기 읍지편찬의 계보 | 이재두 | 서울 : 민속원, 2023 | 951.5 이73조민 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31843/97/cover/k662833323_1.jpg) | (C와 Fortran 예제로 배우는) 병렬 프로그래밍 : OpenMP, MPI, CUDA | 김영태 | 서울 : 홍릉, 2023 | 005.275 김64병 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Systems engineering handbook : a guide for system life cycle processes and activities | Walden, David D | Hoboken : Wiley, 2023. | 620.0011 S995w5 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Adapt! : on a new political imperative | Stiegler, Barbara | New York : Fordham University Press, 2022. | 303.4 S855aEh | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The world of indicators : the making of governmental knowledge through quantification | Rottenburg, Richard | Cambridge, United Kingdom : Cambridge University Press, 2015. | 306 W927r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Doing the dirty work? : the global politics of domestic labour | Anderson, Bridget | London ; New York : Zed Books, 2000. | 338.76164046 A545d | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29789/99/cover/8964452593_1.jpg) | 스페인의 역사 : 8세기부터 17세기까지의 신앙의 왕국들 | Catlos, Brian A | 서울 : 길, 2022 | 946.02 C365kK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32286/20/cover/8997066854_1.jpg) | 내 곁에 미술 : 피처 에디터의 내밀한 미술일기 | 안동선 | 고양 : 모요사, 2023 | 750.118 안25내 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32327/5/cover/k632935065_1.jpg) | 재생의 부엌 : 도쿄 일인 생활 레시피 에세이 | 오토나쿨 | [서울] : 유선사, 2023 | 811.87 오885재 | 중앙도서관 |
@@ -17,7 +37,6 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2023년도 법학전문대학원 형사재판실무Ⅲ : 강의노트 | 사법연수원 | 서울 : 사법발전재단, 2023 | 345.05 사44법형 2023 v.3 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2023년도 법학전문대학원 형사재판실무Ⅱ : 형사판결서 | 사법연수원 | 서울 : 사법발전재단, 2023 | 345.05 사44법형 2023 v.2 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2023년도 법학전문대학원 형사재판실무Ⅰ : 형사소송 | 사법연수원 | 서울 : 사법발전재단, 2023 | 345.05 사44법형 2023 v.1 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/24800/56/cover/k802631930_1.jpg) | 드래곤과의 춤 : 조지 R. R. 마틴 장편소설 | Martin, George R. R | 서울 : 은행나무, 2020 | 823.914 M381dK이2 v.1 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32204/48/cover/k042834520_1.jpg) | 학교폭력, 그 이후 끝나지 않은 이야기 | 노윤호 | 서울 : 사유와공감, 2023 | 371.782 노66학 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32151/3/cover/8965965845_1.jpg) | 손 안에 갇힌 사람들 : 화면 중독의 시대, 나를 지키는 심리적 면역력 되찾기 | Kardaras, Nicholas | 서울 : 흐름, 2023 | 302.231 K18dK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/6514/13/cover/8992151888_2.jpg) | 프란츠 파농 새로운 인간 | Nayar, Pramod K | 서울 : 앨피, 2015 | 325.3092 F214nK하 | 중앙도서관 |
@@ -33,22 +52,3 @@
 | ![](https://image.aladin.co.kr/product/13178/36/cover/8952119185_1.jpg) | (서울대 한국어+) 학문 목적 말하기 | 서울대학교 | 서울 : 서울대학교출판문화원, 2018 | 411.8 서66학말 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32090/15/cover/k452834193_1.jpg) | 핵가족 : 한요셉 장편소설 | Han, Joseph | 서울 : 위즈덤하우스, 2023 | 823.92 H233nK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30966/52/cover/k192831203_1.jpg) | 경제기사 궁금증 300문 300답 : 어려운 경제정보 쉽게 읽는 법 | 곽해선 | 고양 : 혜다, 2023 | 330.02 곽93경17 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31862/96/cover/k002833423_1.jpg) | 최강의 브레인 해킹 : 디지털 시대, 산만한 뇌를 최적화하는 법 | Ricker, Elizabeth R | 서울 : 비즈니스북스, 2023 | 612.82339 R539sK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31836/58/cover/k432833224_1.jpg) | (사회과학 연구를 위한) 네트워크 분석방법 | 김종민 | 서울 : 사회평론아카데미, 2022 | 302 김75네 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24880/87/cover/8920037043_1.jpg) | 한국어교육학개론 | 강현화 | 서울 : KNOU Press : 한국방송통신대학교출판문화원, 2020 | 411.07 강94한교 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introduction to linear algebra | Strang, Gilbert | Wellesley, MA : Wellesley-Cambridge Press, 2023. | 512.5 S897i6 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Pharmacotherapy casebook : a patient-focused approach | Schwinghammer, Terry L | New York : McGraw Hill Medical, 2023. | 615.58 S415p12 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | International human resource management : policies and practices for multinational enterprises | Briscoe, Dennis R | Abingdon, Oxon ; New York, NY : Routledge, 2022. | 658.3 B859i6 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Basic immunology : functions and disorders of the immune system | Abbas, Abul K | Philadelphia, PA : Elsevier, 2024. | 616.079 A122b7 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | An introduction to medicinal chemistry | Patrick, Graham L | New York, NY : Oxford University Press, 2023. | 615.19 P314i7 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Computer organization and design : the hardware software interface | Patterson, David A | Cambridge, MA : Morgan Kaufmann Publishers, an imprint of Elsevier, 2021. | 004.22 P317cr2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Smoke, dust, and haze : fundamentals of aerosol dynamics | Friedlander, Sheldon K | New York : Oxford University Press, 2000. | 628.532 F911s2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Research methods for engineers | Thiel, David V | Cambridge ; New York : Cambridge University Press, 2014. | 001.42 T431r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introduction to topological quantum matter ＆ quantum computation | Stanescu, Tudor D | Boca Raton, FL : CRC Press, Taylor ＆ Francis Group, 2017. | 530.1201514 S785i | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29641/30/cover/8961877216_1.jpg) | 사상통제 | 홍선영 | 서울 : 동북아역사재단, 2022 | 951.6 사52홍 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31698/97/cover/896187781x_1.jpg) | 농업·임업정책 | 이송순 | 서울 : 동북아역사재단, 2022 | 951.6 농64이 v.1~2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Inspire : méthode de français | Le Bougnec, Jean-Thierry | [Vanves] : Hachette français langue étrangère, 2020. | 448.24 L449i v.1~2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A primer of ecological statistics | Gotelli, Nicholas J | Sunderland, Massachusetts : Sinauer Associates, Inc., Publishers, 2013. | 577.072 G683p2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31981/78/cover/k822834465_1.jpg) | 돌봄의 시간들 : 돌봄에 관한 9가지 정동적 시선 | 권범철 | 서울 : 모시는사람들, 2023 | 361.65 돌45권 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23800/34/cover/k662639085_2.jpg) | 이문구 소설어 사전 | 민충환 | 서울 : 아로파, 2020 | R 811.3603 민85이2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29037/10/cover/k862836838_1.jpg) | 한국의 지질공원 : '태고의 신비를 만나다!' | 김상일 | 서울 : 혜성, 2022 | 555.1 김52한 | 중앙도서관 |
