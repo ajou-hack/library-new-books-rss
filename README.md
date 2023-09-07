@@ -2,6 +2,14 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31953/87/cover/8925576317_1.jpg) | 어느 대기업 임원의 퇴직 일기 : 별보다 찬란한 인생 2막 | 정경아 | 서울 : 알에이치코리아, 2023 | 646.79 정14어 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31892/3/cover/k342833636_1.jpg) | 아메리칸 프로메테우스 : 로버트 오펜하이머 평전 | Bird, Kai | 서울 : 사이언스북스, 2023 | 530.092 O62bK최로 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Mythology | Hamilton, Edith | New York : Back Bay Books/Little, Brown and Company, 2013. | 292.13 H217m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Atkinson's principles of clinical pharmacology | Huang, Shiew Mei | Waltham : Elsevier, 2021. | 615.1 A878h4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introduction to discrete event systems | Cassandras, Christos G | Cham, Switzerland : Springer, 2021. | 003 C343i3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25967/85/cover/k562731240_1.jpg) | 잠깐! 이게 다 인권 문제라고요? : 새로운 인권 감수성으로 만나는 청소년, 디지털, 기후위기, 젠더, 장애, 난민 이야기 | 김도현 | 서울 : 곰곰 : 휴머니스트출판그룹, 2021 | 323 잠12김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23634/87/cover/k312638624_1.jpg) | 복지의 원리 :대한민국 복지를 한눈에 꿰뚫는 10가지 이야기 | 양재진 | 서울 :한겨레, 2020 | 361.951 양73복 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/4970/18/cover/8936472569_2.jpg) | 불편하면 따져봐 :논리로 배우는 인권 이야기 | 최훈 | 파주 :창비,2014 | 323.4 최96불 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 大法院判例集 | 한국 | 서울 : 大法院 法院行政處 ;法院圖書館, 2001 | 348.044 한16대 v.70-1, 348.044 한16대 v.70-2, 348.044 한16대 v.70-3, 348.044 한16대 v.51-2/v.52-1/v.52-2/v.53/v.54-1/v.54-2/v.55-1/v.55-2/v.56-1/v.56-2/v.57-1/v.57-2/v.58-1/v.58-2/v.59-1/v.59-2/v.60-1/v.60-2/v.60-3/v.61-1/v.61-2/v.61-3/v.62-1/v.62-2/v.63-1/v.63-2/v.64-1/v.64-2/v.66-1/v.66-2/v.66-3/v.67-1/v.67-2/v.67-3/v.67-4/v.68-1/v.68-2/v.68-3/v.68-4/v.69-1/v.69-2/v.69-3/v.69-4 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/28354/82/cover/k222835304_1.jpg) | 스마트 조직행동 | 최진남 | 파주 : 생능, 2021 | 658.402 최78스 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/3998/83/cover/8956607745_1.jpg) | 세븐킹덤의 기사 : 얼음과 불의 노래 외전 : 조지 R. R. 마틴 장편소설 | Martin, George R. R | 서울 : 은행나무, 2014(2021 7쇄) | 823.914 M381hK김 | 중앙도서관 |
@@ -44,11 +52,3 @@
 | ![](https://image.aladin.co.kr/product/29440/71/cover/k622837529_1.jpg) | 세종처럼 이순신처럼 : 두 거인에게 배우는 궁극의 리더십 | 노병천 | 서울 : 밥북, 2022 | 658.4092 노44세 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32112/96/cover/k822834200_1.jpg) | API 해킹의 모든 것 : REST와 그래프QL 웹 API 기초부터 보안 취약점, 해킹 툴, 퍼징 등 공격 실습까지 | Ball, Corey | 파주 : 제이펍, 2023 | 005.8 B187hK한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31737/76/cover/k272833706_1.jpg) | 경리회계 처음하는 실무설명서 | 손원준 | 서울 : 지식만들기, 2023 | 658.15 손66경리 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32187/86/cover/8918914229_1.jpg) | 헌법강의 | 양건 | 파주 : 法文社, 2023 | 342 양14헌12 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32266/22/cover/8918914261_1.jpg) | 형법총론 | 이형국 | 파주 : 法文社, 2023 | 345 이94형7 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32106/56/cover/8918914199_1.jpg) | 친족·상속법 : 가족법 | 김주수 | 파주 : 法文社, 2023 | 346.015 김76친19 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32161/77/cover/k732834412_1.jpg) | 반부패법 | 홍탁균 | 서울 : 박영사, 2023 | 345.02323 홍882반 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32060/89/cover/8918914202_1.jpg) | 한국행정법론 | 정남철 | 파주 : 法文社, 2023 | 342.06 정192한3 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 회사법 강의 | 신현탁 | 서울 : 박영사, 2023 | 346.066 신94회 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인권법이론 | 양천수 | 서울 : 박영사, 2023 | 342.085 양83인 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 回生事件實務. 上-下 | 서울회생법원 | 서울 : 박영사, 2023 | 346.078 서66회6 v.1~2 | 법학도서관 |
