@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31932/11/cover/k482833058_1.jpg) | 챗GPT 활용이 이렇게 쉬웠어? : 블로거부터 홍보맨까지 AI콘텐츠 고수되기 | 권영섭 | 서울 : 한국경제신문, 2023 | 006.3 권64챗 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31885/2/cover/k622833535_1.jpg) | 전쟁 같은 맛 | Cho, Grace M | 파주 : 글항아리, 2023 | 305.488951073 C545tK주 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31953/87/cover/8925576317_1.jpg) | 어느 대기업 임원의 퇴직 일기 : 별보다 찬란한 인생 2막 | 정경아 | 서울 : 알에이치코리아, 2023 | 646.79 정14어 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31892/3/cover/k342833636_1.jpg) | 아메리칸 프로메테우스 : 로버트 오펜하이머 평전 | Bird, Kai | 서울 : 사이언스북스, 2023 | 530.092 O62bK최로 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Mythology | Hamilton, Edith | New York : Back Bay Books/Little, Brown and Company, 2013. | 292.13 H217m | 중앙도서관 |
@@ -10,6 +12,7 @@
 | ![](https://image.aladin.co.kr/product/25967/85/cover/k562731240_1.jpg) | 잠깐! 이게 다 인권 문제라고요? : 새로운 인권 감수성으로 만나는 청소년, 디지털, 기후위기, 젠더, 장애, 난민 이야기 | 김도현 | 서울 : 곰곰 : 휴머니스트출판그룹, 2021 | 323 잠12김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23634/87/cover/k312638624_1.jpg) | 복지의 원리 :대한민국 복지를 한눈에 꿰뚫는 10가지 이야기 | 양재진 | 서울 :한겨레, 2020 | 361.951 양73복 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/4970/18/cover/8936472569_2.jpg) | 불편하면 따져봐 :논리로 배우는 인권 이야기 | 최훈 | 파주 :창비,2014 | 323.4 최96불 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 지식재산 분쟁과 계약실무 : Metaverse 지적재산 실무 가이드 | 이용태 | [서울] : 브라이튼 교육출판, 2023 | 346.048 이65지 v.1~2 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 大法院判例集 | 한국 | 서울 : 大法院 法院行政處 ;法院圖書館, 2001 | 348.044 한16대 v.70-1, 348.044 한16대 v.70-2, 348.044 한16대 v.70-3, 348.044 한16대 v.51-2/v.52-1/v.52-2/v.53/v.54-1/v.54-2/v.55-1/v.55-2/v.56-1/v.56-2/v.57-1/v.57-2/v.58-1/v.58-2/v.59-1/v.59-2/v.60-1/v.60-2/v.60-3/v.61-1/v.61-2/v.61-3/v.62-1/v.62-2/v.63-1/v.63-2/v.64-1/v.64-2/v.66-1/v.66-2/v.66-3/v.67-1/v.67-2/v.67-3/v.67-4/v.68-1/v.68-2/v.68-3/v.68-4/v.69-1/v.69-2/v.69-3/v.69-4 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/28354/82/cover/k222835304_1.jpg) | 스마트 조직행동 | 최진남 | 파주 : 생능, 2021 | 658.402 최78스 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/3998/83/cover/8956607745_1.jpg) | 세븐킹덤의 기사 : 얼음과 불의 노래 외전 : 조지 R. R. 마틴 장편소설 | Martin, George R. R | 서울 : 은행나무, 2014(2021 7쇄) | 823.914 M381hK김 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32204/48/cover/k042834520_1.jpg) | 학교폭력, 그 이후 끝나지 않은 이야기 | 노윤호 | 서울 : 사유와공감, 2023 | 371.782 노66학 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32151/3/cover/8965965845_1.jpg) | 손 안에 갇힌 사람들 : 화면 중독의 시대, 나를 지키는 심리적 면역력 되찾기 | Kardaras, Nicholas | 서울 : 흐름, 2023 | 302.231 K18dK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/6514/13/cover/8992151888_2.jpg) | 프란츠 파농 새로운 인간 | Nayar, Pramod K | 서울 : 앨피, 2015 | 325.3092 F214nK하 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29440/71/cover/k622837529_1.jpg) | 세종처럼 이순신처럼 : 두 거인에게 배우는 궁극의 리더십 | 노병천 | 서울 : 밥북, 2022 | 658.4092 노44세 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32112/96/cover/k822834200_1.jpg) | API 해킹의 모든 것 : REST와 그래프QL 웹 API 기초부터 보안 취약점, 해킹 툴, 퍼징 등 공격 실습까지 | Ball, Corey | 파주 : 제이펍, 2023 | 005.8 B187hK한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31737/76/cover/k272833706_1.jpg) | 경리회계 처음하는 실무설명서 | 손원준 | 서울 : 지식만들기, 2023 | 658.15 손66경리 | 중앙도서관 |
