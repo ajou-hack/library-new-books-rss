@@ -2,6 +2,28 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The new Penguin Russian course | Brown, Nicholas J | London : Penguin books, 1996. | 491.782421 B879n | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Intermediate Spanish grammar | Nissenberg, Gilda | New York : McGraw Hill, 2023. | 468.2421 N726i3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The meanings of age : selected papers of Bernice L. Neugarten | Neugarten, Bernice Levin | Chicago : University of Chicago Press, 1996. | 305.26 N484m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Matrix analysis and applied linear algebra | Meyer, Carl D | Philadelphia : Society for Industrial and Applied Mathematics, 2023. | 512.5 M612m2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Human resource management : a critical approach | Bratton, John | London : Bloomsbury Academic, 2022. | 658.3 B824h7 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Governance by indicators : global power through quantification and rankings | Davis, Kevin E | Oxford : Oxford University Press, 2015. | 320.0727 G721d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The force of domesticity : Filipina migrants and globalization | Parreñas, Rhacel Salazar | New York ; London : New York University Press, 2008. | 331.4 P259f | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31832/29/cover/k802833228_1.jpg) | 나는 죽을 때까지 지적이고 싶다 | 양원근 | 서울 : 정민미디어, 2023 | 179.9 양66나 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Robotics, vision and control : fundamental algorithms in MATLAB® | Corke, Peter | Cham : Springer, 2023. | 629.892637 C799r3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31730/9/cover/890127258x_2.jpg) | 역행자 : 돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 | 자청 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2023 | 650.1 자83역2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31867/71/cover/k132833528_1.jpg) | 비가 오면 열리는 상점 : 유영광 장편소설 | 유영광 | 파주 : 클레이하우스, 2023 | 811.37 유64비 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31629/43/cover/8934942460_1.jpg) | 총, 균, 쇠 : 인간 사회의 운명을 바꾼 힘 | Diamond, Jared M | 파주 : 김영사, 2023 | 303.4 D537gK강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31561/46/cover/k782832854_1.jpg) | 구의 증명 : 최진영 소설 | 최진영 | 서울 : 은행나무, 2023 | 811.37 최78구2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31356/59/cover/k132832099_1.jpg) | (부의 추월차선) 위대한 탈출 | DeMarco, M. J | 서울 : 토트 : 북새통, 2023 | 332.024 D372gK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31520/75/cover/8950950006_1.jpg) | 설득의 심리학 | Cialdini, Robert B | 파주 : 21세기북스 : 북이십일 21세기북스, 2023 | 153.852 C565iK황6 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30921/24/cover/8960306134_3.jpg) | 돈은 좋지만 재테크는 겁나는 너에게 : 혼자서는 막막한 20대에게 뿅글이가 알려주는 돈을 다루고 불리는 비밀 | 뿅글이 | 서울 : 황금부엉이, 2023 | 332.024 뿅17돈 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24191/64/cover/k562639753_1.jpg) | 돈의 속성 | 김승호 | 파주 :스노우폭스북스 :Snowfox, 2020 | 332.024 김57돈 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/7923/18/cover/896437245x_1.jpg) | 인권의 지평 :새로운 인권 이론을 위한 밑그림 | 조효제 | 서울 :후마니타스,2016 | 323.4 조95인새 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/b23eb8b0-471f-4a93-9735-490a24332c92) | (EBS 다큐프라임) 자본주의 | 이비에스 | 서울 : 가나, 2013(2023 51쇄) | 330.122 이48자 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/775298ec-b3ce-434b-8310-113640f1d26a) | 인권을 찾아서 : 신세대를 위한 세계인권선언 | 조효제 | 파주 : 한울아카데미 : 한울엠플러스, 2011(2018 4쇄) | 323.4 조95인한 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Microeconomic foundations | Kreps, David M | Princeton, NJ : Princeton University Press, 2013-2023 | 338.5 K92m v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/93/84/cover/8990106400_1.jpg) | 인권의 문법 | 조효제 | 서울 : 후마니타스, 2007(2019 8쇄) | 323.4 조95인 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31932/11/cover/k482833058_1.jpg) | 챗GPT 활용이 이렇게 쉬웠어? : 블로거부터 홍보맨까지 AI콘텐츠 고수되기 | 권영섭 | 서울 : 한국경제신문, 2023 | 006.3 권64챗 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31885/2/cover/k622833535_1.jpg) | 전쟁 같은 맛 | Cho, Grace M | 파주 : 글항아리, 2023 | 305.488951073 C545tK주 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31953/87/cover/8925576317_1.jpg) | 어느 대기업 임원의 퇴직 일기 : 별보다 찬란한 인생 2막 | 정경아 | 서울 : 알에이치코리아, 2023 | 646.79 정14어 | 중앙도서관 |
@@ -30,25 +52,3 @@
 | ![](https://image.aladin.co.kr/product/30666/32/cover/k572830032_1.jpg) | 조선왕실 이혼의 사회사 : 쫓아낸 자와 쫓겨난 여성들의 민낯 | 한희숙 | 서울 : 솔과학, 2022 | 951.5 한97조 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31282/47/cover/8928518202_1.jpg) | 조선후기 읍지편찬의 계보 | 이재두 | 서울 : 민속원, 2023 | 951.5 이73조민 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31843/97/cover/k662833323_1.jpg) | (C와 Fortran 예제로 배우는) 병렬 프로그래밍 : OpenMP, MPI, CUDA | 김영태 | 서울 : 홍릉, 2023 | 005.275 김64병 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Systems engineering handbook : a guide for system life cycle processes and activities | Walden, David D | Hoboken : Wiley, 2023. | 620.0011 S995w5 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Adapt! : on a new political imperative | Stiegler, Barbara | New York : Fordham University Press, 2022. | 303.4 S855aEh | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The world of indicators : the making of governmental knowledge through quantification | Rottenburg, Richard | Cambridge, United Kingdom : Cambridge University Press, 2015. | 306 W927r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Doing the dirty work? : the global politics of domestic labour | Anderson, Bridget | London ; New York : Zed Books, 2000. | 338.76164046 A545d | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29789/99/cover/8964452593_1.jpg) | 스페인의 역사 : 8세기부터 17세기까지의 신앙의 왕국들 | Catlos, Brian A | 서울 : 길, 2022 | 946.02 C365kK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32286/20/cover/8997066854_1.jpg) | 내 곁에 미술 : 피처 에디터의 내밀한 미술일기 | 안동선 | 고양 : 모요사, 2023 | 750.118 안25내 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32327/5/cover/k632935065_1.jpg) | 재생의 부엌 : 도쿄 일인 생활 레시피 에세이 | 오토나쿨 | [서울] : 유선사, 2023 | 811.87 오885재 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31983/81/cover/8932041865_1.jpg) | 미래는 허밍을 한다 : 강혜빈 시집 | 강혜빈 | 서울 : 문학과지성사, 2023 | 811.17 강94미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32289/45/cover/k852834850_1.jpg) | 1%를 읽는 힘 : 세상의 정보를 연결해서 기회를 포착하는 생각 혁신 | 메르 | 서울 : 토네이도 : 토네이도미디어그룹, 2023 | 332.6 메297일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32263/88/cover/k132834849_1.jpg) | 디파이 사용설명서 : 암호화폐가 바꿀 새로운 부의 탄생 | 박미쁨 | 서울 : 시크릿하우스, 2023 | 332.178 박38디 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1314/51/cover/8994139036_2.jpg) | 어싱 : 땅과의 접촉이 치유한다 | Ober, Clinton | 서울 : 히어나우시스템, 2011 | 612.01442 O12eK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32177/6/cover/8954694284_1.jpg) | 창조적 유전자 : 풍요가 만들어낸 새로운 인간 | Gale, Edwin A. M | 파주 : 문학동네, 2023 | 304.2 G151sK노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32098/8/cover/8976828313_1.jpg) | 자기 자신에게 이르는 것들 : 마르쿠스 아우렐리우스 명상록 | Aurelius Antoninus, Marcus | 서울 : 그린비, 2023 | 188 A927mK김마 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32014/96/cover/k812834570_1.jpg) | 당신이 읽는 동안 | Unger, Gerard | 서울 : 워크룸, 2023 | 686.22 U57tK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/14123/98/cover/k652532339_1.jpg) | 잃어버린 영웅들 : 청년들이여 깨어나라 | 정상규 | 수원 : 아틀리에BOOKS, 2018 | 951.61092 정52잃 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2023년도 법학전문대학원 형사재판실무Ⅳ : 수습기록 | 사법연수원 | 서울 : 사법발전재단, 2023 | 345.05 사44법형 2023 v.4 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2023년도 법학전문대학원 형사재판실무Ⅲ : 강의노트 | 사법연수원 | 서울 : 사법발전재단, 2023 | 345.05 사44법형 2023 v.3 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2023년도 법학전문대학원 형사재판실무Ⅱ : 형사판결서 | 사법연수원 | 서울 : 사법발전재단, 2023 | 345.05 사44법형 2023 v.2 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2023년도 법학전문대학원 형사재판실무Ⅰ : 형사소송 | 사법연수원 | 서울 : 사법발전재단, 2023 | 345.05 사44법형 2023 v.1 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32204/48/cover/k042834520_1.jpg) | 학교폭력, 그 이후 끝나지 않은 이야기 | 노윤호 | 서울 : 사유와공감, 2023 | 371.782 노66학 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32151/3/cover/8965965845_1.jpg) | 손 안에 갇힌 사람들 : 화면 중독의 시대, 나를 지키는 심리적 면역력 되찾기 | Kardaras, Nicholas | 서울 : 흐름, 2023 | 302.231 K18dK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/6514/13/cover/8992151888_2.jpg) | 프란츠 파농 새로운 인간 | Nayar, Pramod K | 서울 : 앨피, 2015 | 325.3092 F214nK하 | 중앙도서관 |
