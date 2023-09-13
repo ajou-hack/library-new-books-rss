@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/11689/26/cover/8968669600_1.jpg) | (아동·청소년) 정신병리학 | Mash, Eric J | 서울 : 시그마프레스, 2017(2022 2쇄) | 618.9289 M397c3K김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The new Penguin Russian course | Brown, Nicholas J | London : Penguin books, 1996. | 491.782421 B879n | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Intermediate Spanish grammar | Nissenberg, Gilda | New York : McGraw Hill, 2023. | 468.2421 N726i3 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The meanings of age : selected papers of Bernice L. Neugarten | Neugarten, Bernice Levin | Chicago : University of Chicago Press, 1996. | 305.26 N484m | 중앙도서관 |
@@ -34,7 +35,7 @@
 | ![](https://image.aladin.co.kr/product/25967/85/cover/k562731240_1.jpg) | 잠깐! 이게 다 인권 문제라고요? : 새로운 인권 감수성으로 만나는 청소년, 디지털, 기후위기, 젠더, 장애, 난민 이야기 | 김도현 | 서울 : 곰곰 : 휴머니스트출판그룹, 2021 | 323 잠12김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23634/87/cover/k312638624_1.jpg) | 복지의 원리 :대한민국 복지를 한눈에 꿰뚫는 10가지 이야기 | 양재진 | 서울 :한겨레, 2020 | 361.951 양73복 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/4970/18/cover/8936472569_2.jpg) | 불편하면 따져봐 :논리로 배우는 인권 이야기 | 최훈 | 파주 :창비,2014 | 323.4 최96불 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 지식재산 분쟁과 계약실무 : Metaverse 지적재산 실무 가이드 | 이용태 | [서울] : 브라이튼 교육출판, 2023 | 346.048 이65지 v.1~2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/32452/43/cover/k572935394_1.jpg) | 지식재산 분쟁과 계약실무 : Metaverse 지적재산 실무 가이드 | 이용태 | [서울] : 브라이튼 교육출판, 2023 | 346.048 이65지 v.1~2 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 大法院判例集 | 한국 | 서울 : 大法院 法院行政處 ;法院圖書館, 2001 | 348.044 한16대 v.70-1, 348.044 한16대 v.70-2, 348.044 한16대 v.70-3, 348.044 한16대 v.51-2/v.52-1/v.52-2/v.53/v.54-1/v.54-2/v.55-1/v.55-2/v.56-1/v.56-2/v.57-1/v.57-2/v.58-1/v.58-2/v.59-1/v.59-2/v.60-1/v.60-2/v.60-3/v.61-1/v.61-2/v.61-3/v.62-1/v.62-2/v.63-1/v.63-2/v.64-1/v.64-2/v.66-1/v.66-2/v.66-3/v.67-1/v.67-2/v.67-3/v.67-4/v.68-1/v.68-2/v.68-3/v.68-4/v.69-1/v.69-2/v.69-3/v.69-4 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/28354/82/cover/k222835304_1.jpg) | 스마트 조직행동 | 최진남 | 파주 : 생능, 2021 | 658.402 최78스 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/3998/83/cover/8956607745_1.jpg) | 세븐킹덤의 기사 : 얼음과 불의 노래 외전 : 조지 R. R. 마틴 장편소설 | Martin, George R. R | 서울 : 은행나무, 2014(2021 7쇄) | 823.914 M381hK김 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/17943/47/cover/k622534137_1.jpg) | 번역의 시대, 번역의 문화정치 : 1945-1969 : 냉전 지(知)의 형성과 저항담론의 재구축 | 박지영 | 서울 : 소명, 2019 | 401.802 박78번 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30666/32/cover/k572830032_1.jpg) | 조선왕실 이혼의 사회사 : 쫓아낸 자와 쫓겨난 여성들의 민낯 | 한희숙 | 서울 : 솔과학, 2022 | 951.5 한97조 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31282/47/cover/8928518202_1.jpg) | 조선후기 읍지편찬의 계보 | 이재두 | 서울 : 민속원, 2023 | 951.5 이73조민 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31843/97/cover/k662833323_1.jpg) | (C와 Fortran 예제로 배우는) 병렬 프로그래밍 : OpenMP, MPI, CUDA | 김영태 | 서울 : 홍릉, 2023 | 005.275 김64병 | 중앙도서관 |
