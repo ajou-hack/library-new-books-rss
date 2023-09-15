@@ -2,6 +2,11 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/25707/64/cover/k832736778_1.jpg) | 한국 공공도서관을 말한다 | 윤희윤 | 대구 : 태일사, 2020 | 027.451 윤97한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27846/31/cover/k072734583_1.jpg) | 연극과 그 이중 | Artaud, Antonin | 서울 : 지만지드라마, 2021 | 792 A785tK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29542/22/cover/8994404511_2.jpg) | (최이진의) 큐베이스 pro 12 | 최이진 | 서울 : 노하우, 2022 | 786.76 최68큐 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26203/83/cover/k752738180_1.jpg) | 다시, 바람과 함께 사라지다 : 스칼렛 오하라를 사랑하시나요? | 현종희 | 서울 : 글자와기록사이, 2020 | 823.912 현75다 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32051/37/cover/k112834088_1.jpg) | 원자 스파이 : 나치의 원자폭탄 개발을 필사적으로 막은 과학자와 스파이들 | Kean, Sam | 서울 : 해나무 : 북하우스, 2023 | 355.825119 K24bK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31868/12/cover/k632833529_1.jpg) | 정신역동 코칭 : 30가지 고유한 특징 : 현대 정신분석 코칭의 기초 2 | Nagel, Claudia | 서울 : 한국코칭수퍼비전아카데미, 2023 | 658.407124 N147pK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/19532/81/cover/k072635021_1.jpg) | 정신역동과 임원코칭 : 현대 정신분석 코칭의 기초 1 | Sandler, Catherine | 서울 : 한국코칭수퍼비전아카데미, 2019 | 658.407124 S217eK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/8867/98/cover/k192535196_1.jpg) | (엑셀을 이용한 실무 중심의) 사회과학 조사방법론 | 이은수 | 파주 : 자유아카데미, 2016(2022 3쇄) | 300.72 이67사 | 중앙도서관 |
@@ -34,8 +39,7 @@
 | ![](https://image.aladin.co.kr/product/32066/16/cover/k532834897_1.jpg) | 브랜드 설계자 : 구매 전환율을 높이는 19가지 브랜딩 과학 | Brunson, Russell | 파주 : 윌북, 2023 | 658.872 B899eK홍 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31630/96/cover/k612833877_3.jpg) | (어떤 하락장에서도 살아남을 수 있는) 시장 불변의 법칙 | 장지웅 | 서울 : 여의도책방, 2023 | 332.6322 장78시 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31317/64/cover/8950906562_2.jpg) | 대한민국, 넥스트 레벨 : 정치·사회·문화·경제 최고 전문가 12인의 국가 성장을 위한 제언 | 코리아다이나미즘포럼 | 파주 : 21세기북스 : 북이십일 21세기북스, 2023 | 303.4951 코298대 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26203/83/cover/k752738180_1.jpg) | 다시, 바람과 함께 사라지다 : 스칼렛 오하라를 사랑하시나요? | 현종희 | 서울 : 글자와기록사이, 2020 | 823.912 현75다 v.1 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 헌법을 말한다 : 금랑 김철수 선생 90세 기념 및 추모논집 | 김효전 | 부산 : 산지니, 2023 | 342 김95금랑 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/32221/46/cover/k732834621_1.jpg) | 헌법을 말한다 : 금랑 김철수 선생 90세 기념 및 추모논집 | 김효전 | 부산 : 산지니, 2023 | 342 김95금랑 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The new Penguin Russian course | Brown, Nicholas J | London : Penguin books, 1996. | 491.782421 B879n | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Intermediate Spanish grammar | Nissenberg, Gilda | New York : McGraw Hill, 2023. | 468.2421 N726i3 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The meanings of age : selected papers of Bernice L. Neugarten | Neugarten, Bernice Levin | Chicago : University of Chicago Press, 1996. | 305.26 N484m | 중앙도서관 |
@@ -48,7 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31730/9/cover/890127258x_2.jpg) | 역행자 : 돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 | 자청 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2023 | 650.1 자83역2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31867/71/cover/k132833528_1.jpg) | 비가 오면 열리는 상점 : 유영광 장편소설 | 유영광 | 파주 : 클레이하우스, 2023 | 811.37 유64비 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31629/43/cover/8934942460_1.jpg) | 총, 균, 쇠 : 인간 사회의 운명을 바꾼 힘 | Diamond, Jared M | 파주 : 김영사, 2023 | 303.4 D537gK강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31561/46/cover/k782832854_1.jpg) | 구의 증명 : 최진영 소설 | 최진영 | 서울 : 은행나무, 2023 | 811.37 최78구2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31356/59/cover/k132832099_1.jpg) | (부의 추월차선) 위대한 탈출 | DeMarco, M. J | 서울 : 토트 : 북새통, 2023 | 332.024 D372gK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31520/75/cover/8950950006_1.jpg) | 설득의 심리학 | Cialdini, Robert B | 파주 : 21세기북스 : 북이십일 21세기북스, 2023 | 153.852 C565iK황6 v.1 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30921/24/cover/8960306134_3.jpg) | 돈은 좋지만 재테크는 겁나는 너에게 : 혼자서는 막막한 20대에게 뿅글이가 알려주는 돈을 다루고 불리는 비밀 | 뿅글이 | 서울 : 황금부엉이, 2023 | 332.024 뿅17돈 | 중앙도서관 |
