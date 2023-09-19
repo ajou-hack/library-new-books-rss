@@ -2,6 +2,13 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Geoengineering : the gamble | Wagner, Gernot | Cambridge, UK ; Medford, MA : Polity Press, 2021. | 628 W133g | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Superpower showdown : how the battle between Trump and Xi threatens a new cold war | Davis, Bob | New York : HarperCollins, 2020. | 382.0973052 D261s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Beasts of a little land : a novel | Kim, Juhea | New York, NY : Ecco, 2022. | 823.92 K49b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Exploring past images in a digital age : reinventing the archive | Erdoǧan, Nezih | Amsterdam : Amsterdam University Press, 2023. | 791.43 E66e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | DiPiro's pharmacotherapy : a pathophysiologic approach | DiPiro, Joseph T | New York : McGraw Hill, 2023. | 615.58 P536d12 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Kindred | Butler, Octavia E | Boston :Beacon Press,2003. | 823.914 B986k | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Maximum boost : designing, testing, and installing turbocharger systems | Bell, Corky | Cambridge, MA : Robert Bentley Automotive, 1997. | 629.25 B433m | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31790/84/cover/k142833111_1.jpg) | 일종의 마음 : 이제야 시집 | 이제야 | 단양군 : 시인동네, 2023 | 811.17 이74일 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31629/45/cover/8979406592_1.jpg) | 비상사태의 정치 : 역설, 법, 민주주의 | Honig, Bonnie | 서울 : 신서원, 2023 | 352.235 H773eK홍 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31660/37/cover/8972733857_1.jpg) | (역사의 거울로 보는) 시진핑 시대 중국과 그 딜레마 : 중국이 풀어야 할 7가지 근본문제 | 이종민 | 서울 : 서강대학교출판부, 2023 | 320.952 이75시 | 중앙도서관 |
@@ -45,10 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32342/0/cover/896437438x_1.jpg) | 혐오하는 민주주의 : 팬덤 정치란 무엇이고 왜 문제인가 | 박상훈 | 서울 : 후마니타스, 2023 | 321.80951 박52혐 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/4981/19/cover/8998408066_1.jpg) | 파산 : 그러나 신용은 은행이 평가하는 게 아니다 | 이건범 | 서울 : 피어나, 2014 | 658.409 이14파 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23582/95/cover/k192638328_1.jpg) | 재즈피아노 독학 가이드북 | 박주언 | 성남 : 1458music, 2020 | 786.2 박76재 v.1 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32336/86/cover/8965403669_1.jpg) | (빅데이터 시대, 잘 먹고 잘 사는 현대인의) 필수 교양 정보 문해력 : 정보 과부하에 지지 않는 5가지 힘을 당신에게 | Dawson, Ross | 부천 : 프리렉, 2023 | 303.4833 D272tK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/11689/26/cover/8968669600_1.jpg) | (아동·청소년) 정신병리학 | Mash, Eric J | 서울 : 시그마프레스, 2017(2022 2쇄) | 618.9289 M397c3K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32359/47/cover/k882935466_1.jpg) | 최민준의 아들코칭 백과 : 기질 파악부터 말공부, 사회성, 감정코칭까지 | 최민준 | 서울 : 위즈덤하우스, 2023 | 649.68 최38최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32059/84/cover/k142834797_1.jpg) | 물로 씌어진 이름 : 이승만과 그의 시대 : 복거일 대하전기소설 : 제1부 광복 | 복거일 | 파주 : 백년동안, 2023 | 811.37 복14물 v.1~5 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32129/60/cover/8932923450_1.jpg) | 스파이와 배신자 : 역사상 가장 중요한 이중 스파이, 올레크 고르디옙스키 | Macintyre, Ben | 파주 : 열린책들, 2023 | 327.1273047 G661mK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32066/16/cover/k532834897_1.jpg) | 브랜드 설계자 : 구매 전환율을 높이는 19가지 브랜딩 과학 | Brunson, Russell | 파주 : 윌북, 2023 | 658.872 B899eK홍 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31630/96/cover/k612833877_3.jpg) | (어떤 하락장에서도 살아남을 수 있는) 시장 불변의 법칙 | 장지웅 | 서울 : 여의도책방, 2023 | 332.6322 장78시 | 중앙도서관 |
