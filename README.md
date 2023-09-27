@@ -2,6 +2,18 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Party of one : the rise of Xi Jinping and China's superpower future | Wong, Chun Han | New York : Avid Reader Press, 2023 | 952.0612092 X6w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Wolfgang Tillmans : Sound is liquid | Tillmans, Wolfgang | Köln : Verlag der Buchhandlung Walther und Franz König | 779.092 T577w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Wild problems : a guide to the decisions that define us | Roberts, Russell | New York, NY : Portfolio / Penguin, 2022. | 153.83 R646w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The metaphoric process : connections between language and life | Corradi Fiumara, Gemma | London ; New York : Routledge, 1995. | 121.68 C823m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Antitrust and the triumph of economics : institutions, expertise, and policy change | Eisner, Marc Allen | Chapel Hill : University of North Carolina Press, 1991. | 338.80973 E36a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | War over the family | Popenoe, David | New Brunswick, N.J. : Transaction Publishers, 2008. | 306.850973 P826w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The upheaval of war : family, work, and welfare in Europe, 1914-1918 | Wall, Richard | Cambridge, [England] ; New York : Cambridge University Press, 2005. | 940.31 W187u | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Complete Latin | Betts, Gavin | London : Hodder ＆ Stoughton, 2013. | 478 B565c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Complete Swedish | Haake, Anneli Beronius | London : Hodder and Stoughton, 2018. | 439.7 H111c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 文学・芸術・武道にみる日本文化 | 어주효지 | 東京 : 放送大学教育振興会, 2019. | 306.0953 어76문 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 今こそびたい日本のこと | 봉곡상음 | 東京 : 地球の步き方, 2022 | 306.0953 봉15금 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | An introduction to optimization on smooth manifolds | Boumal, Nicolas | Cambridge ; New York, NY : Cambridge University Press, 2023. | 516.36 B764i | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32354/81/cover/k342935366_1.jpg) | 퓨처 셀프 : 현재와 미래가 달라지는 놀라운 혁명 | Hardy, Benjamin | 성남 : 상상스퀘어, 2023 | 158 H268bK최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/19688/88/cover/k952635836_1.jpg) | 맨 끝줄 소년 | Mayorga, Juan | 서울 : 지만지드라마, 2019 | 862.64 M473cK김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (중국 출토) 百濟人 墓誌 集成 | 충청남도 | 홍성군 : 충청남도 | 951.33 충83백묘 v.1~3 | 중앙도서관 |
@@ -40,15 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32193/96/cover/k122834422_1.jpg) | 기후변화 | Maslin, Mark | 파주 : 교유서가 : 교유당, 2023 | 363.73874 M397c4K신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31356/8/cover/k072832098_1.jpg) | 주식 부자의 슈퍼 멘탈 : 상승장의 욕심과 하락장의 불안을 이겨내는 부자들의 투자 원칙 | 상강정명 | 서울 : 허들링북스, 2023 | 332.6322 상12주K장 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31862/6/cover/8932323097_1.jpg) | 에이스 : 무성애로 다시 읽는 관계와 욕망, 로맨스 | Chen, Angela | 서울 : 현암사, 2023 | 306.7 C518aK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2735/57/cover/8997716220_1.jpg) | 월터 머치와의 대화 : 영화 편집의 예술과 기술 | Ondaatje, Michael | 서울 : 비즈앤비즈, 2013 | 778.535 O58cK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32043/61/cover/k532834884_2.jpg) | (데일 카네기) 인간관계론 | Carnegie, Dale | 파주 : 다산북스, 2023 | 158.2 C289hK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31479/77/cover/k682832524_1.jpg) | 플라톤 국가 | Platon | 서울 : 현대지성, 2023 | 184 P718pK박현 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30227/46/cover/k182839301_1.jpg) | (데일 카네기) 성공대화론 | Carnegie, Dale | 서울 : 현대지성, 2022 | 808.5 C289pK임 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31489/75/cover/k762832232_1.jpg) | (이지성의) 1만 킬로미터 : 그들은 왜 목숨을 건 여정을 떠나는가? | 이지성 | 서울 : 차이정원, 2023 | 325.2109518 이78일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24732/0/cover/k302631611_1.jpg) | Goeul : walk along our neighbor's kitchen | 로우프레스 | Seoul : Rawpress, 2019- | 394.10951 로66g v.2~5 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31463/46/cover/k132832421_1.jpg) | 경제지표를 읽는 시간 : 언제나 한발 앞서 변화의 신호를 찾아내는 기술 | 김두언 | 서울 : 위즈덤하우스, 2023 | 330.0212 김26경 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32313/69/cover/k002834158_1.jpg) | 나는 왜 자꾸 내 탓을 할까 : 내 마음 제대로 들여다보는 법 | 허규형 | 서울 : Originals : 밀리의 서재, 2023 | 158.3 허16나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32089/67/cover/k522834190_1.jpg) | 눈에 갇힌 외딴 산장에서 | 동야규오 | 서울 : 재인, 2023 | 813.37 동63눈K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/17159/71/cover/k582534581_1.jpg) | 내가 놓친 게 있다면 | 지혜 | 서울 : atnoon books, 2018 | 811.87 지94내 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32314/0/cover/k722834159_1.jpg) | 한석준의 말하기 수업 : "말하기에 자신이 생기면 인생이 바뀝니다!" | 한석준 | 서울 : 인플루엔셜, 2023 | 808.5 한54한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27515/79/cover/k872733298_1.jpg) | 부동산 공부는 처음이라 | 채상욱 | 서울 : 라이프런, 2021 | 333.33 채52부 | 중앙도서관 |
