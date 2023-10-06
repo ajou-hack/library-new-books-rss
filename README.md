@@ -2,6 +2,13 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31561/46/cover/k782832854_1.jpg) | 구의 증명 : 최진영 소설 | 최진영 | 서울 : 은행나무, 2023 | 811.37 최78구2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32289/45/cover/k852834850_1.jpg) | 1%를 읽는 힘 : 세상의 정보를 연결해서 기회를 포착하는 생각 혁신 | 메르 | 서울 : 토네이도 : 토네이도미디어그룹, 2023 | 332.6 메297일 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31892/3/cover/k342833636_1.jpg) | 아메리칸 프로메테우스 : 로버트 오펜하이머 평전 | Bird, Kai | 서울 : 사이언스북스, 2023 | 530.092 O62bK최로 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31576/70/cover/8960519839_2.jpg) | 칩워 : 누가 반도체 전쟁의 최후 승자가 될 것인가 | Miller, Chris | 서울 : 부키, 2023 | 338.476213815 M647cK노 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26680/96/cover/8993143951_1.jpg) | 모두를 위한 통합교육을 그리다 : 특수교사 송명숙이 전하는 25년간의 도전과 실천 사례 | 송명숙 | 서울 : 한울림스페셜 : 한울림, 2021 | 371.9 송34모 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23736/85/cover/k692639764_1.jpg) | 칵테일, 러브, 좀비 :조예은 단편집 | 조예은 | 서울 :안전가옥, 2020 | 811.37 조64칵 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/7e203b1b-8976-4e7d-9600-7de6814a3d34) | 아가미 :구병모 장편소설 | 구병모 | 고양 :위즈덤하우스 :위즈덤하우스 미디어그룹,2018 | 811.37 구44아위 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Party of one : the rise of Xi Jinping and China's superpower future | Wong, Chun Han | New York : Avid Reader Press, 2023 | 952.0612092 X6w | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Wolfgang Tillmans : Sound is liquid | Tillmans, Wolfgang | Köln : Verlag der Buchhandlung Walther und Franz König | 779.092 T577w | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Wild problems : a guide to the decisions that define us | Roberts, Russell | New York, NY : Portfolio / Penguin, 2022. | 153.83 R646w | 중앙도서관 |
@@ -45,10 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31457/81/cover/8931468040_1.jpg) | (김박사넷과) 미국 대학원 합격하기 : 유학도 교육이다 | 임형광 | 서울 : 영진닷컴, 2023 | 378.194 임94미 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29188/53/cover/893747557x_1.jpg) | 차일드 해럴드의 순례 | Byron, George Gordon Byron | 서울 : 민음사, 2022 | 821.7 B996bK황3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32226/59/cover/k462834627_1.jpg) | 조선이 만난 아인슈타인 : 100년 전 우리 조상들의 과학 탐사기 | 민태기 | 서울 : 위즈덤하우스, 2023 | 502 민883조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31784/1/cover/8980783140_1.jpg) | 모던 C++ 프로그래밍 입문 | 음두헌 | 서울 : 가메, 2023 | 005.133 음26모2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32287/82/cover/8963475654_1.jpg) | 인도네시아 : 사람들과 역사들 | Taylor, Jean | 과천 : 진인진, 2023 | 959.8 T243iK여 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31679/23/cover/k832833783_1.jpg) | 우정 도둑 : 삶의 궤도를 넓혀준 글, 고독, 연결의 기록 : 유지혜 산문집 | 유지혜 | 파주 : 놀 : 다산북스, 2023 | 811.47 유78우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30412/83/cover/8984292516_1.jpg) | 로널드 코스라면 어떻게 해결할까 : 배출권 거래제와 주파수 경매 | Kiesling, Laura Lynne | 서울 : 자유기업원 : 지식발전소, 2022 | 338.5 K47eK권 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32193/96/cover/k122834422_1.jpg) | 기후변화 | Maslin, Mark | 파주 : 교유서가 : 교유당, 2023 | 363.73874 M397c4K신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31356/8/cover/k072832098_1.jpg) | 주식 부자의 슈퍼 멘탈 : 상승장의 욕심과 하락장의 불안을 이겨내는 부자들의 투자 원칙 | 상강정명 | 서울 : 허들링북스, 2023 | 332.6322 상12주K장 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31862/6/cover/8932323097_1.jpg) | 에이스 : 무성애로 다시 읽는 관계와 욕망, 로맨스 | Chen, Angela | 서울 : 현암사, 2023 | 306.7 C518aK박 | 중앙도서관 |
