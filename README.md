@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/6874/66/cover/k222434176_1.jpg) | 쭈옌 끼에우 | Nguyễn, Du | 서울 : 지식을만드는지식, 2015 | 815.17 N576tK안 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/7492/7/cover/s982732770_1.jpg) | 개소리에 대하여 | Frankfurt, Harry G | 서울 :필로소픽 :푸른커뮤니케이션, 2016 | 177.3 F829oK이 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Life on the refrigerator door : a novel in notes | Kuipers, Alice | London : Macmillan Children's Books, 2015. | 823.92 K96L | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The political economy of distributism : property, liberty, and the common good | Salter, Alexander William | Washington, D.C. : The Catholic University of America Press, 2023. | 330.1 S177p | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Concrete and culture : a material history | Forty, Adrian | London : Reaktion Books, 2016. | 721.0445 F745c | 중앙도서관 |
@@ -18,7 +20,7 @@
 | ![](https://image.aladin.co.kr/product/31937/10/cover/k852833054_1.jpg) | 또 다른 사월 | Millay, Edna St. Vincent | 서울 : 지식을만드는지식, 2023 | 821.912 M645sK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31770/14/cover/k852833006_1.jpg) | 식물기 : 호시노 도모유키 식물소설집 | 성야지행 | 홍성군 : 그물코, 2023 | 813.37 성63식K김그 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Manufacturing engineering and technology : in Si Units | Kalpakjian, Serope | Harlow : Pearson Education, 2023. | 670.42 K14m8 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26353/95/cover/k522738025_1.jpg) | 사례중심 복지와 인권 =Human case welfare & human rights | 고명석 | 서울 :동문사, 2021 | 342.085 고34사 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/26353/95/cover/k522738025_1.jpg) | 사례중심 복지와 인권 | 고명석 | 서울 : 동문사, 2021 | 342.085 고34사 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/286/15/cover/8970137017_1.jpg) | 인권 | 최현 | 서울 : 책세상,2008 | 323.4 최94인 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26700/81/cover/k452730986_1.jpg) | 정보과 교과교육론 | 김자미 | 서울 : 휴먼싸이언스, 2021 | 004.07 김72정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32086/15/cover/k452834094_1.jpg) | 여성 ADHD : 투명소녀에서 번아웃 여인으로 | Skoglund, Lotta Borg | 파주 : 군자, 2023 | 616.8589 S628aK반 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/25062/65/cover/8931463170_1.jpg) | (바닥부터 배우는) 강화 학습 : 강화 학습 기초에 대한 쉽고 정확한 개념 설명 | 노승은 | 서울 : 영진닷컴, 2020 | 006.31 노57강 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/cb41fda5-b98f-4c24-8eca-7cb2444f319b) | 소비자행동론 | Schiffman, Leon G | 서울 :시그마프레스,2016 | 658.8342 S333c11K황 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/aef167e1-e548-4fb2-9348-3158c87abf6a) | 영어교육 연구방법론 =Research Methods in English Education | 김정렬 | 서울 :경문사,2012 | 420.7 김74영경 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32471/5/cover/8970278990_1.jpg) | 그림에서 장애인을 만나다 | 최대열 | 고양 : 나눔사, 2023 | 362.4 최23그 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32503/0/cover/k372935614_1.jpg) | 급진적으로 존재하기 : 장애, 상호교차성, 삶과 정의에 관한 최전선의 이야기들 | Sheppard, Alice | 서울 : 가망서사, 2023 | 305.908 D611sK박 | 중앙도서관 |
