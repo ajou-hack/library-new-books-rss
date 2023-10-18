@@ -2,6 +2,12 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Markets, games, and strategic behavior : an introduction to experimental economics | Holt, Charles A | Princeton, New Jersey : Princeton University Press, 2019. | 330.0151927 H758m2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Golden holocaust : origins of the cigarette catastrophe and the case for abolition | Proctor, Robert | Berkeley : University of California Press, 2011. | 362.2960973 P964g | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Complete Mandarin Chinese | Pang, Zhaoxia | London : Teach Yourself, 2021. | 412.8 P191c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Theories for direct social work practice | Walsh, Joseph | Boston, MA : Cengage Learning, 2013. | 361.3201 W225t3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31738/39/cover/8954692478_1.jpg) | 우리 둘에게 큰일은 일어나지 않는다 : 김상혁 시집 | 김상혁 | 파주 : 문학동네, 2023 | 811.17 김52우 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31912/85/cover/8934964103_2.jpg) | 기후 책 : 그레타 툰베리가 세계 지성들과 함께 쓴 기후위기 교과서 | Thunberg, Greta | 파주 : 김영사, 2023 | 363.7387452 T535cK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/6874/66/cover/k222434176_1.jpg) | 쭈옌 끼에우 | Nguyễn, Du | 서울 : 지식을만드는지식, 2015 | 815.17 N576tK안 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/7492/7/cover/s982732770_1.jpg) | 개소리에 대하여 | Frankfurt, Harry G | 서울 :필로소픽 :푸른커뮤니케이션, 2016 | 177.3 F829oK이 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Life on the refrigerator door : a novel in notes | Kuipers, Alice | London : Macmillan Children's Books, 2015. | 823.92 K96L | 중앙도서관 |
@@ -46,9 +52,3 @@
 | ![](https://image.aladin.co.kr/product/10654/46/cover/8952118057_1.jpg) | (서울대 한국어+) 학문 목적 읽기 | 서울대학교 | 서울 : 서울대학교출판문화원, 2017 | 411.8 서66학읽 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/18796/40/cover/8952119193_1.jpg) | (서울대 한국어+) 학문 목적 듣기 | 서울대학교 | 서울 : 서울대학교출판문화원, 2019 | 411.8 서66학듣 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32015/45/cover/k482834571_1.jpg) | 중국 고대건축의 이해 | 부희년 | 파주 : 글항아리, 2023 | 720.952 부97중K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31004/95/cover/k702831216_1.jpg) | 팔도유람 | 김동석 | 수원 : 문비 : 문화짱, 2022 | 811.17 김25팔 v.1 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26620/67/cover/k482739133_1.jpg) | 히잡에서 전기차까지, 인도네시아 깨톡 : 이슬람 쫌 아는 은행원이 들려주는 인니 이야기 | 양동철 | 서울 : 디아스포라, 2021 | 306.09598 양25히 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23940/43/cover/k272639005_1.jpg) | (만들면서 배우는) 워드프레스 : 초보자도 따라 하는 웹사이트 제작 완벽 가이드 | 박현우 | 서울 : 한빛미디어, 2020 | 006.7 박94워3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25062/65/cover/8931463170_1.jpg) | (바닥부터 배우는) 강화 학습 : 강화 학습 기초에 대한 쉽고 정확한 개념 설명 | 노승은 | 서울 : 영진닷컴, 2020 | 006.31 노57강 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/cb41fda5-b98f-4c24-8eca-7cb2444f319b) | 소비자행동론 | Schiffman, Leon G | 서울 :시그마프레스,2016 | 658.8342 S333c11K황 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/aef167e1-e548-4fb2-9348-3158c87abf6a) | 영어교육 연구방법론 =Research Methods in English Education | 김정렬 | 서울 :경문사,2012 | 420.7 김74영경 | 중앙도서관 |
