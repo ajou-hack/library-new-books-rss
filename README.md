@@ -2,6 +2,10 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/12760/42/cover/8965134854_1.jpg) | (자존감, 효능감을 만드는) 버츄프로젝트 수업 | 권영애 | 파주 : 아름다운사람들, 2018 | 370.114 권64버 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2735/57/cover/8997716220_1.jpg) | 월터 머치와의 대화 : 영화 편집의 예술과 기술 | Ondaatje, Michael | 서울 : 비즈앤비즈, 2013(2019 2쇄) | 778.535 O58cK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31402/81/cover/8934950927_1.jpg) | 물질의 재발견 : 탄소에서 암흑물질까지, 11가지 물질로 살펴보는 물리학의 최전선 | 정세영 | 파주 : 김영사, 2023 | 530.4 물78정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23178/94/cover/8936482920_1.jpg) | 고대에서 도착한 생각들 | 전호태 | 파주 :창비, 2020 | 951.2 전95고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32422/85/cover/k102935996_1.jpg) | 경험은 어떻게 유전자에 새겨지는가 | Moore, David Scott | 고양 : 아몬드, 2023 | 571.85 M821dK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/286/16/cover/8996035521_1.jpg) | 꾼달리니 딴뜨라 | Satyananda Saraswati | 장흥군 : 한국요가출판사, 2008 | 294.5436 S254kK한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/15566/75/cover/8971804882_1.jpg) | 신채호 문학 주해 | 신채호 | 대구 : 경북대학교출판부, 2018 | 811.09 신82신 | 중앙도서관 |
@@ -48,7 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32431/79/cover/8918914393_1.jpg) | 민사소송법 | 김일룡 | 파주 : 法文社, 2023 | 347.05 김68민소 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32445/6/cover/k362935291_1.jpg) | 저작권법 강의 | 오승종 | 서울 : 박영사, 2023 | 346.0482 오57저박4 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (한 권으로 끝내는) 형사변호실무 : 조문 판례 기재례 | 안갑철 | 서울 : 지식과감성#, 2023 | 340.023 안12형 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32471/23/cover/k332935400_1.jpg) | (판례로 알아가는) 연예매니지먼트 분쟁사례집 | 신원 | 서울 : 좋은피알, 2023 | 345.070264 신66연 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 권리의 변동과 구제 | 양창수 | 서울 : 博英社, 2023 | 346 양82권5 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32475/6/cover/k842935404_1.jpg) | 권리의 보전과 담보 | 양창수 | 서울 : 博英社, 2023 | 346.02 양82권5 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32517/36/cover/8903110552_1.jpg) | (알기 쉬운) 음악 저작권 & 계약 핵심 | 김현숙 | 서울 : 세광음악, 2023 | 346.0482 김94음 | 법학도서관 |
