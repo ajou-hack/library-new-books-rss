@@ -2,6 +2,22 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31353/50/cover/k202832994_1.jpg) | 아웃스탠딩 티처 : 더 나아질 미래를 원하는 사람들의 성장코드 | 김용섭 | 서울 : 퍼블리온, 2023 | 650.1 김65아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32464/8/cover/8960511331_3.jpg) | 라이프 트렌드 2024 : Old money | 김용섭 | 서울 : 부키, 2023 | 303.49 김65라 2024 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32417/59/cover/k272935897_1.jpg) | 돈을 부르는 매너 : 당신의 매너가 당신의 자산이다 | 민경남 | 서울 : 데이원, 2023 | 395 민14돈 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32405/57/cover/k402935986_1.jpg) | 혼자 있는 새벽 4시의 힘 : 내 안의 잠든 가능성을 깨우는 시간 | 김세희 | 서울 : 더퀘스트 : 길벗, 2023 | 650.1 김54혼 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31847/42/cover/8931023189_1.jpg) | 필링 그레이트 : 우울과 불안을 치료하는 새롭고 혁명적인 방법 | Burns, David D | 서울 : 문예, 2023 | 616.8527 B967fK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32489/78/cover/893497169x_1.jpg) | 경제학이 필요한 순간 : 경제학은 어떻게 사람을 살리는가 | 김현철 | 파주 : 김영사, 2023 | 330 김94경 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28446/45/cover/8984308676_1.jpg) | 애도의 여정에 동반하기 : 사별 돌봄의 핵심 11가지 | Wolfelt, Alan D | 서울 : kmc, 2021 | 155.937 W855hK윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32443/92/cover/8959897175_3.jpg) | 트렌드 코리아 2024 : 2024 대한민국 소비트렌드 전망 | 김난도 | 서울 : 미래의창, 2023 | 338.544 트294김 2024 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32543/99/cover/k522935134_1.jpg) | 과거의 검증, 미래의 투자 : 어려운 시기를 이겨내는 최선의 투자법을 찾아서 | Ilmanen, Antti | 서울 : 워터베어프레스, 2023 | 332.6 I29iK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32449/30/cover/k252935297_1.jpg) | (완벽한 자유와 부를 만드는) 인생투자 | 우석 | 서울 : 오픈마인드, 2023 | 332.024 우54인 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30614/74/cover/k712830720_2.jpg) | 당신의 연애에 답한다 : 원하는 사람을 사랑에 빠지게 만드는 연애매뉴얼 | 전메리 | [파주] : 종이향기 : 인성재단, 2022 | 646.77 전34당 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30038/39/cover/k112839368_1.jpg) | 하버드대생 공부법은 당신과 다르다 | 류헌 | 고양 : 다연, 2022 | 371.3 류94환K원 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32509/14/cover/k612935725_1.jpg) | 모던 체스 아이디어 | Réti, Richard | 서울 : 필요한책, 2023 | 794.1 R438m2K유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32361/54/cover/k552935565_1.jpg) | 죽음 앞에 섰을 때 어떤 삶이었다고 말하겠습니까? : 인생의 순간순간을 빛나게 할 고전 속 죽음 공부 | 조형권 | 서울 : 유노책주 : 유노콘텐츠그룹, 2023 | 128.5 조94죽 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32401/91/cover/k062935980_2.jpg) | 영성이란 무엇인가 : 내 삶을 완성하는 영성에 관한 모든 것 | Sheldrake, Philip | 서울 : 불광, 2023 | 204 S544sK한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32422/56/cover/k662935994_1.jpg) | 미드라이프 마인드 : 나이듦의 문학과 예술 | Hutchinson, Ben | 서울 : 청미, 2023 | 809.93354 H975mK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/12760/42/cover/8965134854_1.jpg) | (자존감, 효능감을 만드는) 버츄프로젝트 수업 | 권영애 | 파주 : 아름다운사람들, 2018 | 370.114 권64버 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/2735/57/cover/8997716220_1.jpg) | 월터 머치와의 대화 : 영화 편집의 예술과 기술 | Ondaatje, Michael | 서울 : 비즈앤비즈, 2013(2019 2쇄) | 778.535 O58cK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31402/81/cover/8934950927_1.jpg) | 물질의 재발견 : 탄소에서 암흑물질까지, 11가지 물질로 살펴보는 물리학의 최전선 | 정세영 | 파주 : 김영사, 2023 | 530.4 물78정 | 중앙도서관 |
@@ -36,19 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32383/82/cover/k512935785_1.jpg) | 친족상속법 | 박정기 | 서울 : 탑북스, 2023 | 346.015 박74친2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32359/52/cover/k182935467_1.jpg) | AI와 잘 사는 법 | 김성천 | 서울 : 박영사, 2023 | 340 김54에 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32449/98/cover/891891430x_1.jpg) | 신민사소송법 | 정영환 | 파주 : 法文社, 2023 | 347.05 정64신3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32374/33/cover/k562935573_1.jpg) | (유치권 박사 노인수 변호사의) 유치권 진짜 가짜 판별법 | 노인수 | 서울 : 순눈, 2023 | 346.056 노68유판 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32376/4/cover/k612935577_2.jpg) | (기본강의) 형사소송법 | 이은모 | 서울 : 박영사, 2023 | 345.05 이67형박4 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32376/12/cover/k802935577_2.jpg) | 법학입문 | 이연갑 | 서울 : 박영사, 2023 | 340 법92이2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32405/76/cover/8981098549_1.jpg) | 민사보전 | 권창영 | 서울 : 韓國司法行政學會, 2023 | 347.077 권82민한2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32405/74/cover/8981098506_1.jpg) | 채권집행 | 박영호 | 서울 : 韓國司法行政學會, 2023 | 347.077 박64채2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32378/35/cover/k232935671_1.jpg) | 헌법소송법 | 김하열 | 서울 : 박영사, 2023 | 342.00269 김92헌5 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32380/22/cover/k172935676_1.jpg) | 형사소송법 | 이재상 | 서울 : 박영사, 2023 | 345.05 이73형15 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32380/88/cover/k872935780_1.jpg) | 공정거래법상 온라인 플랫폼의 자사우대 | 이봉의 | 서울 : 박영사, 2023 | 343.07 이45온 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32447/54/cover/k142935296_1.jpg) | 형사소송법 | 이은모 | 서울 : 박영사, 2023 | 345.05 이67형9 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32465/55/cover/8918914415_1.jpg) | 형법총론 | 신동운 | 파주 : 法文社, 2023 | 345 신25형15 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32406/43/cover/k572935088_1.jpg) | 신탁법 | 최수정 | 서울 : 박영사, 2023 | 346.059 최56신박3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32417/49/cover/k912935897_2.jpg) | 민사법 실무 | 김차동 | 서울 : 박영사, 2023 | 347 김82민3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32417/36/cover/k522935896_1.jpg) | 중국 비즈니스와 법 | 강영수 | 서울 : 박영사, 2023 | 343.5104 강64중 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32431/79/cover/8918914393_1.jpg) | 민사소송법 | 김일룡 | 파주 : 法文社, 2023 | 347.05 김68민소 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32445/6/cover/k362935291_1.jpg) | 저작권법 강의 | 오승종 | 서울 : 박영사, 2023 | 346.0482 오57저박4 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (한 권으로 끝내는) 형사변호실무 : 조문 판례 기재례 | 안갑철 | 서울 : 지식과감성#, 2023 | 340.023 안12형 | 법학도서관 |
