@@ -2,6 +2,13 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32530/18/cover/k082935021_1.jpg) | 채권총론 | 곽윤직 | 서울 : 박영사, 2023 | 346.02 곽66채총 2023 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31910/82/cover/k592833841_1.jpg) | (원리가 보이는) 파이썬 빅데이터 분석 기초와 실습 | 천세학 | 서울 : 한빛아카데미, 2023 | 005.133 천54파 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 로보틱스 입문 | Craig, John J | [서울] : 텍스트북스, 2021 | 629.892 C886i4K장 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/19344/88/cover/k252635812_1.jpg) | 데이터베이스 시스템 | Elmasri, Ramez | 서울 :홍릉과학, 2019 | 005.74 E48f7K황 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/17184/46/cover/k802534796_1.jpg) | 재료열역학 | Gaskell, David R | 서울 :홍릉과학, 2018 | 620.11296 G248i6K민 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/f5f2ae1f-e5d4-45f9-b4af-53ea53982c35) | 커팅 리듬, 영화 편집의 비밀 | Pearlman, Karen | 서울 :커뮤니케이션북스,2014 | 778.535 P359cK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/e2dd62d1-3d71-431d-bf74-fb4da053f4b6) | (McCabe의) 단위조작 | McCabe, Warren L | 서울 :한국맥그로힐,2017 | 660.2842 M121u7K이2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31353/50/cover/k202832994_1.jpg) | 아웃스탠딩 티처 : 더 나아질 미래를 원하는 사람들의 성장코드 | 김용섭 | 서울 : 퍼블리온, 2023 | 650.1 김65아 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32464/8/cover/8960511331_3.jpg) | 라이프 트렌드 2024 : Old money | 김용섭 | 서울 : 부키, 2023 | 303.49 김65라 2024 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32417/59/cover/k272935897_1.jpg) | 돈을 부르는 매너 : 당신의 매너가 당신의 자산이다 | 민경남 | 서울 : 데이원, 2023 | 395 민14돈 | 중앙도서관 |
@@ -43,12 +50,5 @@
 | ![](https://image.aladin.co.kr/product/32246/11/cover/8962632551_1.jpg) | 총, 선, 펜 : 전쟁과 헌법, 그리고 근대 세계의 형성 | Colley, Linda | 서울 : 에코리브르, 2023 | 342 C698gK김 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32336/13/cover/8918914318_1.jpg) | 형법각론 | 신동운 | 파주 : 法文社, 2023 | 345 신25형각 2023 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32315/88/cover/k192834155_1.jpg) | 헌법재판 및 위헌심사기준론 | 김대환 | 서울 : 박영사, 2023 | 342.519 김23헌 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/32333/58/cover/k692935166_1.jpg) | 가족법강의 | 신영호 | 서울 : 세창, 2023 | 346.015 신64가세4 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32333/60/cover/k952935167_1.jpg) | 법으로 Ver.Up(버업)되는 만화 : 당하지 않고 살아가는 25가지 필수 법 상식 | 더블유변 | 서울 : 골든래빗, 2023 | 340 더47법 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32336/23/cover/k372935264_1.jpg) | 메타버스와 저작권 | 조연하 | 서울 : 박영사, 2023 | 346.0482 조64메 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32337/95/cover/8946074698_2.jpg) | (도서관 사서를 위한) 저작권법 | 정경희 | 파주 : 한울아카데미 : 한울엠플러스, 2023 | 346.0482 정14저2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32342/74/cover/k602935363_1.jpg) | (쉽게 풀어 쓴) 지식재산 입문 | 특허청 | 서울 : 박문각, 2023 | 346.048 특94지입 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32359/72/cover/8977707528_1.jpg) | 금융법 | 정순섭 | 서울 : 弘文社, 2023 | 346.082 정56금 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32357/15/cover/k882935463_1.jpg) | (법률실무를 위한) 민법학개론 | 이황 | 서울 : 중앙법률사무교육원, 2023 | 346 이95민7 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32383/82/cover/k512935785_1.jpg) | 친족상속법 | 박정기 | 서울 : 탑북스, 2023 | 346.015 박74친2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32359/52/cover/k182935467_1.jpg) | AI와 잘 사는 법 | 김성천 | 서울 : 박영사, 2023 | 340 김54에 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32449/98/cover/891891430x_1.jpg) | 신민사소송법 | 정영환 | 파주 : 法文社, 2023 | 347.05 정64신3 | 법학도서관 |
