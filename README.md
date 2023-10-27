@@ -2,6 +2,23 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 당신의 조국, 한국을 알자 : 연세대학교 학생운동사 | 김영래 | 서울 : 한국문제연구회 : 내나라연구소, 2023 | 378.1981 김64당연 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32443/92/cover/8959897175_3.jpg) | 트렌드 코리아 2024 : 2024 대한민국 소비트렌드 전망 | 김난도 | 서울 : 미래의창, 2023 | 338.544 트294김 2024 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/9720/29/cover/896414712x_1.jpg) | 실전 CPA 영어회화 100선 | 유진영 | 서울 : 두남, 2016(2023 4쇄) | 428.34 유78실 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32263/81/cover/k842834848_1.jpg) | 달콤 쌉쌀한 일러스트 모음집 | 건문사 | 고양 : 건문사, 2023 | 725.4 건36달 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32263/80/cover/k852834848_1.jpg) | 자연, 인간, 건축의 건전한 공생 | Arch & Book | 고양 : 아치앤북, 2023 | 727.7 A669자 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fluid mechanics : fundamentals and applications | Çengel, Yunus A | Singapore : McGraw-Hill Education, 2020. | 620.106 C395f4s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Mechanics of materials | Gere, James M | Boston, MA : Cengage Learning, 2017 | 620.1123 G367m9s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Short stories in Spanish : read for pleasure at your level and learn Spanish the fun way! | Richards, Olly | Great Britain  : Hodder & Stoughton | 468.2421 R517s v.1~2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A fabulous failure : the Clinton presidency and the transformation of American capitalism | Lichtenstein, Nelson | Princeton : Princeton University Press, 2023. | 973.929 L699f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | OpenCV 4 computer vision application programming cookbook : build complex computer vision applications with OpenCV and C++ | Escriva, David Millan | Birmingham : Packt Publishing, 2019. | 006.37 E74o4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Easy Spanish reader : a three-part text for beginning students | Tardy, William T | New York : McGraw-Hill, 2021. | 468.6421 T183e4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Basic Spanish | Richmond, Dorothy Devney | New York : McGraw-Hill, 2020. | 468.2421 R532b3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Calculus | Stewart, James | Australia : Cengage Learning, 2021. | 515 S849c9 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Quantum information | Barnett, S. M | Oxford : Oxford University Press, 2009. | 004.1 B261q | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introduction to statistical quality control | Montgomery, Douglas C | Hoboken, NJ : John Wiley ＆ Sons, Inc., 2020. | 658.562 M787i8 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31298/29/cover/8932041334_1.jpg) | 소설 보다 : 2023 | 강보라 | 서울 : 문학과지성사, 2023 | 811.3708 소54문 2023 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Linear algebra with applications | Leon, Steven J | Boston : Pearson, 2021. | 512.5 L579L10 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29209/90/cover/k242837383_1.jpg) | 500일의 영국 : 워킹홀리데이로 만난 영국 문화 이야기 | 윤정 | 서울 : 세나북스, 2022 | 914.204 윤74오 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29321/63/cover/k082837818_1.jpg) | 정원을 가꾸는 오래된 지혜 | Ferguson, Diana | 서울 : 북스힐, 2022 | 712.6 F352oK안 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/5412/78/cover/8992603827_1.jpg) | (엥겔의) 물리화학 | Engel, Thomas | 서울 : 사이플러스, 2015(2022 3쇄) | 541.3 E57p3K김 | 중앙도서관 |
@@ -35,20 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31910/82/cover/k592833841_1.jpg) | (원리가 보이는) 파이썬 빅데이터 분석 기초와 실습 | 천세학 | 서울 : 한빛아카데미, 2023 | 005.133 천54파 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 로보틱스 입문 | Craig, John J | [서울] : 텍스트북스, 2021 | 629.892 C886i4K장 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/19344/88/cover/k252635812_1.jpg) | 데이터베이스 시스템 | Elmasri, Ramez | 서울 :홍릉과학, 2019 | 005.74 E48f7K황 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/17184/46/cover/k802534796_1.jpg) | 재료열역학 | Gaskell, David R | 서울 :홍릉과학, 2018 | 620.11296 G248i6K민 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/f5f2ae1f-e5d4-45f9-b4af-53ea53982c35) | 커팅 리듬, 영화 편집의 비밀 | Pearlman, Karen | 서울 :커뮤니케이션북스,2014 | 778.535 P359cK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/e2dd62d1-3d71-431d-bf74-fb4da053f4b6) | (McCabe의) 단위조작 | McCabe, Warren L | 서울 :한국맥그로힐,2017 | 660.2842 M121u7K이2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31353/50/cover/k202832994_1.jpg) | 아웃스탠딩 티처 : 더 나아질 미래를 원하는 사람들의 성장코드 | 김용섭 | 서울 : 퍼블리온, 2023 | 650.1 김65아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32464/8/cover/8960511331_3.jpg) | 라이프 트렌드 2024 : Old money | 김용섭 | 서울 : 부키, 2023 | 303.49 김65라 2024 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32417/59/cover/k272935897_1.jpg) | 돈을 부르는 매너 : 당신의 매너가 당신의 자산이다 | 민경남 | 서울 : 데이원, 2023 | 395 민14돈 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32405/57/cover/k402935986_1.jpg) | 혼자 있는 새벽 4시의 힘 : 내 안의 잠든 가능성을 깨우는 시간 | 김세희 | 서울 : 더퀘스트 : 길벗, 2023 | 650.1 김54혼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31847/42/cover/8931023189_1.jpg) | 필링 그레이트 : 우울과 불안을 치료하는 새롭고 혁명적인 방법 | Burns, David D | 서울 : 문예, 2023 | 616.8527 B967fK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32489/78/cover/893497169x_1.jpg) | 경제학이 필요한 순간 : 경제학은 어떻게 사람을 살리는가 | 김현철 | 파주 : 김영사, 2023 | 330 김94경 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28446/45/cover/8984308676_1.jpg) | 애도의 여정에 동반하기 : 사별 돌봄의 핵심 11가지 | Wolfelt, Alan D | 서울 : kmc, 2021 | 155.937 W855hK윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32443/92/cover/8959897175_3.jpg) | 트렌드 코리아 2024 : 2024 대한민국 소비트렌드 전망 | 김난도 | 서울 : 미래의창, 2023 | 338.544 트294김 2024 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32543/99/cover/k522935134_1.jpg) | 과거의 검증, 미래의 투자 : 어려운 시기를 이겨내는 최선의 투자법을 찾아서 | Ilmanen, Antti | 서울 : 워터베어프레스, 2023 | 332.6 I29iK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32449/30/cover/k252935297_1.jpg) | (완벽한 자유와 부를 만드는) 인생투자 | 우석 | 서울 : 오픈마인드, 2023 | 332.024 우54인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30614/74/cover/k712830720_2.jpg) | 당신의 연애에 답한다 : 원하는 사람을 사랑에 빠지게 만드는 연애매뉴얼 | 전메리 | [파주] : 종이향기 : 인성재단, 2022 | 646.77 전34당 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30038/39/cover/k112839368_1.jpg) | 하버드대생 공부법은 당신과 다르다 | 류헌 | 고양 : 다연, 2022 | 371.3 류94환K원 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32509/14/cover/k612935725_1.jpg) | 모던 체스 아이디어 | Réti, Richard | 서울 : 필요한책, 2023 | 794.1 R438m2K유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32361/54/cover/k552935565_1.jpg) | 죽음 앞에 섰을 때 어떤 삶이었다고 말하겠습니까? : 인생의 순간순간을 빛나게 할 고전 속 죽음 공부 | 조형권 | 서울 : 유노책주 : 유노콘텐츠그룹, 2023 | 128.5 조94죽 | 중앙도서관 |
