@@ -2,6 +2,15 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32401/51/cover/k052935989_1.jpg) | 더 단단한 질적 연구를 위한 안내서 | Small, Mario Luis | 서울 : 컬처룩, 2023 | 305.800721 S635qK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 타우마제인 : 경이로운 세상에 관하여 | 캐럿하우스 | 서울 : 캐럿하우스, 2023 | 001.3 캐294타 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Routledge handbook of policy tools | Howlett, Michael | Abingdon, Oxon ; New York, NY : Routledge, Taylor ＆ Francis Group, 2023. | 320.6 H865r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Development and social change : a global perspective | McMichael, Philip | Los Angeles : SAGE, 2022. | 306.309 M167d7 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Causation with a human face : normative theory and descriptive psychology | Woodward, James F | New York, NY : Oxford University Press, 2021. | 122 W911c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Staatseigentum : Legitimation Und Grenzen | Depenheuer, Otto | Berlin : Springer Verlag, 2017. | 343.02 D419s | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/27896/31/cover/k012734303_1.jpg) | (Seborg) 공정제어 | Seborg, Dale E | 서울 : 텍스트북스, 2021 | 660.2815 P963s4K류 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27304/37/cover/8954679943_1.jpg) | 낮술 : 하라다 히카 소설 | 원전히향 | 파주 : 문학동네, 2021-2022 | 813.37 원74낮K김 v.1~3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/22134/52/cover/k362636214_1.jpg) | Korean yearbook of international law | Korean Branch of the International Law Association | Seoul : PARKYOUNGSA : The Korean Branch of the International Law Association, 2019-2023 | 341 K84ki v.6~10 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/8651/68/cover/k232535784_1.jpg) | 낮술도 괜찮아요, 여긴 아일랜드니까요 : 아일랜드 펍에 가자 | 심은희 | 서울 : J&jj, 2016 | 914.15 심67낮 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32477/75/cover/k072935501_1.jpg) | 산키피디아 : 생활 등산·트레킹 가이드북 | 이원창 | 서울 : 북커스, 2023 | 796.522 이66산 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32308/44/cover/k082834954_1.jpg) | 트렌드의 배신 : 대중의 욕망인가, 기업의 마케팅인가 | 이호건 | 서울 : 월요일의꿈, 2023 | 330.951 이95트 | 중앙도서관 |
@@ -24,8 +33,7 @@
 | ![](https://image.aladin.co.kr/product/26652/26/cover/k672739336_1.jpg) | (Janeway's) 면역생물학 | Murphy, Kenneth M | 서울 : 범문에듀케이션, 2021 | 616.079 M978j9K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32446/19/cover/8931023308_1.jpg) | 공정감각 : '에브리타임'에서 썰리고 퇴출당하며 벼려낸 청년들의 시대 감각 | 나임윤경 | 서울 : 문예, 2023 | 301.0951 공74나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32591/29/cover/k352935549_2.jpg) | 파견자들 : 김초엽 장편소설 | 김초엽 | 서울 : 퍼블리온, 2023 | 811.37 김84파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27304/37/cover/8954679943_1.jpg) | 낮술 : 하라다 히카 소설 | 원전히향 | 파주 : 문학동네, 2021-2022 | 813.37 원74낮K김 v.1/3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 당신의 조국, 한국을 알자 : 연세대학교 학생운동사 | 김영래 | 서울 : 한국문제연구회 : 내나라연구소, 2023 | 378.1981 김64당연 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 당신의 조국 한국을 알자 : 연세대학교 학생운동사 | 김영래 | 서울 : 한국문제연구회 : 내나라연구소, 2023 | 378.1981 김64당연 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32580/68/cover/k732935348_1.jpg) | 여행자의 성당 공부 : 유럽 성당 방문자를 위한 맞춤형 지식 교양서 | 신양란 | 부천 : 북핀, 2023 | 246.96 신63여 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32576/39/cover/k932935240_2.jpg) | 고통 구경하는 사회 : 우리는 왜 불행과 재난에서 눈을 떼지 못하는가 | 김인정 | 서울 : whalebooks : 웨일북, 2023 | 361.1 김68고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32130/80/cover/8961953265_1.jpg) | 건축과 객체 | Harman, Graham | 서울 : 갈무리, 2023 | 720.1 H287aK김 | 중앙도서관 |
@@ -44,11 +52,3 @@
 | ![](https://image.aladin.co.kr/product/9720/29/cover/896414712x_1.jpg) | 실전 CPA 영어회화 100선 | 유진영 | 서울 : 두남, 2016(2023 4쇄) | 428.34 유78실 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23364/98/cover/k262637119_1.jpg) | (파이썬으로 배우는) 자연어 처리 인 액션 | Lane, Hobson | 파주 : 제이펍, 2020 | 006.35 L265nK류 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32263/81/cover/k842834848_1.jpg) | 달콤 쌉쌀한 일러스트 모음집 | 건문사 | 고양 : 건문사, 2023 | 725.4 건36달 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32263/80/cover/k852834848_1.jpg) | 자연, 인간, 건축의 건전한 공생 | Arch & Book | 고양 : 아치앤북, 2023 | 727.7 A669자 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fluid mechanics : fundamentals and applications | Çengel, Yunus A | Singapore : McGraw-Hill Education, 2020. | 620.106 C395f4s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Mechanics of materials | Gere, James M | Boston, MA : Cengage Learning, 2017 | 620.1123 G367m9s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Short stories in Spanish : read for pleasure at your level and learn Spanish the fun way! | Richards, Olly | Great Britain  : Hodder & Stoughton | 468.2421 R517s v.1~2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A fabulous failure : the Clinton presidency and the transformation of American capitalism | Lichtenstein, Nelson | Princeton : Princeton University Press, 2023. | 973.929 L699f | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | OpenCV 4 computer vision application programming cookbook : build complex computer vision applications with OpenCV and C++ | Escriva, David Millan | Birmingham : Packt Publishing, 2019. | 006.37 E74o4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Easy Spanish reader : a three-part text for beginning students | Tardy, William T | New York : McGraw-Hill, 2021. | 468.6421 T183e4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Basic Spanish | Richmond, Dorothy Devney | New York : McGraw-Hill, 2020. | 468.2421 R532b3 | 중앙도서관 |
