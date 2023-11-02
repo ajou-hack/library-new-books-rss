@@ -2,6 +2,10 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32531/48/cover/k862935024_1.jpg) | 자연에 이름 붙이기 : 보이지 않던 세계가 보이기 시작할 때 | Yoon, Carol Kaesuk | 파주 : 윌북, 2023 | 570.14 Y59nK정 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 문화유산을 읽는 새로운 시각, 빅데이터 : 고고미술사학과 대학원생들의 빅데이터 체험기 | 김민서 | 서울 : BookPOD, 2021 | 709 김38문 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31240/41/cover/8965415942_1.jpg) | ESG 안전보건경영시스템 | 위국환 | 인천 : 진영사, 2023 | 620.86 E75위 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31918/47/cover/8956663211_1.jpg) | (ISO 45001) 안전보건경영시스템 구축 실무 guide : 중대재해 대비 중소기업 ISO 경영시스템 담당자를 위한 안전보건경영시스템 길라잡이 | 송형록 | 파주 : 정일, 2023 | 620.86 안74송 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32401/51/cover/k052935989_1.jpg) | 더 단단한 질적 연구를 위한 안내서 | Small, Mario Luis | 서울 : 컬처룩, 2023 | 305.800721 S635qK이 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 타우마제인 : 경이로운 세상에 관하여 | 캐럿하우스 | 서울 : 캐럿하우스, 2023 | 001.3 캐294타 v.1 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Routledge handbook of policy tools | Howlett, Michael | Abingdon, Oxon ; New York, NY : Routledge, Taylor ＆ Francis Group, 2023. | 320.6 H865r | 중앙도서관 |
@@ -48,7 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32333/74/cover/k072935268_1.jpg) | 선물 하나가 놓이기까지 : 해피 '엔딩' 이야기 | 김상혁 | [서울] : 테오리아, 2023 | 811.47 김52선 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32043/57/cover/k642935141_1.jpg) | 근 손실은 곧 빵 손실이니까 | 정연주 | 서울 : 세미콜론, 2023 | 811.87 정64근 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32443/92/cover/8959897175_3.jpg) | 트렌드 코리아 2024 : 2024 대한민국 소비트렌드 전망 | 김난도 | 서울 : 미래의창, 2023 | 338.544 트294김 2024 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32404/77/cover/k622935982_1.jpg) | 조선족 어디로 가야 하나? : 정신철 시론집 | 정신철 | 서울 : 역락, 2023 | 305.8951052 정58조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/9720/29/cover/896414712x_1.jpg) | 실전 CPA 영어회화 100선 | 유진영 | 서울 : 두남, 2016(2023 4쇄) | 428.34 유78실 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23364/98/cover/k262637119_1.jpg) | (파이썬으로 배우는) 자연어 처리 인 액션 | Lane, Hobson | 파주 : 제이펍, 2020 | 006.35 L265nK류 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32263/81/cover/k842834848_1.jpg) | 달콤 쌉쌀한 일러스트 모음집 | 건문사 | 고양 : 건문사, 2023 | 725.4 건36달 | 중앙도서관 |
