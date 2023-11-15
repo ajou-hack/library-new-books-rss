@@ -2,6 +2,13 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32003/49/cover/8954693881_1.jpg) | 두려움은 소문일 뿐이다 : 최현숙 산문 | 최현숙 | 파주 : 문학동네, 2023 | 811.47 최94두 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32003/59/cover/k042834663_1.jpg) | 여왕이 사랑한 사람들 : 누가 빅토리아 시대를 만들었나 | Strachey, Lytton | 파주 : 글항아리, 2023 | 941.081092 V645sK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31981/58/cover/893497561x_1.jpg) | 김경일 교수의 심리학 수업 : 인간의 속마음을 들여다보는 일상의 과학 | 김경일 | 파주 : 김영사, 2023 | 150 김14김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31909/13/cover/8932923124_1.jpg) | 세상을 바꾼 전쟁의 모든것 | Dodman, Thomas | 파주 : 열린책들, 2023 | 355.0209 H673dK이 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31924/7/cover/8954699219_1.jpg) | 초보자를 위한 살인 가이드 : 로절린드 스톱스 장편소설 | Stopps, Rosalind | 파주 : 문학동네, 2023 | 823.92 S883bK류 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31954/8/cover/8950938839_1.jpg) | 내가 예뻐진 그 여름 | Han, Jenny | 파주 : arte : 북이십일 아르테, 2023 | 823.92 H233sK이 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31934/54/cover/8962632535_1.jpg) | 어떤 죽음에도 당신의 책임은 있다 : 지속가능한 삶을 위한 작은 실천 | Thomä, Jakob | 서울 : 에코리브르, 2023 | 363.7 T452kK유 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30071/41/cover/k402839779_1.jpg) | 행동신경과학 : 생물심리학 입문 | Freberg, Laura | 서울 : 사회평론아카데미, 2022 | 612.8 F849d4K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/13348/86/cover/k192532909_1.jpg) | 광학 | Hecht, Eugene | 서울 : 자유아카데미, 2018 | 535 H447o5K조 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32469/30/cover/k862935304_1.jpg) | 에티모버스, 어원으로 보는 세상 | 박만규 | 서울 : 파롤앤, 2023 | 401.2 박32에 | 중앙도서관 |
@@ -45,10 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31982/86/cover/k232834568_1.jpg) | 일터로 간 뇌과학 : 테스토스테론 조직 x 세로토닌 리더 x 도파민 팀원 | Fabritius, Friederike | 서울 : 한빛비즈, 2023 | 658.402 F128bK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32057/61/cover/8950957574_1.jpg) | 거짓말의 기술 : 세상을 움직이는 거짓말쟁이들의 비밀 | Danesi, Marcel | 파주 : 21세기북스 : 북이십일 21세기북스, 2023 | 973.933092 T871dhK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31998/9/cover/8925576376_1.jpg) | 강박에 빠진 뇌 : 신경학적 불균형이 만들어낸 멈출 수 없는 불안 | Schwartz, Jeffrey | 서울 : RHK : 알에이치코리아, 2023 | 616.85227 S399bK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31916/75/cover/k062833944_1.jpg) | (나를 지치게 하는 걸들과 작별하는) 심플 라이프 | Williams, Jessica Rose | 서울 : 밀리언서재, 2023 | 158.1 W724sK윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31915/44/cover/k302833940_3.jpg) | I형 인간의 팀장생활 | 권도연 | 서울 : 현대지성, 2023 | 658.4092 권25i | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31921/53/cover/8958722142_1.jpg) | 공간의 진정성 : 깊은 사색으로 이끄는 36편의 에세이 | 김종진 | 파주 : 효형출판, 2023 | 720.2 김75공 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31968/57/cover/k002834164_1.jpg) | 파리의 미술관 : 루브르에서 퐁피두까지 가장 아름다운 파리를 만나는 시간 | 이혜준 | 서울 : 클로브, 2023 | 708.44 파298이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31931/17/cover/k352833957_1.jpg) | 아파트 속 과학 : 과학의 시선으로 주거공간을 해부하다 | 김홍재 | 서울 : 어바웃어북, 2023 | 728.314 김95아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31939/36/cover/k702833151_1.jpg) | 가장 위대한 모험 : 인간의 우주 탐사 역사 | Burgess, Colin | 서울 : 북스힐, 2023 | 629.45 B955gK안 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31959/51/cover/8925576309_1.jpg) | 이 또한 갓생 : 뾰족한 공감으로 세대의 판을 뒤집은 GS25 갓생기획 이야기 | GS리테일 | 서울 : 알에이치코리아, 2023 | 658.827 G895이 | 중앙도서관 |
