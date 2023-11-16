@@ -2,6 +2,16 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (시각화를 이용한) 데이터 정보분석 | 이동수 | 파주 : 자유아카데미, 2020 | 519.50285 이25데 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 엑셀 기초와 데이터 시각화 | 유현배 | 서울 : 홍릉, 2023 | 005.54 유94엑 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 사라진 것들의 미래 : 한진오 희곡집 | 한진오 | 서울 : 걷는사람, 2020 | 811.27 한78사 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 개를 찾습니다 : 오진희 희곡집 | 오진희 | 서울 : 걷는사람, 2019 | 811.27 오78개 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 자폐적 변형 : 비온의 이론과 자폐 현상 | Korbivcher, Celia Fix | 서울 : 한국심리치료연구소, 2015 | 616.85882 K84aK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 재무금융 리스크 관리 | Jorion, Philippe | 서울 : 경문사, 2014 | 658.155 J82f6K위 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The film appreciation book : the film course you always wanted to take | Piper, Jim | New York : Allworth Press, 2014. | 791.4301 P665f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | New developments in dementia prevention research : state of the art and future possibilities | Irving, Kate | Abingdon, Oxon ; New York, NY : Routledge, Taylor & Francis Group, 2020. | 616.83105 N532i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Civil society in the philippines : theoretical, methodological and policy debates | Clarke, Gerard | Abingdon, Oxon ; New York, NY : Routledge, Taylor & Francis Group, 2017 | 303.37209599 C598c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The dangerous art of text mining : a methodology for digital history | Guldi, Jo | Cambridge, United Kingdom ; New York, NY, USA : Cambridge University Press, 2023. | 025.0420727 G971d | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32003/49/cover/8954693881_1.jpg) | 두려움은 소문일 뿐이다 : 최현숙 산문 | 최현숙 | 파주 : 문학동네, 2023 | 811.47 최94두 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32003/59/cover/k042834663_1.jpg) | 여왕이 사랑한 사람들 : 누가 빅토리아 시대를 만들었나 | Strachey, Lytton | 파주 : 글항아리, 2023 | 941.081092 V645sK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31981/58/cover/893497561x_1.jpg) | 김경일 교수의 심리학 수업 : 인간의 속마음을 들여다보는 일상의 과학 | 김경일 | 파주 : 김영사, 2023 | 150 김14김 | 중앙도서관 |
@@ -42,13 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31937/35/cover/k482833055_1.jpg) | 한문이 말하지 못한 한국사 | 장지연 | 서울 : 푸른역사, 2023 | 951 장78한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31937/39/cover/k632833055_1.jpg) | 15세기 조선 사람과 만나다 : 미아보호소부터 코끼리 유배까지 | 신동훈 | 서울 : 푸른역사, 2023 | 951.5 신25십 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31980/92/cover/k522834463_1.jpg) | 이상하고 쓸모없고 행복한 열정 : 소설과 에세이 그 어디쯤 | 신나리 | [시흥] : 느린서재, 2023 | 811.87 신192이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31918/31/cover/k172833946_1.jpg) | 방울 슈퍼 이야기 : 황종권 에세이 | 황종권 | 서울 : 걷는사람, 2023 | 811.87 황75방 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31960/69/cover/8954693857_1.jpg) | 모래비가 내리는 모래 서점 : 문보영 시집 | 문보영 | 파주 : 문학동네, 2023 | 811.17 문45모 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31954/90/cover/893643909x_1.jpg) | 오렐리앵 | Aragon, Louis | 파주 : 창비, 2023 | 843.912 A659aK이 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31894/0/cover/k792833749_1.jpg) | 완벽한 딸들의 완벽한 범죄 | Sharpe, Tess | 서울 : 북레시피, 2023 | 823.92 S532gK고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31580/20/cover/8937456052_1.jpg) | 기억의 빛 : 마이클 온다치 장편 소설 | Ondaatje, Michael | 서울 : 민음사, 2023 | 823.914 O58wK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31884/88/cover/k132833535_1.jpg) | 양손에 토카레프 : 브래디 미카코 장편소설 | 브래디 미카코 | [파주] : 다다서재, 2023 | 813.37 브293량K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31953/97/cover/k532833258_1.jpg) | 나는 죽음을 돕는 의사입니다 | Green, Stefanie | 파주 : 이봄, 2023 | 179.7 G798tK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31982/86/cover/k232834568_1.jpg) | 일터로 간 뇌과학 : 테스토스테론 조직 x 세로토닌 리더 x 도파민 팀원 | Fabritius, Friederike | 서울 : 한빛비즈, 2023 | 658.402 F128bK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32057/61/cover/8950957574_1.jpg) | 거짓말의 기술 : 세상을 움직이는 거짓말쟁이들의 비밀 | Danesi, Marcel | 파주 : 21세기북스 : 북이십일 21세기북스, 2023 | 973.933092 T871dhK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31998/9/cover/8925576376_1.jpg) | 강박에 빠진 뇌 : 신경학적 불균형이 만들어낸 멈출 수 없는 불안 | Schwartz, Jeffrey | 서울 : RHK : 알에이치코리아, 2023 | 616.85227 S399bK이 | 중앙도서관 |
