@@ -2,12 +2,49 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (시각화를 이용한) 데이터 정보분석 | 이동수 | 파주 : 자유아카데미, 2020 | 519.50285 이25데 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 엑셀 기초와 데이터 시각화 | 유현배 | 서울 : 홍릉, 2023 | 005.54 유94엑 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 사라진 것들의 미래 : 한진오 희곡집 | 한진오 | 서울 : 걷는사람, 2020 | 811.27 한78사 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 개를 찾습니다 : 오진희 희곡집 | 오진희 | 서울 : 걷는사람, 2019 | 811.27 오78개 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 자폐적 변형 : 비온의 이론과 자폐 현상 | Korbivcher, Celia Fix | 서울 : 한국심리치료연구소, 2015 | 616.85882 K84aK이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 재무금융 리스크 관리 | Jorion, Philippe | 서울 : 경문사, 2014 | 658.155 J82f6K위 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/21673/99/cover/k972636697_1.jpg) | 빅데이터 시각화 : 하둡, R, D3.js, 태블로, 파이썬, 스플렁크로 배우는 빅데이터 시각화 | Miller, James D | 서울 : 에이콘, 2020 | 005.7 M648bK최 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (R, SAS, SPSS 함께하는) 범주형 자료의 시각화 : 대응분석 | 최용석 | 서울 : 경문사, 2023 | 519.5 최65범 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 담는 것/담기는 것 안에서의 성장과 격랑 : 비온의 유산 | Levine, Howard B | 서울 : 현대정신분석연구소, 2023 | 150.195092 B615LK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32063/22/cover/8901273446_1.jpg) | 스몰 트라우마 : 삶의 면역을 기르는 자기 돌봄의 심리학 | Arroll, Megan A | 파주 : 갤리온 : 웅진씽크빅, 2023 | 158.1 A778tK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32000/9/cover/k502834668_1.jpg) | 해양실크로드 문명사 : 유럽 이전의 바닷길 | 주강현 | 서울 : 바다위의정원, 2023 | 909 주12해 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31976/11/cover/k322834365_1.jpg) | 지구의 절반을 넘어서 : 기후정치로 가는 길 | Vettese, Troy | 파주 : 이콘, 2023 | 304.2 V591hK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31673/6/cover/k742833672_2.jpg) | 죽음 : 이토록 가깝고, 이토록 먼 | Jankélévitch, Vladimir | [서울] : 호두, 2023 | 128.5 J33mK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30638/65/cover/k052830023_1.jpg) | 번아웃 세대 | 곽연선 | 서울 : 스리체어스, 2022 | 158.7 곽64번 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31772/30/cover/k242833103_1.jpg) | 에디터의 일 : 생각을 편집하고 삶을 디자인하다 | 김담유 | 서울 : 스리체어스, 2023 | 070.5 김22에 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32181/38/cover/k062834512_1.jpg) | 설명하기 지친 사람을 위한 데이터 | 스브스프리미엄 | 서울 : 스리체어스, 2023 | 070.4 스47설 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31968/42/cover/k622834162_1.jpg) | 그래서 처세술이 필요합니다 : 나를 드러내고 물러날 때를 아는 힘 | 박재현 | 서울 : 반니, 2023 | 179.9 박73그 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31940/38/cover/k372833153_1.jpg) | 발레, 무도에의 권유 : 발레에 새겨진 인간과 예술의 흔적들 | 이단비 | 서울 : 클, 2023 | 792.8 이22발 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31915/63/cover/8961964364_1.jpg) | 고화신품록 : 일곱 가지 키워드로 푸는 중국 고화의 수수께끼 | 황소봉 | 파주 : 아트북스, 2023 | 708.952 황55고K조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31953/79/cover/k772833157_1.jpg) | 가이아 : 살아 있는 생명체로서의 지구 | Lovelock, James | 서울 : 갈라파고스, 2023 | 508 L911g2K홍 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31957/50/cover/8998938510_1.jpg) | 같은 공간, 다른 환경 이야기 : 동물과 인간의 주관적 세계론 | Uexküll, Jakob von | 파주 : 올리브그린, 2023 | 590.1 U22sK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31930/42/cover/8950985144_2.jpg) | 메타버스 유토피아 : 누구나 돈을 버는 디지털 세계의 탄생 | Van Rijmenam, Mark | 파주 : 21세기북스 : 북이십일 21세기북스, 2023 | 303.4833 V274sK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31953/89/cover/k272833258_2.jpg) | (템플 그랜딘의) 비주얼 씽킹 : 언어로 가득한 세상에서 시각적 사고자로 살아가기 | Grandin, Temple | 성남 : 상상스퀘어, 2023 | 152.14 G753vK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31911/82/cover/k952833843_1.jpg) | 셰익스피어 카운슬링 : 인생의 불안을 해소하는 10번의 사적인 대화 | Catà, Cesare | 파주 : 다산초당 : 다산북스, 2023 | 822.33 C35cK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31954/8/cover/k052833259_1.jpg) | 영화와 상담심리가 만나다 : 엉켜버린 마음을 마법처럼 풀어주는 영화치료의 모든 것 | 김은지 | 파주 : 마음책방, 2023 | 616.8914 김67영 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31959/55/cover/k172833350_1.jpg) | 재일(在日)코리안 스포츠 영웅 열전 | 대도유사 | 양평군 : 연립서가, 2023 | 796.092 대25혼K유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31891/70/cover/k062833635_1.jpg) | 어나더 경제사 | 홍기빈 | 고양 : 시월, 2023 | 330.9 홍18어 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31938/14/cover/8954693512_1.jpg) | 청춘유감 : 울면서 걷기, 넘어지며 자라기 : 한소범 산문 | 한소범 | 파주 : 문학동네, 2023 | 811.47 한55청 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31980/95/cover/8936479393_1.jpg) | 잘하면 유쾌한 할머니가 되겠어 : 트랜스젠더 박에디 이야기 | 박에디 | 파주 : 창비, 2023 | 306.768 박64잘 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31937/15/cover/k802833054_1.jpg) | 사물에 대해 쓰려 했지만 : 이향규 에세이 | 이향규 | 서울 : 창비 : 창비교육, 2023 | 811.47 이93사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31937/8/cover/k642833054_1.jpg) | 도시 농부 : 주중엔 매거진 에디터, 주말엔 텃밭 농부 | 천혜빈 | 서울 : 글담 : 인디고, 2023 | 811.87 천94도 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31957/58/cover/k272833358_1.jpg) | 덕후일기 : 시간 죽이기 : 송승언 에세이 | 송승언 | 서울 : 현대문학, 2023 | 811.87 송57덕 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31915/98/cover/k572833943_1.jpg) | 선생님, 항우울제 대신 시를 처방해 주세요 : 오늘도 잘 살아 낸 당신의 마음을 토닥이는 다정한 심리학 편지 | 성유미 | 서울 : 서삼독, 2023 | 616.89166 성66선 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31975/62/cover/k352834363_1.jpg) | 짐승처럼 : 임솔아 소설 | 임솔아 | 서울 : 현대문학, 2023 | 811.37 임55짐 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31862/9/cover/k592833420_1.jpg) | 개의 설계사 : 단요 장편소설 | 단요 | 서울 : 아작, 2023 | 811.37 단65개 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31911/19/cover/8970125655_1.jpg) | 에이프릴은 노래한다 : 엘리 라킨 장편소설 | Larkin, Allie | 파주 : 문학사상, 2023 | 823.92 L324pK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31885/45/cover/8954699294_1.jpg) | 더 게임 : 김인숙 장편소설 | 김인숙 | 파주 : 문학동네, 2023 | 811.37 김68더 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31886/62/cover/k242833630_1.jpg) | AI 저널리즘 : 챗GPT 시대, 언론 미디어 산업의 대전환 | 박창섭 | 서울 : 두리반, 2023 | 070.40285 박82a | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31863/79/cover/k112833424_1.jpg) | 우리, 희나 : 내 안의 다정함을 깨우다 | 오한숙희 | 서울 : 나무를 심는 사람들, 2023 | 811.87 오92우 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31915/43/cover/k272833940_1.jpg) | 허리케인 도마뱀과 플라스틱 오징어 | Hanson, Thor | 서울 : 위즈덤하우스, 2023 | 577.22 H251hK조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31909/17/cover/8960908223_1.jpg) | 김혜순의 말 : 글쓰기의 경이 | 김혜순 | 서울 : 마음산책, 2023 | 811.1709 김94김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30677/61/cover/k362830034_1.jpg) | (세계사를 바꾼) 화학 이야기 | 대궁리 | 고양 : 사람과나무사이, 2022-2023 | 540.9 대16화K김 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26660/69/cover/893499083x_1.jpg) | 김성곤의 중국한시기행 | 김성곤 | 파주 : 김영사, 2021-2023 | 915.2 김54김 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23569/10/cover/k502638123_1.jpg) | (시각화를 이용한) 데이터 정보분석 | 이동수 | 파주 : 자유아카데미, 2020 | 519.50285 이25데 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31216/44/cover/k012831153_1.jpg) | 엑셀 기초와 데이터 시각화 | 유현배 | 서울 : 홍릉, 2023 | 005.54 유94엑 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/22970/52/cover/k292637599_1.jpg) | 사라진 것들의 미래 : 한진오 희곡집 | 한진오 | 서울 : 걷는사람, 2020 | 811.27 한78사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/22456/81/cover/k592636529_1.jpg) | 개를 찾습니다 : 오진희 희곡집 | 오진희 | 서울 : 걷는사람, 2019 | 811.27 오78개 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6614/47/cover/8997465163_2.jpg) | 자폐적 변형 : 비온의 이론과 자폐 현상 | Korbivcher, Celia Fix | 서울 : 한국심리치료연구소, 2015 | 616.85882 K84aK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/4621/61/cover/8942008151_1.jpg) | 재무금융 리스크 관리 | Jorion, Philippe | 서울 : 경문사, 2014 | 658.155 J82f6K위 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The film appreciation book : the film course you always wanted to take | Piper, Jim | New York : Allworth Press, 2014. | 791.4301 P665f | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | New developments in dementia prevention research : state of the art and future possibilities | Irving, Kate | Abingdon, Oxon ; New York, NY : Routledge, Taylor & Francis Group, 2020. | 616.83105 N532i | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Civil society in the philippines : theoretical, methodological and policy debates | Clarke, Gerard | Abingdon, Oxon ; New York, NY : Routledge, Taylor & Francis Group, 2017 | 303.37209599 C598c | 중앙도서관 |
@@ -15,40 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32003/49/cover/8954693881_1.jpg) | 두려움은 소문일 뿐이다 : 최현숙 산문 | 최현숙 | 파주 : 문학동네, 2023 | 811.47 최94두 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32003/59/cover/k042834663_1.jpg) | 여왕이 사랑한 사람들 : 누가 빅토리아 시대를 만들었나 | Strachey, Lytton | 파주 : 글항아리, 2023 | 941.081092 V645sK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31981/58/cover/893497561x_1.jpg) | 김경일 교수의 심리학 수업 : 인간의 속마음을 들여다보는 일상의 과학 | 김경일 | 파주 : 김영사, 2023 | 150 김14김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31909/13/cover/8932923124_1.jpg) | 세상을 바꾼 전쟁의 모든것 | Dodman, Thomas | 파주 : 열린책들, 2023 | 355.0209 H673dK이 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31924/7/cover/8954699219_1.jpg) | 초보자를 위한 살인 가이드 : 로절린드 스톱스 장편소설 | Stopps, Rosalind | 파주 : 문학동네, 2023 | 823.92 S883bK류 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31954/8/cover/8950938839_1.jpg) | 내가 예뻐진 그 여름 | Han, Jenny | 파주 : arte : 북이십일 아르테, 2023 | 823.92 H233sK이 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31934/54/cover/8962632535_1.jpg) | 어떤 죽음에도 당신의 책임은 있다 : 지속가능한 삶을 위한 작은 실천 | Thomä, Jakob | 서울 : 에코리브르, 2023 | 363.7 T452kK유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30071/41/cover/k402839779_1.jpg) | 행동신경과학 : 생물심리학 입문 | Freberg, Laura | 서울 : 사회평론아카데미, 2022 | 612.8 F849d4K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/13348/86/cover/k192532909_1.jpg) | 광학 | Hecht, Eugene | 서울 : 자유아카데미, 2018 | 535 H447o5K조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32469/30/cover/k862935304_1.jpg) | 에티모버스, 어원으로 보는 세상 | 박만규 | 서울 : 파롤앤, 2023 | 401.2 박32에 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 다시 태어나도 유학 | 김하영 | 서울 : 지식과감성#, 2023 | 378.194 김92다 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32761/53/cover/k902936288_1.jpg) | 더 그레이트 비트코인 : 인문학, 경제학, 과학을 아우르는 절대 지성의 세계관 | 오태민 | 서울 : 거인의정원, 2023 | 332.40285 오883더 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32364/8/cover/k232935873_1.jpg) | 정보 디자인 교과서 | 오병근 | 파주 : 안그라픽스, 2023 | 745.2 오44정2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32764/39/cover/k032936283_1.jpg) | 데이터 드리븐 리포트 : 상사와 고객을 설득하는 데이터 기반의 의사결정 with 파이썬 | 이상석 | 서울 : 한빛미디어, 2023 | 658.812 이52데 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31845/67/cover/k852833325_1.jpg) | 실전 금융산업 빅데이터 분석 : 실무 담당자를 위한 금융 빅데이터 활용 비법 | 김유신 | 서울 : 비제이퍼블릭, 2023 | 332.0285 실74김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32636/35/cover/k452935650_1.jpg) | 시시콜콜 조선부동산실록 | 박영서 | 파주 : 들녘, 2023 | 951.5 박64시왜 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32637/74/cover/k922935652_1.jpg) | 스탕달의 『적과 흑』 : 프랑스 명작의 이해 | 한정주 | 파주 : 지성공간, 2023 | 843.709 S825한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30173/21/cover/k092839798_1.jpg) | 구원 | 정성주 | 서울 : 파도, 2022 | 811.1708 구66정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26813/40/cover/k202730195_1.jpg) | 영원 | 김수빈 | 서울 : 파도, 2021 | 811.1708 영66김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24929/46/cover/k442632496_1.jpg) | 초소형 머신러닝 TinyML : 모델 최적화부터 에지 컴퓨팅까지 작고 빠른 딥러닝을 위한 텐서플로 라이트 | Warden, Pete | 서울 : 한빛미디어, 2020 | 006.31 W265tK맹 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32061/1/cover/k292834899_1.jpg) | 투자 퀀트와 함께하는 위험 헤지 : 헤지로 기업과 투자 수익 N배 올리기 | 이승환 | 서울 : 차밍시티 : 서울프라퍼티인사이트, 2023 | 332.6322 이57투 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32648/49/cover/k142935654_1.jpg) | 눈이 보이지 않는 친구와 예술을 보러 가다 | 천내유서 | [파주] : 다다서재, 2023 | 701.18 천193목K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27360/44/cover/k662732135_1.jpg) | 아두이노로 코딩하며 배우는 딥러닝 : 머신러닝과 딥러닝 원리와 모델을 78개 아두이노 예제로 직접 구현 | 서민우 | 고양 : 앤써북, 2021 | 006.31 서38아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1366/89/cover/8964069293_1.jpg) | 말이 열리는 교실 : 교실수업 개선을 위한 담화 분석 | Rymes, Betsy | 서울 : 학이시습, 2011 | 371.1022 R995cK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32514/83/cover/8934955066_2.jpg) | 꿈의 분자 RNA | 김우재 | 파주 : 김영사, 2023 | 572.88 김66꿈 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31750/52/cover/k482833907_1.jpg) | 나의 정의 : 지우 단상집 | 지우 | [수원] : Equilibrium, 2023 | 811.87 지66나 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Administrative law : bureaucracy in a democracy | Hall, Daniel | Hoboken, NJ : Pearson Education, Inc., 2020. | 342.7306 H175a7 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32006/27/cover/k662834771_1.jpg) | 라 프론테라 : 미국-멕시코 국경을 사이에 둔 두 세계의 조우 | 김희순 | 서울 : 앨피, 2023 | 327.73072 김97라 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32022/32/cover/k572834780_1.jpg) | 자연이 우리를 행복하게 만들 수 있다면 : 뇌과학이 밝혀 낸 자연이 선물하는 만족감의 비밀 | Le Van Quyen, Michel | 파주 : 프런트페이지, 2023 | 612.82 L655cK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32026/70/cover/8954694144_1.jpg) | 당신이 보고 싶어하는 세상 : 장강명 소설 | 장강명 | 파주 : 문학동네, 2023 | 811.37 장12당 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31982/61/cover/k962834467_1.jpg) | 재개발의 정치학 | 김민석 | 서울 : 스리체어스, 2023 | 332.6324 김38재 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31891/78/cover/8935214221_1.jpg) | 더는 나를 증명하지 않기로 했다 : 보여주기식 인생을 뛰어넘는 태도 | 장서우 | 서울 : 청림, 2023 | 158.1 장54더 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31893/0/cover/8984078158_1.jpg) | 말을 잘한다는 것 : 일에서도 삶에서도 나의 가치를 높이는 말하기의 정석 | 정연주 | 서울 : 세종 : 세종서적, 2023 | 808.5 정64말 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31909/6/cover/k862833745_1.jpg) | (백 마디 말보다 강력한) 행동의 심리학 : 3초 만에 마음을 사로잡는 비밀의 언어 | 이상은 | 서울 : 천그루숲, 2023 | 302.222 이52행 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31976/76/cover/k312834367_1.jpg) | 예술이란 무엇인가 | Tolstoy, Lev Nikolayevich | 서울 : 바다, 2023 | 700.1 T654cK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31953/71/cover/k172833157_1.jpg) | 통증의 뇌과학 : 뇌과학으로 밝히는 통증의 비밀 | Ambron, Richard | 성남 : 상상스퀘어, 2023 | 616.0472 A495bK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31976/68/cover/8934950226_1.jpg) | (이진경 X 장병탁) 선을 넘는 인공지능 | 이진경 | 파주 : 김영사, 2023 | 006.3 이78선 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31937/35/cover/k482833055_1.jpg) | 한문이 말하지 못한 한국사 | 장지연 | 서울 : 푸른역사, 2023 | 951 장78한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31937/39/cover/k632833055_1.jpg) | 15세기 조선 사람과 만나다 : 미아보호소부터 코끼리 유배까지 | 신동훈 | 서울 : 푸른역사, 2023 | 951.5 신25십 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31980/92/cover/k522834463_1.jpg) | 이상하고 쓸모없고 행복한 열정 : 소설과 에세이 그 어디쯤 | 신나리 | [시흥] : 느린서재, 2023 | 811.87 신192이 | 중앙도서관 |
