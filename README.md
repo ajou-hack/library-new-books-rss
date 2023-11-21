@@ -2,9 +2,11 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32741/19/cover/8999729966_1.jpg) | DSM-5-TR 정신질환의 진단 및 통계 편람 | American Psychiatric Association | 서울 : 학지사, 2023 | 616.89 A512d5tK권 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31895/57/cover/k962833743_1.jpg) | 부를 부르는 투자의 지혜 : 투자 전문가가 밝히는 돈이 모이는 투자법 | Brown, Joshua M | 서울 : 이너북, 2023 | 332.6 B878hK지투 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/21673/99/cover/k972636697_1.jpg) | 빅데이터 시각화 : 하둡, R, D3.js, 태블로, 파이썬, 스플렁크로 배우는 빅데이터 시각화 | Miller, James D | 서울 : 에이콘, 2020 | 005.7 M648bK최 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (R, SAS, SPSS 함께하는) 범주형 자료의 시각화 : 대응분석 | 최용석 | 서울 : 경문사, 2023 | 519.5 최65범 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 담는 것/담기는 것 안에서의 성장과 격랑 : 비온의 유산 | Levine, Howard B | 서울 : 현대정신분석연구소, 2023 | 150.195092 B615LK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32405/5/cover/k302935984_1.jpg) | (R, SAS, SPSS 함께하는) 범주형 자료의 시각화 : 대응분석 | 최용석 | 서울 : 경문사, 2023 | 519.5 최65범 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32380/20/cover/8997465597_1.jpg) | 담는 것/담기는 것 안에서의 성장과 격랑 : 비온의 유산 | Levine, Howard B | 서울 : 현대정신분석연구소, 2023 | 150.195092 B615LK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32063/22/cover/8901273446_1.jpg) | 스몰 트라우마 : 삶의 면역을 기르는 자기 돌봄의 심리학 | Arroll, Megan A | 파주 : 갤리온 : 웅진씽크빅, 2023 | 158.1 A778tK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32000/9/cover/k502834668_1.jpg) | 해양실크로드 문명사 : 유럽 이전의 바닷길 | 주강현 | 서울 : 바다위의정원, 2023 | 909 주12해 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31976/11/cover/k322834365_1.jpg) | 지구의 절반을 넘어서 : 기후정치로 가는 길 | Vettese, Troy | 파주 : 이콘, 2023 | 304.2 V591hK정 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Civil society in the philippines : theoretical, methodological and policy debates | Clarke, Gerard | Abingdon, Oxon ; New York, NY : Routledge, Taylor & Francis Group, 2017 | 303.37209599 C598c | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The dangerous art of text mining : a methodology for digital history | Guldi, Jo | Cambridge, United Kingdom ; New York, NY, USA : Cambridge University Press, 2023. | 025.0420727 G971d | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32003/49/cover/8954693881_1.jpg) | 두려움은 소문일 뿐이다 : 최현숙 산문 | 최현숙 | 파주 : 문학동네, 2023 | 811.47 최94두 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32003/59/cover/k042834663_1.jpg) | 여왕이 사랑한 사람들 : 누가 빅토리아 시대를 만들었나 | Strachey, Lytton | 파주 : 글항아리, 2023 | 941.081092 V645sK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31981/58/cover/893497561x_1.jpg) | 김경일 교수의 심리학 수업 : 인간의 속마음을 들여다보는 일상의 과학 | 김경일 | 파주 : 김영사, 2023 | 150 김14김 | 중앙도서관 |
