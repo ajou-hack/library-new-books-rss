@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/29538/16/cover/k382837953_1.jpg) | 적정 소프트웨어 아키텍처 : 리스크 주도 접근법 | Fairbanks, George | 서울 : 한빛미디어, 2022 | 005.12 F164jK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32741/19/cover/8999729966_1.jpg) | DSM-5-TR 정신질환의 진단 및 통계 편람 | American Psychiatric Association | 서울 : 학지사, 2023 | 616.89 A512d5tK권 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31895/57/cover/k962833743_1.jpg) | 부를 부르는 투자의 지혜 : 투자 전문가가 밝히는 돈이 모이는 투자법 | Brown, Joshua M | 서울 : 이너북, 2023 | 332.6 B878hK지투 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/21673/99/cover/k972636697_1.jpg) | 빅데이터 시각화 : 하둡, R, D3.js, 태블로, 파이썬, 스플렁크로 배우는 빅데이터 시각화 | Miller, James D | 서울 : 에이콘, 2020 | 005.7 M648bK최 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | New developments in dementia prevention research : state of the art and future possibilities | Irving, Kate | Abingdon, Oxon ; New York, NY : Routledge, Taylor & Francis Group, 2020. | 616.83105 N532i | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Civil society in the philippines : theoretical, methodological and policy debates | Clarke, Gerard | Abingdon, Oxon ; New York, NY : Routledge, Taylor & Francis Group, 2017 | 303.37209599 C598c | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The dangerous art of text mining : a methodology for digital history | Guldi, Jo | Cambridge, United Kingdom ; New York, NY, USA : Cambridge University Press, 2023. | 025.0420727 G971d | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32003/49/cover/8954693881_1.jpg) | 두려움은 소문일 뿐이다 : 최현숙 산문 | 최현숙 | 파주 : 문학동네, 2023 | 811.47 최94두 | 중앙도서관 |
