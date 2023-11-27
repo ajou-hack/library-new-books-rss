@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/23997/93/cover/k602639210_1.jpg) | (만화로 보는) 유튜버를 위한 저작권 100문 100답 | 이영욱 | 과천 : 길찾기 : 이미지프레임, 2020 | 346.0482 이64유 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31953/84/cover/k182833258_1.jpg) | 이제는 알아야 할 저작권법 | 정지우 | [서울] : 마름모, 2023 | 346.0482 정78이 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/24244/88/cover/k752630266_1.jpg) | 소셜미디어 시대에 꼭! 알아야 할 저작권 :창작자가 될 것인가? 표절자가 될 것인가? | 김기태 | 서울 :동아엠앤비, 2020 | 346.0482 김18소 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32333/79/cover/k212935268_1.jpg) | 베테랑의 몸 : 일의 흔적까지 자신이 된 이들에 대하여 | 희정 | 서울 : 한겨레 : 한겨레엔, 2023 | 331.0951 희74베 | 중앙도서관 |
@@ -42,6 +43,7 @@
 | ![](https://image.aladin.co.kr/product/27847/32/cover/8937444828_1.jpg) | 불쉿 잡 : 왜 무의미한 일자리가 계속 유지되는가? | Graeber, David | 서울 : 민음사, 2021 | 306.361 G734bK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27471/85/cover/8958207264_1.jpg) | 청년 도배사 이야기 : 까마득한 벽 앞에서 버티며 성장한 시간들 | 배윤슬 | 파주 : 궁리, 2021 | 811.87 배66청 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29941/84/cover/k612838632_1.jpg) | 클라인학파 정신분석의 전개 | Meltzer, Donald | 남양주 : 눈출판그룹, 2020-2021 | 616.8917 M528kK홍 v.1~3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31083/97/cover/k212831735_1.jpg) | (현업 변리사가 알려주는) 지식재산권 스쿨 : 쉽게 배워 바로 쓰는 특허, 상표, 디자인, 저작권 전략 | 엄정한 | 서울 : 초록비책공방, 2023 | 346.048 엄74지 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Flawed logics : strategic nuclear arms control from Truman to Obama | Lebovic, James H | Baltimore : The Johns Hopkins University Press, 2013. | 327.1747 L449f | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Networks, new governance and education | Ball, Stephen J | Bristol : Policy, 2012. | 379.41 B187n | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Edu.net : globalisation and education policy mobility | Ball, Stephen J | London | 379 B187e | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Gaming the metrics : misconduct and manipulation in academic research | Biagioli, Mario | Cambridge, MA : MIT Press, 2020. | 070.5 B576g | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introduction to microfluidics | Tabeling, P | Oxford, UK | 629.8042 T113iEc2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Underground empire : how America weaponized the world economy | Farrell, Henry | New York : Henry Holt and Company, 2023. | 337.73 F245u | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The mutual construction of statistics and society | Saetnan, Ann Rudinow | New York : Routledge, 2012. | 519.5 S127m | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Perspectives on behavavioural interventions in palliative and end-of-life care | Allen, Rebecca S | London | 616.029 A428p | 중앙도서관 |
