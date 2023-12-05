@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/d5540fd9-c0d2-437f-84e4-5a30021764e6) | 잃어버린 시간을 찾아서 | Proust, Marcel | 서울 : 민음사, 2012-2022 | 843.912 P968rK김 v.1~10 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/22111/79/cover/k732636113_1.jpg) | 눈먼 자들의 도시 | Saramago, José | 서울 : 해냄, 2002(2007 23쇄) | 869.342 S243ecK정2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32882/11/cover/8967822006_1.jpg) | 학교 넘어 도망친 21살 대학생 : 울면서 떠난 세계여행, 2년의 방황 끝에 꿈을 찾다 | 홍시은 | 서울 : 푸른향기, 2023 | 811.87 홍58학 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32694/43/cover/k292936668_1.jpg) | 1일 1페이지 영어 어원 365 : 언어학자와 떠나는 매혹적인 어원 인문학 여행 | 김동섭 | 서울 : 현대지성, 2023 | 422 김25일 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32756/66/cover/893643943x_1.jpg) | 해피 엔드 : 이주란 소설 | 이주란 | 파주 : 창비, 2023 | 811.37 이76해 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/17048/25/cover/8950976609_1.jpg) | 진정성 리더십 : 머리와 가슴으로 사람을 이끄는 기술 | George, Bill | 파주 : 21세기북스 : 북이십일 21세기북스, 2018 | 658.4092 A939gK도 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32654/15/cover/k012936764_1.jpg) | 소프루 | Rodrigues, Tiago | 서울 : 알마, 2023 | 869.2 R696sK신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32822/26/cover/k962936806_1.jpg) | 빵야 : 김은성 희곡 | 김은성 | 서울 : 알마, 2023 | 811.27 김67빵 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31448/38/cover/8954448860_2.jpg) | 엄마를 절에 버리러 : 이서수 소설 | 이서수 | 파주 : 자음과모음, 2023 | 811.37 이54엄 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26010/10/cover/k482737422_1.jpg) | (데이터 과학 기반의) 파이썬 빅데이터 분석 | 이지영 | 서울 : 한빛아카데미, 2020 | 006.312 이78파 | 중앙도서관 |
