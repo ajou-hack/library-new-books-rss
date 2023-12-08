@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/4669/56/cover/8967351283_2.jpg) | (칭기즈칸의 위대한 장군,) 수부타이 | Gabriel, Richard A | 파주 : 글항아리, 2014(2022 8쇄) | 952.95092 S118gK박 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (로스코 파운드) 영미법의 정신 | Pound, Roscoe | 서울 : 지식과감성#, 2023 | 340.57 P876sK김 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30237/98/cover/8977758629_1.jpg) | 자연법 연구 : 도덕의 원류를 찾아서 | 진교훈 | 파주 : 철학과현실사, 2022 | 340.1 진15자 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/27712/55/cover/k592733548_1.jpg) | 조선시대 제사승계의 법제와 현실 | 정긍식 | 성남 : 한국학중앙연구원출판부, 2021 | 345 정17조 | 법학도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32875/45/cover/8962625814_1.jpg) | 타인의 고통에 응답하는 공부 | 김승섭 | 서울 : 동아시아, 2023 | 303.6 김57타 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32875/68/cover/k682936112_1.jpg) | 황금종이 : 조정래 장편소설 | 조정래 | 서울 : 해냄, 2023 | 811.37 조74황 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30727/3/cover/k592830441_1.jpg) | 줬으면 그만이지 : 아름다운 부자 김장하 취재기 | 김주완 | 창원 : 피플파워, 2023 | 920.051 김72김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32450/93/cover/k912935391_1.jpg) | 챗GPT 영어 질문법 | 일간 소울영어 | 서울 : 로그인 : 이퍼블릭, 2023 | 428.24 일12챗 | 중앙도서관 |
