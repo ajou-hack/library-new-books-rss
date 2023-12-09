@@ -2,6 +2,23 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32071/11/cover/k112834995_1.jpg) | 악몽과 망상 : 어느 인턴의 정신병동 이야기 | 목과 | 서울 : 호루스의눈, 2023 | 812.37 목15풍K박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32089/65/cover/k142834190_1.jpg) | 한 번도 경험해 보지 못한 새로운 북한이 온다 : 미국에 미련을 버린 북한과 공포의 균형에 대하여 | 정욱식 | 파주 : 서해문집, 2023 | 320.951 정66한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32085/18/cover/k162834092_1.jpg) | 우리가 살 수 없는 미래 : 황폐한 풍요의 시대, 돈으로 살 수 없는 삶의 방식을 모색하다 | Harris, Michael | 서울 : 어크로스 : 어크로스출판그룹, 2023 | 363.7 H315aK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31910/92/cover/8901273160_1.jpg) | 누구도 나를 파괴할 수 없다 : 인생이라는 극한의 전쟁에서 끝내 승리하는 법 | Goggins, David | 파주 : 웅진지식하우스 : 웅진씽크빅, 2023 | 359.0092 G613cK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31862/8/cover/k552833420_1.jpg) | 스타니슬랍스키 시스템(Stanislavsky's system)의 지형학 연구 : 시스템에서 메소드로의 진화를 중심으로 | 배민희 | 서울 : 솔과학, 2023 | 792.028 S786배 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31953/79/cover/k782833157_1.jpg) | 탄소시장 인베스트 : 탄소배출권 이론, 가격결정과 파생상품 투자 전략 | 김태선 | 서울 : 두드림미디어, 2023 | 332.6322 김883탄 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31962/24/cover/k102833356_1.jpg) | (내 아이를 위한) 마법의 돈 굴리기 : 매월 30만 원으로 우리 아이 종잣돈 5억 만들기 | 김성일 | 서울 : 길벗, 2023 | 332.6322 김54마매 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31977/25/cover/k962834468_1.jpg) | (당신이 몰랐으면 하는 K-게임) 사행성의 비밀 | 고라 | 수원 : 스타비즈, 2023 | 794.8 고292사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31920/18/cover/k662833544_1.jpg) | 골목지리학의 탄생 : 자치·협력·혁신이 살아 숨 쉬는 공간, 골목을 읽는다! | 최정묵 | 고양 : 푸른나무, 2023 | 307.76 최74골 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31960/9/cover/k782833352_1.jpg) | 민중을 위한 그린 뉴딜 : 제3세계 생태사회주의론 | Ajl, Max | 성남 : th2 : 두번째테제, 2023 | 363.700973 A312pK추 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31924/97/cover/k882833850_1.jpg) | 오만한 서구와 혼혈 얼굴 : 미용성형을 중심으로 살펴본 중국 여성의 미 인식 변화 | 태희원 | 파주 : 서해문집, 2023 | 617.952 태97오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31913/15/cover/8950930129_1.jpg) | 신 앞에 선 인간 : 중세의 위대한 유산, 철학과 종교의 첫 만남 | 박승찬 | 파주 : 21세기북스 : 북이십일 21세기북스, 2023 | 189 박57신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31925/16/cover/k392833851_1.jpg) | 회사가 무서워요 | 이순남 | [안산] : 가나북스, 2023 | 811.87 이56회 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31972/6/cover/k822834267_1.jpg) | 피우리 미용실 : 박성경 장편소설 | 박성경 | 서울 : 폭스코너, 2023 | 811.37 박54피 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31953/76/cover/k572833157_1.jpg) | 푸른 살 : 이태제 장편소설 | 이태제 | 파주 : 북다 : 교보문고, 2023 | 811.37 이883푸 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31962/70/cover/k952833357_1.jpg) | 엘리아스 | Deledda, Grazia | 세종 : 마르코폴로, 2023 | 853.912 D346eK나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31933/35/cover/k262833050_1.jpg) | 부역자 : 전쟁, 기만, 생존 | Buruma, Ian | 파주 : 글항아리, 2023 | 940.53092 B974cK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/4669/56/cover/8967351283_2.jpg) | (칭기즈칸의 위대한 장군,) 수부타이 | Gabriel, Richard A | 파주 : 글항아리, 2014(2022 8쇄) | 952.95092 S118gK박 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (로스코 파운드) 영미법의 정신 | Pound, Roscoe | 서울 : 지식과감성#, 2023 | 340.57 P876sK김 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30237/98/cover/8977758629_1.jpg) | 자연법 연구 : 도덕의 원류를 찾아서 | 진교훈 | 파주 : 철학과현실사, 2022 | 340.1 진15자 | 법학도서관 |
@@ -35,20 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32764/39/cover/8954696228_1.jpg) | 야만적인 앨리스씨 : 황정은 장편소설 | 황정은 | 파주 : 문학동네, 2023 | 811.37 황74야2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32135/89/cover/k612834306_1.jpg) | (난생처음) 데이터 분석 with 파이썬 | 김규석 | 서울 : 한빛아카데미, 2023 | 005.133 김16데 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27434/96/cover/k092733374_1.jpg) | (만화로 보는) 3분철학 | 김재훈 | 서울 : 카시오페아, 2021-2022 | 102 김73삼 v.1~3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32058/10/cover/8954694179_1.jpg) | 있을 법한 모든 것 : 구병모 소설 | 구병모 | 파주 : 문학동네, 2023 | 811.37 구44있 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32509/82/cover/k682935829_1.jpg) | (외우지 않고 통째로 이해하는) 통 한국사 | 김상훈 | 파주 : 다산초당 : 다산북스, 2023 | 951 김52통3 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32378/36/cover/k302935671_1.jpg) | 의산문답·계방일기 : 인간과 만물 간의 경계를 넘어 우주의 눈으로 세상을 바라보다 | 홍대용 | 파주 : arte : 북이십일 아르테, 2023 | 181.15 홍23의 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32286/44/cover/8937464225_1.jpg) | 코뿔소 | Ionesco, Eugène | 서울 : 민음사, 2023 | 842.914 I64rK박민 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31959/43/cover/8961877844_1.jpg) | 재정·금융정책 : 대한제국기 일제의 재정 및 금융 침탈 | 동북아역사재단 | 서울 : 동북아역사재단, 2022 | 951.6 동46재 v.1 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/91/67/cover/8949904551_1.jpg) | 식민지 조선의 사회 경제와 금융조합 | 최재성 | 서울 : 경인문화사, 2006 | 951.6 최73식 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Psychoanalytic thinking : a dialectical critique of contemporary theory and practice | Carveth, Donald L | Routledge2018 | 150.195 C331p | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27370/87/cover/k832732347_1.jpg) | (PEERS®) 성인을 위한 사회기술훈련 | Laugeson, Elizabeth A | 서울 : 시그마프레스, 2021 | 616.85882 L374pK유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32798/40/cover/8954696201_1.jpg) | 맛있는 밥을 먹을 수 있기를 : 다카세 준코 장편소설 | 고뢰준자 | 파주 : 문학동네, 2023 | 813.37 고295맛K허 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29820/74/cover/8961877348_1.jpg) | 일제강점기 화폐제도와 금융 | 조명근 | 서울 : 동북아역사재단, 2022 | 951.6 조34일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34/72/cover/8984941565_1.gif) | 일제하 금융조합 연구 | 이경란 | 서울 : 혜안, 2002 | 334.2 이14일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32848/97/cover/8954696457_1.jpg) | 밤은 내가 가질게 : 안보윤 소설 | 안보윤 | 파주 : 문학동네, 2023 | 811.37 안45밤문 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32862/38/cover/8936439448_1.jpg) | 계절은 짧고 기억은 영영 : 이주혜 장편소설 | 이주혜 | 파주 : 창비, 2023 | 811.37 이76계 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31785/45/cover/895444900x_1.jpg) | 누의 자리 : 이주혜 소설 | 이주혜 | 파주 : 자음과모음, 2023 | 811.37 이76누 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32875/45/cover/8962625814_1.jpg) | 타인의 고통에 응답하는 공부 | 김승섭 | 서울 : 동아시아, 2023 | 303.6 김57타 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32875/68/cover/k682936112_1.jpg) | 황금종이 : 조정래 장편소설 | 조정래 | 서울 : 해냄, 2023 | 811.37 조74황 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30727/3/cover/k592830441_1.jpg) | 줬으면 그만이지 : 아름다운 부자 김장하 취재기 | 김주완 | 창원 : 피플파워, 2023 | 920.051 김72김 | 중앙도서관 |
