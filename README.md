@@ -2,6 +2,14 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32727/85/cover/k182936970_1.jpg) | 길에서 만난 눈송이처럼 : 박노식 시집 | 박노식 | 광주 : 문학들, 2023 | 811.17 박195길 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3973/18/cover/8994750134_1.jpg) | 대학 시험의 기술 | Levin, Peter | 파주 : 소동, 2014 | 371.30281 L665sK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32694/64/cover/k552936668_1.jpg) | 대한민국 교육트렌드 2024 : 한국 교육을 움직이는 20가지 키워드 | 교육트렌드2024 집필팀 | 서울 : 에듀니티, 2023 | 370.951 교66대 2024 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30879/16/cover/8962518511_1.jpg) | (키즈쌤 유치원 교육과정) 유아특수 메타 유아교육개론 | 임경아 | 대구 : G스쿨 : G북스, 2023 | 372.21 임14유 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Classic Spanish stories and plays : the great works of Spanish literature for intermediate students | Andrade, Marcel Charles | Chicago : McGraw-Hill, 2001. | 468.6421 A553c | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32819/68/cover/890127681x_2.jpg) | 겨울의 언어 : 김겨울 산문집 | 김겨울 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2023 | 811.47 김14겨 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook of critical approaches to politics and policy of education | Saltman, Kenneth J | New York, NY : Routledge, 2022. | 379 S178h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fake history : 101 things that never happened | Teeuwisse, Jo | London : WH Allen, 2023. | 909 T258f | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32071/11/cover/k112834995_1.jpg) | 악몽과 망상 : 어느 인턴의 정신병동 이야기 | 목과 | 서울 : 호루스의눈, 2023 | 812.37 목15풍K박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32089/65/cover/k142834190_1.jpg) | 한 번도 경험해 보지 못한 새로운 북한이 온다 : 미국에 미련을 버린 북한과 공포의 균형에 대하여 | 정욱식 | 파주 : 서해문집, 2023 | 320.951 정66한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32085/18/cover/k162834092_1.jpg) | 우리가 살 수 없는 미래 : 황폐한 풍요의 시대, 돈으로 살 수 없는 삶의 방식을 모색하다 | Harris, Michael | 서울 : 어크로스 : 어크로스출판그룹, 2023 | 363.7 H315aK김 | 중앙도서관 |
@@ -44,11 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32373/79/cover/s982936593_1.jpg) | 비극의 탄생 : 시민을 위한 예술을 말하다 | Nietzsche, Friedrich Wilhelm | 고양 : 평사리, 2023 | 193 N677gK이시 v.1~4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31754/7/cover/8937420627_1.jpg) | 천사들의 도시 : 조해진 소설 | 조해진 | 서울 : 민음사, 2023 | 811.37 조93천2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32861/45/cover/k292936015_1.jpg) | 겨울을 지나가다 : 조해진 소설 | 조해진 | 파주 : 작가정신, 2023 | 811.37 조93겨 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32820/39/cover/k822936801_1.jpg) | 도쿄 트렌드 인사이트 : 일본에서 찾은 소비 비즈니스 트렌드 5 | 정희선 | 서울 : 원앤원북스, 2023 | 658.8342 정97도 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32543/90/cover/k332935134_1.jpg) | (파이토치 트랜스포머를 활용한) 자연어 처리와 컴퓨터비전 심층학습 : 실전 프로젝트와 최신 알고리즘을 통한 딥러닝 모델 개발 | 윤대희 | 파주 : 위키북스, 2023 | 006.35 자64윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32932/98/cover/k222936941_1.jpg) | 존재양식의 탐구 : 근대인의 인류학 | Latour, Bruno | 고양 : 사월의책, 2023 | 128 L359eK황 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23406/50/cover/k162637317_1.jpg) | 조금 괴로운 당신에게 식물을 추천합니다 | 임이랑 | 서울 : 바다, 2020 | 811.87 임68조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32952/1/cover/8954698700_1.jpg) | 저는 내년에도 사랑스러울 예정입니다 : 변윤제 시집 | 변윤제 | 파주 : 문학동네, 2023 | 811.17 변66저 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32764/39/cover/8954696228_1.jpg) | 야만적인 앨리스씨 : 황정은 장편소설 | 황정은 | 파주 : 문학동네, 2023 | 811.37 황74야2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32135/89/cover/k612834306_1.jpg) | (난생처음) 데이터 분석 with 파이썬 | 김규석 | 서울 : 한빛아카데미, 2023 | 005.133 김16데 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27434/96/cover/k092733374_1.jpg) | (만화로 보는) 3분철학 | 김재훈 | 서울 : 카시오페아, 2021-2022 | 102 김73삼 v.1~3 | 중앙도서관 |
