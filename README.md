@@ -2,6 +2,21 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인스타그램 릴스 마케팅 : 단기간에 팔로워를 늘릴수 있는 숏폼 제작 노하우 | 허지영 | 서울 : 비제이퍼블릭, 2023 | 658.872 허78인 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27942/23/cover/893746392x_1.jpg) | 서머싯 몸 단편선 | Maugham, W. Somerset | 서울 : 민음사, 2021 | 823.912 M449csK황 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Oxford handbook of information structure | Féry, Caroline | Oxford, United Kingdom : Oxford University Press, 2019. | 401.43 F412o | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Das Ehepaar : und andere Schriften aus dem Nachlass : in der Fassung der handschrift | Kafka, Franz | Frankfurt am Main : Fischer Taschenbuch Verlag, 2008. | 830.912 K11eu | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Beim Bau der chinesischen Mauer : und andere Schriften aus dem Nachlass : in der Fassung der handschrift | Kafka, Franz | Frankfurt am Main : Fischer Taschenbuch Verlag, 2008. | 830.912 K11bu | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Beschreibung eines Kampfes : und andere Schriften aus dem Nachlass :in der Fassung der Handschrift | Kafka, Franz | Frankfurt am Main : Fischer Taschenbuch Verlag, 2008. | 830.912 K11b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Ein Landarzt : und andere Drucke zu lebzeiten | Kafka, Franz | Frankfurt am Main : Fischer Taschenbuch Verlag, 2015. | 830.912 K11e2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The positive power of negative thinking : using defensive pessimism to manage anxiety and perform at your peak | Norem, Julie K | Cambridge : Basic Books, 2001. | 158.1 N834p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Die Jesuiten : von Ignatius von Loyola bis zur Gegenwart | Friedrich, Markus | Munchen : C.H. Beck, 2021. | 271.53 F911j | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Understanding International Sport Organisations : Principles, Power and Possibilities | Allison, Lincoln | London | 796.069 A438u | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Pricing the priceless : a history of environmental economics | Banzhaf, H. Spencer | Cambridge, UK : Cambridge University Press, 2024. | 338.927 B219p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 금속손상진단 | 이진희 | 서울 : 명진, 2016 | 620.112 이78금 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Radically human : how new technology is transforming business and shaping our future | Daugherty, Paul R | Boston, MA : Harvard business review press, 2022. | 006.3 D238r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Good power : leading positive change in our lives, work, and world | Rometty, Ginni | Boston, Massachusetts : Harvard Business Review Press, 2023. | 658.4092 R763g | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26/50/cover/6000022504_1.gif) | 미디어 방정식 | Reeves, Byron | 서울 : 커뮤니케이션북스, 2001(2006 3쇄) | 302.23 R332mK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32530/27/cover/k562935021_2.jpg) | 진동 측정 및 분석의 이론과 실습 | 김재은 | 서울 : 홍릉, 2023 | 620.3 김73진 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32458/82/cover/893501978x_1.jpg) | 하늘 연리지 : 연변과기대의 사랑 이야기 | 백부장 | 서울 : 요단, 2023 | 248.4 백46하 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32938/68/cover/k472936042_1.jpg) | 이처럼 사소한 것들 : 클레어 키건 소설 | Keegan, Claire | 파주 : 다산책방 : 다산북스, 2023 | 823.914 K26sK홍 | 중앙도서관 |
@@ -11,7 +26,6 @@
 | ![](https://image.aladin.co.kr/product/32896/27/cover/k742936526_1.jpg) | 육아 내공 100 : 지랄발랄 하은맘의 20년 책육아x성공의 법칙 | 김선미 | 서울 : 온포인트, 2023 | 649.1 김54육 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/11872/35/cover/8993818886_1.jpg) | 젊은 예술가에게 | Kremer, Gidon | 서울 : 포노, 2017 | 787.2092 K92bK홍 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32782/20/cover/k152936488_1.jpg) | 말의 진심 : 언어의 마음을 알려주는 40가지 심리학 | 최정우 | 서울 : 밀리언서재, 2023 | 153.6 최74말 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27942/23/cover/893746392x_1.jpg) | 서머싯 몸 단편선 | Maugham, W. Somerset | 서울 : 민음사, 2021 | 823.912 M449csK황 v.1 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29603/62/cover/k722838466_3.jpg) | 통찰지능 : 보이지 않는 것을 보는 힘 | 최연호 | 파주 : 글항아리, 2022 | 153.44 최64통 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31688/80/cover/8960519863_2.jpg) | (밥 프록터) 부의 시크릿 | Proctor, Bob | 서울 : 부키, 2023 | 650.1 P964tK최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32920/49/cover/k662936837_1.jpg) | 번역 : 황석희 : 황석희 에세이 | 황석희 | 파주 : 달, 2023 | 811.87 황54번 | 중앙도서관 |
@@ -38,17 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31955/84/cover/k132833256_1.jpg) | (Getting start) Java : 자바의 기초부터 활용까지 알차게 담았다! | 김영아 | 서울 : 구민사, 2023 | 005.133 김64j2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31773/12/cover/k332833203_1.jpg) | 자연어처리 바이블 : ChatGPT 핵심기술 | 임희석 | 서울 : 휴먼싸이언스, 2023 | 006.35 임97자챗 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31959/53/cover/8962388073_1.jpg) | AI 자료분석 | 유동우 | 서울 : 해남, 2023 | 006.312 유25a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31939/43/cover/k112833152_1.jpg) | 돈 공부는 처음이라 : 0원부터 시작하는 난생처음 부자 수업 | 김종봉 | 파주 : 다산북스, 2023 | 332.024 김75돈2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31921/46/cover/8971806168_1.jpg) | (핵심만 뽑아 읽는) 경세제민학 : 세상을 다스리고 백성을 구하는 학문 | George, Henry | 대구 : 경북대학교출판부, 2023 | 330.1 G348sK김세 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31959/71/cover/k712833350_1.jpg) | 아메리칸 비즈니스 : 미국 기업은 어떻게 성장했는가 | McCraw, Thomas K | 서울 : 잇담북스, 2023 | 338.0973 M132aK양 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31830/20/cover/8959729663_1.jpg) | AI와 경영정보 | 이건창 | 서울 : 청람, 2023 | 658.4038 이14a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31879/18/cover/8946074477_1.jpg) | 중일표류 : 글로벌 파워의 향방 | 모리화자 | 파주 : 한울아카데미 : 한울엠플러스, 2023 | 327.52053 모298일K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31770/40/cover/8972733865_1.jpg) | 당치(黨治)국가 중국 : 시진핑 시대 통치구조와 정치의 변화 | 장윤미 | 서울 : 서강대학교출판부, 2023 | 320.952 장66당 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31915/67/cover/8963240681_1.jpg) | 미중 패권경쟁 시기 동북아 해양전략 | 임경한 | 성남 : 북코리아, 2023 | 359 미76임 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31909/3/cover/k632833745_1.jpg) | 커뮤니케이션 핵심 이론 : 알기 쉬운 커뮤케이션 길라잡이 | 오미영 | 서울 : 커뮤니케이션북스, 2023 | 302.2 오38커2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 내가 만난 루만 | 한국사회체계이론학회 | 파주 : 한울아카데미 : 한울엠플러스, 2021 | 301.01 한16내 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31930/19/cover/k032833953_1.jpg) | 재미한인 1세와 2세의 삶과 인종갈등 : 상업소수민족에서 주류소수민족으로의 변화 | 이정덕 | 고양 : 學古房, 2023 | 325.2510973 이74재 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31894/47/cover/k732833741_1.jpg) | 평양에서 재판하는 날 | 권은민 | 서울 : 박영사, 2023 | 306.09518 권67평 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31934/36/cover/k632833051_1.jpg) | 새로운 세계에서의 문화연구 : 로런스 그로스버그 선집 | Grossberg, Lawrence | 서울 : 컬처룩, 2023 | 306 G878cK조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31914/96/cover/k542833847_1.jpg) | 디지털 사회의 기본가치 | 김상배 | 서울 : 사회평론아카데미, 2023 | 303.483 디78김사 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31941/29/cover/8963241181_1.jpg) | 대학교육 혁신의 길 : 메가트렌드를 이끌어 갈 대학교육의 새로운 패러다임 | 손동현 | 성남 : 북코리아, 2023 | 378.1 손25대 | 중앙도서관 |
