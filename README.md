@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/17579/93/cover/k572534605_1.jpg) | 전문가를 위한 한국형 심리부검 | 서종한 | 서울 : 박영story : 피와이메이트, 2018 | 616.85844 서75전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28186/86/cover/k072835879_1.jpg) | ASEAN 주재원이 바라본 진짜 ASEAN : 우리가 모르던 동남아시아 | 박성민 | 서울 : 박영story : 피와이메이트, 2021 | 330.95 A816박 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (수원시 글로벌 평생학습관) 운영백서 : 2020. 9~2023. 12 | 수원시글로벌평생학습관 | [수원] : [수원시글로벌평생학습관], [2023] | 374.957 수66운 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 배움과 삶에 얽힌 이야기 | 수원시글로벌평생학습관 | 수원 : 수원시글로벌평생학습관, 2023 | 374.002 수66배 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32087/19/cover/k542834097_1.jpg) | 페미니스트, 퀴어, 불구 : 불구의 미래를 향한 새로운 정치학과 상상력 | Kafer, Alison | 파주 : 오월의봄, 2023 | 362.401 K11fK이 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32896/98/cover/k002936620_1.jpg) | (스무살부터 배우는) 절세법 : 사회 초년기부터 은퇴 후 생활까지 모르면 손해 보는 절세비법 | 택스코디 | 서울 : 다온북스, 2023 | 336.2 택57절 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32988/86/cover/k672936658_1.jpg) | 레전드 프랑스어 첫걸음 | 박혜진 | 서울 : 랭귀지북스, 2023 | 448 박94레2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30092/31/cover/k672839677_1.jpg) | 한 권으로 끝내는 스마트폰 사진강의 : 구도와 사진촬영, 보정법 : portrait food lanscape reflection nightscape product | 채수창 | 파주 : 앤써북, 2022 | 771.33 채56한2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/10602/44/cover/8958812605_1.jpg) | 균류학 | Watkinson, Sarah C | 서울 : 월드사이언스, 2017 | 579.5 C282f3K신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7808/18/cover/8975857352_1.jpg) | (도해로 이해하는) 해상보험 | 조현정 | 대구 : 계명대학교 출판부, 2016 | 368.22 조94해 | 중앙도서관 |
