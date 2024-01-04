@@ -2,6 +2,21 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/15731/65/cover/8966550983_1.jpg) | 아무도 없는 곳에 : 김경숙 소설집 | 김경숙 | 서울 : 삶창, 2018 | 811.37 김14아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/14001/83/cover/k292532839_1.jpg) | 데이터 중심 애플리케이션 설계 : 신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 시스템을 지탱하는 핵심 아이디어 | Kleppmann, Martin | 파주 : 위키북스, 2018(2023 5쇄) | 005.7 K64dK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28557/69/cover/k412835141_1.jpg) | 메리 크리스하우스 : 김효인 장편소설 | 김효인 | 서울 : 안전가옥, 2021 | 811.37 김95메 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25870/73/cover/8992337396_1.jpg) | 인도네시아 한인 100년사 : 오랑 꼬레아의 100년(1920~2020) : 한인과 한인기업 성공 진출사 | 인도네시아 한인 100년사 편찬위원회 | [인천] : 순정아이북스, 2020 | 325.2510598 인25인 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/473/25/cover/8976827309_1.jpg) | 과학과 사회운동 사이에서 : 68에서 게놈프로젝트까지 | Beckwith, Jonathan R | 서울 : 그린비, 2009 | 576.5092 B397mK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27694/46/cover/8968443319_2.jpg) | (시스템적) 산업안전관리론 | 기도형 | 서울 : 한경사, 2021 | 620.86 기25산2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/665/44/cover/k032636776_1.jpg) | 산업안전공학 : 교과 과정에 따른 이론과 실제 | 임준식 | 서울 : 일진사, 2010(2023 4쇄) | 620.86 임76산2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31644/75/cover/8931534744_1.jpg) | (중대재해처벌법, PSM에 기반한) 위험성평가 및 분석기법 | 송지태 | 서울 : BM 성안당, 2023 | 620.86 송78위4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33002/37/cover/897017544x_1.jpg) | 산업안전관리론 : 이론과 실제 | 정진우 | 서울 : 중앙경제, 2023 | 620.86 정78산5 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29990/21/cover/k822838057_1.jpg) | 마음의 발달 : 관계, 뇌, 마음의 통합을 위한 인간관계 신경생물학 | Siegel, Daniel J | 서울 : 하나醫學社, 2022 | 155 S571dK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33025/26/cover/k092937178_1.jpg) | 양심은 힘이 없다는 착각 : 양심을 키우는 법은 어떻게 좋은 사회를 만드는가 | Stout, Lynn A | 서울 : 원더박스, 2023 | 171.6 S889cK왕 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30585/90/cover/k032830810_1.jpg) | 국제 이주 입문 | Koser, Khalid | 고양 : 평사리, 2022 | 304.8 K86i2K윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2921/68/cover/896071321x_1.jpg) | (동아시아 현대사 속의) 한국화교 : 냉전체제와 조국 의식 | 왕은미 | 서울 : 학고방, 2013 | 325.2520951 왕67동K송 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29837/60/cover/k622838820_1.jpg) | 케이팝은 흑인음악이다 : 현진영에서 BTS까지, 그리고 그 너머 | Anderson, Crystal S | 서울 : 눌민, 2022 | 781.630951 A545sK심 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32892/38/cover/8901276534_2.jpg) | 나는 메트로폴리탄 미술관의 경비원입니다 : 가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 | Bringley, Patrick | 파주 : 웅진지식하우스 : 웅진씽크빅, 2023 | 708.1471 B858aK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32882/62/cover/8998116065_1.jpg) | 굿사마리안레시피 | 김혜진 | [서울] : 포스트페이퍼, 2023 | 641.5 김94굿 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32951/52/cover/k552936141_1.jpg) | 애도의 기술 : 과거에서 헤어 나오지 못하는 사람들을 위한 심리학 | 박우란 | 서울 : 유노라이프 : 유노콘텐츠그룹, 2023 | 155.937 박66애 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33036/74/cover/k652937583_1.jpg) | 불멸의 지혜 : 현대 자기계발 도서의 시작. 이 책 부터 읽으십시오 | Wattles, W. D | 파주 : 스노우폭스북스, 2023 | 650.1 W347K서 | 중앙도서관 |
@@ -37,18 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 殺戮の狂詩曲 | 중산칠리 | 東京 : 講談社, 2023 | 813.37 중52살 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32361/59/cover/k592935565_2.jpg) | 마흔에 읽는 쇼펜하우어 : 마음의 위기를 다스리는 철학 수업 | 강용수 | 서울 : 유노북스 : 유노콘텐츠그룹, 2023 | 193 강65마 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32444/93/cover/k972935291_1.jpg) | 생각이 너무 많은 어른들을 위한 심리학 : 후회 없는 삶을 살고 싶은 당신에게 해 주고 싶은 말들 | 김혜남 | 서울 : 메이븐, 2023 | 158.1 김94어2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32462/56/cover/k942935205_3.jpg) | 시대예보 : 핵개인의 시대 | 송길영 | 파주 : 교보문고, 2023 | 303.49 송18시 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32449/81/cover/k542935398_1.jpg) | 머니 트렌드 2024 : 57가지 키워드로 전망하는 대한민국 돈의 흐름 | 정태익 | [대구] : 북모먼트, 2023 | 332.024 머198정 2024 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32591/29/cover/k352935549_2.jpg) | 파견자들 : 김초엽 장편소설 | 김초엽 | 서울 : 퍼블리온, 2023 | 811.37 김84파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32293/72/cover/896564285x_1.jpg) | 세계 끝의 버섯 : 자본주의의 폐허에서 삶의 가능성에 대하여 | Tsing, Anna Lowenhaupt | 서울 : 현실문화연구, 2023 | 330.1 T882mK노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27604/17/cover/8966263151_1.jpg) | (가상 면접 사례로 배우는) 대규모 시스템 설계 기초 | Xu, Alex | 서울 : 인사이트, 2021-2024 | 004.21 X8sK이 v.1~2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/25eb5d73-f203-40fa-b615-688b63ec52ef) | 무기가 되는 스토리 :브랜드 전쟁에서 살아남는 7가지 문장 공식 | Miller, Donald | 파주 :윌북,2018 | 658.827 M647bK이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 新注釈民法. 11-2, 債権(4): §§533-548の4 | 도변달덕 | 東京 : 有斐閣, 2023 | 346 유48신 v.11-2 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 新注釈民法. 19, 相続(1): §§882-959 | 조견가남 | 東京 : 有斐閣, 2023 | 346 유48신 v.19 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/17579/93/cover/k572534605_1.jpg) | 전문가를 위한 한국형 심리부검 | 서종한 | 서울 : 박영story : 피와이메이트, 2018 | 616.85844 서75전 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28186/86/cover/k072835879_1.jpg) | ASEAN 주재원이 바라본 진짜 ASEAN : 우리가 모르던 동남아시아 | 박성민 | 서울 : 박영story : 피와이메이트, 2021 | 330.95 A816박 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (수원시 글로벌 평생학습관) 운영백서 : 2020. 9~2023. 12 | 수원시글로벌평생학습관 | [수원] : [수원시글로벌평생학습관], [2023] | 374.957 수66운 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 배움과 삶에 얽힌 이야기 | 수원시글로벌평생학습관 | 수원 : 수원시글로벌평생학습관, 2023 | 374.002 수66배 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32087/19/cover/k542834097_1.jpg) | 페미니스트, 퀴어, 불구 : 불구의 미래를 향한 새로운 정치학과 상상력 | Kafer, Alison | 파주 : 오월의봄, 2023 | 362.401 K11fK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32378/89/cover/k812935673_2.jpg) | 페이지보이 | Page, Elliot | 서울 : 반비, 2023 | 791.43028092 P132pK송 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28642/85/cover/k222835653_1.jpg) | 반란의 매춘부 : 성노동자 권리를 위한 투쟁 | Smith, Molly | 파주 : 오월의봄, 2022 | 306.74 S655rK이 | 중앙도서관 |
