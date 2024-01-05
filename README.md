@@ -2,6 +2,20 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/21779/89/cover/k662636208_1.jpg) | 쿠버네티스를 활용한 클라우드 네이티브 데브옵스 | Arundel, John | 서울 : 한빛미디어, 2019 | 005.4 A793cK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31611/94/cover/k762833773_1.jpg) | 처음부터 제대로 배우는 스프링 부트 : 자바와 코틀린으로 만나는 클라우드 네이티브 애플리케이션 구축 | Heckler, Mark | 서울 : 한빛미디어, 2023 | 005.133 H449sK오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18961/81/cover/k662635582_1.jpg) | 자바 최적화 : 가장 빠른 성능을 구현하는 검증된 10가지 기법 | Evans, Benjamin J | 서울 : 한빛미디어, 2019 | 005.133 E92oK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32628/40/cover/k302935456_1.jpg) | 모던 리눅스 교과서 : 백엔드, 클라우드, 데브옵스를 위한 기본 명령어, 커널 등 최신 리눅스 필수 지식 | Hausenblas, Michael | 안양 : 책만, 2023 | 005.432 H376lK송 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31798/77/cover/k502833318_1.jpg) | 마이크로서비스 아키텍처 구축 | Newman, Sam | 서울 : 한빛미디어, 2023 | 005.1 N555b2K정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32020/54/cover/k462834675_1.jpg) | 블로그 챌린저 : 블로그 수익화부터 AI 자동 글쓰기까지 | 임희빈 | 파주 : OHK, 2023 | 658.872 임97블 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33074/92/cover/897696585x_1.jpg) | 시민교육은 무엇을 가르쳐야 하는가 : 정의와 조화를 위한 교육과정 | Barton, Keith C | 고양 : 역사비평사, 2023 | 372.83 B293cK옹 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30701/23/cover/8999728013_1.jpg) | ADHD 소녀들 이해하기 : ADHD 소녀들은 어떤 방식으로 감정을 느끼고 어떤 방식으로 행동하는가 | Nadeau, Kathleen G | 서울 : 학지사, 2023 | 618.928589 N134u2K박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33065/25/cover/8934965126_1.jpg) | (곽금주 교수의) 콤플렉스 심리학 | 곽금주 | 파주 : 김영사, 2023 | 152.4 곽17콤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32935/15/cover/k202936946_1.jpg) | 크리스마스는 왜? : 마크 포사이스의 특별한 크리스마스 백과사전 | Forsyth, Mark | 서울 : 비아북, 2023 | 394.2663 F735cK오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11310/88/cover/8994814213_1.jpg) | 디자인 인간 공학 101 | 나건 | 서울 : 컬쳐코드, 2017 | 620.82 나14디 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32959/42/cover/k122936645_2.jpg) | 가짜 사랑 권하는 사회 : 진짜 사랑을 잊은 한국 사회, 더 나은 미래로 어떻게 나아갈 것인가? | 김태형 | 고양 : 갈매나무, 2023 | 302.0951 김883가 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27036/33/cover/k392730455_1.jpg) | (시간여행TV의) 주식투자 전략 : 증권사 실전투자대회 우승자가 쓴 최고의 주식투자 입문서 | 시간여행TV | 용인 : 시간여행티비, 2020 | 332.6322 시12주 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32338/29/cover/k112935266_1.jpg) | 예고된 변화 챗GPT 학교 : 생성형 인공지능이 바꾸기 시작한 학교와 수업, 그리고 미래역량과 인재상 | 송은정 | 서울 : 테크빌교육, 2023 | 371.334 송67예 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/15731/65/cover/8966550983_1.jpg) | 아무도 없는 곳에 : 김경숙 소설집 | 김경숙 | 서울 : 삶창, 2018 | 811.37 김14아 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/14001/83/cover/k292532839_1.jpg) | 데이터 중심 애플리케이션 설계 : 신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 시스템을 지탱하는 핵심 아이디어 | Kleppmann, Martin | 파주 : 위키북스, 2018(2023 5쇄) | 005.7 K64dK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28557/69/cover/k412835141_1.jpg) | 메리 크리스하우스 : 김효인 장편소설 | 김효인 | 서울 : 안전가옥, 2021 | 811.37 김95메 | 중앙도서관 |
@@ -38,17 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32517/83/cover/k752935926_1.jpg) | 트라우마와 정신분석적 '접근' : 핵심 이론과 일곱 가지 사례 | 송목방유 | 서울 : 한국코칭수퍼비전아카데미, 2023 | 616.8521 트292송K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32994/20/cover/8982641572_2.jpg) | 박물관에서 서성이다 | 박현택 | 서울 : 통나무, 2023 | 069.0951 박94박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32469/83/cover/k762935307_2.jpg) | 아무튼, 당근마켓 | 이훤 | 파주 : 위고, 2023 | 811.87 이96아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30110/94/cover/8963248836_1.jpg) | 다양성 경영과 상호문화 경험 : 외국인 근로현장 이야기 | 김영순 | 성남 : 북코리아, 2022 | 331.544 김64다 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30426/58/cover/k152830076_1.jpg) | 구로사와 아키라의 국책영화와 일본문학 : 프로파간다와 작가 정신 : 1943~1945 | 이시준 | 파주 : 보고사, 2022 | 791.430953 이58구 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Our share of night : a novel | Enriquez, Mariana | London | 863.64 E59n | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Birnam Wood | Catton, Eleanor | New York : Farrar, Straus and Giroux, 2023. | 823.92 C369b | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/778/16/cover/8961053469_1.jpg) | Neighbour Rosicky | Cather, Willa | 서울 : 경문사, 2010 | 823.912 C363nK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32993/14/cover/k822936655_1.jpg) | 나는 1년 안에 무조건 합격한다 | 박영주 | 서울 : 더퀘스트 : 길벗, 2023 | 371.30281 박64나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32988/54/cover/k092936556_1.jpg) | (2024) 초거대 생성AI 시대의 AI학습데이터 DB총람 | 씨에이치오 얼라이언스 | 서울 : 씨에이치오 얼라이언스, 2023 | 006.3 씨64초 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Event-based neuromorphic systems | Liu, Shih-Chii | The Atrium, Southern Gate, Chichester, West Sussex, United Kingdom : John Wiley ＆ Sons, Ltd, 2015. | 660.63 E93L | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cuba : an American history | Ferrer, Ada | New York, NY : Scribner, an imprint of Simon ＆ Schuster Inc., 2021. | 972.91 F385c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | "Our hemisphere"? : the United States in Latin America, from 1776 to the twenty-first century | Crandall, Britta H | New Haven : Yale University Press, 2021. | 327.7308 C891o | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32648/45/cover/k072935654_1.jpg) | 남에게 보여주려고 인생을 낭비하지 마라 : 쇼펜하우어 소품집 | Schopenhauer, Arthur | 서울 : page2 : 페이지2북스, 2023 | 193 S373aK박쇼 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 殺戮の狂詩曲 | 중산칠리 | 東京 : 講談社, 2023 | 813.37 중52살 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32361/59/cover/k592935565_2.jpg) | 마흔에 읽는 쇼펜하우어 : 마음의 위기를 다스리는 철학 수업 | 강용수 | 서울 : 유노북스 : 유노콘텐츠그룹, 2023 | 193 강65마 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32444/93/cover/k972935291_1.jpg) | 생각이 너무 많은 어른들을 위한 심리학 : 후회 없는 삶을 살고 싶은 당신에게 해 주고 싶은 말들 | 김혜남 | 서울 : 메이븐, 2023 | 158.1 김94어2 | 중앙도서관 |
