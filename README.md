@@ -2,6 +2,16 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | La sociologie filmique : théories et pratiques | Sebag, Joyce | Paris : CNRS Éditions, 2020. | 791.43 S443s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The shape of motion : cinema and the aesthetics of movement | Schonig, Jordan | New York, NY : Oxford University Press, 2022. | 791.4301 S371s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The sensory studies manifesto : tracking the sensorial revolution in the arts and human sciences | Howes, David | Toronto | 152.109 H859s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 'Others' is not a race | De Silva, Melissa | Burrough court : Monsoon, 2023. | 305.8 D457o | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Wildland : the making of america's fury | Osnos, Evan | New York : Picador, 2022. | 973.93 O83w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The 15 commitments of conscious leadership : a new paradigm for sustainable success | Dethmer, Jim | [S.l] : [s.n], 2015. | 658.4092 D479f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Contemporary social psychological theories | Burke, Peter J | Stanford, California : Stanford University Press, 2018. | 302 B959c2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Technology and society : building our sociotechnical future | Johnson, Deborah G | Cambridge, Massachusetts : The MIT Press, 2021. | 303.483 J66t2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Quantitative finance | Mariani, Maria C | Hoboken, NJ : Wiley, 2020. | 332.015195 M333q | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Zur Frage der Gesetze : und andere Schriften aus dem Nachlaß, in der Fassung der Handschrift | Kafka, Franz | Frankfurt am Main : Fischer Taschenbuch Verlag, 2008. | 830.912 K11z | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32266/8/cover/k502834842_1.jpg) | 행복한 사람은 단순하게 삽니다 : 심플한 삶을 위한 122가지 라이프스타일 | 충행자 | 서울 : 프롬북스, 2023 | 158.1 충93오K정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32357/76/cover/k702935464_1.jpg) | 우리 뇌는 어떻게 창조하는가 : 인공지능과 뇌과학으로 본 인간의 호기심과 창의성의 기원 | 대흑달야 | 서울 : 예문아카이브, 2023 | 153.35 대97aK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32359/48/cover/k952935467_1.jpg) | 그럭저럭 살고 싶지 않다면 당신이 옳은 겁니다 | Schafler, Katherine Morgan | 서울 : 쌤앤파커스, 2023 | 155.232 S296pK박 | 중앙도서관 |
@@ -42,13 +52,3 @@
 | ![](https://image.aladin.co.kr/product/26173/24/cover/8998342626_1.jpg) | 투자의 비밀 : 신경경제학이 밝혀낸 유능하고 현명한 투자자가 되는 법! | Zweig, Jason | 서울 : 에이지이십일, 2021 | 332.6019 Z97yK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31034/14/cover/k732831518_1.jpg) | 편의점 재영씨 | 신재영 | 파주 : 글항아리 : 에쎄, 2023 | 811.87 신73편 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30882/1/cover/k292831284_1.jpg) | 대출공화국 대한민국 : 가계부채 1800조 시대, 당신은 죄인이 아니다 | 서인석 | 서울 : 행복에너지, 2023 | 332.743 서68대 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29295/4/cover/8925579103_1.jpg) | 스노볼 : 워런 버핏 공식 전기 | Schroeder, Alice | 서울 : 알에이치코리아, 2021 | 332.6092 B929sK이2 v.1 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30458/34/cover/8976828259_1.jpg) | 무위(無爲)의 공동체 | Nancy, Jean-Luc | 서울 : 그린비, 2022 | 307 N176cK박그 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32781/83/cover/k372936386_1.jpg) | 불안을 관리하면 인생이 관리된다 : 기분에 지지 않고 삶의 통제력을 되찾는 몸 중심 심리연습 | Blume, Michele | 서울 : 더퀘스트 : 길벗, 2023 | 616.8522 B658mK동 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26010/11/cover/8968040443_1.jpg) | 샬롯 메이슨 교육을 만나다 : 살아있는 책으로 공부하라 | Andreola, Karen | 서울 : 디씨티와이북스 : 꿈을이루는사람들, 2017 | 371.042 A559cK임2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33042/40/cover/k822937687_1.jpg) | 삶이 괴로울 땐 공부를 시작하는 것이 좋다 : 일상을 연구하는 과학자가 발견한 사는 게 재밌어지는 가장 신박한 방법 | 박치욱 | 서울 : 웨일북, 2023 | 158.1 박86삶 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/4273/77/cover/8998374684_1.jpg) | 일과 놀이로 자란다 : 도시 속 작은 대안학교 맑은샘 아이들 이야기 | 전정일 | 고양 : 맑은샘, 2014 | 371.04 전74일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30818/66/cover/k112831663_1.jpg) | (양육, 학습, 입시를 꿰뚫는) 자녀교육 절대공식 | 방종임 | 서울 : 위즈덤하우스, 2023 | 649.1 방75자 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29109/76/cover/k782837261_1.jpg) | 그림으로 이해하는 인지과학 | 북원의전 | 서울 : 길벗, 2022 | 153 북66그K조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32709/78/cover/8934954957_1.jpg) | 라이프 타임, 생체시계의 비밀 : 수면, 건강, 삶에 혁명을 불러오는 최적의 시간을 찾아서 | Foster, Russell G | 파주 : 김영사, 2023 | 612.022 F756LK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/10870/16/cover/895518882x_1.jpg) | (담화 기능에 따른) 한국어 유사 문법 항목 연구 | 강현화 | 서울 : 한글파크, 2017 | 411.5 한16강 | 중앙도서관 |
