@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/9d1eb782-a08a-464c-a56c-8517fedd59a0) | 이중톈 중국사 | 이중천 | 파주 : 글항아리, 2013-2023 | 952 이76이K김 v.1~15 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33101/77/cover/k312937712_1.jpg) | 컴퓨터 시스템 딥 다이브 : C 언어부터 어셈블리, 아키텍처, OS까지 한 꺼풀씩 벗겨보는 컴퓨터 시스템 | Matthews, Suzanne J | 서울 : 한빛미디어, 2023 | 004.22 M442dK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32420/13/cover/k002935993_3.jpg) | 프롬프트 엔지니어링 교과서 : 바로 써먹는 챗GPT프롬프트 12기법 | 서승완 | 서울 : 애드앤미디어, 2023 | 006.3 서57프바 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32494/56/cover/k542935603_1.jpg) | 브레인 케미스트리 : 무너진 균형을 회복하는 뇌과학 이야기 | Smith, Ginny | 서울 : 위즈덤하우스, 2023 | 612.8042 S648oK양 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32357/78/cover/k882935464_1.jpg) | 나의 외로운 지구인들에게 : 이방인의 시선이 머무른 낯설고도 애틋한 삶의 풍경 | 홍예진 | [고양] : 책과이음, 2023 | 811.87 홍64나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32335/30/cover/k672935262_1.jpg) | 누구에게나 영원히 머무르고 싶은 순간이 있다 : 그리운 순간이 있어 오늘을 살아간다는 걸 | 하승완 | [논산] : 일단, 2023 | 811.47 하57누 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30782/50/cover/k572935162_1.jpg) | 슬기로운 작가 생활 | Scalzi, John | 서울 : 구픽, 2023 | 808.02 S282yK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32380/11/cover/k862935675_1.jpg) | 집 보는 남자 : 조경아 장편소설 | 조경아 | 서울 : 안전가옥, 2023 | 811.37 조14집 | 중앙도서관 |
