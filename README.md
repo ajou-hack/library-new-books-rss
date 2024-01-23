@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Öffentliches Finanzrecht | Tappe, Henning | Heidelberg : C.F. Müller, 2023. | 343.4303 T175o | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32776/63/cover/k542936286_1.jpg) | 영국 선거법 개혁 법안 | Hegel, Georg W. F | 서울 : 지식을만드는지식, 2023 | 342.4107 H462uK서 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32927/75/cover/k172936842_1.jpg) | 판례민법강의 : 이론·사례 | 양형우 | 고양 : 정독, 2024 | 346 양94판6 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32956/10/cover/k752936241_1.jpg) | 채권법 : 민법의 세계 | 양형우 | 고양 : 정독, 2024 | 346 양94민채15 | 법학도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32042/79/cover/k692834880_1.jpg) | 아이디어 하나로 스타트업 : 세상을 놀라게 한 작지만 강한 스타트업 30 | 진은혜 | 서울 : 원앤원북스, 2023 | 658.11 진67아 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31561/42/cover/k692832854_1.jpg) | 사랑에 빠진 레이철 | Murphy, Pat | 서울 : 허블, 2023 | 823.914 M978rK유 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32197/89/cover/k782834425_1.jpg) | 배달의 천국 : 김옥숙 장편소설 | 김옥숙 | 부산 : 산지니, 2023 | 811.37 김65배 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32190/97/cover/k242834326_1.jpg) | 중국어 문법 | 조원임 | 서울 : 한국문화사, 2023 | 412.5 조66중 | 중앙도서관 |
