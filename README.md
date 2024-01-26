@@ -2,6 +2,10 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/30070/64/cover/k472839665_1.jpg) | (이공계용) 확률과 통계 | Ross, Sheldon M | 서울 : 홍릉, 2022 | 519.2 R826i6K고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32328/70/cover/k032935162_1.jpg) | (STM32CubelDE를 이용한) CORTEX-M4 기초 및 응용 | 박민상 | 서울 : B.C.Info : 복두, 2023 | 621.3916 박38c | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33038/40/cover/k562937688_1.jpg) | 내가 한 말을 내가 오해하지 않기로 함 | 문상훈 | 서울 : 위너스북, 2024(2쇄) | 811.87 문52내 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29653/59/cover/k512838885_1.jpg) | (난생 처음 한번 공부하는) 경제 이야기 | 송병건 | [서울] : 사회평론, 2022 | 330.02 송44경 v.1~3 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Principles of hormone/behavior relations | Pfaff, Donald W | London | 612.405 P957p2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The complete researcher : a practical guide for graduate students and early career professionals | Hook, Joshua N | Washington, DC : American Psychological Association, 2024. | 150.72 H781c | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | What is ChatGPT doing ... and why does it work? | Wolfram, Stephen | [Champaign, Illinois] : Wolfram Media, Inc., 2023. | 006.35 W861w | 중앙도서관 |
@@ -12,6 +16,9 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Japan lectures : a transnational critical encounter | Foucault, Michel | Abingdon, Oxon | 194 F762LEr | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Understanding deep learning | Prince, Simon J. D | Cambridge, Massachusetts : The MIT Press, 2023. | 006.31 P957u | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Data analysis in sport | O'Donoghue, Peter | London | 613.70727 O26d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Some people need killing : a memoir of murder in my country | Evangelista, Patricia | New York : Random House, 2023. | 364.409599 D975e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Bottoms up and the devil laughs : a journey through the deep state | Howley, Kerry | New York : Alfred A. Knopf, 2023. | 352.379 H865b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The best minds : a story of friendship, madness, and the tragedy of good intentions | Rosen, Jonathan | New York : Penguin Press, 2023. | 616.8980092 R813b | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | You say you want a revolution : a story of information age politics | Hundt, Reed E | New Haven : Yale University Press, 2000. | 384.330973 H933y | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Architect Jong-Soung Kimm's norman ＆ gothic architecture : photo essay United Kingdom | Kimm, Jong-Soung | Berlin : Verlag Wasmuth ＆ Zohlen, 2023 | 720.942 K49a | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Digital leadership, agile change and the emotional organization emotion as a success factor for digital transformation projects | Kupiek, Martin | Wiesbaden : Springer, 2022. | 658.4092 K96d | 중앙도서관 |
@@ -45,10 +52,3 @@
 | ![](https://image.aladin.co.kr/product/33100/72/cover/8977707536_1.jpg) | 民法講義 | 지원림 | 서울 : 弘文社, 2024 | 346 지66민21 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (신청 사례로 보는) 개인회생실무 | 이기형 | 서울 : 법률지식, 2024 | 346.078 이18개4 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/33108/20/cover/k552937821_1.jpg) | 제3기 헌법재판소, 사법적극주의를 강화하다 | 임지봉 | 서울 : 한국문화사, 2023 | 342.519 임78제 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32891/69/cover/k762936521_3.jpg) | 파서블 : 일상 기록을 통해 꿈을 현실로 만드는 법 | 김익한 | 서울 : 인플루엔셜, 2023 | 650.1 김68파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32313/97/cover/k652834159_1.jpg) | 멘탈을 회복하는 연습 : 후회와 미련은 접고 다시 앞으로 나아가기 위한 두뇌 재훈련 프로젝트 | Zahariades, Damon | 서울 : 서삼독, 2023 | 158.1 Z19aK안 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32247/0/cover/8935678368_1.jpg) | 불멸의 화가 카라바조 | 고종희 | 파주 : 한길사, 2023 | 759.5 C262iK고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32372/57/cover/8961953281_1.jpg) | 동아시아 영화도시를 걷는 여성들 | 남승석 | 서울 : 갈무리, 2023 | 791.436 남57동 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32355/80/cover/k022935461_1.jpg) | 백년다리 : 수술 없이 통증 없이 걷기 위한 내 몸 사용 설명서 | 손일랑 | 서울 : 로그인 : 이퍼블릭, 2023 | 617.582 손68백K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32240/97/cover/k582834630_1.jpg) | 보이지 않는 위협 : 66가지 이야기로 풀어낸 사이버 보안의 전장 | 김홍선 | 서울 : 한빛미디어, 2023 | 005.8 김95보 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32373/56/cover/8959128694_1.jpg) | 결혼과 가족 : 친밀한 관계의 변화와 선택 | 이정화 | 서울 : 신정, 2023 | 306.85 결95이 | 중앙도서관 |
