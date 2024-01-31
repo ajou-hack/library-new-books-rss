@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32354/81/cover/k382935366_1.jpg) | 대의 민주주의와 한국 정치제도 : 다수 지배와 소수 보호의 균형을 위한 정치제도 설계 | 문우진 | 서울 : 버니온더문, 2023 | 321.8 문66대 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32965/86/cover/8999729842_1.jpg) | (상담 및 심리치료) 사례개념화와 치료계획 | Gehart, Diane R | 서울 : 학지사, 2023 | 158.3 G311t2K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33147/48/cover/8925575515_1.jpg) | 일 잘하는 사람은 논어에서 배운다 : 절대 흔들리지 않는 공자의 일의 법칙 | 김은애 | 서울 : 알에이치코리아, 2024 | 650.1 김67일 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26934/35/cover/k392730718_1.jpg) | 아이는 왜 폴렌타 속에서 끓는가 | Veteranyi, Aglaja | 서울 : 워크룸프레스, 2021 | 833.914 V586wK배 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sink : a memoir | Thomas, Joseph Earl | New York : Grand Central Publishing, 2023. | 372.374 T458s | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Poverty, by America | Desmond, Matthew | New York : Crown, 2023 | 362.50973 D464p | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Our migrant souls : a meditation on race and the meanings and myths of "Latino" | Tobar, Héctor | New York : MCD / Farrar, Straus and Giroux, 2023. | 305.868073 T628o | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | My name is Barbra | Streisand, Barbra | New York : Viking, 2023. | 782.42164092 S915m | 중앙도서관 |
