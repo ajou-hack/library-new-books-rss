@@ -2,6 +2,34 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/26429/13/cover/k602738527_1.jpg) | 朝鮮婚姻系譜 : 광주정씨를 중심 | 장한우 | 고양 : 한국학자료원 : 광주정씨연구회, 2020 | 951.4 장92조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/4282/83/cover/1156860571_1.jpg) | 훔볼트 형제의 통섭 | 김미연 | 서울 : 역락, 2014 | 401.092 H919김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32285/85/cover/k752834752_1.jpg) | 애덤 스미스 『도덕감정론』 읽기 : 상업사회 탐구 | 김영용 | 서울 : 역락, 2023 | 170 S642김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26674/92/cover/8993512728_1.jpg) | 나만의 유약 만들기 : 기본유약 | 이병하 | 여주 : 한림원, 2021 | 738.127 이44나2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Friedl : ein biografischer roman | Makarova, Elena | Halle : Mitteldeutscher verlag, 2022. | 760.092 D549mGc | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | How to make your electric guitar play great! | Erlewine, Dan | Lanham, MD : Backbeat books, 2012. | 787.87 E69h2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The architecture of social reform : housing, tradition, and german modernism | Rousset, Isabel | Manchester : Manchester University press, 2022. | 709.4309034 R867a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Traders and heroes : patriotic reflections | Sombart, Werner | London : Arktos, 2021. | 305.821 S693hEj | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Routledge handbook of sports performance analysis | McGarry, Tim | Abingdon, Oxon : Routledge, 2014. | 796.01 M145r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Kew tropical plant identification handbook | Utteridge, Timothy | Richmond : Kew Publishing, 2020. | 581.70913 U93k2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cognitive English grammar | Radden, Günter | Amsterdam : John Benjamins Pub., 2007. | 415 R125c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Construction grammars : cognitive grounding and theoretical extensions | Östman, Jan-Ola | Amsterdam : John Benjamins pub., 2005. | 401.5 O85c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Contract theory : discrete- and continuous-time models | Sung, Jaeyoung | Singapore : Springer, 2023. | 330.0151 S958c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Democracy in America? : what has gone wrong and what we can do about it | Page, Benjamin I | Chicago : The University of Chicago press, 2020. | 320.973 P132d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Oscar wars : a history of Hollywood in gold, sweat, and tears | Schulman, Michael | New York : Harper, an imprint of HarperCollins Publishers, 2023. | 791.4307973 S386o | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fire weather : a true story from a hotter world | Vaillant, John | New York : Alfred A. Knopf, 2023. | 363.37 V131f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Chain-gang all-stars : a novel | Adjei-Brenyah, Nana Kwame | New York : Pantheon Books, 2023. | 823.92 A235c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Assembly line planning and control | Thomopoulos, Nick T | Cham : Springer, 2014. | 670.427 T466a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook of social psychology | DeLamater, John D | Dordrecht : Springer, 2013. | 302 D336h2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Elastic waves and metamaterials : the fundamentals | Kim, Yoon Young | Singapore : Springer, 2023. | 531.1133 K49e | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30606/30/cover/k362830510_1.jpg) | 채권법각론 | 송덕수 | 서울 : 박영사, 2023 | 346.02 송24채각6 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 민유숙 대법관 퇴임기념 재판자료집 | 大法院裁判研究官實務研究會 | 서울 : 사법발전재단, 2024 | 340.0264 대44민 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Das Staatsrecht der Bundesrepublik Deutschland im europäischen Staatenverbund | Stern, Klaus | München : C.H. Beck, 2022. | 342.4308 S839s2 v.1/3~4 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Öffentliches Finanzrecht | Schmidt, Thorsten Ingo | Tübingen : Mohr Siebeck, 2023. | 343.4303 S354o | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Bundeshaushaltsordnung, Landeshaushaltsordnungen : staatliches haushaltsrecht : kommentar | Gröpl, Christoph | München : C.H. Beck, 2019. | 343.4303 G876b2 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 아름다운 사람들 | 황필상 | 수원 : 케이피씨, 2008 | 179.9 황898아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/21/90/cover/8995096306_1.gif) | 당신은 무엇을 찾는가! | 황필상 | 수원 : 케이피씨, 1999(2006 3쇄) | 179.9 황898당 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 스포츠, 디자인을 입다 | 이호연 | 서울 : 아트프린팅, 2022 | 769.02 이95스 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31830/35/cover/k772833124_1.jpg) | 분리수거부터 인공위성까지 : 행정은 공공서비스 인프라다 | 김용만 | 전주 : 온하루, 2023 | 352.63 김65분 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/11872/11/cover/k472531833_1.jpg) | JVM Performance Optimizing 및 성능분석 사례 | 류길현 | 서울 : 엑셈, 2017 | 005.133 류18j | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25726/26/cover/8997186450_1.jpg) | 가치 전쟁 : 우리는 왜 서로 다른 세상에서 사는가? | 박승억 | 고양 : 사월의책, 2020 | 301.02 박57가 | 중앙도서관 |
@@ -18,37 +46,9 @@
 | ![](https://image.aladin.co.kr/product/28045/47/cover/8928510732_1.jpg) | 인천지역사와 동아시아 | 인하대학교 | 서울 : 민속원, 2017 | 951.9 인92인 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27635/88/cover/8963691306_2.jpg) | 팔자의 시크릿 : 운명을 바꾸는 마법 | 윤상철 | 서울 : 대유학당, 2021 | 133.3 윤52팔 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33147/21/cover/k102937033_1.jpg) | 더 커밍 웨이브 | Suleyman, Mustafa | 서울 : 한스미디어 : 한즈미디어, 2024 | 331.5412 S949cK이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (1일 1단어 1분으로 끝내는) 클래식공부 | 이상인 | 서울 : 글담, 2024 | 780 이52클 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33209/91/cover/k152937059_1.jpg) | (1일 1단어 1분으로 끝내는) 클래식공부 | 이상인 | 서울 : 글담, 2024 | 780 이52클 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32329/36/cover/k182935164_1.jpg) | 헤어질 결심부터 홀로서기까지 : 이혼할 때 필요한 마음, 돈, 관계에 대한 기술 | 주세진 | 서울 : 유노라이프 : 유노콘텐츠, 2023 | 306.89 주54헤 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33156/38/cover/8962625938_1.jpg) | 뉴럴 링크 : 21세기를 이끄는 거대한 연결, 뇌-컴퓨터 인터페이스 | 임창환 | 서울 : 동아시아, 2024 | 612.82 임82뉴 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 1945년 해방 직후사 : 현대 한국의 원형 | 정병준 | 파주 : 돌베개, 2023 | 951.7 정44천 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32953/98/cover/k032936249_1.jpg) | 1945년 해방 직후사 : 현대 한국의 원형 | 정병준 | 파주 : 돌베개, 2023 | 951.7 정44천 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32921/53/cover/k962936933_1.jpg) | 이토록 완벽한 실종 : 줄리안 맥클린 장편소설 | MacLean, Julianne | 서울 : 해피북스투유, 2023 | 823.92 M163bK한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33199/27/cover/k432937852_1.jpg) | 코스미그래픽 : 인류가 창조한 우주의 역사 | Benson, Michael | 서울 : 롤러코스터, 2024 | 523.1 B474cK지 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32927/72/cover/k902936842_1.jpg) | 보통 이하의 것들 | Perec, Georges | [서울] : 녹색광선, 2023 | 848.914 P434iK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23874/92/cover/k382639706_1.jpg) | 도쿄R부동산 이렇게 일 합니다 | 마장정존 | 서울 : 정예씨, 2020 | 658.4063 마72도K정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24920/78/cover/8994997431_1.jpg) | 나만의 도자기 만들기 : 정연택의 버금이 도예도실 | 정연택 | 고양 : 한문화사, 2020 | 738.2 정64나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27719/36/cover/896626316x_1.jpg) | 밑바닥부터 만드는 인터프리터 in go | Ball, Thorsten | 서울 : 인사이트, 2021 | 005.452 B187wK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33116/81/cover/k332937120_3.jpg) | (당신의 삶을 떠받치고 당신을 살아가게 하는) 보편의 단어 : 이기주 산문집 | 이기주 | 서울 : 말글터, 2024 | 811.47 이18보 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31112/87/cover/8946074256_1.jpg) | 근대 영혼 구원하기 : 치료요법, 감정, 그리고 자기계발 문화 | Illouz, Eva | 파주 : 한울아카데미 : 한울엠플러스, 2023 | 306.4613 I29sK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30844/22/cover/8998581558_1.jpg) | 연구의 기초부터 고급통계방법론까지 : SPSS, Process Macro, Amos, HLM 실습 | 남정민 | 고양 : 사람과경영, 2023 | 001.42 연16남 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33180/70/cover/k582937334_1.jpg) | 사랑인 줄 알았는데 부정맥 | 전국유료노인타운협회 | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2024 | 813.17 전16사K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32288/32/cover/8944505705_1.jpg) | 신회계감사 : cycle기반 | 지현미 | 서울 : 三英社, 2023 | 657.45 지94신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25327/3/cover/8972244872_1.jpg) | 근육 불균형의 평가와 치료 : 얀다(Janda)의 접근법 | Page, Phillip | 서울 : 영문출판사, 2020 | 616.742 P133a2K유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33000/80/cover/k682937779_2.jpg) | 베렌과 루시엔 | Tolkien, J. R. R | 파주 : arte : 북이십일 아르테, 2023 | 823.912 T649bK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26668/21/cover/8984946559_1.jpg) | (역주) 조선시대 개성유람기 | 한국역사연구회 | 서울 : 혜안, 2021 | 951.902 한16조혜 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32820/30/cover/k782936801_1.jpg) | (jamovi로 따라 하는) 구조방정식모형분석 : one point lesson | 주지혁 | 파주 : 한국학술정보, 2023 | 519.535 주78구 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (오지라퍼 선생님의) 초등 학부모 수업 | 김현경 | 의왕 : 책소유, 2022 | 649.124 김94초 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/1af496ac-b836-4227-965b-e79bb888acaf) | 인문학 콘서트 | 김경동 | 서울 : 이숲, 2010 | 001.3 인36김 v.1~2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | This other Eden : a novel | Harding, Paul | New York, NY : W. W. Norton ＆ Company, Inc., 2023 | 823.92 H263t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Waiting to be arrested at night : a Uyghur poet's memoir of China's genocide | Izgil, Tahir Hamut | New York : Penguin Press, 2023 | 323.151092 I98i | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The odyssey of Phillis Wheatley : a poet's journeys through American slavery and independence | Waldstreicher, David | New York : Farrar, Straus and Giroux, 2023. | 821 W557w | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Easily slip into another world : a life in music | Threadgill, Henry | New York : Alfred A. Knopf, 2023. | 781.65092 T531e | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Western lane | Maroo, Chetna | New York : Farrar, Straus, and Giroux, 2023. | 823.92 M354w | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Take what you need | Novey, Idra | [New York] : Viking, 2023. | 823.92 N94t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Holly : a novel | King, Stephen | New York : Scribner, 2023. | 823.914 K54h | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | From from : poems | Youn, Monica | Minneapolis : Graywolf Press, 2023. | 821.92 Y67f | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Enter ghost | Hammad, Isabella | New York : Grove Press, 2023. | 823.92 H224e | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Blackouts : a novel | Torres, Justin | New York : Farrar, Straus and Giroux, 2023. | 823.92 T693b | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The bee sting | Murray, Paul | New York : Farrar, Straus and Giroux, 2023. | 823.92 M983b | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Ordinary notes | Sharpe, Christina | New York : Farrar, Straus and Giroux, 2023. | 305.896073 S532o | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Daughter of the dragon : Anna May Wong's rendezvous with American history | Huang, Yunte | New York, NY : Liveright Publishing Corporation, a division of W.W. Norton ＆ Company, 2023. | 791.43028092 W872h | 중앙도서관 |
