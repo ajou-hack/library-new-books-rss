@@ -2,6 +2,24 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/5285/73/cover/8950957787_1.jpg) | 권력구조와 예산제도 : 한국의 재정 민주주의를 위하여 | 옥동석 | 파주 : 21세기북스 : 북이십일 21세기북스, 2015 | 352.4951 옥25권 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/7739/19/cover/k412434927_1.jpg) | 北譜(全) | 대동문화연구원 | 서울 : 학자원, 2016 | 929.2 대25북 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 문학과 사회 | 문학과지성사 | 서울 : 문학과지성사, 2023 | 811.05 문92사 v.144-1/v.144-2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Information visualisation : from theory, to research, to practice and back | Lonsdale, Maria Dos Santos | London : SAGE publications, 2023. | 001.4226 L862i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Trustworthy online controlled experiments : a practical guide to A/B testing | Kohavi, Ron | Cambridge, United Kingdom : Cambridge University press, 2020. | 302.231 K79t | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33100/72/cover/8977707536_1.jpg) | 民法講義 | 지원림 | 서울 : 弘文社, 2024 | 346 지66민21 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Bad luck and trouble : a Jack Reacher novel | Child, Lee | New York : Bantam books, 2022. | 823.914 C536bb | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Image objects : an archaeology of computer graphics | Gaboury, Jacob | Cambridge, Massachusetts : The MIT Press, 2021. | 006.609 G116i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Dialogical psychiatry : a handbook for the teaching ＆ practice of open dialogue | Razzaque, Russell | Middletown, Del. : Omni House Press, 2019. | 616.8914 R279d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Wien : 2000 jahre geschichte | Haider, Edgard | Berlin : Elsengold, 2020. | 943.613 H149w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Berlin : the story of a city | White-Spunner, Barney | London : Simon ＆ Schuster, 2021. | 943.155 W588b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Berlin : biographie einer großen stadt | Bisky, Jens | Berlin : Rowohlt Berlin, 2023. | 943.155 B622b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Wien - Berlin : wo die moderne erfunden wurde | Wietschorke, Jens | Ditzingen : Reclam, 2023. | 943.155 W652w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Berlin : eine kleine geschichte | Adam, Christian | Berlin : Bebra Verlag, 2023. | 943.155 A193b | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32066/50/cover/k402834999_1.jpg) | 우주 여행자를 위한 한국살이 가이드북 | 희석 | [진주] : 발코니, 2023 | 301.0951 희54우 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Research methods for sports performance analysis | O'Donoghue, Peter | Milton Park, Abingdon, Oxon : Routledge, 2010. | 612.044 O26r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Lone women : a novel | LaValle, Victor | New York : One World, 2023. | 823.92 L394L | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32084/60/cover/k852834090_1.jpg) | 상법강의. 상 | 정찬형 | 서울 : 박영사, 2023 | 346.07 정82상26 v.1 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32917/67/cover/8918914458_1.jpg) | 민법강의 : 이론·사례·판례 | 김준호 | 파주 : 法文社, 2024 | 346 김76민법 2024 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/33119/42/cover/8918914520_1.jpg) | 행정법개론 | 정하중 | 파주 : 法文社, 2024 | 342.06 정92행법18 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/33279/12/cover/k492938875_1.jpg) | 신행정법특강 | 홍정선 | 서울 : 박영사, 2024 | 342.06 홍74행특23 | 법학도서관 |
@@ -34,21 +52,3 @@
 | ![](https://image.aladin.co.kr/product/21/90/cover/8995096306_1.gif) | 당신은 무엇을 찾는가! | 황필상 | 수원 : 케이피씨, 1999(2006 3쇄) | 179.9 황898당 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 스포츠, 디자인을 입다 | 이호연 | 서울 : 아트프린팅, 2022 | 769.02 이95스 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31830/35/cover/k772833124_1.jpg) | 분리수거부터 인공위성까지 : 행정은 공공서비스 인프라다 | 김용만 | 전주 : 온하루, 2023 | 352.63 김65분 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/11872/11/cover/k472531833_1.jpg) | JVM Performance Optimizing 및 성능분석 사례 | 류길현 | 서울 : 엑셈, 2017 | 005.133 류18j | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25726/26/cover/8997186450_1.jpg) | 가치 전쟁 : 우리는 왜 서로 다른 세상에서 사는가? | 박승억 | 고양 : 사월의책, 2020 | 301.02 박57가 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32472/56/cover/8965403685_1.jpg) | (챗GPT로 완성하는) 엑셀 업무 자동화 with MS 파워 오토메이트 : 실전에서 바로 써먹는 자동화 예제 34개로 엑셀 실력 레벨업 | 김성준 | 부천 : 프리렉, 2023 | 005.54 김54엑 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32734/30/cover/k822936078_1.jpg) | 질문 있는 사람 : 나를 바꾼 건 답이 아닌 꾸준한 질문이었다 | 이승희 | 서울 : 북스톤, 2023 | 650.1 이57질 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31867/72/cover/k282833528_1.jpg) | 더 비하인드 : 박희종 장편소설 | 박희종 | 서울 : 팩토리나인, 2023 | 811.37 박97더 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28966/2/cover/8935704547_1.jpg) | 타프티가 말해주지 않은 것 : 세상에서 가장 괴이하고 매혹적인 자기계발 픽션 | Zeland, Vadim | 서울 : 정신세계사, 2022 | 158.1 Z49oK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/19223/19/cover/893570430x_1.jpg) | 여사제 잇파트 : 세상에서 가장 괴이하고 매혹적인 자기계발 픽션 | Zeland, Vadim | 서울 : 정신세계사, 2019 | 158.1 Z49zK정세 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/17048/22/cover/8935704237_1.jpg) | 여사제 타프티 : 세상에서 가장 괴이하고 매혹적인 자기계발 픽션 | Zeland, Vadim | 서울 : 정신세계사, 2018 | 158.1 Z49zK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27616/46/cover/8935704504_1.jpg) | 트랜서핑 해킹 더 매트릭스 : 진짜 관찰자들은 이렇게 한다 | Zeland, Vadim | 서울 : 정신세계사, 2021 | 158.1 Z49bK정정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32282/19/cover/k822834646_1.jpg) | 백년 동안의 증언 : 간토대지진, 혐오와 국가폭력 | 김응교 | 서울 : 책읽는고양이, 2023 | 953.62 김67백 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30860/31/cover/897646477x_1.jpg) | 서양의 정의론, 동양의 정의론 | 이찬훈 | 서울 : 예문서원, 2023 | 172.2 이82서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2722/53/cover/8934963255_2.jpg) | 채식의 시간 | 이양지 | 서울 : 김영사, 2013 | 641.5636 이63채 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28045/47/cover/8928510732_1.jpg) | 인천지역사와 동아시아 | 인하대학교 | 서울 : 민속원, 2017 | 951.9 인92인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27635/88/cover/8963691306_2.jpg) | 팔자의 시크릿 : 운명을 바꾸는 마법 | 윤상철 | 서울 : 대유학당, 2021 | 133.3 윤52팔 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33147/21/cover/k102937033_1.jpg) | 더 커밍 웨이브 | Suleyman, Mustafa | 서울 : 한스미디어 : 한즈미디어, 2024 | 331.5412 S949cK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33209/91/cover/k152937059_1.jpg) | (1일 1단어 1분으로 끝내는) 클래식공부 | 이상인 | 서울 : 글담, 2024 | 780 이52클 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32329/36/cover/k182935164_1.jpg) | 헤어질 결심부터 홀로서기까지 : 이혼할 때 필요한 마음, 돈, 관계에 대한 기술 | 주세진 | 서울 : 유노라이프 : 유노콘텐츠, 2023 | 306.89 주54헤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33156/38/cover/8962625938_1.jpg) | 뉴럴 링크 : 21세기를 이끄는 거대한 연결, 뇌-컴퓨터 인터페이스 | 임창환 | 서울 : 동아시아, 2024 | 612.82 임82뉴 | 중앙도서관 |
