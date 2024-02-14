@@ -2,6 +2,16 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Born to walk : myofascial efficiency and the body in movement | Earls, James | Berkeley, California : North atlantic books, 2020. | 613.717 E12b2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A parent's guide to gifted children : a resource for caregivers and advocates | Amend, Edward R | Goshen, KY : Gifted unlimited, 2023. | 649.155 A511p2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A therapist's guide to child development : the extraordinarily normal years | Ray, Dee C | New York, NY : Routledge, 2016. | 155.4 R263t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | L'enfant noir : roman | Laye, Camara | [S.l] : CTAD, 2021. | 843.92 L427e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Controlling design variants : modular product platforms | Ericsson, Anna | Dearborn, MI : Society of Manufacturing Engineers, 1999. | 658.5 E68c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Feminist posthumanism in contemporary science fiction film and media : from Annihilation to High life and beyond | Empey, Julia A | New York : Bloomsbury Academic, 2023. | 791.43615 E55f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Friedl Dicker-Brandeis : Bauhaus-Schulerin, Avantgarde-Malerin, Kunstpadagogin = Bauhaus student, Avant-Garde painter, art teacher | Schmutz, Hemma | Munchen : Hirmer, 2022. | 750.092 D549s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | What is critical urbanism? : urban research as pedagogy | Cupers, Kenny | Zürich : Park books, 2022. | 307.1216 W555c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Structural analysis : with applications to aerospace structures | Bauchau, O. A | Dordrecht : Springer, 2009. | 624.171 B337s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Methodical development of modular product families : developing high product diversity in a manageable way | Krause, Dieter | Berlin, Germany : Springer, 2023. | 658.5752 K91m | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33232/88/cover/k722937258_1.jpg) | 국제인권규약 주해 : 시민적 및 정치적 권리 | 정인섭 | 서울 : 박영사, 2024 | 341.48 정68인 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/5285/73/cover/8950957787_1.jpg) | 권력구조와 예산제도 : 한국의 재정 민주주의를 위하여 | 옥동석 | 파주 : 21세기북스 : 북이십일 21세기북스, 2015 | 352.4951 옥25권 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/7739/19/cover/k412434927_1.jpg) | 北譜(全) | 대동문화연구원 | 서울 : 학자원, 2016 | 929.2 대25북 | 중앙도서관 |
@@ -28,7 +38,10 @@
 | ![](https://image.aladin.co.kr/product/32066/50/cover/k402834999_1.jpg) | 우주 여행자를 위한 한국살이 가이드북 | 희석 | [진주] : 발코니, 2023 | 301.0951 희54우 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Research methods for sports performance analysis | O'Donoghue, Peter | Milton Park, Abingdon, Oxon : Routledge, 2010. | 612.044 O26r | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Lone women : a novel | LaValle, Victor | New York : One World, 2023. | 823.92 L394L | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32373/79/cover/s982936593_1.jpg) | 비극의 탄생 : 시민을 위한 예술을 말하다 | Nietzsche, Friedrich Wilhelm | 고양 : 평사리, 2023 | 193 N677gK이시 v.1~4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32084/60/cover/k852834090_1.jpg) | 상법강의. 상 | 정찬형 | 서울 : 박영사, 2023 | 346.07 정82상26 v.1 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/29733/0/cover/8901262541_1.jpg) | 계속 가봅시다 남는 게 체력인데 : 50대 구글 디렉터의 지치지 않고 인생을 키우는 기술 | 정김경숙 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2022 | 650.1 정18계 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23456/75/cover/k012638685_1.jpg) | 편의점 | 유기농볼셰비키 | 서울 :안전가옥, 2020 | 811.3708 편67유 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32917/67/cover/8918914458_1.jpg) | 민법강의 : 이론·사례·판례 | 김준호 | 파주 : 法文社, 2024 | 346 김76민법 2024 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/33119/42/cover/8918914520_1.jpg) | 행정법개론 | 정하중 | 파주 : 法文社, 2024 | 342.06 정92행법18 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/33279/12/cover/k492938875_1.jpg) | 신행정법특강 | 홍정선 | 서울 : 박영사, 2024 | 342.06 홍74행특23 | 법학도서관 |
@@ -39,16 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Friedl : ein biografischer roman | Makarova, Elena | Halle : Mitteldeutscher verlag, 2022. | 760.092 D549mGc | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | How to make your electric guitar play great! | Erlewine, Dan | Lanham, MD : Backbeat books, 2012. | 787.87 E69h2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The architecture of social reform : housing, tradition, and german modernism | Rousset, Isabel | Manchester : Manchester University press, 2022. | 709.4309034 R867a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Traders and heroes : patriotic reflections | Sombart, Werner | London : Arktos, 2021. | 305.821 S693hEj | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Routledge handbook of sports performance analysis | McGarry, Tim | Abingdon, Oxon : Routledge, 2014. | 796.01 M145r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Kew tropical plant identification handbook | Utteridge, Timothy | Richmond : Kew Publishing, 2020. | 581.70913 U93k2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cognitive English grammar | Radden, Günter | Amsterdam : John Benjamins Pub., 2007. | 415 R125c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Construction grammars : cognitive grounding and theoretical extensions | Östman, Jan-Ola | Amsterdam : John Benjamins pub., 2005. | 401.5 O85c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Contract theory : discrete- and continuous-time models | Sung, Jaeyoung | Singapore : Springer, 2023. | 330.0151 S958c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Democracy in America? : what has gone wrong and what we can do about it | Page, Benjamin I | Chicago : The University of Chicago press, 2020. | 320.973 P132d | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Oscar wars : a history of Hollywood in gold, sweat, and tears | Schulman, Michael | New York : Harper, an imprint of HarperCollins Publishers, 2023. | 791.4307973 S386o | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fire weather : a true story from a hotter world | Vaillant, John | New York : Alfred A. Knopf, 2023. | 363.37 V131f | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Chain-gang all-stars : a novel | Adjei-Brenyah, Nana Kwame | New York : Pantheon Books, 2023. | 823.92 A235c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Assembly line planning and control | Thomopoulos, Nick T | Cham : Springer, 2014. | 670.427 T466a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook of social psychology | DeLamater, John D | Dordrecht : Springer, 2013. | 302 D336h2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Elastic waves and metamaterials : the fundamentals | Kim, Yoon Young | Singapore : Springer, 2023. | 531.1133 K49e | 중앙도서관 |
