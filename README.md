@@ -2,6 +2,37 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/33042/63/cover/k002937799_1.jpg) | 요즘 개발자 : MZ 선배가 전하는 학습·커리어 브랜딩·취업과 이직·협업·네트워킹 기술 | 임동준 | 서울 : 한빛미디어, 2023 | 005.1023 임25요 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33154/27/cover/k362937134_1.jpg) | 말 잘하는 리더? 잘 말하는 리더! : 스피치 기술을 넘어서 품격을 올리는 리더의 언어 | 민승기 | 서울 : 나비의활주로, 2024 | 808.5 민57말 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33084/94/cover/k832937601_1.jpg) | 습관을 바꾸면 인생이 바뀐다 : 뭘 해도 잘되는 사람으로 습관을 리셋하는 법 | 김시현 | [서울] : 다른상상, 2024 | 152.33 김58습 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33292/55/cover/k032938281_1.jpg) | 감정적 자석 : 관계에 끌림을 더하는 커뮤니케이션 법칙 | Gerber, Sand | [서울] : 에쏘프레스 : 북스앤디지털, 2023 | 153.6 G362eK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33003/17/cover/k982937776_1.jpg) | 행복을 구하는 공식 | 유랑운 | [대전] : 새벽, 2023 | 171.4 유292행 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33210/52/cover/8990463203_1.jpg) | 한국단편소설 다시 읽기 | 김형준 | 서울 : 해오름, 2024 | 811.309 김94한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11380/15/cover/8961953354_1.jpg) | 대담 | Deleuze, Gilles | 서울 : 갈무리, 2023 | 194 D348pK신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32475/67/cover/k082935407_1.jpg) | 디아스포라 기행 : 추방당한 자의 시선 | 서경식 | 파주 : 돌베개, 2023 | 325.2 서14디K최2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32444/92/cover/8954799523_1.jpg) | 당신은 우리말을 모른다 : 문법 편 | 엄민용 | 고양 : EBS BOOKS : 한국교육방송공사 : EBS, 2023 | 411.8 엄38당 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33065/65/cover/k402937092_2.jpg) | 코리안 인베이전 : 1인치 장벽을 넘어서 | 김창래 | 서울 : 작가, 2023 | 791.430951 김82코 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32530/47/cover/k352935022_1.jpg) | 사랑을 볼 수 있다면 : 홍예지 미술평론집 | 홍예지 | [서울] : 아름다움, 2023 | 701.18 홍64사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32993/7/cover/k732936654_1.jpg) | 페니키아 카르타고 이야기 : 전설로 사라진 역사, 그리스-로마 문명의 라이벌 | 한종수 | 서울 : 미지북스, 2023 | 938 한75페 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32475/9/cover/8949967448_1.jpg) | 한국 근대 여성지식인 | 김성은 | 파주 : 경인문화사, 2023 | 305.40951 김54한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33292/71/cover/k652938281_1.jpg) | 일요일의 역사가 : 주경철의 역사 산책 | 주경철 | 서울 : 현대문학, 2024 | 909 주14일2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32494/70/cover/k382935604_1.jpg) | 도쿄의 뮤지엄을 어슬렁거리다 | 대전원청자 | 서울 : 더숲, 2023 | 915.304 대74도K민 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33294/63/cover/8934946555_1.jpg) | 유퀴즈에서 만난 사람들 : 모든 사람은 한 편의 드라마다 : 이언주 에세이 | 이언주 | 파주 : 비채 : 김영사, 2024 | 811.87 이64유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33079/45/cover/k062937503_1.jpg) | 찰랑한 나날 | 박지우 | 서울 : 카멜북스, 2023 | 811.87 박78찰 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33026/3/cover/k262937179_1.jpg) | 풀씨는 힘이 세다 : 시인 김황흠의 농사일기 : 김황흠 산문집 | 김황흠 | 서울 : 걷는사람, 2023 | 811.87 김95풀 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 할배와 손자의 우문현답 : 장석영 수필집 | 장석영 | 서울 : 한국문학신문, 2023 | 811.87 장54할 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33315/39/cover/k112938482_1.jpg) | 도즈 : 이나경 장편소설 | 이나경 | 서울 : 안전가옥, 2024 | 811.37 이192도 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 리비도의 그림자 : 김철교 단편소설집 | 김철교 | 서울 : 교음사, 2024 | 811.37 김83리 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33182/35/cover/k272937434_1.jpg) | 그 남자 그 여자 | 신영호 | 서울 : 좋은땅, 2024 | 811.37 신64그 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33140/72/cover/k502937225_1.jpg) | 독도를 읽는 시간 : 차호일 소설집 | 차호일 | 서울 : 도화, 2023 | 811.37 차95독 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32993/56/cover/k562936657_1.jpg) | 제저벨 : 듀나 연작소설집 | 듀나 | 서울 : 읻다, 2023 | 811.37 듀192제 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32512/54/cover/k812935823_2.jpg) | 벌룬업 : 이동현 장편소설 | 이동현 | 파주 : & : 넥서스, 2023 | 811.37 이25벌 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32532/15/cover/k512935026_1.jpg) | 오나비 : 김용우 장편소설 | 김용우 | 서울 : 상상인, 2023 | 811.37 김65오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32399/95/cover/k242935885_2.jpg) | 무명조개 허공 누각 : 정종균 장편소설 | 정종균 | 서울 : 책과나무, 2023 | 811.37 정75무 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32988/92/cover/k082936659_1.jpg) | 생각의 지문 : 지식과 사색의 아포리즘 결정체! 「이동규의 두줄칼럼」100선 | 이동규 | 서울 : 클라우드나인, 2023 | 650.1 이25생지 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33077/57/cover/k312937406_1.jpg) | 내 몸 혁명 : 뱃살과 질병 없이 살려면 숫자보다 몸을 바꿔라 | 박용우 | 고양 : 루미너스, 2024 | 613.25 박65내 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33050/1/cover/k932937897_1.jpg) | 1일 1채소 : 매일 채식으로 100세까지 건강하게 | 암기진굉 | 대전 : 레몬한스푼, 2024 | 641.5636 암18야K홍 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33321/41/cover/k862938586_1.jpg) | 병은 만 가지라도 단식하면 낫는다 : 단식에 대해 알아야 할 모든 것 | 이우영 | 서울 : 라의눈, 2024 | 613.25 이66병 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/21741/75/cover/k442636902_1.jpg) | 시작해!! 배드민턴 : 곁에 두고 그냥 읽자, 배트민턴이 시작된다 | 서동휘 | 서울 : 브레인스토어, 2019 | 796.345 서25시 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25240/61/cover/8999721922_1.jpg) | 코칭심리의 이론과 실제 : 개인의 성장을 위한 심리학적 접근, 코칭심리 | 정은경 | 서울 : 학지사, 2020 | 158.3 정67코 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/20293/21/cover/k032635954_1.jpg) | 정치학개론 : 권력과 선택 | Shively, W. Phillips | 서울 : 명인문화사, 2019 | 320 S558p15K김 | 중앙도서관 |
@@ -21,34 +52,3 @@
 | ![](https://image.aladin.co.kr/product/30461/56/cover/k542830578_2.jpg) | (끝까지 계속하게 만드는) 아주 작은 반복의 힘 | Maurer, Robert | 서울 : 스몰빅라이프 : 스몰빅미디어, 2023 | 158.1 M453oK장2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/6537/69/cover/8961672150_1.jpg) | 유토피아 | More, Thomas | 서울 : 돋을새김, 2015 | 321.07 M836uK권2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/43/31/cover/8989703727_1.jpg) | 정신분석에로의 초대 : 마음속에 숨겨진 나를 찾아 떠나는 여행 | 이무석 | 서울 : 이유, 2006 | 150.195 이36정2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/859/84/cover/8940803914_1.jpg) | 그래픽 디자인의 역사 | Meggs, Philip B | 서울 : 미진사, 2011 | 686.2 M497h3K황 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32726/93/cover/k012936876_1.jpg) | (초거대 AI) 디지털 플랫폼 레볼루션 | 현영근 | 서울 : 새빛, 2023 | 658.401 현64디 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31794/10/cover/k362833219_1.jpg) | (Do it!) 점프 투 파이썬 : 중학생도 첫날부터 실습하는 초고속 입문서 | 박응용 | 서울 : 이지스, 2023 | 005.133 박67점이3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29718/12/cover/k282838994_1.jpg) | 신유물론 : 몸과 물질의 행위성 | 몸문화연구소 | 서울 : 필로소픽, 2022 | 146.3 몸36신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32539/63/cover/8999729125_1.jpg) | 현대 이상심리학 | 권석만 | 서울 : 학지사, 2023 | 616.89 권54현3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32356/79/cover/k462935463_1.jpg) | 에너지전환정책의 이론과 현실 | 김서용 | 서울 : 박영사, 2023 | 333.79 에194김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/20027/31/cover/k072635144_1.jpg) | (4차 산업혁명 시대의) 기술창업론 | 김진수 | 서울 : 홍릉과학, 2017, 2019(2쇄) | 658.11 김78기3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31721/24/cover/8936479369_1.jpg) | 누가 민주주의를 두려워하는가 : 지성사로 보는 민주주의 혐오의 역사 | 김민철 | 파주 : 창비, 2023 | 321.8 김38누 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31186/25/cover/k872831853_1.jpg) | 이상심리학 | Comer, Ronald J | 서울 : 시그마프레스, 2023 | 616.89 C732f10K오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28965/95/cover/8925416735_1.jpg) | 교육사회학 | 김신일 | 파주 : 교육과학사, 2022 | 370.193 김58교6 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/18794/52/cover/k192635572_1.jpg) | (유아교사를 위한) 특수아동의 이해 | 조윤경 | 고양 : 공동체, 2019 | 371.9 조66특2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29259/74/cover/897644860x_1.jpg) | 정책학 | 강근복 | 서울 : 대영문화사, 2022 | 352.34 정82강2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/19929/66/cover/8999717607_1.jpg) | 심리학의 이해 | 윤가현 | 서울 : 학지사, 2019 | 150 심298윤5 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30083/42/cover/k072839476_1.jpg) | 가족을 구성할 권리 : 혈연과 결혼뿐인 사회에서 새로운 유대를 상상하는 법 | 김순남 | 파주 : 오월의봄, 2022 | 306.85 김56가 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28515/38/cover/k112835930_1.jpg) | 파이썬 for Beginner : 쉽고 빠르게 익히는 프로그래밍의 기본 원리 | 우재남 | 서울 : 한빛아카데미, 2022 | 005.133 우73파한3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27305/66/cover/8931022085_1.jpg) | 돈키호테 : 살바도르 달리 에디션 | Cervantes Saavedra, Miguel de | 서울 : 문예, 2021 | 863.3 C419iK김 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23481/44/cover/8968240981_1.jpg) | (Brock의) 미생물학 | Madigan, Michael T | 서울 : 바이오사이언스, 2020 | 579 B864m15K오 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23507/35/cover/8999720659_1.jpg) | (사례로 배우는) 가족상담 | 이영분 | 서울 :학지사, 2020 | 616.89156 가75이학 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26171/28/cover/k812737354_1.jpg) | (파이썬으로 만드는) 인공지능 | 오일석 | 서울 :한빛아카데미, 2021 | 006.3 오68인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25064/33/cover/k962632757_1.jpg) | (글로벌시대의) 국제경영 | Hill, Charles W. L | 서울 :맥그로힐에듀케이션코리아, 2018 | 658.049 H645g10K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7903/58/cover/8961542303_1.jpg) | 약품미생물학 | 감염미생물·면역약학분과학회 | 서울 :라이프사이언스, 2016 | 616.9041 감64약2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23331/22/cover/8999720322_1.jpg) | MMPI-2 해설서 | Friedman, Alan F | 서울 :학지사, 2020 | 155.283 P974f3K유 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/41ddb5d8-56c8-487a-aaa3-94bdbd17c148) | 미학 안의 불편함 | Ranci｀ere, Jacques | 고양 : 인간사랑,2008(2012 3쇄) | 701.17 R185mK주 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/68c1e4d7-4178-459f-ac57-de44ddd9e8a5) | 양자심리학 : 심리학과 물리학의 경계 | Mindell, Arnold | 서울 : 학지사, 2011 | 530.01 M663qK양 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/ccefcb81-caf8-4e9b-a875-106a2a671aaa) | (심리치료에서) 대상관계와 자아기능 | Gregory Hamilton, N | 서울 : 학지사, 2008 | 616.8914 G822sK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/eea96af1-35b5-4620-95ec-39623c8ff6a5) | 인지공학심리학 : 인간-시스템 상호작용의 이해 | 박창호 | 서울 : 시그마프레스,2007(2009 2쇄) | 153 인78박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/89/37/cover/8958914386_1.jpg) | 대상관계 이론과 실제 :자기와 타자 | Hamilton, N. Gregory | 서울 :학지사,2007 | 154.2 H219sK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32334/86/cover/k552935260_1.jpg) | 진화적 아키텍처 | Ford, Neal | 서울 : 한빛미디어, 2023 | 005.1 B932f2K정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/20518/68/cover/k312635555_1.jpg) | 핵심 물리화학 | Atkins, P. W | 파주 : 교보문고, 2019 | 541.3 A874e7K신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30922/49/cover/k952831292_1.jpg) | 화학공학 열역학 | Smith, J. M | 서울 : 맥그로힐에듀케이션코리아, 2023 | 660.2969 S651i9K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32904/2/cover/k492936734_1.jpg) | 감정 경제학 : 립스틱부터 쇼츠까지 우리의 행동을 지배하는 경제 이야기 | 조원경 | 서울 : page2 : 페이지2북스, 2023 | 330.02 조66감 | 중앙도서관 |
