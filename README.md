@@ -2,13 +2,20 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/27544/3/cover/8961543725_1.jpg) | 건강·스포츠영양학 길라잡이 | Rawson, Eric S | 서울 : 라이프사이언스, 2021 | 613.2 W725n12K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33406/25/cover/896849939x_1.jpg) | 과학기술계열을 위한 글쓰기 | 전남대학교 | 광주 : 전남대학교 교육혁신본부, 2023 | 808.066 전192과 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29957/21/cover/k342838143_1.jpg) | 교양노동법 | 한국노동법학회 | 고양 : 문우사, 2022 | 344.01 한16교3 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/29069/82/cover/k722836555_1.jpg) | (新) 국제경제법 | 한국국제경제법학회 | 서울 : 박영사, 2022 | 343.07 국74박4 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/28886/6/cover/8918912862_1.jpg) | 재개발·재건축 법규의 이해와 실무 | 안종화 | 파주 : 法文社, 2022 | 346.045 안75재 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/29857/23/cover/8928781124_1.jpg) | (디지털금융을 알지 못하는 사람을 위한) 디지털금융 기초 법률 상식 | 정세진 | 서울 : 한국금융연수원 출판미디어사업부, 2022 | 346.082 정54디 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/29193/78/cover/k232837289_2.jpg) | 중대재해처벌法의 체계 : 경영책임자부터 직원이 꼭 알아야 하는 중대재해처벌법 실무 교과서 | 권오성 | [서울] : 새빛, 2022 | 344.0465 권65중 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32226/72/cover/8977707463_1.jpg) | (입문) 형법 형사소송법 | 배종대 | 서울 : 홍문사, 2023 | 345 배75형형 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30373/72/cover/k812839857_1.jpg) | (2022) 봄 작가, 겨울 무대 희곡집 | 구지수 | 서울 : 지만지드라마, 2022 | 811.208 봄72지 2022 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33562/69/cover/8999730123_1.jpg) | (DSM-5-TR 기반) 최신 미술심리진단 및 평가 | 임나영 | 서울 : 학지사, 2024 | 616.891656 최58임 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27644/38/cover/8936424602_1.jpg) | 고양이 게스트하우스 한국어 : 권창섭 시집 | 권창섭 | 파주 : 창비, 2021 | 811.17 권82고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33423/98/cover/k642938536_1.jpg) | (2024) 올해의 문제소설 | 권여선 | 파주 : 푸른사상 : 푸른사상사, 2024 | 811.3 한16올 2024 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33343/70/cover/k202938808_1.jpg) | 똑똑(talk-talk)한 대화법 : 일잘러의 직장 소통법 | 최지혜 | 서울 : 북인사이트 : 열린길, 2024 | 658.45 똑25최 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 약사 선배 : 8번의 실전 개국노트 | 이태영 | 서울 : 지식과감성#, 2024 | 615.1 이883약 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33377/55/cover/k922938411_1.jpg) | 약사 선배 : 8번의 실전 개국노트 | 이태영 | 서울 : 지식과감성#, 2024 | 615.1 이883약 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32086/69/cover/k372834096_1.jpg) | 결혼·여름 | Camus, Albert | [서울] : 녹색광선, 2023 | 844.914 C211nK장 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32246/90/cover/k492834749_1.jpg) | 감정평가 관계법규 | 김도훈 | 서울 : 法學社, 2023 | 346.043 김25감7 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/4877/78/cover/8996367176_1.jpg) | 중의체질학 | 왕기 | 서울 : CH, 2014 | 610.952 왕18중K조 | 중앙도서관 |
@@ -45,10 +52,3 @@
 | ![](https://image.aladin.co.kr/product/28369/41/cover/k902835403_1.jpg) | How to sound like a native Korean speaker | TalkToMeInKorean | Seoul : Longtail Books, 2021 | 411.8 T146h | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/19905/99/cover/k942635639_1.jpg) | Common mistakes korean learners make : 100 ways to sound more natural in Korean | TalktoMeInKorean | 서울 : 롱테일북스, 2019 | 411.8 T146c | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23481/38/cover/k302638502_1.jpg) | 1100 short & useful Korean phrases for beginners | TalkToMeInKorean | 서울 : 롱테일북스, 2020 | 411.5 T146원 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33188/32/cover/k272937532_1.jpg) | (아름답고 생태적인 정원을 위한) 자연주의 식재디자인 | Dunnett, Nigel | 서울 : 목수책방, 2024 | 712.6 D923nK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33453/57/cover/k842938741_2.jpg) | 때로는 간절함조차 아플 때가 있었다 : 나를 단단하게 만들어준 순간들에 관하여 : 강지영 에세이 | 강지영 | 서울 : 빅피시, 2024 | 811.47 강78때 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/14333/70/cover/8994320873_1.jpg) | 인터넷 정글에서 생존하기 : 인터넷과 윤리 | 김성완 | 서울 : 강현, 2018 | 175 김54인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31728/47/cover/k062833896_1.jpg) | 트리즈를 활용한 창의적 문제해결 | 김성완 | 서울 : 박영story : 피와이메이트, 2023 | 608 김54트 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29327/7/cover/8999726665_1.jpg) | 사망수사 심리학 : 심리부검 및 범죄 프로파일링의 행동분석 | Ramsland, Katherine M | 서울 : 학지사, 2022 | 614.15 R183pK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/16958/30/cover/k072534473_1.jpg) | 극장의 역사 : 건축과 연극의 사회문화사 | 임석재 | 서울 : 이화여자대학교출판문화원, 2018 | 792.09 임54극 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23507/96/cover/8998521733_1.jpg) | 동기강화상담 기술훈련 : 실무자 워크북 | Rosengren, David B | 서울 : 박학사, 2020 | 158.39 R813b2K신 | 중앙도서관 |
