@@ -2,6 +2,20 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/33284/36/cover/k532938986_1.jpg) | (IFRS 반영) 회계학원론 : 해답 | 김병조 | 서울 : 창민사, 2024 | 657 김44회해5 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24136/37/cover/k862639637_2.jpg) | 몸에 밴 어린 시절 : 고민과 불행의 원인이 되는 내재과거아에 효과적으로 대처하는 법 | Missildine, W. Hugh | [서울] : 일므디, 2020 | 306.874 M678yK이고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33577/98/cover/k682939393_1.jpg) | 호모 엑스 마키나 : 인류의 종말인가, 진화의 확장인가 | Kleine-Gunk, Bernd | 서울 : 와이즈베리 : 미래엔, 2024 | 144 K64hK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30070/44/cover/k092839664_1.jpg) | 기업가치 평가실무 | 김종일 | 서울 : 조세통람, 2022 | 658.15 강78기개10 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (초보자를 위한) Oracle 12c : RAC 편 | 권순용 | 서울 : axiom : 엑시엄정보시스템, 2020 | 005.7565 O63권r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 소태산이 밝힌 정신개벽의 길 : 일상에서 찾은 원불교의 영성 | 장진영 | 서울 : 불광, 2024 | 294.39 장78소 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 지금 우리에게 예수는 누구인가? : 길 위의 그리스도 | 정경일 | 서울 : 불광, 2024 | 232 정14지 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Child psychopathology | Mash, Eric J | New York : The Guilford Press, 2014. | 618.9289 M397c3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | AI writing revolution : how to quickly craft exceptional books and captivate 5-star readers! | Rowan, Leo | [S.l] : Leo Rowan, 2024. | 006.3 R877a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Writing in the age of AI : ChatGPT unleashed by ChatGPT for teachers and students | Ho, Yvonne | [S.l] : [s.n], 2024. | 006.3 H678w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The marketizers : public choice and the origins of the neoliberal order | Jensen, Jacob | London : Goldsmiths Press, 2022. | 306.2 J54m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Chile project : the story of the Chicago boys and the downfall of neoliberalism | Edwards, Sebastian | Princeton : Princeton University Press, 2023. | 338.983 E26c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Juárez : historia y mito | Vázquez, Josefina Zoraida | México : El Colegio de México, Centro de Estudios Históricos, 2010. | 972.07 J91v | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Surface science : foundations of catalysis and nanoscience | Kolasinski, Kurt W | Hoboken, NJ : Wiley, 2020. | 541.33 K81s4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33060/27/cover/k562937990_1.jpg) | 컬러 필드 : 박문영 경장편 | 박문영 | 서울 : 안전가옥, 2023 | 811.37 박36컬 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33648/83/cover/8955868049_1.jpg) | 미르치아 엘리아데의 『성과 속』 읽기 | 신호재 | 서울 : 세창미디어, 2024 | 200.1 E42신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32147/15/cover/k862834211_1.jpg) | 나의 오랜 상처 돌보기 : 트라우마 치유를 위한 워크북 | Fisher, Janina | 서울 : 박영story : 피와이메이트, 2023 | 616.8521 F534tK이 | 중앙도서관 |
@@ -38,17 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31839/58/cover/k022833320_1.jpg) | 미분기하학 바이블 | Carmo, Manfredo Perdigão do | 서울 : 한빛아카데미, 2023 | 516.36 C287d2K한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31325/2/cover/k242832684_1.jpg) | 프리물리학 | 김영유 | 서울 : 북스힐, 2023 | 530 프298김4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29088/59/cover/k972837764_1.jpg) | 지구과학교육론 | 김찬종 | 서울 : 북스힐, 2022 | 550.7 지16김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30795/7/cover/k492831464_1.jpg) | 학부모의 마음 읽기와 지혜로운 소통 : 유아·놀이중심 교육과정을 실천하는 유아 교사를 위한 공감적 의사소통 | 유아교육디자인연구소 | 서울 : 맘에드림, 2023 | 371.103 유62학 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30088/92/cover/8999727149_1.jpg) | 부모교육 및 상담 | 김미례 | 서울 : 학지사, 2022 | 649.1 부35김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32199/71/cover/k952834427_1.jpg) | (쉽고 빠른 처방 길잡이) 자신만만 약처방 | 김영설 | 파주 : 군자, 2023 | 615.1 김64자 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31294/97/cover/k722832676_1.jpg) | (SAS와 메타분석을 활용한) 한번에 적용하는 의학보건통계 | 히든그레이스 | 서울 : 한빛아카데미, 2023 | 610.727 히27한s | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32542/81/cover/k872935139_1.jpg) | 프롬프트 엔지니어링 : 챗GPT, 바드, 빙, 하이퍼클로바X까지 한 권으로 끝내기 | 반병현 | 파주 : 생능북스 : 생능, 2023 | 006.3 반44프 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32518/1/cover/8931469578_1.jpg) | 생성 AI를 활용한 나만의 콘텐츠 만들기 : 텍스트, 이미지, 오디오, 비디오 생성 AI활용 가이드북 | 김민후 | 서울 : 영진닷컴, 2023 | 006.3 김38생 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31182/46/cover/k372831858_1.jpg) | (클라우드 서비스 개발자를 위한) AWS로 구현하는 CI/CD 배포 입문 | 최주호 | 파주 : 앤써북, 2023 | 004.6782 최76a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31138/36/cover/8960884227_1.jpg) | (이한영의) Django 입문 : 파이썬으로 시작하는 웹 프로그래밍 | 이한영 | 서울 : 디지털북스, 2023 | 005.133 이92d | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31316/83/cover/k402832886_1.jpg) | 나도 하는 파이썬 데이터 분석 | 김규석 | 서울 : 한빛미디어, 2023 | 005.133 김16나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31285/64/cover/8970930914_1.jpg) | 라즈베리파이4로 구현하는 사물인터넷(IoT)과 인공지능(AI) | 김경연 | 파주 : 光文閣, 2023 | 004.16 라77김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31059/17/cover/k462831426_1.jpg) | (취업과 이직을 위한) 프로그래머스 코딩 테스트 문제 풀이 전략 : 자바 편 | 김범수 | 서울 : 길벗, 2023 | 005.133 김44프자 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31081/67/cover/k292831623_1.jpg) | ZBrush basic class | 이동후 | 부천 : 루비페이퍼, 2023 | 006.696 이25z2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30913/79/cover/k492831586_1.jpg) | 쉽게 배우는 운영체제 | 조성호 | 서울 : 한빛아카데미, 2023 | 005.43 조54쉽2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30709/49/cover/k102830240_1.jpg) | (젯팩 컴포즈로 개발하는) 안드로이드 UI | Kunneth, Thomas | 서울 : 에이콘, 2022 | 005.268 K96aK강 | 중앙도서관 |
