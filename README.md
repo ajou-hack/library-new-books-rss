@@ -2,13 +2,14 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 주택임대차보호법 이해 | 이성진 | 대구 : 책과세계, 2024 | 346.0434 이54주 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/33284/36/cover/k532938986_1.jpg) | (IFRS 반영) 회계학원론 : 해답 | 김병조 | 서울 : 창민사, 2024 | 657 김44회해5 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/24136/37/cover/k862639637_2.jpg) | 몸에 밴 어린 시절 : 고민과 불행의 원인이 되는 내재과거아에 효과적으로 대처하는 법 | Missildine, W. Hugh | [서울] : 일므디, 2020 | 306.874 M678yK이고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33577/98/cover/k682939393_1.jpg) | 호모 엑스 마키나 : 인류의 종말인가, 진화의 확장인가 | Kleine-Gunk, Bernd | 서울 : 와이즈베리 : 미래엔, 2024 | 144 K64hK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30070/44/cover/k092839664_1.jpg) | 기업가치 평가실무 | 김종일 | 서울 : 조세통람, 2022 | 658.15 강78기개10 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (초보자를 위한) Oracle 12c : RAC 편 | 권순용 | 서울 : axiom : 엑시엄정보시스템, 2020 | 005.7565 O63권r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 소태산이 밝힌 정신개벽의 길 : 일상에서 찾은 원불교의 영성 | 장진영 | 서울 : 불광, 2024 | 294.39 장78소 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 지금 우리에게 예수는 누구인가? : 길 위의 그리스도 | 정경일 | 서울 : 불광, 2024 | 232 정14지 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23293/84/cover/k402637713_1.jpg) | (초보자를 위한) Oracle 12c : RAC 편 | 권순용 | 서울 : axiom : 엑시엄정보시스템, 2020 | 005.7565 O63권r | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33574/87/cover/k902939390_1.jpg) | 소태산이 밝힌 정신개벽의 길 : 일상에서 찾은 원불교의 영성 | 장진영 | 서울 : 불광, 2024 | 294.39 장78소 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33574/77/cover/k642939399_1.jpg) | 지금 우리에게 예수는 누구인가? : 길 위의 그리스도 | 정경일 | 서울 : 불광, 2024 | 232 정14지 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Child psychopathology | Mash, Eric J | New York : The Guilford Press, 2014. | 618.9289 M397c3 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | AI writing revolution : how to quickly craft exceptional books and captivate 5-star readers! | Rowan, Leo | [S.l] : Leo Rowan, 2024. | 006.3 R877a | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Writing in the age of AI : ChatGPT unleashed by ChatGPT for teachers and students | Ho, Yvonne | [S.l] : [s.n], 2024. | 006.3 H678w | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/30862/15/cover/k072831572_1.jpg) | (처음 배우는) 반도체 : 기초부터 제대로 이해하기 | 국지정전 | 서울 : 북스힐, 2022 | 621.38152 국78반K유 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31839/58/cover/k022833320_1.jpg) | 미분기하학 바이블 | Carmo, Manfredo Perdigão do | 서울 : 한빛아카데미, 2023 | 516.36 C287d2K한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31325/2/cover/k242832684_1.jpg) | 프리물리학 | 김영유 | 서울 : 북스힐, 2023 | 530 프298김4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29088/59/cover/k972837764_1.jpg) | 지구과학교육론 | 김찬종 | 서울 : 북스힐, 2022 | 550.7 지16김 | 중앙도서관 |
