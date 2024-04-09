@@ -2,13 +2,45 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/30891/28/cover/8994091084_1.jpg) | 해외조달 실무 | 김웅진 | 서울 : 한국구매경영원 : Korea purchasing Business Institute : KPBI, 2022 | 658.7 김66해3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24324/25/cover/8994091068_1.jpg) | 구매관리 실무 | 구매관리연구회 | 서울 : 한국구매경영원 : Korea purchasing Business Institute : KPBI, 2020 | 658.72 구33구6 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/21019/10/cover/8994091041_1.jpg) | 자재관리 실무 | 자재관리연구회 | 서울 : 한국구매경영원 : Korea purchasing Business Institute : KPBI, 2023 | 658.7 자73자5 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33232/89/cover/k052937259_1.jpg) | (Streamlit으로) 프로젝트 한방에 끝내기 with 파이썬 : GCP및 Github actions을 활용한 배포 | Sara | 서울 : 부크크, 2024 | 005.133 S243프2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29625/40/cover/k392838376_2.jpg) | A/B 테스트 : 신뢰도 높은 온라인 통제 실험 | Kohavi, Ron | 서울 : 에이콘, 2022 | 302.231 K79tK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33029/15/cover/k862937174_1.jpg) | 성인문해와 문해능력조사 | 허준 | 서울 : 학이시습, 2023 | 374.0124 허76성 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32761/62/cover/k772936288_1.jpg) | 공대생은 창업한다 | 박진성 | 광주 : 가우스북, 2023 | 658.11 박78공 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33583/88/cover/k492939496_1.jpg) | 공대생은 생각한다 : version 1.0 | 박진성 | 광주 : 가우스북, 2024 | 602 박78공 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33583/88/cover/k432939496_1.jpg) | K-콘텐츠 어떻게 만드나요? : <우영우>, <꼬꼬무>, <피지컬 100>, <유퀴즈>, <스우파> PD 심층인터뷰 | 홍경수 | 서울 : 학지사비즈, 2024 | 791.450232 홍14k | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33465/34/cover/k862938842_1.jpg) | 헛스윙 : 지치면 지고 미치면 이긴다 | 이희천 | 서울 : Deep&Wide, 2024 | 650.1 이97헛 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33486/40/cover/k992938254_1.jpg) | 실패는 나침반이다 : 50대 개발자의 실리콘밸리 회고록 | 한기용 | 서울 : 이오스튜디오, 2024 | 650.1 한18실 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33517/57/cover/k672938651_1.jpg) | 누구의 인생을 살고 있는가 : 운명을 바꾸는 현인들의 인생 질문 | 송전충홍 | 서울 : 드림셀러, 2024 | 179.9 송74현K민 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33397/74/cover/k852938511_1.jpg) | 미세 스트레스 : 당신의 일상을 갉아먹는 침묵의 파괴자 | Cross, Robert L | 파주 : 21세기북스 : 북이십일 21세기북스, 2024 | 155.9042 C951mK구 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33368/93/cover/k822938213_1.jpg) | 말은 마음에서 나옵니다 : 단단하게 나를 지키고 다정하게 소통하는 사람들의 비밀 | 김종원 | 서울 : 카시오페아, 2024 | 808.5 김75말 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33460/69/cover/k842938746_1.jpg) | 질병은 없다 : 현대의학의 한계를 넘어 더 건강하게 오래 사는 만성질환 정복법 | Bland, Jeffrey | 안양 : 정말중요한 : 솜씨컴퍼니, 2024 | 615.5 B642dK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33512/64/cover/8958208740_1.jpg) | 장 건강과 면역의 과학 : 미생물을 생각하는 식단이 몸을 살린다 | Mayer, Emeran A | 파주 : 궁리, 2024 | 616.9041 M468gK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33460/46/cover/k462938746_1.jpg) | 나무 : 삶과 죽음의 이야기 | Suzuki, David | 서울 : The Wise Book : 더 와이즈, 2024 | 582.16 S968t2K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33359/70/cover/8935214523_1.jpg) | 경제머리가 필요한 순간 : 돈의 흐름이 읽히는 가장 쉬운 경제 공부 | 한진수 | 서울 : 청림, 2024 | 330.02 한78경돈 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33496/44/cover/k602938454_1.jpg) | 헤르만 헤세 인생의 말 | Hesse, Hermann | 서울 : 더블북, 2024 | 838.912 H587백K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33359/87/cover/k072938909_1.jpg) | 좋은 문장 표현에서 문장부호까지! : 국립국어원 온라인가나다 선생님의 문장 교실 | 이수연 | 서울 : 마리북스, 2024 | 411.5 이56좋 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33522/77/cover/k062939372_1.jpg) | 자아폭발 : 타락과 광기의 시대, 그 근원에 관한 도발적인 탐구 | Taylor, Steve | 서울 : 서스테인, 2024 | 930.1 T246fK우 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33513/71/cover/8901280515_1.jpg) | 마음 해방 : 소용돌이치는 인생의 한가운데에서 마음의 고요를 얻는 법 | 곽정은 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2024 | 158.1 곽74마 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33397/80/cover/k972938512_2.jpg) | (1000명의 죽음을 지켜본 호스피스 전문의가 말하는) 죽을 때 후회하는 스물다섯 가지 | 대진수일 | 파주 : 21세기북스 : 북이십일 21세기북스, 2024 | 155.937 대78사K황이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33464/63/cover/k012938841_1.jpg) | 비밀의 심리학 : 일상에 숨은 비밀로 들여다보는 인간관계와 행복 | Slepian, Michael | 성남 : 상상스퀘어, 2024 | 302.2 S632sK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33408/26/cover/k612938238_1.jpg) | 나쁜 감정에 흔들릴 때 읽는 책 : 불안, 분노, 무력감 뒤에 숨은 진짜 감정을 돌보는 심리 수업 | 권수영 | 고양 : 갈매나무, 2024 | 152.46 권56나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33344/56/cover/8927880250_1.jpg) | (스포츠 다큐) 죽은 철인의 사회 : 우리 마음속에 여전히 살아 숨 쉬는 스포츠 영웅들 | 정영재 | 서울 : 중앙books : 중앙일보에스, 2024 | 796.092 정64죽 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33404/17/cover/k812938037_1.jpg) | (길 위에서 만나는) 쇼펜하우어 : 걷기 전도사 신정일이 만난 쇼펜하우어 인생처세 이야기 | 신정일 | 서울 : 다차원북스, 2024 | 193 S373신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33463/98/cover/k902938848_2.jpg) | 혼자 있는 시간이 나를 만든다 | 래띠 | 서울 : 필름, 2024 | 811.87 래28혼 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33518/50/cover/8934956933_1.jpg) | 좋아하기 때문에 : 나태주의 인생 수업 | 나태주 | 파주 : 김영사, 2024 | 811.47 나883좋김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33406/20/cover/8976046528_1.jpg) | 삶을 견디는 기쁨 : 힘든 시절에 벗에게 보내는 편지 | Hesse, Hermann | 서울 : 문예춘추사, 2024 | 834.912 H587LK유2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33397/87/cover/k092938512_1.jpg) | 내 속에는 나무가 자란다 | Roy, Sumana | 서울 : 바다, 2024 | 179.1 R888hK남 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33463/98/cover/k942938848_1.jpg) | 미드나잇 레드카펫 : 김청귤 소설 | 김청귤 | 서울 : 네오픽션 : 네오북스, 2024 | 811.37 김83미 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33406/63/cover/k132938133_1.jpg) | 기억을 먹는 아이 : 도대체 이야기집 | 도대체 | [서울] : 유유히, 2024 | 811.37 도23기 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33213/2/cover/k802937054_2.jpg) | 시간을 거슬러 간 나비 : 데뷔 30주년 기념 초기 단편집 | 듀나 | 서울 : 읻다, 2024 | 811.37 듀192시 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33408/32/cover/k962938239_1.jpg) | 한밤의 도박 | Schnitzler, Arthur | [고양] : 빛소굴, 2024 | 833.8 S361sK남 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33617/36/cover/k052939016_2.jpg) | 양수인간 : 삶의 격을 높이는 내면 변화 심리학 | 최설민 | [대구] : 북모먼트 : 북로망스, 2024 | 158.1 최54양 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Leadership BS : fixing workplaces and careers one truth at a time | Pfeffer, Jeffrey | New York, NY : Harper Business, an imprint of HarperCollins Publishers, 2015. | 658.4092 P524L | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The book eaters | Dean, Sunyi | New York : Tor, 2023. | 823.92 D282b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Strengthening the rule of law in Europe : from a common concept to mechanisms of implementation | Schroeder, Werner | Oxford : Hart Publishing, 2019. | 349.4 S381s | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The rules of play : national identity and the shaping of Japanese leisure | Leheny, David Richard | Ithaca : Cornell University Press, 2003. | 306.480953 L522r | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The AI infused classroom : inspiring ideas to shift teaching and maximize meaningful learning in the world of AI | Clark, Holly | Del Mar : Elevate Books EDU, 2023. | 371.334 C593a | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Positivism, science, and 'the scientists' in Porfirian Mexico : a reappraisal | Priego, Natalia | Liverpool : Liverpool University Press, 2016. | 972 P948p | 중앙도서관 |
@@ -20,35 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Victims of the Chilean miracle : workers and neoliberalism in the Pinochet era, 1973-2002 | Winn, Peter | Durham : Duke University Press, 2004. | 331.0983 W776v | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Chile and the neoliberal trap : the post-Pinochet era | Solimano, Andrés | New York : Cambridge University Press, 2014. | 330.983 S686c | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The sinicization of Chinese religions : from above and below | Madsen, Richard | Leiden | 322.10952 M183s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Emotion focused family therapy with children and caregivers : a trauma-informed approach | Foroughe, Mirisse | New York : Routledge, Taylor ＆ Francis Group, 2019. | 616.89156 F727e | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The political economy of science, technology, and innovation in China : policymaking, funding, talent, and organization | Sun, Yutao | Cambridge, United Kingdom | 338.4 S957p | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/10781/91/cover/8992219660_1.jpg) | 종점식당 : 김명기 시집 | 김명기 | 대전 : 애지, 2017 | 811.17 김34종 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31402/14/cover/894754888x_1.jpg) | 나는 집 대신 땅에 투자한다 : 딱 1년 공부하고 평생 써먹는 토지 투자 공식 | 김종율 | 서울 : 한국경제신문 : 한경BP, 2023 | 332.6324 김75나딱 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29318/28/cover/k402837711_1.jpg) | 우리는 비슷한 얼굴을 하고서 : 한 시절 곁에 있어준 나의 사람들에게 | 김달님 | 파주 : 수오서재, 2022 | 811.87 김22우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32781/87/cover/k322936386_1.jpg) | 낱말의 장면들 : 마음이 뒤척일 때마다 가만히 쥐어보는 다정한 낱말 조각 | 민바람 | 서울 : 서사원, 2023 | 811.87 민42낱 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33564/7/cover/8999730557_1.jpg) | DSM-5-TR 임상사례집 | Barnhill, John W | 서울 : 학지사, 2024 | 616.89075 B262dK강학 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33556/67/cover/k472939677_1.jpg) | 프리드리히 니체 아포리즘 : 혼자일 수 없다면 나아갈 수 없다 | Nietzsche, Friedrich Wilhelm | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2024 | 193 N677김혼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26566/10/cover/k542738033_1.jpg) | 후회 방지 대화 사전 | 왕고래 | 서울 : 웨일북, 2021 | 808.5 왕15후 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33527/38/cover/k832939478_1.jpg) | 때로는 나도 숨어버리고 싶다 : 가끔 멈춰 온전히 나를 사랑하는 시간 | 성폐훤 | 고양 : 이든서재 : 다빈치하우스, 2024 | 150.1953 성894유K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33605/64/cover/k072939705_1.jpg) | 고층 입원실의 갱스터 할머니 : 양유진 에세이 | 양유진 | 파주 : 21세기북스 : 북이십일 21세기북스, 2024 | 811.87 양66고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/21773/4/cover/k832636006_1.jpg) | 재무제표를 꿰뚫어보는 법 : 이제껏 당신이 몰랐던 재무제표의 비밀 | 양대천 | 서울 : 메이트북스 : 원앤원콘텐츠그룹, 2019 | 657.3 양23재이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/254/60/cover/8956386439_1.jpg) | 都市, 學校, 怪談 | 김종대 | 서울 : 민속원, 2008 | 398.20951 김75도 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31105/96/cover/k962831740_1.jpg) | 기독교가 직면한 12가지 질문 | McLaughlin, Rebecca | 서울 : 죠이북스 : 죠이선교회, 2021 | 239 M161cK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33684/81/cover/8949101114_1.jpg) | 만질 수 있는 생각 : 그림책 작가 이수지 에세이 | 이수지 | 서울 : 비룡소, 2024 | 811.87 이56만 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/312/57/cover/8936482416_1.jpg) | 한국 민족주의의 계보와 정치 | 신기욱 | 파주 : 창비, 2009 | 320.540951 신18한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28086/33/cover/898429215x_1.jpg) | (2022) 정책제안 | 최승노 | 서울 : 자유기업원, 2021 | 352.34 정82최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31554/73/cover/8950949288_1.jpg) | 대한민국 행복지도 2023 : 서울대 행복연구센터의 행복 리포트 | 서울대학교 | 파주 : 21세기북스 : 북이십일 21세기북스, 2023 | 301.0951 서66대 2023 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33512/14/cover/k972938551_1.jpg) | 멀티모달 생성 AI 인사이드 : 멀티모달 생성 AI의 개념부터 활용 전략과 미래 전망까지 | 홍정한 | 서울 : 한빛미디어, 2024 | 006.3 홍74멀 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29133/86/cover/k632837770_1.jpg) | 저인화점 연료추진 친환경선박 | 김종민 | 서울 : GS인터비전, 2022 | 623.874 저68김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32378/17/cover/k232935670_1.jpg) | (정선(精選)) 앙굿따라 니까야 | 이중표 | 서울 : 불광, 2023 | 294.382 앙16이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/11690/92/cover/8952237331_1.jpg) | 열국지 | 풍몽룡 | 파주 : 살림, 2017 | 812.3 풍35동K진 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33658/32/cover/k932939522_1.jpg) | 꿈꾸는 할멈 | 김옥란 | 서울 : 포북, 2024 | 811.87 김65꿈 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23429/73/cover/8973435248_1.jpg) | (알수록 덜 내는) 절세 노하우 100문 100답 : 사업자&일반인이 알아야 할 세금의 모든 것 | 장보원 | 고양 : 평단, 2020 | 336.2 장45절2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33406/38/cover/8935214531_1.jpg) | 세금을 알아야 부가 보인다 : 현직 세무사가 알려주는 속 시원한 절세 비법 56가지 | 이동기 | 서울 : 청림, 2024 | 336.2 이25세9 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/4140/41/cover/8997570838_1.jpg) | DRAM 회로설계 | 최성대 | 서울 : 홍릉과학, 2013 | 621.3973 최54d | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32896/66/cover/k252936629_1.jpg) | 업종별 상장기업 재무제표 하이라이트 : 빠르고, 정확하게, 핵심만, '맞춤형 재무제표 분석 노하우! | 김대욱 | 고양 : 스마트비즈니스, 2023 | 657.3 김23업 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23648/93/cover/k502638735_1.jpg) | 퇴근 후, 동네 책방 | 구선아 | 서울 : 리얼북스, 2020 | 381.45002 구54퇴 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33657/84/cover/k272939529_1.jpg) | 나는 나와 다투지 않습니다 : 알아차리고, 허용하고, 내맡기는 삶의 여정 | 오윤미 | 서울 : 두드림미디어, 2024 | 158.1 오66나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33608/1/cover/k102939802_1.jpg) | 미술관을 빌려드립니다 : 북유럽 : 일상의 행복을 사랑한 화가들 | 손봉기 | 서울 : 더블북, 2024 | 708.48 손45미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/21767/41/cover/k182636003_1.jpg) | (에크하르트 톨레의) 이 순간의 나 | Tolle, Eckhart | 서울 : 센시오, 2019(2024 16쇄) | 204.4 T651pK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32993/37/cover/892541838x_1.jpg) | 아동을 위한 미술치료 활동 : 긍정행동 강화, 사회성 및 감정 회복탄력성 향상을 위한 75가지 근거기반 미술 프로젝트 | Curtis, Erica | 파주 : 교육과학사, 2024 | 615.85156 C978aK김 | 중앙도서관 |
