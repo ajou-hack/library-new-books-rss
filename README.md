@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/89/60/cover/s742838495_1.jpg) | 파커 파인 사건집 : 애거서 크리스티 단편집 | Christie, Agatha | 서울 : 황금가지, 2022 | 823.912 C555pK김3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/dbfd47a5-3fcc-45a9-8005-80795fff7550) | 뉴미디어의 언어 | Manovich, Lev | 서울 :커뮤니케이션북스,2014 | 302.2 M285LK서커 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/10087/59/cover/k652536079_2.jpg) | (Razavi의) 아날로그 CMOS 집적회로 설계 | Razavi, Behzad | 서울 : 맥그로힐에듀케이션코리아, 2017 | 621.3815 R278d2K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31269/39/cover/k782832466_1.jpg) | 참의사 고원중 : 연구와 진료에 매진하다 스러진 어느 의사의 이야기 : 큰글자책 | 권복규 | 서울 : 청년의사, 2023 | 610.92 권45참연 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33154/92/cover/k172937136_1.jpg) | 교육사회학총론 : 공교육 바로보기 | 이종각 | 서울 : 동문사, 2024 | 306.43 이75교 | 중앙도서관 |
@@ -14,41 +16,39 @@
 | ![](https://image.aladin.co.kr/product/53/74/cover/8982737154_4.jpg) | 쥐덫 : 애거서 크리스티 장편소설 | Christie, Agatha | 서울 : 황금가지, 2017(2022 4쇄) | 823.912 C555tK김2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/47/96/cover/8982737111_3.jpg) | 끝없는 밤 : 애거서 크리스티 장편 소설 | Christie, Agatha | 서울 : 황금가지, 2017(2022 3쇄) | 823.912 C555eK이2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/85/80/cover/s982737197_1.jpg) | 창백한 말 | Christie, Agatha | 서울 : 황금가지, 2021 | 823.912 C555pK신3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33478/68/cover/k052938150_1.jpg) | All about 푸르다 : 식물 가게에 대해 모든 것이 궁금한 이를 위한 창업 가이드북 | 박상우 | 서울 : 푸르다, 2024 | 658.11 박52a | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33360/82/cover/k332938901_1.jpg) | 降伏論 : 성공을 위한 내려놓기 | 고삼용기 | 서울 : HCbooks : 힘찬북스, 2024 | 650.1 고52항K원 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33511/40/cover/k402938559_1.jpg) | 평범함에 도둑맞은 탁월함 : 평범함과 탁월함을 가르는 결정적 조건 | 이재영 | 서울 : 원앤원북스, 2024 | 650.1 이73평 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33496/14/cover/k292938454_1.jpg) | 테크 라이프 밸런스 : 디지털 세상에서 똑똑하게 살아가는 101가지 방법 | Bendz, Taíno | 서울 : 책장속북스, 2024 | 303.36 B459tK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33470/44/cover/k302938058_1.jpg) | 인간 해석 : 세상이 변해도 변하지 않는 인간사 | 서보경 | 파주 : 더로드, 2024 | 128 서45인 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33511/2/cover/k512938457_1.jpg) | 얼 나이팅게일 위대한 성공의 도구 : 당신의 인생을 바꾸는 관계와 대화의 기술 | Nightingale, Earl | 서울 : 더 퀘스트 : 길벗, 2024 | 158.1 N688yK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33511/75/cover/k492938550_1.jpg) | 발가벗은 힘 : 회사 밖에서도 통하는 진짜 역량 | 이재형 | 화성 : 파지트, 2024 | 650.1 이73발2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33336/43/cover/k972938691_1.jpg) | 마흔, 라벨 떼고 다시 시작 : 재능, 환경, 한계를 뛰어넘어 최고의 나를 만나는 역주행 인생 공략법 | 강유정 | 서울 : 클랩북스, 2024 | 158.10844 강66마 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33511/87/cover/k792938550_2.jpg) | 마음 근육 튼튼한 내가 되는 법 : 일상이 버거운 당신을 위한 셀프 치유! | 박상미 | 서울 : 특별한서재, 2024 | 158.2 박52마일 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33477/64/cover/8925575345_1.jpg) | 긍정의 스위치를 켜라 : 실패와 축적의 시간을 뒤집은 위대한 생각의 전환 | 고명우 | 서울 : 알에이치코리아, 2024 | 158.1 고34긍 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33397/88/cover/k162938512_2.jpg) | 발상의 회로 | 중천량 | 고양 : 지니의서재 : 리드리드, 2024 | 658.401 중83발K한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33494/65/cover/k792938451_1.jpg) | 성공한 사람들의 20가지 시간관리 습관 : 미루지 말고 바로 행동하라 | 백미르 | [서울] : 다온길, 2024 | 650.1 백38성 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33359/56/cover/k862938807_1.jpg) | 플랜 비 : 뜻대로 안 되는 삶에서 발견한 차선의 전략 | 연평우 | 파주 : 다산북스, 2024 | 650.1 연894플 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33365/11/cover/8934965142_1.jpg) | 커넥팅 : 일의 길을 찾는 당신을 위한 커리어 포트폴리오 전략 | 신수정 | 파주 : 김영사, 2024 | 650.1 신56커 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33377/26/cover/k522938419_1.jpg) | 나는 UXUI 디자이너를 취업시키는 일을 하고 있습니다 | 이성경 | 서울 : 두드림미디어, 2024 | 005.437 이54나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33487/90/cover/k862938358_1.jpg) | (내 삶에 힘이 되는) 니체의 말 | 임성훈 | [서울] : 다른상상, 2024 | 193 N677임다 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33359/49/cover/k322938807_1.jpg) | 북유럽 미술관 여행 : 자연 친화적이고 혁신적인 북유럽 미술관을 가다 | 이은화 | 서울 : 상상, 2024 | 708.94 이67북 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33366/51/cover/k162938004_1.jpg) | (내가 본 미술관) 루브르 성화 : 루브르 성화 속 성경이야기 | 진병철 | 서울 : 열린북스, 2024 | 755.2 진44루 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33338/20/cover/k672938696_1.jpg) | 꿈의 진료실 : 누구나 수술 없이 통증을 없애는 곳 | 황윤권 | 서울 : 타임북스, 2024 | 616.0472 황66꿈 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33406/17/cover/k872938139_1.jpg) | 필사의 수컷, 도도한 암컷 : 성선택 이론이 보여주는 진화의 신비 | 전도목면자 | 서울 : 플루토, 2024 | 576.82 전25필K명 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33364/89/cover/k452938009_1.jpg) | 엔트로피 | 김명석 | 서울 : 학아재, 2024 | 536.73 김34엔 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33365/72/cover/k302938001_1.jpg) | New space : 이미 시작된 우주 자본의 시대 | 이임복 | 서울 : 퍼블리온, 2024 | 338.476291 이68n | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33488/13/cover/k402938359_1.jpg) | 돈의 질서 : 인간과 자연 세계를 둘러싼 돈의 철학적 탐구 | Sebag, Roy | 서울 : 알파미디어, 2024 | 330.01 S443nK윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33532/92/cover/k612939579_1.jpg) | 돌봄, 동기화, 자유 : 자유를 빼앗지 않는 돌봄이 가능할까 | 촌뢰효생 | [파주] : 다다서재, 2024 | 362.6 촌295돌K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33481/12/cover/k582938152_1.jpg) | 문학관으로 가는 길에서 시를 읽다 : 문학관 답사기 | 하상일 | 서울 : 새움, 2024 | 811.09 하52문 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33476/4/cover/k062938056_1.jpg) | 나는 시간을 복원하는 사람입니다 : 어느 문화재 복원가가 들려주는 유물의 말들 | 신은주 | 서울 : 앤의서재, 2024 | 069.53 신67나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33486/21/cover/k122938253_1.jpg) | 컴팩트 임팩트 : 기자처럼 글쓰고 앵커처럼 말하라 | 이상복 | 서울 : 더봄, 2024 | 808 이52컴 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33343/71/cover/k232938808_1.jpg) | 대화의 대화 : 우리의 대화는 불가능하다 | 요조 | 서울 : 중림서재 : 메디치미디어, 2024 | 028.9 요75대 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33375/36/cover/8937456346_1.jpg) | 삶을 위한 혁명 : 죽음의 체제에 맞서는 새로운 저항들의 의미 | Redecker, Eva von | 서울 : 민음사, 2024 | 322.4 R314rK임 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33364/52/cover/k832938907_1.jpg) | 잠들기 전에 읽는 아들러 | 협주 | 고양 : 오렌지연필, 2024 | 150.1953 협76니K하 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33513/17/cover/k332938553_1.jpg) | 소녀들의 감정 수업 : 21세기 젊은 여성을 위한 생존 심리학 | Porter, Tara | [서울] : 또다른우주, 2024 | 155.533 P848yK백 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33342/65/cover/8958743980_1.jpg) | 당신은 불안을 안고 잘 지내는 사람 : 마음이 쉽게 불안해지는 당신을 위한 처방전 | Thorne, Helen | 서울 : 좋은씨앗, 2024 | 234.25 T511hK신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33407/13/cover/k832938134_1.jpg) | 빛으로 본 한국 역사 : 나의 딸, 나의 아들과 미래 세대에게 들려주는 우리 역사 이야기 | 김영석 | 서울 : Dodobook, 2023 | 951 김64빛 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33488/24/cover/k922938350_1.jpg) | 혼자서도 잘 사는 걸 어떡합니까 | 신아로미 | 서울 : 부크럼, 2024 | 811.87 신62혼 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33336/60/cover/k522938691_1.jpg) | 이 사람을 기른 어머니 | 고경숙 | 서울 : 해냄, 2024 | 811.87 고14이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33488/86/cover/k172938352_1.jpg) | 스무 살, 나를 만나러 갑니다 : 심리학이 필요한 청춘에게 | 최혜만 | 서울 : 바른북스, 2024 | 811.87 스36최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33366/14/cover/k992938003_1.jpg) | 나는 멈추지 않는다 : 스포츠 인문학자의 삶과 배움 | 황용필 | 파주 : 이담북스 : 한국학술정보, 2024 | 811.87 황65나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33465/59/cover/k262938843_1.jpg) | 경성에서, 정월。 : 여성, 화가, 지식인 나혜석이 그린 여러 정체성의 나날 | 나혜석 | 고양 : 이일상, 2024 | 811.87 나94경 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33467/46/cover/k062938846_1.jpg) | 결론은 산 | 장재용 | 파주 : 라라 : 한국학술정보, 2024 | 796.522 장73결 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33488/93/cover/898218337x_1.jpg) | 홍대에서의 바람직한 태도 : 김도언 소설집 | 김도언 | 서울 : 강, 2024 | 811.37 김25홍 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33482/59/cover/k902938154_1.jpg) | 음천 : 이매자 장편소설 | 이매자 | 서울 : 문학세계사, 2024 | 811.37 이33음 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33469/10/cover/k062938546_1.jpg) | ataraxia | 이하늘 | 서울 : 바른북스, 2024 | 811.37 이92a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33556/43/cover/k302939676_1.jpg) | Q : 도둑맞은 기록을 찾아서 : 이명훈 장편소설 | 이명훈 | 파주 : 들녘, 2024 | 811.37 이34q | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33493/56/cover/8936439502_1.jpg) | 봄빛 : 정지아 소설집 | 정지아 | 파주 : 창비, 2024 | 811.37 정78봄2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33529/19/cover/8932042586_2.jpg) | 고잉 홈 : 문지혁 소설집 | 문지혁 | 서울 : 문학과지성사, 2024 | 811.37 문78고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33511/49/cover/k642938559_1.jpg) | 교수상회 : 유키 하루오 장편소설 | 석목춘앙 | 파주 : 블루홀식스, 2024 | 813.37 석35교K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33477/66/cover/k542938057_1.jpg) | A하라 죽이기 : #퍼뜨려주세요_이것이_진실입니다 | 부장어당 | 서울 : 라곰, 2024 | 813.37 부72확K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33342/6/cover/k772938702_1.jpg) | 시인은 저녁에 무엇을 보았나! | Hesse, Hermann | 서울 : 종문화사, 2024 | 833.912 H587wK임 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33365/77/cover/k672938001_1.jpg) | 절대제조공장 | Čapek, Karel | 서울 : 玄人, 2024 | 891.8635 C237tK김현 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Carlo Scarpa : beyond matter | Pennati, Lorenzo | New York : Rizzoli International Publishers, 2022. | 720.92 S286pEs3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Carlo Scarpa : architecture and design | Beltramini, Guido | New York : Rizzoli, 2007(2023 13th printing) | 720.92 S286b | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fear : the history of a political idea | Robin, Corey | New York : Oxford University Press, 2004. | 320.019 R655f | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The reactionary mind : conservatism from Edmund Burke to Donald Trump | Robin, Corey | New York : Oxford University Press, 2018. | 320.52 R655r2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cognitive therapy with children and adolescents : a casebook for clinical practice | Kendall, Philip C | New York : The Guilford Press, 2018. | 618.92891425 K33c3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Regnum Chinae : the printed western maps of China to 1735 | Caboara, Marco | Leiden : Brill, 2022. | 912.52 C116r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introduction to topological manifolds | Lee, John M | New York, NY : Springer, 2011. | 514.34 L478is2 | 중앙도서관 |
