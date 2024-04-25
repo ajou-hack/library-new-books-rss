@@ -2,6 +2,28 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/33766/44/cover200/8954699448_1.jpg) | 사랑이 죽었는지 가서 보고 오렴 : 박연준 시집 | 박연준 | 파주 : 문학동네, 2024 | 811.17 박64사문 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31877/54/cover200/k772833432_1.jpg) | 감정은 사라져도 결과는 남는다 : 살아온 날보다 살아갈 날을 위해 | 이해인 | 서울 : 필름, 2023 | 811.87 이93감 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32516/56/cover200/k582935923_1.jpg) | 위니코트 : 사랑 그리고 역설의 대가 | Phillips, Adam | 세종 : 마르코폴로, 2023 | 150.195092 W776p2K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33533/9/cover200/8934941472_1.jpg) | 자궁 이야기 : 몸의 중심에서 우리를 기쁘게도 슬프게도 하는 존재에 관하여 | Hazard, Leah | 파주 : 김영사, 2024 | 612.627 H428wK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33464/3/cover200/k082938849_1.jpg) | 쇼펜하우어 인생수업 : 한 번뿐인 삶 이렇게 살아라 : “인생을 바꿔줄 단 한권의 책” | Schopenhauer, Arthur | [서울] : Highest : 하이스트그로우, 2024 | 193 S373pK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24/46/cover200/8982874232_2.jpg) | 도덕발달의 철학 | Kohlberg, Lawrence | 서울 : 교육과학사, 2000 | 155.2 K79pK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24395/31/cover200/897012618x_1.jpg) | 만약 우리의 언어가 위스키라고 한다면 : 위스키의 향기를 찾아 떠나는 무라카미 하루키의 성지여행 | 촌상춘수 | 파주 : 문학사상, 2020 | 813.67 촌52mK이4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33768/8/cover200/k512930165_1.jpg) | 화석을 사냥하는 여자들 : 트레이시 슈빌리에 장편소설 | Chevalier, Tracy | 서울 : 하빌리스 : 대원씨아이, 2024 | 823.914 C527rK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33743/80/cover200/k252930863_1.jpg) | 생각이 나를 괴롭힐 때 : 불안과 걱정을 흘려보내는 44가지 방법 | Winston, Sally M | 서울 : 심심 : 푸른숲, 2024 | 616.8522 I61wK제 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33063/64/cover200/k092937099_1.jpg) | 노란 숲의 단편소설 | 이우림 | 서울 : 달꽃 : 로앤오더, 2024 | 811.3708 노292이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32285/91/cover200/k812834752_1.jpg) | 하얀 바다의 단편소설 | 추은정 | 서울 : 달꽃 : 로앤오더, 2023 | 811.3708 하63추 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30995/0/cover200/k512831500_1.jpg) | 붉은 달의 단편소설 | 김건구 | 서울 : 달꽃 : 로앤오더, 2023 | 811.3708 붉67김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33751/35/cover200/k722930965_1.jpg) | 푸른 달의 단편소설 | 이다한결 | 서울 : 달꽃 : 로앤오더, 2024 | 811.3708 푸297이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/15079/76/cover200/s922533164_1.jpg) | 잘츠부르크 | 박종호 | 서울 : 풍월당, 2018 | 914.3604 박75잘 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32955/70/cover200/k012936240_1.jpg) | 프라하 & 체코 : 유럽문화의 심장 | 조대현 | 서울 : 해시태그, 2023 | 914.371204 조23프 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33571/67/cover200/k512939299_1.jpg) | 오스트리아 & 부다페스트 | 조대현 | 서울 : 해시태그, 2024 | 914.04 조23오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/19344/63/cover200/k712635811_1.jpg) | Tripful : 프라하 | 윤다혜 | 서울 : Easy&books : 피그마리온, 2019 | 914.371204 윤22t2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/10656/38/cover200/8982641335_1.jpg) | 도올의 로마서강해 | 김용옥 | 서울 : 통나무, 2017 | 227.107 김65도 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33511/66/cover200/k182938550_1.jpg) | 깨진 틈이 있어야 그 사이로 빛이 들어온다 : 차라투스트라는 이렇게 말했다 | Nietzsche, Friedrich Wilhelm | 서울 : page2 : 페이지2북스, 2024 | 193 N677aK김차 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33492/74/cover200/k502938356_1.jpg) | 부의 인사이트 | 함서경 | [서울] : 생각지도, 2024 | 650.1 함54부 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29982/53/cover200/k212838349_1.jpg) | 한국축구의 미래를 꿈꾸다 : 선수협: 한국축구 발전을 위한 발걸음 | 김훈기 | 서울 : 바른북스, 2022 | 796.334 김96한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33611/82/cover200/k242939914_1.jpg) | (생활속의) 천체관측 | 이상현 | 서울 : 부크크, 2024 | 522.6 이52천 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33601/1/cover200/k002939708_1.jpg) | 노동법 | 임종률 | 서울 : 박영사, 2024 | 344.01 임75노21 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/28304/21/cover200/8972187291_1.jpg) | 에코아나키 : 통일이행기 한국문학의 해석적 모험 | 신철하 | 서울 : 한양대학교 출판부, 2021 | 811.09 신83에 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28762/76/cover200/k982836983_2.jpg) | 귀신이 오는 밤 : 귀신날 호러 단편선 | 코코아드림 | 서울 : 구픽, 2022 | 811.3708 귀58배 | 중앙도서관 |
@@ -30,25 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31417/92/cover200/k682832111_1.jpg) | (Let's 태블로, 쉽게 따라하는) 데이터 시각화 | 최정민 | 파주 : 생능북스 : 생능, 2023 | 001.4226 최74데 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30495/84/cover200/k642830581_1.jpg) | (마이크로스트레티지) 데이터 시각화 안내서 | 이동협 | 서울 : 바른북스, 2022 | 001.4226 이25데 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33613/80/cover200/k792939916_1.jpg) | 겸손의 힘 : 성장과 풍요로운 삶으로 이끄는 현명한 태도 | Van Tongeren, Daryl | 성남 : 상상스퀘어, 2024 | 179.9 V282hK신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33698/20/cover200/8965965861_1.jpg) | 꿈의 인문학 : 인간의식의 진화에서 꿈의 역할은 무엇인가 | Ribeiro, Sidarta | 서울 : 흐름, 2024 | 612.821 R484oK조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33663/69/cover200/k732939627_1.jpg) | 정욕 : 바른 욕망 | 조정료 | 서울 : READbie : 디앤씨미디어, 2024 | 813.37 조74정K민 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33685/56/cover200/k452939930_1.jpg) | 카인의 오만 : 나카야마 시치리 장편소설 | 중산칠리 | 파주 : 블루홀6 : 블루홀식스, 2024 | 813.37 중52카K문 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33654/49/cover200/k612939224_1.jpg) | 서울 건축 여행 : 시간을 건너 낯선 눈으로 서울을 보다 | 김예슬 | 서울 : piper press : 파이퍼, 2024 | 720.951 김64서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32917/88/cover200/k252936834_1.jpg) | 어머니 나무를 찾아서 : 숲속의 우드 와이드 웹 | Simard, Suzanne | 서울 : 사이언스북스, 2023 | 333.75 S588fK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33605/81/cover200/k762939705_1.jpg) | 취할 준비 : 알고 취하면 더 맛있는 우리술 이야기 | 박준하 | 서울 : 위즈덤하우스, 2024 | 663.4 박76취 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33072/82/cover200/k852937309_1.jpg) | 합법적으로 세금 안 내는 110가지 방법 : 개인편 | 신방수 | 서울 : 아라크네, 2024 | 336.2 신42합개18 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26535/20/cover200/893291270x_1.jpg) | 공포로의 여행 : 에릭 앰블러 장편소설 | Ambler, Eric | 파주 : 열린책들, 2021 | 823.912 A493jK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33711/15/cover200/k872939448_1.jpg) | 코리아 프리미엄 시대가 온다 | 천준범 | [서울] : 이스터에그, 2024 | 330.951 천76코 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33535/92/cover200/k232939679_1.jpg) | 수용전념치료 매트릭스와 유연한 프레임 : RFT 와 ACT 언어 합기도를 활용하여, 단어 집착에서 벗어나 자유로운 행동으로 | Polk, Kevin | 서울 : 박영story : 피와이메이트, 2024 | 616.891425 P769aK송 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32327/35/cover200/8999729397_1.jpg) | BGT의 이해와 활용 | 정종진 | 서울 : 학지사, 2023 | 150.287 정75b학2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (김유정 문학의) 미학성과 현재성 | 석형락 | 춘천 : 한림대학교 지식미디어센터, 2023 | 811.09 미92석 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33043/1/cover200/k642937790_1.jpg) | 센스 있는 현지 영어회화 : 50개 상황에서 원어민처럼 살아남기 | 리, 에디 | 파주 : 넥서스, 2024 | 428.34 에28센 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33613/54/cover200/8993587329_1.jpg) | 인생은 찬란한 슬픔이더라 : 신복룡의 자전 에세이 | 신복룡 | 의왕 : 글을읽다, 2024 | 811.87 신45인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32786/88/cover200/k502936493_1.jpg) | 상처받은 관계에서 회복하고 있습니다 : 나르시시스트를 떠나 행복한 나를 되찾는 10단계 치유 솔루션 | Sarkis, Stephanie | 서울 : 현대지성, 2023 | 158.2 S245hK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32490/41/cover200/k782935505_1.jpg) | 그게, 나르시시스트 맞아 | Stephens, Brenda | 김포 : 에디토리, 2023 | 155.232 S832nK양 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33556/40/cover200/893745629x_1.jpg) | 오렌지만이 과일은 아니다 : 지넷 윈터슨 장편소설 | Winterson, Jeanette | 서울 : 민음사, 2024 | 823.914 W788oK김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33672/1/cover200/8999730913_1.jpg) | 디지털 시대의 인공지능과 교육 | 이용상 | 서울 : 학지사, 2024 | 371.3 디78이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32633/85/cover200/k402935553_1.jpg) | 도시는 어떻게 브랜드가 되는가 : 세계 도시를 만드는 글로벌 전략과 마케팅 | 강대훈 | 대전 : 월간토마토, 2023 | 711.4 강23도 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26021/21/cover/k892738836_1.jpg) | 내가 되는 꿈 : 최진영 장편소설 | 최진영 | 서울 : 현대문학, 2021 | 811.37 최78내 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/6395/1/cover200/896017954x_1.jpg) | 커튼 : 애거서 크리스티 장편 소설 | Christie, Agatha | 서울 : 황금가지, 2015(2022 3쇄) | 823.912 C555cK공 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/6395/0/cover200/8960179523_1.jpg) | 장례식을 마치고 : 애거서 크리스티 장편 소설 | Christie, Agatha | 서울 : 황금가지, 2015(2022 3쇄) | 823.912 C555aK원 | 중앙도서관 |
