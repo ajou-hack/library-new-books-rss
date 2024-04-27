@@ -2,6 +2,11 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32534/66/cover200/k992935122_1.jpg) | 나이트 | Wiesel, Elie | 위즈덤하우스, 2023 | 950.5318 W651nK김2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31196/59/cover200/k162831051_3.jpg) | 챗GPT, 인생의 질문에 답하다 : 6천 년 인류 전체의 지혜에서 AI가 찾아낸 통찰 | GPT-3 | 서울 : 현대지성, 2023 | 128 G725wK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33798/94/cover200/k852930477_2.jpg) | 나의 돈키호테 : 김호연 장편소설 | 김호연 | 고양 : 나무옆의자, 2024 | 811.37 김95나나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/17787/41/cover200/895820561x_2.jpg) | 일본 건축의 발견 : 일본건축은 어떻게 세계건축계의 주류가 되었는가 | 최우용 | 파주 : 궁리, 2019 | 720.953 최66일 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33769/96/cover200/k912930565_1.jpg) | (OpenAI API와 파이썬으로) 나만의 챗GPT 만들기 : ChatGPT 기초부터 OpenAPI, 랭체인을 활용한 서비스 앱 제작까지 | 고천섭일 | 파주 : 위키북스, 2024 | 006.3 고83cK최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33766/44/cover200/8954699448_1.jpg) | 사랑이 죽었는지 가서 보고 오렴 : 박연준 시집 | 박연준 | 파주 : 문학동네, 2024 | 811.17 박64사문 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31877/54/cover200/k772833432_1.jpg) | 감정은 사라져도 결과는 남는다 : 살아온 날보다 살아갈 날을 위해 | 이해인 | 서울 : 필름, 2023 | 811.87 이93감 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32516/56/cover200/k582935923_1.jpg) | 위니코트 : 사랑 그리고 역설의 대가 | Phillips, Adam | 세종 : 마르코폴로, 2023 | 150.195092 W776p2K김 | 중앙도서관 |
@@ -47,8 +52,3 @@
 | ![](https://image.aladin.co.kr/product/33738/2/cover200/k842930768_1.jpg) | 문학 ‘읽기’의 방법들 : 문학이론 도구상자 | 삼원방추 | 서울 : 이음, 2024 | 801 문92삼K장 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31568/83/cover200/k752832652_1.jpg) | 국제개발협력 : 심화편 : 더불어 사는 세상을 위한 소중한 첫걸음 | KOICA | 성남 : 아이스크림미디어, 2023 | 338.91 K79국심2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30636/75/cover200/k812830927_1.jpg) | 국제개발협력 : 입문편 : 더불어 사는 세상을 위한 소중한 첫걸음 | KOICA | 성남 : 아이스크림미디어, 2022 | 338.91 K79국2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31272/77/cover200/k122832563_1.jpg) | 시각화, 생각을 그리다 | 윤지혜 | 서울 : 박영사, 2023 | 658.4012 윤78시 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31398/8/cover200/k822832200_1.jpg) | R 데이터 시각화 쉽게 배우기 : ggplot2, lessR을 중심으로 | Gerbing, David W | 서울 : 황소걸음 아카데미, 2022 | 001.4226 G363rK오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31417/92/cover200/k682832111_1.jpg) | (Let's 태블로, 쉽게 따라하는) 데이터 시각화 | 최정민 | 파주 : 생능북스 : 생능, 2023 | 001.4226 최74데 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30495/84/cover200/k642830581_1.jpg) | (마이크로스트레티지) 데이터 시각화 안내서 | 이동협 | 서울 : 바른북스, 2022 | 001.4226 이25데 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33613/80/cover200/k792939916_1.jpg) | 겸손의 힘 : 성장과 풍요로운 삶으로 이끄는 현명한 태도 | Van Tongeren, Daryl | 성남 : 상상스퀘어, 2024 | 179.9 V282hK신 | 중앙도서관 |
