@@ -2,6 +2,12 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/33684/83/cover200/899876637x_1.jpg) | 재무적 자유 : 부를 창출하고 그것을 붙잡고 있는 방법 | Zitelmann, Rainer | 부산 : 리버티, 2024 | 332.024 Z82rK황 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (로스쿨) 민법 사례형의 정석 : civil law | 정연석 | 고양 : 정독, 2024 | 346.0076 정64민사 2024 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/33671/38/cover200/k132939833_1.jpg) | 프로페셔널 영상 촬영의 바이블 : 촬영감독이 쉽게 풀어쓴 영상 촬영의 이론과 실제 | 장기혁 | 서울 : 골든래빗, 2024 | 778.523 장18h3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Öffentliches Baurecht Raumordnungsrecht, Städtebaurecht, Bauordnungsrecht | Hoppe, Werner | München : C.H. Beck, 2024. | 346.044 H798o5 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Energiewirtschaftsgesetz : Kommentar | Assmann, Lukas | München : C.H. Beck, 2024. | 343.092 A848e | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/28955/43/cover/k582836416_1.jpg) | 전기전자 공학개론 | Rizzoni, Giorgio | 서울 : 맥그로힐에듀케이션코리아 유한회사, 2022 | 621.3 R627p7K송 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | End times : elites, counter-elites, and the path of political disintegration | Turchin, Peter | New York : Penguin Press, 2023. | 320.0110973 T932e | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Individual differences and personality | Ashton, Michael Craig | London, United Kingdom | 155.2 A829i4 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Du temps | Elias, Norbert | [Paris] : Fayard, 1996. | 115 E42uFh | 중앙도서관 |
@@ -46,9 +52,3 @@
 | ![](https://image.aladin.co.kr/product/13716/0/cover200/8962463458_1.jpg) | 익선동 이야기 | 최준식 | 서울 : 주류성, 2018 | 951.91 최76익 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33613/70/cover200/k402939916_2.jpg) | 왜 우리는 쉽게 잊고 비슷한 일은 반복될까요? : 기억하는 사람과 책임감 있는 사회에 관하여 | 노명우 | 서울 : 우리학교, 2024 | 363.34 노34왜 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33603/25/cover200/k032939702_2.jpg) | 그날은 그렇게 왔다 : 나는 중증장애아의 엄마입니다 | 고경애 | 서울 : 다반, 2024 | 811.87 고14그 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | UCINET의 활용과 이해 : 소셜네트워크분석 | Hanneman, Robert | 서울 : 퍼플, 2020 | 004.69 H244iK오 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The math(s) fix : an education blueprint for the AI age | Wolfram, Conrad | Champaign : Wolfram Media, Inc., 2020. | 510.71 W861m | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Blood and lightning : on becoming a tattooer | Kiskaddon, Dustin | Stanford, California : Stanford University Press, 2024. | 391.65 K61b | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sample size calculations in clinical research | Chow, Shein-Chung | Boca Raton : CRC Press, 2020. | 610.727 S192c3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25217/63/cover/8954753930_1.jpg) | (이현석의) 입이 트이는 영어 최고의 스피킹 60 | 이현석 | 고양 : EBS BOOKS : 한국교육방송공사 : EBS, 2020-2023 | 428.34 이94입 v.1~3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33615/26/cover200/k812939010_1.jpg) | 파이썬 FastAPI 개발 입문 | 중촌상 | 서울 : 에이케이커뮤니케이션즈, 2024 | 005.133 중84pK박 | 중앙도서관 |
