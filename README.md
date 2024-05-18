@@ -2,8 +2,25 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/33488/57/cover200/k022938351_1.jpg) | 무엇이 나를 행복하게 만드는가 | Leider, Richard | [대구] : 북플레저 : 책 읽어주는 남자, 2024 | 158.1 L527r3K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33799/49/cover200/8901281791_3.jpg) | 빨모쌤의 라이브 영어회화 : 맥락과 뉘앙스가 살아나는 진짜 영어 말하기 수업 | 신용하 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2024 | 428.34 신65빨 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26715/37/cover200/k852730082_1.jpg) | (풍성한 사회적 삶) 변호사 | 안서연 | 서울 : 토크쇼, 2021 | 340 안54변 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/33038/77/cover200/k582937680_1.jpg) | (만화로 보는) 변호사의 세계 | 조만호 | 서울 : 한빛비즈, 2023 | 340 조32변 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/30960/68/cover200/8932041229_1.jpg) | 인센디어리스 : 권오경 장편소설 | Kwon, R. O | 서울 : 문학과지성사, 2023 | 823.92 K98iK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28542/18/cover200/k132835236_1.jpg) | 데일리 필로소피 : 아침을 바꾸는 철학자의 질문 | Holiday, Ryan | 파주 : 다산초당 : 다산북스, 2021 | 188 H732dK장아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33777/78/cover200/8982030484_1.jpg) | 쇼펜하우어 인생론 여록과 보유 | Schopenhauer, Arthur | 고양 : 육문사, 2024 | 193 S373pK김3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33861/74/cover200/896262270x_1.jpg) | 유전자 지배 사회 : 정치·경제·문화를 움직이는 이기적 유전자, 그에 반항하는 인간 | 최정균 | 서울 : 동아시아, 2024 | 576.5 최74유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33786/14/cover200/k972930475_1.jpg) | 부모됨의 뇌과학 : 환상과 혐오를 넘어, 돌봄의 확장을 탐색하다 | Conaboy, Chelsea | 서울 : 코쿤북스, 2024 | 306.8743 C743mK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33564/17/cover200/k712939883_1.jpg) | 시민의 정치학 : 어른들을 위한 민주주의 교과서 | 임춘한 | 서울 : 박영사, 2024 | 320 임85시 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33496/15/cover200/k222938454_1.jpg) | 생성형 인공지능과 함께하는 사회정서학습 : 마음이 건강해지는 미래교실 | 박찬 | 서울 : 다빈치books, 2024 | 370.1534 생54박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32316/52/cover200/k072834156_1.jpg) | 사회정서학습 : 학교 교육으로 튼튼한 마음 가르치기 | 김윤경 | 서울 : 다봄교육, 2023 | 370.1534 김66사2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33673/3/cover200/k012939836_1.jpg) | 학교 외부자들 : 학교 내부자들은 시작에 불과했다 | 박순걸 | 서울 : 교육과실천, 2024 | 370.2 박56학 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32003/96/cover200/k242834665_1.jpg) | 법학적 사고력 바이블 | 장, 마이클 | 고양 : 피앤씨미디어, 2023 | 340.076 장32법 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/19608/34/cover200/k062635520_2.jpg) | 상징과 모티프로 읽는 영화 | 김종환 | 서울 : 지만지드라마, 2019 | 791.43015 김75상 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28/0/cover200/8987357104_1.jpg) | 정신장애 평가도구 | 김창윤 | 서울 : 하나醫學社, 2001 | 616.89075 정58김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33742/95/cover200/k662930860_1.jpg) | (최근11개년) 대법원선정주요형사판례 | 신관악 | 서울 : 글샘, 2024 | 345.00264 글53대 2024 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/33226/94/cover200/k862937057_1.jpg) | 정석 민법 | 이상윤 | 서울 : 한빛지적소유권센터, 2024 | 346.0076 이52정17 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/32940/27/cover200/k222936045_1.jpg) | 로스쿨에 가고 싶어졌습니다 : 서울대 로스쿨 학생들이 직접 말하는 지금 로스쿨 이야기 | 김성윤 | 서울 : 메가스터디BOOKS : 메가스터디, 2023 | 340 김54로 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/33899/66/cover200/8980212526_1.jpg) | 에로방화의 은밀한 매력 : 1980년대 한국 대중영화의 진보적 양면성 | 이윤종 | 부산 : 영화진흥위원회 : Kofic, 2024 | 791.430951 이66에 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33899/84/cover200/8980212550_1.jpg) | 시네필의 시대 : 한국 영화문화에서 비디오필리아와 시네필리아 | 이선주 | 부산 : 영화진흥위원회 : Kofic, 2024 | 791.430951 이54시 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33839/45/cover200/8966264417_1.jpg) | JVM 밑바닥까지 파헤치기 : 자동 메모리 관리, 실행 서브시스템, 컴파일, 동시성 | 주지명 | 서울 : 인사이트, 2024 | 005.133 주78심3K개 | 중앙도서관 |
@@ -35,20 +52,3 @@
 | ![](https://image.aladin.co.kr/product/28783/66/cover200/k372836481_1.jpg) | (기본에 집중한) 파이썬 프로그래밍 | 손승일 | 파주 : 21세기사, 2022 | 005.133 손57파 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33858/89/cover200/k452930306_1.jpg) | 리액트와 함께하는 웹 디자인 | 손승일 | 파주 : 21세기사, 2024 | 005.2762 손57리 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/11215/21/cover200/k592531484_2.jpg) | 타너가의 남매들 | Walser, Robert | 서울 : 지식을만드는지식, 2017 | 833.912 W222gK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33476/46/cover200/k322938056_1.jpg) | 계정과목 분류 및 계정과목별 지출증빙 경리장부, 회계원리, 분개, 결산, 재무제표 | 이진규 | 대구 : 경영정보사, 2024 | 657 이78계2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33686/83/cover200/k422939932_2.jpg) | 삶이 흔들릴 때 뇌과학을 읽습니다 : 우리의 마음과 행동을 결정하는 두뇌 법칙 25 | 지곡유이 | [서울] : 힉스 : 리틀포레스트, 2024 | 612.82 지15뇌K김우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33278/91/cover200/k662938874_1.jpg) | 매거진 B | JOH ＆ Company | 서울 : JOH ＆ Company, 2024 | 658.827 매14j | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33842/43/cover200/k982930091_1.jpg) | 제철 행복 : 가장 알맞은 시절에 건네는 스물네 번의 다정한 안부 : 김신지 에세이 | 김신지 | 서울 : 인플루엔셜, 2024(2쇄) | 811.87 김58제 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/312/57/cover/8936482416_1.jpg) | 한국 민족주의의 계보와 정치 | 신기욱 | 파주 : 창비, 2009(2021 2쇄) | 320.540951 신18한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/19183/89/cover/8999719235_1.jpg) | 현대교육평가 | 성태제 | 서울 : 학지사, 2019 | 371.26 성883현5 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33516/57/cover/8901280485_1.jpg) | 생각 중독 : 불안과 후회를 끊어내고 오늘을 사는 법 | Trenton, Nick | 파주 : 갤리온, 2024 | 153.42 T795sK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33562/77/cover/k882939888_1.jpg) | 나를 소모하지 않는 현명한 태도에 관하여 | Nöllke, Matthias | [파주] : 퍼스트펭귄, 2024 | 158.1 N769uK이나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33372/61/cover/k912938310_1.jpg) | 공업열역학 | Moran, Michael J | 서울 : 퍼스트북, 2019(2024 3쇄) | 621.4021 M829m9K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33406/14/cover/k272938139_1.jpg) | 불변의 법칙 : 절대 변하지 않는 것들에 대한 23가지 이야기 | Housel, Morgan | 서울 : 서삼독, 2024 | 155.24 H842sK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33279/35/cover/8954697933_1.jpg) | 매니악 | Labatut, Benjamín | 파주 : 문학동네, 2024 | 863.7 L114mK송 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31555/26/cover/k832832758_1.jpg) | 맡겨진 소녀 : 클레어 키건 소설 | Keegan, Claire | 파주 : 다산책방 : 다산북스, 2023 | 823.914 K26fK허 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31568/35/cover/k182832651_1.jpg) | 가여운 것들 : 스코틀랜드 공중 보건 담당관 아치볼드 맥캔들리스 박사의 젊은 시절 일화들 | Gray, Alasdair | 서울 : 황금가지, 2023 | 823.914 G778pK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31267/48/cover/k312832462_1.jpg) | 마이크로전자회로 | Razavi, Behzad | 서울 : 한티에듀, 2023 | 621.381 R278f3K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31192/13/cover/k232831953_1.jpg) | 대기오염제어 설계공학 | Cooper, C. David | 파주 : 동화기술, 2012(2023 4쇄) | 628.53 C776a4K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/17104/58/cover/8974839644_1.jpg) | 욕망 너머의 한국 고대사 : 왜곡과 날조로 뒤엉킨 사이비역사학의 욕망을 파헤치다 | 젊은역사학자모임 | 파주 : 서해문집, 2018 | 951.2 젊67욕 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28089/84/cover/k082734846_1.jpg) | 모든 것은 기본에서 시작한다 | 손웅정 | 파주 : 수오서재, 2021 | 796.334092 손66모 | 중앙도서관 |
