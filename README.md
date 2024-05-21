@@ -2,6 +2,22 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 파묘 : 장재현 각본 | 장재현 | [서울] : 유선사, 2024 | 811.27 장73파 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 사바하 : 장재현 각본 | 장재현 | [서울] : 유선사, 2024 | 811.27 장73사 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 검은 사제들 : 장재현 각본 | 장재현 | [서울] : 유선사, 2024 | 811.27 장73검 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/22113/25/cover200/8937429594_1.jpg) | 물질적 삶 | Duras, Marguerite | 서울 : 민음사, 2019 | 848.912 D952vK윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32790/56/cover200/8960543241_1.jpg) | (알기 쉬운) 구매실무 첫걸음 : 구매 전문가가 알려주는 구매관리 핵심 노하우 | 목진환 | 서울 : 중앙경제평론사, 2023 | 658.72 목78구 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28672/55/cover200/k012836065_1.jpg) | 자살 및 자해 행동 : 상담 및 심리치료 워크북 | Houston, Meagan N | 서울 : 박영story : 피와이메이트, 2022 | 616.858445 H843tK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25684/93/cover200/8961952528_1.jpg) | 개념무기들 : 들뢰즈 실천철학의 행동학 | 조정환 | 서울 : 갈무리, 2020 | 194 D348조들 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33799/80/cover200/k052930572_1.jpg) | 감정의 이해 | Hepburn, Emma | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2024 | 152.4 H529tK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33799/89/cover200/k212930572_1.jpg) | 육질은 부드러워 | Bazterrica, Agustina María | 서울 : 해냄, 2024 | 863.7 B364cK남 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33876/45/cover200/k562930601_1.jpg) | 관종의 순례 : 장편소설 | 우원재 | 서울 : 양문, 2024 | 811.37 우66관 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28821/39/cover200/k222836592_1.jpg) | 에릭 사티 : 시대를 앞서간 고독한 음악가 | 김석란 | 서울 : 올림, 2022 | 780.92 S253김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/5130/12/cover200/8930104762_1.jpg) | 현대 뮤지엄 건축 : 여섯 가지 키워드로 읽기 | 이관석 | 파주 : 열화당, 2014 | 727.6 이15현 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/1391/69/cover200/8971994517_1.jpg) | 한옥 짓는 법 : 한옥시공 길라잡이 | 김종남 | 파주 : 돌베개, 2011(2023 8쇄) | 728.0951 김75한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33876/28/cover200/k012930601_1.jpg) | (그림책과 철학으로 삶을 성찰하는) 나는 교사다 그러므로 생각한다 | 그림책사랑교사모임 | 서울 : 교육과실천, 2024 | 370.2 그298나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33840/55/cover200/k242930098_1.jpg) | 피크아웃 코리아 : 미래가 없는 사회에서 살아남기 | 채상욱 | 서울 : 커넥티드그라운드, 2024 | 338.544 채52피 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2206/61/cover200/8974185695_1.jpg) | 코기토와 무의식 | Žižek, Slavoj | 고양 : 인간사랑, 2013 | 150.195 L129zK라 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33488/57/cover200/k022938351_1.jpg) | 무엇이 나를 행복하게 만드는가 | Leider, Richard | [대구] : 북플레저 : 책 읽어주는 남자, 2024 | 158.1 L527r3K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33799/49/cover200/8901281791_3.jpg) | 빨모쌤의 라이브 영어회화 : 맥락과 뉘앙스가 살아나는 진짜 영어 말하기 수업 | 신용하 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2024 | 428.34 신65빨 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26715/37/cover200/k852730082_1.jpg) | (풍성한 사회적 삶) 변호사 | 안서연 | 서울 : 토크쇼, 2021 | 340 안54변 | 법학도서관 |
@@ -36,19 +52,3 @@
 | ![](https://image.aladin.co.kr/product/33850/22/cover200/8934957778_1.jpg) | 당신이 속는 이유 : 똑똑한 사람을 매혹하는 더 똑똑한 거짓말에 대하여 | Simons, Daniel J | 파주 : 김영사, 2024 | 177.3 S611nK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33856/52/cover200/k592930301_1.jpg) | 자살하는 대한민국 : 우리가 선택한 파국과 소멸의 사회경제학 | 김현성 | 서울 : 사이드웨이, 2024 | 301.0951 김94자 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33837/59/cover200/8946422726_2.jpg) | 진짜 나를 찾아라 | 법정 | 서울 : 샘터 : 샘터사, 2024 | 294.34 법74진 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/12265/11/cover200/k462531856_1.jpg) | (사례로 쉽게 배우는) 기업가치 평가 | 김경진 | 서울 : 율곡, 2017 | 658.15 김14기 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33533/5/cover200/k402939570_1.jpg) | 알파폴드 : AI 신약개발 혁신 | 남궁석 | 서울 : 바이오스펙테이터, 2024 | 615.19 남16알 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33881/7/cover200/k062930712_3.jpg) | 도시전설의 모든 것 | Brunvand, Jan Harold | 서울 : 위즈덤하우스, 2024 | 398.20973 B911tK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/15284/42/cover200/k792533229_1.jpg) | 듣고 싶은 한마디, 따뜻한 말 : 상대의 마음을 녹이는 대화법 | 정유희 | 서울 : 보아스, 2018(2024 26쇄) | 158.2 정66듣 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32453/74/cover200/k382935809_1.jpg) | 자바 알고리즘 인터뷰 with 코틀린 : 102가지 알고리즘 문제 풀이로 완성하는 코딩 테스트 | 박상길 | 안양 : 책만, 2023 | 005.133 박52자 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/8574/1/cover200/k142535271_1.jpg) | 신자전 : 표점교감전자배판 | 하영삼 | 부산 : 3, 2016 | R 411.3 하64신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33744/84/cover200/k342930865_1.jpg) | 버크셔 해서웨이의 재탄생 : 망해가던 섬유공장의 위대한 자본 배분 역사(1955-1985) | McDonough, Jacob | 서울 : 에프엔미디어, 2024 | 332.6322 M136cK변 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33786/83/cover200/k972930476_1.jpg) | 스페이스X의 비밀 : 인류 최후의 개척지와 일론 머스크의 마스터플랜 | Bergan, Brad | 고양 : 미디어숲 : 다빈치하우스-미디어숲, 2024 | 338.762294 B494sK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33480/81/cover200/8901280337_1.jpg) | 기술주 투자 절대 원칙 : 월가의 전설적 테크 애널리스트 마크 마하니의 투자 수업 | Mahaney, Mark S. F | 파주 : 리더스북 : 웅진씽크빅, 2024 | 332.6322 M214nK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33732/38/cover200/k102939643_1.jpg) | 유튜브, 제국의 탄생 : 무명의 언더독에서 세계 최대 콘텐츠 플랫폼으로 성장한 유튜브의 20년 비하인드 히스토리 | Bergen, Mark | 서울 : 현대지성, 2024 | 338.76102504 B495LK신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33695/53/cover200/k862939045_1.jpg) | 카피라이터의 표현법 : 1초 만에 생각을 언어화하는 표현력 트레이닝 | 황목준재 | 서울 : 현대지성, 2024 | 658.45 황35순K신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33605/68/cover200/k232939705_2.jpg) | 리담특허법 | 임병웅 | 서울 : 한빛지적소유권센터, 2024 | 346.0486 임44리23 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/33861/6/cover200/k382930400_1.jpg) | (Co:met) 특허법. 1, 조문+판례 | 서상철 | 서울 : 한빛지적소유권센터, 2024 | 346.0486 서52특3 v.1 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/28783/66/cover200/k372836481_1.jpg) | (기본에 집중한) 파이썬 프로그래밍 | 손승일 | 파주 : 21세기사, 2022 | 005.133 손57파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33858/89/cover200/k452930306_1.jpg) | 리액트와 함께하는 웹 디자인 | 손승일 | 파주 : 21세기사, 2024 | 005.2762 손57리 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/11215/21/cover200/k592531484_2.jpg) | 타너가의 남매들 | Walser, Robert | 서울 : 지식을만드는지식, 2017 | 833.912 W222gK김 | 중앙도서관 |
