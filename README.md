@@ -2,6 +2,26 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fifty years of Energy policy, 1973-2023 lessons for the future | Deutch, John M | Cambridge, Massachusetts : Tidepool Press, 2024. | 333.7 D486f | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33278/59/cover200/k782938872_1.jpg) | (2024) Annual interior detail | 아키랩 | 서울 : 아키랩, [2024] | 747 아878a v.40 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Pricing beauty : the making of a fashion model | Mears, Ashley | Berkeley : University of California Press, 2011. | 338.4774692 M483p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Social theories of risk | Krimsky, Sheldon | Westport, Conn. : Praeger, 1992. | 302.12 K92s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Philosophy, politics, and economics : an introduction | Gaus, Gerald F | Princeton : Princeton University Press, 2021. | 330.01 G274p2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Nietzsche : philosopher, psychologist, antichrist | Kaufmann, Walter Arnold | Princeton : Princeton university press, 2013. | 193 N677k | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The portable Nietzsche | Kaufmann, Walter | New York : Penguin Books, 1976. | 193 N677kp | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Plunkett's Sports ＆ recreation industry almanac 2023 : the only complete guide to the sports industry | Plunkett, Jack W | Houston : Plunkett Research, 2022. | 796.0698 P737p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Emotion focused therapy for youth : the clinical manual | Foroughe, Mirisse | New York, NY : Routledge, 2023. | 616.8914 F727e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Pax economica : left-wing visions of a free trade world | Palen, Marc-William | Princeton : Princeton University Press, 2024 | 382.71 P156p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The "conspiracy" of free trade : the Anglo-American struggle over empire and economic globalization, 1846-1896 | Palen, Marc-William | Cambridge, United Kingdom : Cambridge University Press, 2017. | 382.710941 P156c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The wealth of a nation : institutional foundations of English capitalism | Hodgson, Geoffrey M | Princeton, N.J. : Princeton University Press, 2023. | 330.122 H691w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The biomechanics of insect flight : form, function, evolution | Dudley, Robert | Princeton, N.J. : Princeton University Press, 2000. | 573.798157 D848b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Capitalism : the story behind the word | Sonenscher, Michael | Princeton, New Jersey : Princeton University Press, 2022. | 330.122 S698c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Treks into intuitive geometry : the world of polygons and polyhedra | Akiyama, Jin | Tokyo : Springer, 2015. | 516 A315t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Filmic sociology : theory and practice | Joyce Sebag | Cham, Switzerland : Palgrave Macmillan, 2024 | 302.2343 J89f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | L'opposé de la blancheur : réflexions sur le problème blanc | Miano, Léonora | Paris XIXe : Éditions du Seuil, 2023. | 305.8 M618o | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Afropea : utopie post-occidentale et post-raciste | Miano, Léonora | Paris : Bernard Grasset, 2020. | 305.8 M618a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Rouge impératrice : roman | Miano, Léonora | Paris : Bernard Grasset, 2019. | 843.92 M618r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Afrotopia | Sarr, Felwine | Paris : Philippe Rey, 2016 | 960.33 S247a | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 파묘 : 장재현 각본 | 장재현 | [서울] : 유선사, 2024 | 811.27 장73파 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 사바하 : 장재현 각본 | 장재현 | [서울] : 유선사, 2024 | 811.27 장73사 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 검은 사제들 : 장재현 각본 | 장재현 | [서울] : 유선사, 2024 | 811.27 장73검 | 중앙도서관 |
@@ -31,24 +51,4 @@
 | ![](https://image.aladin.co.kr/product/33496/15/cover200/k222938454_1.jpg) | 생성형 인공지능과 함께하는 사회정서학습 : 마음이 건강해지는 미래교실 | 박찬 | 서울 : 다빈치books, 2024 | 370.1534 생54박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32316/52/cover200/k072834156_1.jpg) | 사회정서학습 : 학교 교육으로 튼튼한 마음 가르치기 | 김윤경 | 서울 : 다봄교육, 2023 | 370.1534 김66사2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33673/3/cover200/k012939836_1.jpg) | 학교 외부자들 : 학교 내부자들은 시작에 불과했다 | 박순걸 | 서울 : 교육과실천, 2024 | 370.2 박56학 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32003/96/cover200/k242834665_1.jpg) | 법학적 사고력 바이블 | 장, 마이클 | 고양 : 피앤씨미디어, 2023 | 340.076 장32법 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/19608/34/cover200/k062635520_2.jpg) | 상징과 모티프로 읽는 영화 | 김종환 | 서울 : 지만지드라마, 2019 | 791.43015 김75상 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28/0/cover200/8987357104_1.jpg) | 정신장애 평가도구 | 김창윤 | 서울 : 하나醫學社, 2001 | 616.89075 정58김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33742/95/cover200/k662930860_1.jpg) | (최근11개년) 대법원선정주요형사판례 | 신관악 | 서울 : 글샘, 2024 | 345.00264 글53대 2024 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/33226/94/cover200/k862937057_1.jpg) | 정석 민법 | 이상윤 | 서울 : 한빛지적소유권센터, 2024 | 346.0076 이52정17 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32940/27/cover200/k222936045_1.jpg) | 로스쿨에 가고 싶어졌습니다 : 서울대 로스쿨 학생들이 직접 말하는 지금 로스쿨 이야기 | 김성윤 | 서울 : 메가스터디BOOKS : 메가스터디, 2023 | 340 김54로 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/33899/66/cover200/8980212526_1.jpg) | 에로방화의 은밀한 매력 : 1980년대 한국 대중영화의 진보적 양면성 | 이윤종 | 부산 : 영화진흥위원회 : Kofic, 2024 | 791.430951 이66에 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33899/84/cover200/8980212550_1.jpg) | 시네필의 시대 : 한국 영화문화에서 비디오필리아와 시네필리아 | 이선주 | 부산 : 영화진흥위원회 : Kofic, 2024 | 791.430951 이54시 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33839/45/cover200/8966264417_1.jpg) | JVM 밑바닥까지 파헤치기 : 자동 메모리 관리, 실행 서브시스템, 컴파일, 동시성 | 주지명 | 서울 : 인사이트, 2024 | 005.133 주78심3K개 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30177/84/cover200/8972917796_1.jpg) | 존재의 세 가지 거짓말 | Kristóf, Ágota | 서울 : 까치 : 까치글방, 2022 | 843.914 K92gK용비 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31192/94/cover200/k762831954_2.jpg) | 르 몽스트르 | Kristof, Agota | [파주] : 제철소, 2023 | 842.914 K92mK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28907/88/cover200/899119561x_1.jpg) | 의학에 관한 위험한 헛소문 : 의사이자 에미상 수상 디벙커가 알려주는 가짜 뉴스 구별법 | Yasmin, Seema | 서울 : 모티브북, 2022 | 610 Y29vK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33812/97/cover200/k442930689_1.jpg) | 비트겐슈타인과 삶의 의미 | 하영미 | 서울 : 필로소픽, 2024 | 192 W831하 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26239/61/cover200/k412738382_1.jpg) | 알터 에고 이펙트 : 대체자아 활성화 가이드 | Herman, Todd | 서울 : 퍼블리온, 2021 | 650.1 H551aK전 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33824/43/cover200/8932042721_1.jpg) | 누군가를 이토록 사랑한 적 : 이병률 시집 | 이병률 | 서울 : 문학과지성사, 2024 | 811.17 이44누 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33783/57/cover200/k932930471_1.jpg) | 덜 먹고 우직하게 달려라 : 기자의 집요함으로 찾은 단 하나의 건강 습관 | 김고금평 | [고양] : 좋은습관연구소, 2024 | 613 김15덜 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33805/81/cover200/k032930674_1.jpg) | 그들의 슬픔을 껴안을 수밖에 | Ensler, Eve | 서울 : 푸른숲, 2024 | 828.914 E59rK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33625/86/cover200/k342939211_2.jpg) | 아틀라스 오브 뷰티 : 세상의 아름다움을 만나다 | Noroc, Mihaela | 서울 : 진선북스, 2024 | 779.24 N852aK권 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33850/22/cover200/8934957778_1.jpg) | 당신이 속는 이유 : 똑똑한 사람을 매혹하는 더 똑똑한 거짓말에 대하여 | Simons, Daniel J | 파주 : 김영사, 2024 | 177.3 S611nK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33856/52/cover200/k592930301_1.jpg) | 자살하는 대한민국 : 우리가 선택한 파국과 소멸의 사회경제학 | 김현성 | 서울 : 사이드웨이, 2024 | 301.0951 김94자 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33837/59/cover200/8946422726_2.jpg) | 진짜 나를 찾아라 | 법정 | 서울 : 샘터 : 샘터사, 2024 | 294.34 법74진 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30872/23/cover/8971805897_1.jpg) | 인재집 | 최현 | 대구 : 경북대학교출판부, 2022-2023 | 811.9 최94인 v.1~2 | 중앙도서관 |
