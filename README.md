@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/25075/40/cover/8928514673_1.jpg) | 종가제례음식 | 김미영 | 서울 : 민속원, 2020-2023 | 393.90951 종12김 v.1~5/11~15 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27544/3/cover/8961543725_1.jpg) | 건강·스포츠영양학 길라잡이 | Rawson, Eric S | 서울 : 라이프사이언스, 2021 | 613.2 W725n12K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23421/81/cover200/k012638385_1.jpg) | (학교에서 배우지 않는) 건축학개론 : 건축은 무엇인가, 혹은 무엇이어야 하는가? | 이종건 | 서울 : ACA : 건축평단, 2020 | 720 이75건a | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33937/18/cover200/k602930233_1.jpg) | (안전하게 따라하는) 챗GPT 평가개발 | 오규설 | 서울 : 테크빌교육, 2024 | 371.260285 오16챗 | 중앙도서관 |
@@ -29,6 +30,7 @@
 | ![](https://image.aladin.co.kr/product/33038/53/cover200/k382937689_1.jpg) | 전환기 독성시험 컨설팅 : 성공적인 IND와 독성시험 마케팅 전략 | 박영철 | 파주 : 한국학술정보, 2023 | 615.9 박64전 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fifty years of Energy policy, 1973-2023 lessons for the future | Deutch, John M | Cambridge, Massachusetts : Tidepool Press, 2024. | 333.7 D486f | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33278/59/cover200/k782938872_1.jpg) | (2024) Annual interior detail | 아키랩 | 서울 : 아키랩, [2024] | 747 아878a v.39~40 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Very important people : status and beauty in the global party circuit | Mears, Ashley | Princeton : Princeton University Press, 2021. | 305.2422 M483v | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Pricing beauty : the making of a fashion model | Mears, Ashley | Berkeley : University of California Press, 2011. | 338.4774692 M483p | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Social theories of risk | Krimsky, Sheldon | Westport, Conn. : Praeger, 1992. | 302.12 K92s | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Philosophy, politics, and economics : an introduction | Gaus, Gerald F | Princeton : Princeton University Press, 2021. | 330.01 G274p2 | 중앙도서관 |
@@ -36,6 +38,7 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The portable Nietzsche | Kaufmann, Walter | New York : Penguin Books, 1976. | 193 N677kp | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Plunkett's Sports ＆ recreation industry almanac 2023 : the only complete guide to the sports industry | Plunkett, Jack W | Houston : Plunkett Research, 2022. | 796.0698 P737p | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Emotion focused therapy for youth : the clinical manual | Foroughe, Mirisse | New York, NY : Routledge, 2023. | 616.8914 F727e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Routledge handbook of the Olympic and Paralympic Games | Chatziefstathiou, Dikaia | Abingdon, Oxon : Routledge, 2021. | 796.48 C495r | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Pax economica : left-wing visions of a free trade world | Palen, Marc-William | Princeton : Princeton University Press, 2024 | 382.71 P156p | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The "conspiracy" of free trade : the Anglo-American struggle over empire and economic globalization, 1846-1896 | Palen, Marc-William | Cambridge, United Kingdom : Cambridge University Press, 2017. | 382.710941 P156c | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The wealth of a nation : institutional foundations of English capitalism | Hodgson, Geoffrey M | Princeton, N.J. : Princeton University Press, 2023. | 330.122 H691w | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Afrotopia | Sarr, Felwine | Paris : Philippe Rey, 2016 | 960.33 S247a | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 파묘 : 장재현 각본 | 장재현 | [서울] : 유선사, 2024 | 811.27 장73파 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 사바하 : 장재현 각본 | 장재현 | [서울] : 유선사, 2024 | 811.27 장73사 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 검은 사제들 : 장재현 각본 | 장재현 | [서울] : 유선사, 2024 | 811.27 장73검 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22113/25/cover200/8937429594_1.jpg) | 물질적 삶 | Duras, Marguerite | 서울 : 민음사, 2019 | 848.912 D952vK윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32790/56/cover200/8960543241_1.jpg) | (알기 쉬운) 구매실무 첫걸음 : 구매 전문가가 알려주는 구매관리 핵심 노하우 | 목진환 | 서울 : 중앙경제평론사, 2023 | 658.72 목78구 | 중앙도서관 |
