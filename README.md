@@ -2,8 +2,26 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://image.aladin.co.kr/product/25075/40/cover/8928514673_1.jpg) | 종가제례음식 | 김미영 | 서울 : 민속원, 2020-2023 | 393.90951 종12김 v.1~5/11~15 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33958/74/cover200/k262930341_2.jpg) | 내가 열린 만큼 너른 바다 : 전대호 시집 | 전대호 | 서울 : 글방과책방, 2024 | 811.17 전23내 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25075/40/cover/8928514673_1.jpg) | 종가제례음식 | 김미영 | 서울 : 민속원, 2020-2023 | 393.90951 종12김 v.1~5/11~20 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27544/3/cover/8961543725_1.jpg) | 건강·스포츠영양학 길라잡이 | Rawson, Eric S | 서울 : 라이프사이언스, 2021 | 613.2 W725n12K이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook of economic forecasting | Elliott, Graham | Amsterdam | 330.0112 E46h v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 세계와의 대화 : 윤석열 대통령 해외언론 주요 인터뷰(2022-2023) | 대한민국 | 서울 : 대한민국 대통령실, 2024 | 352.238 윤54대 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 동서양의 어머니 시 : 모든 어머니를 위하여 | 김성준 | 고양 : 예지, 2024 | 808.81 김54동 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 간양록 | 강항 | 서울 : 올재, 2022 | 951.5 강92간 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30957/68/cover200/scm3186915810834.jpg) | 조선상식문답 | 최남선 | 서울 : Olje : 올재, 2022 | 951.5 최192조 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 안톤 체호프 4대 희곡 | Chekhov, Anton Pavlovich | 서울 : Olje : 올재, 2022 | 891.723 C515cK홍 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이탈리아 기행 | Goethe, Johann Wolfgang von | 서울 : 올재, 2022 | 838.6 G599iK곽 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 파브르 곤충기 : 곤충의 본능과 습성에 관한 연구 | Fabre, Jean Henri | 서울 : Olje : 올재, 2022 | 595.7 F123sK이 v.1~5 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (연세가 기록한 1960년 4월혁명) 청년 학생의 힘! | 연세대학교 | 서울 : 연세대학교 출판문화원, 2023 | 951.72 연54청 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33603/73/cover200/8957467718_1.jpg) | 불교 윤리 : 초기불교 전통에서 서구의 모더니즘 불교까지 | Cozort, Daniel | 서울 : 운주사, 2024 | 294.35 C882oK이 v.1~2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 조명기구 | 국립고궁박물관 | 서울 : 국립고궁박물관, 2023 | 729.28 국298조 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 정미소 : 낟알에서 흰쌀까지 | 김옥천 | 서울 : 국립민속박물관, 2023 | 633.18 김65정 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 용 : 한국민속상징사전 | 국립민속박물관 | 서울: 국립민속박물관, 2023. | 398.2454 국298용 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33419/77/cover200/k132938434_1.jpg) | 기부트렌드 2024 : 주도하는 기부자 반응하는 모금조직 | 박미희 | 서울 : 이소노미아, 2024 | 361.37 기46박 2024 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/13684/90/cover200/8995854979_1.jpg) | 모두를 위한 나라 : 시민의 권리가 살아 숨 쉬는 나라 : 염태영 에세이 | 염태영 | 수원 : 지캠프, 2018 | 352.14 염883모시 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6382/22/cover200/8974837684_2.jpg) | 신현림의 미술관에서 읽은 시 : 작가의 젊은 날을 사로잡은 그림 하나 시 하나 | 신현림 | 파주 : 서해문집, 2016 | 808.81 신94신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33379/11/cover200/scm5732318473439.jpg) | 모두를 위한 나라 : 세번째 이야기 : 염태영 에세이 | 염태영 | 수원 : 더페이퍼, 2022 | 352.14 염883모 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23421/81/cover200/k012638385_1.jpg) | (학교에서 배우지 않는) 건축학개론 : 건축은 무엇인가, 혹은 무엇이어야 하는가? | 이종건 | 서울 : ACA : 건축평단, 2020 | 720 이75건a | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33937/18/cover200/k602930233_1.jpg) | (안전하게 따라하는) 챗GPT 평가개발 | 오규설 | 서울 : 테크빌교육, 2024 | 371.260285 오16챗 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33690/70/cover200/k292939034_1.jpg) | 그럼에도 육아 : 나를 덜어 나를 채우는 삶에 대하여 | 정지우 | 서울 : 한겨레출판 : 한겨레엔, 2024 | 649.102 정78그 | 중앙도서관 |
@@ -34,21 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Pricing beauty : the making of a fashion model | Mears, Ashley | Berkeley : University of California Press, 2011. | 338.4774692 M483p | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Social theories of risk | Krimsky, Sheldon | Westport, Conn. : Praeger, 1992. | 302.12 K92s | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Philosophy, politics, and economics : an introduction | Gaus, Gerald F | Princeton : Princeton University Press, 2021. | 330.01 G274p2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Nietzsche : philosopher, psychologist, antichrist | Kaufmann, Walter Arnold | Princeton : Princeton university press, 2013. | 193 N677k | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The portable Nietzsche | Kaufmann, Walter | New York : Penguin Books, 1976. | 193 N677kp | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Plunkett's Sports ＆ recreation industry almanac 2023 : the only complete guide to the sports industry | Plunkett, Jack W | Houston : Plunkett Research, 2022. | 796.0698 P737p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Emotion focused therapy for youth : the clinical manual | Foroughe, Mirisse | New York, NY : Routledge, 2023. | 616.8914 F727e | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Routledge handbook of the Olympic and Paralympic Games | Chatziefstathiou, Dikaia | Abingdon, Oxon : Routledge, 2021. | 796.48 C495r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Pax economica : left-wing visions of a free trade world | Palen, Marc-William | Princeton : Princeton University Press, 2024 | 382.71 P156p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The "conspiracy" of free trade : the Anglo-American struggle over empire and economic globalization, 1846-1896 | Palen, Marc-William | Cambridge, United Kingdom : Cambridge University Press, 2017. | 382.710941 P156c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The wealth of a nation : institutional foundations of English capitalism | Hodgson, Geoffrey M | Princeton, N.J. : Princeton University Press, 2023. | 330.122 H691w | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The biomechanics of insect flight : form, function, evolution | Dudley, Robert | Princeton, N.J. : Princeton University Press, 2000. | 573.798157 D848b | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Capitalism : the story behind the word | Sonenscher, Michael | Princeton, New Jersey : Princeton University Press, 2022. | 330.122 S698c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Treks into intuitive geometry : the world of polygons and polyhedra | Akiyama, Jin | Tokyo : Springer, 2015. | 516 A315t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Filmic sociology : theory and practice | Joyce Sebag | Cham, Switzerland : Palgrave Macmillan, 2024 | 302.2343 J89f | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | L'opposé de la blancheur : réflexions sur le problème blanc | Miano, Léonora | Paris XIXe : Éditions du Seuil, 2023. | 305.8 M618o | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Afropea : utopie post-occidentale et post-raciste | Miano, Léonora | Paris : Bernard Grasset, 2020. | 305.8 M618a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Rouge impératrice : roman | Miano, Léonora | Paris : Bernard Grasset, 2019. | 843.92 M618r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Afrotopia | Sarr, Felwine | Paris : Philippe Rey, 2016 | 960.33 S247a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 파묘 : 장재현 각본 | 장재현 | [서울] : 유선사, 2024 | 811.27 장73파 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 사바하 : 장재현 각본 | 장재현 | [서울] : 유선사, 2024 | 811.27 장73사 | 중앙도서관 |
