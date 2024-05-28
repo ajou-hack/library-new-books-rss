@@ -2,6 +2,16 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32898/50/cover200/8962259648_1.jpg) | 건축학개론 | 이범재 | 서울 : 기문당, 2023 | 720 이44건4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3829/26/cover200/8954624308_1.jpg) | 레퀴엠 : 어떤 환각 | Tabucchi, Antonio | 파주 : 문학동네, 2014(2019 3쇄) | 853.914 T114rK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/16676/5/cover200/k672534362_1.jpg) | 전투미소녀의 정신분석 : '싸우는 소녀'들은 어떻게 등장했나 | 재등환 | 성남 : 에디투스, 2018(2023 3쇄) | 306.10953 재27전K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33857/35/cover200/893493963x_1.jpg) | 우리 봄날에 다시 만나면 : 나는 죽음을 돌보는 수행자입니다 | 능행 | 파주 : 김영사, 2024 | 811.87 능93우 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33921/67/cover200/896195346x_1.jpg) | 객체란 무엇인가 : 운동적 과정 객체론 | Nail, Thomas | 서울 : 갈무리, 2024 | 111 N156tK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Citizen science in den Geschichtswissenschaften : methodische perspektive oder perspektivlose methode? | Smolarski, René | Göttingen : V＆R Unipress, 2023. | 907.2 S666c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Digital Humanities in den Geschichtswissenschaften | Antenhofer, Christina | Wien : Böhlau, 2024. | 907.2 A627d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Strange multiplicity : constitutionalism in an age of diversity | Tully, James | Cambridge | 323.173 T923s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Late industrialization, tradition, and social change in South Korea | Ha, Yong-chool | Seattle : University of Washington Press, 2024. | 338.9517 H111L | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Herbert Bayer's World geo-graphic atlas and information design at mid-century | Benus, Benjamin | Rochester, New York : RIT Press, 2023. | 371.335 B478h | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33958/74/cover200/k262930341_2.jpg) | 내가 열린 만큼 너른 바다 : 전대호 시집 | 전대호 | 서울 : 글방과책방, 2024 | 811.17 전23내 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25075/40/cover/8928514673_1.jpg) | 종가제례음식 | 김미영 | 서울 : 민속원, 2020-2023 | 393.90951 종12김 v.1~5/11~20 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27544/3/cover/8961543725_1.jpg) | 건강·스포츠영양학 길라잡이 | Rawson, Eric S | 서울 : 라이프사이언스, 2021 | 613.2 W725n12K이 | 중앙도서관 |
@@ -42,13 +52,3 @@
 | ![](https://image.aladin.co.kr/product/23681/32/cover200/k672638531_1.jpg) | 자가분석 : 나를 스스로 분석하고 치유하기 | Bonnet, Gérard | 남양주 : 눈출판그룹, 2020 | 150.195 B717aK변 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/5929/58/cover200/8976463331_1.jpg) | (대의와 지족의 표상,) 영양 옥천 조덕린 종가 | 백순철 | 서울 : 예문서원, 2015 | 929.2 백56영 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/4994/8/cover200/8997169130_1.jpg) | 栢谷 金得臣의 산문 | 김득신 | 파주 : 조율, 2014 | 811.94 김27백 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24615/81/cover200/k822631272_1.jpg) | 휴먼+머신 : AI 시대의 업무를 새롭게 상상하다 | Wilson, H. James | 서울 : 맥그로힐에듀케이션코리아, 2019 | 331.256 W748hK메 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33326/66/cover200/8972733938_1.jpg) | 역사, 문화, 정체성의 교차로 : 북아프리카 프랑스어 문학과 프랑스어 | 김지현 | 서울 : 서강대학교출판부, 2024 | 840.9 김78역 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33855/56/cover200/k282930206_1.jpg) | 왜 너는 편하게 살고자 하는가 | Nietzsche, Friedrich Wilhelm | 서울 : Rise : 떠오름코퍼레이션, 2024 | 193 N677fK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33038/53/cover200/k382937689_1.jpg) | 전환기 독성시험 컨설팅 : 성공적인 IND와 독성시험 마케팅 전략 | 박영철 | 파주 : 한국학술정보, 2023 | 615.9 박64전 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fifty years of Energy policy, 1973-2023 lessons for the future | Deutch, John M | Cambridge, Massachusetts : Tidepool Press, 2024. | 333.7 D486f | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33278/59/cover200/k782938872_1.jpg) | (2024) Annual interior detail | 아키랩 | 서울 : 아키랩, [2024] | 747 아878a v.39~40 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Very important people : status and beauty in the global party circuit | Mears, Ashley | Princeton : Princeton University Press, 2021. | 305.2422 M483v | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Pricing beauty : the making of a fashion model | Mears, Ashley | Berkeley : University of California Press, 2011. | 338.4774692 M483p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Social theories of risk | Krimsky, Sheldon | Westport, Conn. : Praeger, 1992. | 302.12 K92s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Philosophy, politics, and economics : an introduction | Gaus, Gerald F | Princeton : Princeton University Press, 2021. | 330.01 G274p2 | 중앙도서관 |
