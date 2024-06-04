@@ -2,6 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/15/91/cover200/8978395090_1.jpg) | (新編) 韓國建築辭典 | 장기인 | 서울 : 普成閣, 1998(2014 재판) | R 690.03 장18한2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32990/14/cover200/k502936651_1.jpg) | 파이 잉글리시 : 맛있게 즐기는 달콤한 영어회화 | 박, 조이스 | 서울 : 로그인 : 이퍼블릭, 2023 | 428.34 박75파 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Che : a graphic biography | Rodriguez, Spain | London : Verso, 2017. | 980.035092 G939r2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33990/99/cover200/k242930649_1.jpg) | 영혼 다시 쓰기 : 다중인격과 기억의 과학들 | Hacking, Ian | 서울 : 바다, 2024 | 153.12 H121rK최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33812/2/cover200/k792930586_1.jpg) | 독일 철학 개론 : 칸트에서 하버마스까지 | Bowie, Andrew | 파주 : 100, 2024 | 193 B786iK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32461/87/cover200/8999729788_1.jpg) | 프로젝트기반학습으로 수업할까? | 장경원 | 서울 : 학지사, 2023 | 371.36 장14프 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/33818/93/cover200/k112930799_1.jpg) | 나는 텍사스 1호 영업 사원입니다 : 휴스턴 총영사의 심방 외교 이야기 | 정영호 | 서울 : 북랩, 2024 | 327.2 정64나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33850/26/cover200/k942930102_1.jpg) | 걱정 중독 : 실패 혐오 시대의 마음 | Paulsen, Roland | 서울 : 복복서가, 2024 | 152.46 P332tK배 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33842/69/cover200/8957339140_1.jpg) | 포스트휴먼 페미니즘 : 더 나은 미래를 위한 변혁의 힘 | Braidotti, Rosi | 파주 : 아카넷, 2024 | 305.4209 B814pK윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33855/68/cover200/k312930207_1.jpg) | 평범하여 찬란한 삶을 향한 찬사 : 완벽하지 않아 완전한 삶에 대하여 | Van Zuylen, Marina | 서울 : 피카, 2024 | 179.9 V285eK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33915/47/cover200/8934950196_2.jpg) | 숙론 : 어떻게 마주 앉아 대화할 것인가 | 최재천 | 파주 : 김영사, 2024 | 808.53 최73숙 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33876/34/cover200/8954650449_1.jpg) | 부산미각 : 돼지국밥부터 꼼장어까지, 살아 있는 의리의 맛 | 최진아 | 파주 : 문학동네, 2024 | 641.595199 최78부 | 중앙도서관 |
