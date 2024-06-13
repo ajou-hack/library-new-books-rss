@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 첨단과학, 다가올 50년 : 2022년 과학혁신 컴퍼런스 proceedings | Ghez, Andrea M | 서울 : 최종현학술원, 2022 | 500 첨22g | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33326/27/cover200/8933708278_1.jpg) | 한미일중 100년 | 최종현학술원 | 서울 : 일조각, 2023 | 327.5073 최75한 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33953/42/cover200/k682930336_1.jpg) | 녹나무의 여신 | 동야규오 | 서울 : 소미미디어, 2024 | 813.37 동63녹K양소 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28265/93/cover200/8999725340_1.jpg) | 초등학교상담 사례집 : 개인상담을 중심으로 | 김혜숙 | 서울 : 학지사, 2021 | 371.4 초27김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31700/37/cover200/k982833681_1.jpg) | 학교 타로상담 & NLP 상담 : 기본편 | 최지훤 | [군산] : 하움, 2023 | 133.32424 학15최2 | 중앙도서관 |
@@ -48,7 +50,5 @@
 | ![](https://image.aladin.co.kr/product/33894/31/cover200/k512930726_1.jpg) | 노무현과 함께한 1000일 : 초대 정책실장 이정우가 기록한 참여정부의 결정적 순간들 | 이정우 | 서울 : 한겨레엔, 2024 | 320.951 노36이초 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33626/66/cover200/k922939214_1.jpg) | F1 용어집 1·1·1·1 | 윤재수 | 서울 : 골든래빗, 2024 | R 796.72 윤73f | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33837/64/cover200/k282930998_1.jpg) | 김형석, 백 년의 지혜 : 105세 철학자가 전하는 세기의 인생론 | 김형석 | 파주 : 21세기북스 : 북이십일 21세기북스, 2024 | 102 김94김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32265/85/cover/k042834842_2.jpg) | 완전 배출 : 채소·과일·무첨가 주스는 어떻게 비만과 질병을 몰아내는가 | 조승우 | 서울 : 사이몬북스, 2023 | 615.854 조57완 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/22769/79/cover/8937490927_1.jpg) | (인문잡지) 한편 | 한편 | 서울 : 민음사, 2020-2024 | 001.3 한894한 v.1~4/6~7/9~10/13~14 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인텔리제이 IntelliJ IDEA : 자바 프로그래밍 필수 도구 | 박상도 | 서울 : 좋은땅, 2024 | 005.276 박52인 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Pet foodstylist. : 영양학·식품학·생리학·병리학·위생학·푸드스타일링 | 김태현 | 서울 : 한국애견아카데미, 2022 | 636.71 김883p | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33825/70/cover200/8985845004_1.jpg) | 자본주의 아바타 | 이영자 | 서울 : 내마음의 책 : 오롬, 2024 | 330.122 이64자내 | 중앙도서관 |
