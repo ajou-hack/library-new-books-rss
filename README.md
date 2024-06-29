@@ -2,6 +2,19 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/33581/76/cover200/k062939495_1.jpg) | 트라우마 초점 심리치료 ACT : 수용전념치료를 활용한 마음/신체/정서를 포괄하는 치유 안내서 | Harris, Russ | 서울 : 하나醫學社, 2024 | 616.891425 H315tK송 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/19929/26/cover200/k992635740_1.jpg) | 프란츠 그릴파르처의 메데이아 | Grillparzer, Franz | 서울 : 지만지드라마, 2019 | 832.7 G859mK윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30651/79/cover200/k802830739_1.jpg) | 자크 데리다 : 큰글자책 | 강선형 | 서울 : 컴북스캠퍼스, 2022 | 194 D438강큰 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31891/64/cover200/k452833634_2.jpg) | 환대에 대하여 | Derrida, Jacques | 서울 : 필로소픽, 2023 | 177.1 D438dK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31975/89/cover200/8999729222_1.jpg) | 정서중심 가족치료 | Furrow, James L | 서울 : 학지사, 2023 | 616.89156 E54fK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24044/77/cover200/8999721078_1.jpg) | 내면으로부터 심리도식치료 경험하기 : 치료자를 위한 자기실천 및 자기성찰 워크북 | Farrell, Joan M | 서울 : 학지사, 2020 | 616.891425 F245eK송 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32063/31/cover200/8999728668_1.jpg) | (임상현장에서의) 창의적인 심리도식치료 기법 | Heath, Gillian | 서울 : 학지사, 2023 | 616.891425 H437cK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33300/71/cover200/k592938387_1.jpg) | 게슈탈트 상담과 심리치료 기법 | Joyce, Phil | 서울 : 시그마프레스, 2024 | 616.89143 J89s4K공 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34113/92/cover200/k782931386_3.jpg) | 은랑전 : 켄 리우 단편집 | Liu, Ken | 서울 : 황금가지, 2024 | 823.92 L783hK장 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34109/14/cover200/8937456664_1.jpg) | 나르시시즘의 고통 : 우리는 왜 경쟁적인 사회에 자발적으로 복종하는가 | Charim, Isolde | 서울 : 민음사, 2024 | 150.195 C473qK신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34130/74/cover200/k102931292_1.jpg) | 세상을 바꾼 영화 속 인권 이야기 : 필름의 눈으로 읽는 법과 삶 | 임복희 | 서울 : 오디세이북스, 2024 | 323.4 임45세 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Contested commodities | Radin, Margaret Jane | Cambridge, Mass. : Harvard University Press, 2001. | 306.3 R129c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The tale of two supply chains : leveraging supplier value using Toyota's ecosystem approach and GM's cost margin game plan | Paul, Shawn | [S.l.] : Independently Published, 2020. | 658.7 P324t | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28912/65/cover200/s772939656_2.jpg) | 삼체 | 류자흔 | 파주 : 자음과모음, 2020 | 812.37 류72삼K이2 v.1~3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33645/21/cover200/k732939317_1.jpg) | 내면 혁명으로의 초대 IFS : 내 마음속 독재자로부터 탈출하는 법 | Schwartz, Richard C | 서울 : 싸이칼러지 코리아, 2024 | 616.89156 S399i2K권 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33852/41/cover200/k092930203_1.jpg) | 내가 사랑한 것 중에 왜 나만 없을까 : 산배 단상집 | 산배 | [논산] : 일단, 2024 | 811.87 산43내 | 중앙도서관 |
@@ -19,6 +32,7 @@
 | ![](https://image.aladin.co.kr/product/33951/28/cover200/k762930333_1.jpg) | (실무에 바로 쓰는) 일잘러의 UiPath 업무 자동화 | 잔마왕 | 파주 : 제이펍, 2024 | 658.05 잔32일 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34002/13/cover200/k052930651_1.jpg) | 스프링 교과서 | Spilcă, Laurenţiu | 서울 : 길벗, 2024 | 005.133 S756sK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33815/23/cover200/k962930684_1.jpg) | 자바 잘 읽는 법 | Spilcă, Laurenţiu | 파주 : 제이펍, 2024 | 005.133 S756tK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33853/0/cover200/k852930203_1.jpg) | 대격변 AI 시대, 데이터로 사고하고 데이터로 리드하라 | Gutman, Alex J | 안양 : 책만, 2024 | 006.312 G984bK최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34046/95/cover200/k792931278_1.jpg) | (제로베이스에서 취업까지) 부트캠프 QA편 : 17년 차 QA가 알려 주는 소프트웨어 테스트 가이드 | 남효진 | 서울 : 한빛미디어, 2024 | 005.14 남95부 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33859/46/cover200/k132930408_1.jpg) | (하루 10분 8컷으로) 이모티콘 작가 되기 with 프로크리에이트 | 박재이 | 서울 : 리얼북스, 2024 | 302.222 박73이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33862/4/cover200/k772930405_1.jpg) | (QR 코드 동영상과 함께 하는) 발레의 용어와 기술 | 서수민 | 서울 : 우물이 있는 집, 2024 | 792.8 서56발 | 중앙도서관 |
@@ -30,25 +44,11 @@
 | ![](https://image.aladin.co.kr/product/33948/69/cover200/8934935006_1.jpg) | 왜 우리는 매일 거대도시로 향하는가 | 정희원 | 파주 : 김영사, 2024 | 388.4 정97왜 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33929/22/cover200/k642930139_1.jpg) | 에코페미니즘 : 인간, 동물, 지구와 교차하는 페미니즘적 시선들 | Adams, Carol J | 성남 : 에디투스, 2024 | 305.42 A211e2K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33786/65/cover200/k492930475_3.jpg) | 래디컬 데모크라시 | Lummis, C. Douglas | 대구 : 한티재, 2024 | 321.8 L958rK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34005/37/cover200/k932931869_1.jpg) | 돌봄의 사회학 : 당사자 주권의 복지사회로 | 상야천학자 | 파주 : 오월의봄, 2024 | 362.6 상63돌K조 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33951/39/cover200/k842930333_1.jpg) | K-콘텐츠로 보는 현대사회 | 박현민 | 서울 : 우주북스, 2024 | 306.40951 박94k | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33915/62/cover200/k542930927_1.jpg) | 2030 기후적응 시대가 온다 : 종말로 치닫는 인간에게 주어진 마지막 기회 | 김기범 | 서울 : 추수밭 : 청림, 2024 | 363.73874 김18이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33881/10/cover200/k132930712_1.jpg) | 이렇게 말하면 모두 내 편이 됩니다 : 정신과 의사가 알려주는 사람의 마음을 사로잡는 대화의 기술 32가지 | 익전유개 | 서울 : 이너북, 2024 | 808.56 익74정K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33878/21/cover200/893495017x_1.jpg) | (하루 10분, 21일 만에 끝내는) 웨인 다이어의 인생 수업 | Dyer, Wayne W | 파주 : 김영사, 2024 | 204.4 D996tK안 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33881/18/cover200/8973435736_1.jpg) | 욱하는 성질 잡는 뇌과학 : 최신 뇌과학이 밝혀낸 ‘감정 컨트롤 기술’ | 가등준덕 | 고양 : 평단, 2024 | 612.82 가27뇌K고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34002/3/cover200/k862930659_2.jpg) | 영원히 날씬할 방법을 찾고 있어 | McKenna, Paul | 파주 : 스노우폭스북스, 2024 | 613.25 M155iK서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33845/80/cover200/k132930705_1.jpg) | 사랑받는 이기주의자 : 나를 지키며 사랑받는 관계의 기술 | 박코 | [대구] : 북플레저 : 책 읽어주는 남자, 2024 | 158.2 박875사 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33928/24/cover200/k122930138_2.jpg) | 미래의 나를 만난 후 오늘이 달라졌다 : 5년 뒤 나를 바꾸는 퓨처 셀프의 비밀 | Hershfield, Hal | 서울 : 비즈니스북스, 2024 | 155.2 H572yK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33923/95/cover200/k632930937_1.jpg) | 두 배로 씽킹 | 이예지 | 파주 : 더로드, 2024 | 153.42 이64두 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34005/55/cover200/k572931869_2.jpg) | 호모 사피엔스 : 인류를 지배종으로 만든 문화적 진화의 힘 | Henrich, Joseph Patrick | 파주 : 21세기북스 : 북이십일 21세기북스, 2024 | 599.938 H518sK주인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33876/18/cover200/k582930600_1.jpg) | 큐리어스 : 모든 것은 형편없는 질문에서 시작되었다 | Dawkins, Richard | 서울 : page2 : 페이지2북스, 2024 | 509.22 C975dK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33950/12/cover200/k012930330_1.jpg) | 자유 : 자유에 관한 가장 명료한 통찰 | Dijn, Annelien de | 서울 : 북스힐, 2024 | 323.44 D575fK한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33989/26/cover200/k032930545_1.jpg) | 읽지 못하는 사람들 : 우리의 인간다움을 완성하는 읽기와 뇌과학의 세계 | Rubery, Matthew | 서울 : 더퀘스트 : 길벗, 2024 | 612.8 R895rK장 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33958/37/cover200/8997313789_1.jpg) | 이걸 쓸까 말까? : 내가 바꾼 습관 하나가 지구를 지킨다 | Shine, Tara | 파주 : SALT BOOKS : 토마토하우스, 2024 | 304.2 S556hK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34028/74/cover200/k352931067_1.jpg) | 울고 싶은 날의 인생 상담 : 사는 게 내 마음 같지 않아 힘든 당신에게 | 안견일랑 | 서울 : 티라미수 The Book : 이퍼블릭, 2024 | 158.1 안14읍K심 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34047/90/cover200/k642931271_1.jpg) | 엄마 아닌 여자들 : 역사에 늘 존재했던 자녀 없는 삶 | O'Donnell Heffington, Peggy | 파주 : 북다 : 교보문고, 2024 | 306.85 O26wK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33803/99/cover200/8955868103_1.jpg) | 어휘의 길 어원의 힘 : 단어와 단어를 연결하는 인문학적 상상력 | 김성현 | 서울 : 세창미디어, 2024 | 428.1 김54어 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34014/87/cover200/k352931069_1.jpg) | 당신이 몰랐던 이야기 : 세계를 이해하기 위한 이야기 | 박준홍 | 서울 : 북스고, 2024 | 303.4 박76당 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33859/37/cover200/k582930307_1.jpg) | 당신의 인생에서 꼭 한 번은 맹자를 만나라 : 단 한 문장으로 전해지는 맹자의 위대한 처세술 | 번등 | 고양 : 이든서재 : 다빈치하우스-미디어숲, 2024 | 181.2184 맹72번K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33975/72/cover200/k172930447_1.jpg) | 논어 정해 : 올바른 처신과 수양을 위한 필수 가이드북 | 김평재 | 서울 : 북랩, 2024 | 181.2183 공72김올 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33850/19/cover200/k412930101_1.jpg) | 노자의 지혜 : 원하는 것을 얻는 최고의 명문장 | 노자 | 고양 : 린, 2024 | 181.242 노72도K장 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33915/78/cover200/k162930028_1.jpg) | 나는 오늘 칸트를 만나 행복해졌다 : 칸트와 함께 걷는 인생 산책 | 이라야 | 고양 : 알토북스, 2024 | 193 K16이칸 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33852/17/cover200/k682930202_1.jpg) | 교양으로서의 시 : 당신은 어느 날 그 시를 찾을 것이다 | 양조 | 파주 : 유유, 2024 | 809.1 양75현K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34011/74/cover200/k582931962_1.jpg) | 삶은 당신을 기다리고 있다 : 통제하려는 생각을 멈추고 삶의 초대에 응하기 | O'Malley, Mary | 서울 : 샨티, 2024 | 158.1 O54wK김2 | 중앙도서관 |
