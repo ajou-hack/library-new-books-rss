@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34121/15/cover200/k662931995_1.jpg) | 시사법률 콘서트 | 이임성 | 서울 : 미래와사람, 2024 | 340 이68시 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/33581/76/cover200/k062939495_1.jpg) | 트라우마 초점 심리치료 ACT : 수용전념치료를 활용한 마음/신체/정서를 포괄하는 치유 안내서 | Harris, Russ | 서울 : 하나醫學社, 2024 | 616.891425 H315tK송 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/19929/26/cover200/k992635740_1.jpg) | 프란츠 그릴파르처의 메데이아 | Grillparzer, Franz | 서울 : 지만지드라마, 2019 | 832.7 G859mK윤 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30651/79/cover200/k802830739_1.jpg) | 자크 데리다 : 큰글자책 | 강선형 | 서울 : 컴북스캠퍼스, 2022 | 194 D438강큰 | 중앙도서관 |
@@ -45,10 +46,9 @@
 | ![](https://image.aladin.co.kr/product/33929/22/cover200/k642930139_1.jpg) | 에코페미니즘 : 인간, 동물, 지구와 교차하는 페미니즘적 시선들 | Adams, Carol J | 성남 : 에디투스, 2024 | 305.42 A211e2K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33786/65/cover200/k492930475_3.jpg) | 래디컬 데모크라시 | Lummis, C. Douglas | 대구 : 한티재, 2024 | 321.8 L958rK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34005/37/cover200/k932931869_1.jpg) | 돌봄의 사회학 : 당사자 주권의 복지사회로 | 상야천학자 | 파주 : 오월의봄, 2024 | 362.6 상63돌K조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33934/21/cover200/k992930137_1.jpg) | 뉴딜과 신자유주의 : 새로운 정치 질서는 어떻게 탄생하는가 | Gerstle, Gary | 파주 : arte : 북이십일 아르테, 2024 | 320.510973 G383rK홍 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33951/39/cover200/k842930333_1.jpg) | K-콘텐츠로 보는 현대사회 | 박현민 | 서울 : 우주북스, 2024 | 306.40951 박94k | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33915/62/cover200/k542930927_1.jpg) | 2030 기후적응 시대가 온다 : 종말로 치닫는 인간에게 주어진 마지막 기회 | 김기범 | 서울 : 추수밭 : 청림, 2024 | 363.73874 김18이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33881/10/cover200/k132930712_1.jpg) | 이렇게 말하면 모두 내 편이 됩니다 : 정신과 의사가 알려주는 사람의 마음을 사로잡는 대화의 기술 32가지 | 익전유개 | 서울 : 이너북, 2024 | 808.56 익74정K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33878/21/cover200/893495017x_1.jpg) | (하루 10분, 21일 만에 끝내는) 웨인 다이어의 인생 수업 | Dyer, Wayne W | 파주 : 김영사, 2024 | 204.4 D996tK안 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33881/18/cover200/8973435736_1.jpg) | 욱하는 성질 잡는 뇌과학 : 최신 뇌과학이 밝혀낸 ‘감정 컨트롤 기술’ | 가등준덕 | 고양 : 평단, 2024 | 612.82 가27뇌K고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34002/3/cover200/k862930659_2.jpg) | 영원히 날씬할 방법을 찾고 있어 | McKenna, Paul | 파주 : 스노우폭스북스, 2024 | 613.25 M155iK서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34011/74/cover200/k582931962_1.jpg) | 삶은 당신을 기다리고 있다 : 통제하려는 생각을 멈추고 삶의 초대에 응하기 | O'Malley, Mary | 서울 : 샨티, 2024 | 158.1 O54wK김2 | 중앙도서관 |
