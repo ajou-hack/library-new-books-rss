@@ -2,7 +2,13 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://image.aladin.co.kr/product/32051/91/cover200/k262834089_1.jpg) | TAO 해석학 | Tao, Terence | 서울 : 한빛아카데미, 2023 | 515 T171a4K한 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34193/85/cover200/8936480243_1.jpg) | 수능 해킹 : 사교육의 기술자들 | 문호진 | 파주 : 창비, 2024 | 378.1664 문95수 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33950/19/cover200/k142930330_2.jpg) | 한국 인터넷 밈의 계보학 | 김경수 | 서울 : 필로소픽, 2024 | 302 김14한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32051/91/cover200/k262834089_1.jpg) | TAO 해석학 | Tao, Terence | 서울 : 한빛아카데미, 2023 | 515 T171a4K한 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33526/67/cover200/8936325485_1.jpg) | (책 한 권으로 이해하는) 리튬 이차전지 제작-평가-분석 실습 | 최진섭 | 파주 : 교문사, 2024 | 621.312424 최78리 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32400/13/cover200/8999729532_1.jpg) | 대인관계 게슈탈트 사례와 심리치료 : 경계선 자기애성 그리고 분열성 성격 적응 중심으로 | Greenberg, Elinor | 서울 : 학지사, 2023 | 616.89 G798bK윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30533/97/cover200/k812830591_1.jpg) | 조선의 숲은 왜 사라졌는가 : 조선 후기 산림 황폐사 | 전영우 | 서울 : 조계종, 2022 | 634.90951 전64조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18979/78/cover200/k332635683_1.jpg) | 건축4서 | Palladio, Andrea | 파주 : 그림씨, 2019 | 720 P164qK정 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 핵심만 콕! Java 실습 가이드 | 류기열 | 수원 : 아주대학교 출판부, 2024 | 005.133 핵58류 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33006/85/cover200/8957467653_1.jpg) | 설잠 김시습의 선사상 연구 : 성기론性起論과 성구론性具論을 중심으로 | 철우 | 서울 : 운주사, 2023 | 294.3927 김58철 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 서울의 젊은이와 대중가요 | 서울생활사박물관 | 서울 : 서울생활사박물관, 2024 | 781.630951 서66서 | 중앙도서관 |
@@ -25,6 +31,8 @@
 | ![](https://image.aladin.co.kr/product/3978/81/cover200/893741631x_1.jpg) | 에코그라피 : 텔레비전에 관하여 | Derrida, Jacques | 서울 : 민음사, 2014(2023 3쇄) | 302.2345 D438eK김2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The secret teachings of plants : the intelligence of the heart in the direct perception of nature | Buhner, Stephen Harrod | Rochester, Vt. : Bear ＆ Company, 2004. | 615.535 B931s | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33933/92/cover200/k442930135_1.jpg) | (반려견의 자연식) 펫푸드 : 행복 한 그릇, 건강 한 스푼 | 김주아 | 파주 : 백산, 2024 | 636.71 김76펫 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34040/95/cover200/k542931073_1.jpg) | 한국 무용사 | 김매자 | 서울 : 지식공작소, 2024 | 793.31951 김33한2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34040/98/cover200/k622931073_1.jpg) | 세계 무용사 | Sachs, Curt | 서울 : 지식공작소, 2024 | 793.309 S121wK김2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33778/70/cover200/k242930379_1.jpg) | 한 걸음 뒤의 세상 : ‘후퇴’에서 찾은 생존법 | 내전수 | 파주 : 이숲, 2024 | 303.4 철885내K박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33967/92/cover200/k952930347_2.jpg) | (전쟁과 폭력의 시대에 다시 읽는) 톨스토이 평화론 | 이문영 | 서울 : 미래의창, 2024 | 327.172 T654이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34040/94/cover200/k582931073_1.jpg) | 카메라로 지구를 구하는 방법 : 환경 다큐 피디들이 전하는 기후 위기 이야기 | 김가람 | [시흥] : 느린서재, 2024 | 363.7 카34김 | 중앙도서관 |
@@ -42,13 +50,5 @@
 | ![](https://image.aladin.co.kr/product/33899/35/cover200/k582930826_1.jpg) | 컨셉 라이팅 : 흩어지는 생각을 컨셉으로 뽑아내는 글쓰기 게임 | 노윤주 | 서울 : 북스톤, 2024 | 808 노66컨 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33958/77/cover200/8974259133_1.jpg) | 절제할 용기 : 내 인생을 바꾸는 10단계 루틴 | Zahariades, Damon | 파주 : 국일미디어, 2024 | 158.1 Z19hK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34183/13/cover200/k622931311_1.jpg) | 우리는 청년들 입니다 : 남들과 같은 길을 거부하는 세무법인청년들의 유난한 도전 스토리 | 명대성 | 양주 : 밀리언북스, 2024 | 657.092 명23우 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 언밸런스 : 삶에서 밸런스는 무의미하다 | 조남성 | 서울 : 클라우드나인, 2024 | 650.1 조192언 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33968/16/cover200/k982930448_2.jpg) | 언밸런스 : 삶에서 밸런스는 무의미하다 | 조남성 | 서울 : 클라우드나인, 2024 | 650.1 조192언 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33988/63/cover200/k882930541_1.jpg) | (어른도 함께 쓰는) 어린이 감정일기 : 어린이 감정으로 세상을 바라보는 법 | 조연주 | 서울 : 자상한시간, 2024 | 152.4 조64어 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 뇌를 위한 최소한의 습관 : 집중력과 잠재력을 끌어올리는 두뇌 정비 프로젝트 | Hollins, Peter | 서울 : 한빛비즈, 2024 | 612.82 H741bK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 내 탓 멈추기의 기술 : 당신을 망치는 부정적인 혼잣말과 깔끔하게 이별하는 법 | Krimer, Katie | 서울 : 위즈덤하우스, 2024 | 158.13 K92sK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33842/40/cover200/k732930090_1.jpg) | 구글 임원에서 실리콘밸리 알바생이 되었습니다 : 인생 앞에선 계속 변해야 하니까 | 정김경숙 | 서울 : 위즈덤하우스, 2024 | 650.1 정18구 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33993/79/cover200/896540388x_1.jpg) | (견고한 유연성으로) 변화 스트레스 끄기 : '바뀐다' 소리에 멘붕에 빠진 당신을 구하는 변화의 뉴 노멀 | Stulberg, Brad | 부천 : 프리렉, 2024 | 158.1 S934mK최 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (미움받을까 두려워하지 않는) 거절의 센스 | 석원가수자 | 서울 : 시옷책방, 2024 | 158.2 석66거K오 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 가장 중요한 생각만 남기는 기술 : 쓸데없는 생각을 끊어내고 1퍼센트에 집중하는 힘 | Foroux, Darius | 서울 : 와이즈맵, 2024 | 153 F727tK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33994/8/cover200/k652930643_1.jpg) | 호모 유니쿠스 : AI가 닿을 수 없는 인간의 빛나는 자격 | 임헌우 | 대구 : 빛을여는책방 : 계명대학교 출판부, 2024 | 303.483 임94호 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33933/88/cover200/k212930135_1.jpg) | 행복의 철학 | Marcuse, Ludwig | [서울] : 하영북스, 2024 | 171.4 M322p2K정 | 중앙도서관 |
