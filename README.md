@@ -2,6 +2,16 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Chaos : making a new science | Gleick, James | New York, N.Y. : Penguin Books, 2008. | 539 G556c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Chemistry : principles And Reactions : a core text | Masterton, William L | Fort Worth : Harcourt College Publisher, 2001 | 540 M423cp4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A User's guide to vacuum technology | O'Hanlon, John F | Hoboken, NJ : Wiley-Interscience, 2003. | 621.55 O36u3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Calculus : early transcendentals | Briggs, William L | Boston : Pearson Education, 2011. | 515 B854c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Modern physics for scientists and engineers | Morrison, John C | Burlington, MA : Academic Press/Elsevier, 2010. | 539 M879m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Physics : calculus | Hecht, Eugene | Pacific Grove, CA : Brooks/Cole, 2000. | 530 H447pc2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Thermodynamics and statistical mechanics : an integrated approach | Hardy, Robert J | Chichester, West Sussex : John Wiley & Sons Inc., 2014. | 536.7 H271t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | An introduction to astronomy | Huffer, Charles M | New York : Holt, Rinehart and Winston, 1967 | 520 H889i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Thermal physics | Morse, Philip McCord | New York : W. A. Benjamin, 1969. | 536.7 M886t2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Modern physics for scientists and engineers | Thornton, Stephen T | Boston, MA : Cengage Learning, 2021. | 539 T514m5 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34193/85/cover200/8936480243_1.jpg) | 수능 해킹 : 사교육의 기술자들 | 문호진 | 파주 : 창비, 2024 | 378.1664 문95수 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33950/19/cover200/k142930330_2.jpg) | 한국 인터넷 밈의 계보학 | 김경수 | 서울 : 필로소픽, 2024 | 302 김14한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32051/91/cover200/k262834089_1.jpg) | TAO 해석학 | Tao, Terence | 서울 : 한빛아카데미, 2023 | 515 T171a4K한 v.1~2 | 중앙도서관 |
@@ -42,13 +52,3 @@
 | ![](https://image.aladin.co.kr/product/33931/16/cover200/k672930133_1.jpg) | 식후 30분에 읽으세요 : 약사도 잘 모르는 약 이야기 | 건강사회를 위한 약사회 | [서울] : 이매진, 2024 | 615.02 건12식2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33951/42/cover200/k902930334_1.jpg) | 시장의 빌런들 : 당신이 소비하는 사이, 그 기업들은 세상을 끝장내는 중이다 | 이완배 | 서울 : 북트리거 : 지학사, 2024 | 338.88 이65시 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33976/75/cover200/k722930548_1.jpg) | 서울의 심연 : 어느 청년 연구자의 빈곤의 도시 표류기 | 탁장한 | [서울] : 필요한책, 2024 | 362.50951 탁72서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33881/43/cover200/k322930714_1.jpg) | 생성 AI와 데이터, 돈, 사람 | 김태균 | 서울 : 커뮤니케이션북스, 2024 | 006.3 김883생 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34014/43/cover200/k482931068_1.jpg) | 데모스의 민주주의 : 정치 공동체와 주체적 역량에 관한 철학적 시론들 | 한상원 | 서울 : b, 2024 | 321.8 한52데 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33922/65/cover200/k482930935_1.jpg) | 누가 나만큼 여자를 사랑하겠어 | 박주연 | 파주 : 오월의봄, 2024 | 305.42 박76누 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33915/41/cover200/k502930926_1.jpg) | 기후 돌봄 : 거친 파도를 다 같이 넘어가는 법 | 신지혜 | 서울 : 산현글방, 2024 | 363.7 기96신거 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33992/1/cover200/k052930641_1.jpg) | 코나투스 : 습관성 자기계발 시대, 삶의 주도권을 지켜내는 일생이론 | 유영만 | 김포 : 행성비, 2024 | 158.1 유64코 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33899/35/cover200/k582930826_1.jpg) | 컨셉 라이팅 : 흩어지는 생각을 컨셉으로 뽑아내는 글쓰기 게임 | 노윤주 | 서울 : 북스톤, 2024 | 808 노66컨 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33958/77/cover200/8974259133_1.jpg) | 절제할 용기 : 내 인생을 바꾸는 10단계 루틴 | Zahariades, Damon | 파주 : 국일미디어, 2024 | 158.1 Z19hK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34183/13/cover200/k622931311_1.jpg) | 우리는 청년들 입니다 : 남들과 같은 길을 거부하는 세무법인청년들의 유난한 도전 스토리 | 명대성 | 양주 : 밀리언북스, 2024 | 657.092 명23우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33968/16/cover200/k982930448_2.jpg) | 언밸런스 : 삶에서 밸런스는 무의미하다 | 조남성 | 서울 : 클라우드나인, 2024 | 650.1 조192언 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33988/63/cover200/k882930541_1.jpg) | (어른도 함께 쓰는) 어린이 감정일기 : 어린이 감정으로 세상을 바라보는 법 | 조연주 | 서울 : 자상한시간, 2024 | 152.4 조64어 | 중앙도서관 |
