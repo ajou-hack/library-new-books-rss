@@ -2,8 +2,16 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | An introduction to species distribution modelling (SDM) using QGIS and R | MacLeod, Colin D | Glasgow, UK : Pictish Beast Publications, 2019. | 578.028 M165ip | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | An introduction to integrating QGIS and R for spatial analysis | MacLeod, Colin D | Glasgow, UK : Pictish Beast Publications, 2019. | 578.028 M165i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fodor's essential Belgium : with Luxembourg | Clark, Gareth | New York : Fodor's Travel, 2022. | 914.9304 C593f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Brussels travel guide, Belgium | Baker, James | Lancashire : Sonit, 2020. | 914.9304 B167b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Plants as persons : a philosophical botany | Hall, Matthew | Albany : State University of New York Press, 2011. | 580.1 H178p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Plants ＆ society | Levetin, Estelle | New York : McGraw Hill LLC, 2024. | 580 L663p9 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The imagination of plants : a book of botanical mythology | Hall, Matthew | Albany : State University of New York Press, 2019. | 398.242 H178i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Nucleation and crystal growth : metastability of solutions and melts | Sangwal, Keshra | Hoboken, NJ : Wiley, 2018. | 548.5 S226n | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Chaos : making a new science | Gleick, James | New York, N.Y. : Penguin Books, 2008. | 539 G556c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Chemistry : principles And Reactions : a core text | Masterton, William L | Fort Worth : Harcourt College Publisher, 2001 | 540 M423cp4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Chemistry : principles and reactions : a core text | Masterton, William L | Fort Worth : Harcourt College Publisher, 2001 | 540 M423cp4 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A User's guide to vacuum technology | O'Hanlon, John F | Hoboken, NJ : Wiley-Interscience, 2003. | 621.55 O36u3 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Calculus : early transcendentals | Briggs, William L | Boston : Pearson Education, 2011. | 515 B854c | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Modern physics for scientists and engineers | Morrison, John C | Burlington, MA : Academic Press/Elsevier, 2010. | 539 M879m | 중앙도서관 |
@@ -12,6 +20,7 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | An introduction to astronomy | Huffer, Charles M | New York : Holt, Rinehart and Winston, 1967 | 520 H889i | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Thermal physics | Morse, Philip McCord | New York : W. A. Benjamin, 1969. | 536.7 M886t2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Modern physics for scientists and engineers | Thornton, Stephen T | Boston, MA : Cengage Learning, 2021. | 539 T514m5 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Concepts in thermal physics | Blundell, Stephen J | Oxford | 536 B658c2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34193/85/cover200/8936480243_1.jpg) | 수능 해킹 : 사교육의 기술자들 | 문호진 | 파주 : 창비, 2024 | 378.1664 문95수 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33950/19/cover200/k142930330_2.jpg) | 한국 인터넷 밈의 계보학 | 김경수 | 서울 : 필로소픽, 2024 | 302 김14한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32051/91/cover200/k262834089_1.jpg) | TAO 해석학 | Tao, Terence | 서울 : 한빛아카데미, 2023 | 515 T171a4K한 v.1~2 | 중앙도서관 |
@@ -43,12 +52,3 @@
 | ![](https://image.aladin.co.kr/product/33933/92/cover200/k442930135_1.jpg) | (반려견의 자연식) 펫푸드 : 행복 한 그릇, 건강 한 스푼 | 김주아 | 파주 : 백산, 2024 | 636.71 김76펫 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34040/95/cover200/k542931073_1.jpg) | 한국 무용사 | 김매자 | 서울 : 지식공작소, 2024 | 793.31951 김33한2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34040/98/cover200/k622931073_1.jpg) | 세계 무용사 | Sachs, Curt | 서울 : 지식공작소, 2024 | 793.309 S121wK김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33778/70/cover200/k242930379_1.jpg) | 한 걸음 뒤의 세상 : ‘후퇴’에서 찾은 생존법 | 내전수 | 파주 : 이숲, 2024 | 303.4 철885내K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33967/92/cover200/k952930347_2.jpg) | (전쟁과 폭력의 시대에 다시 읽는) 톨스토이 평화론 | 이문영 | 서울 : 미래의창, 2024 | 327.172 T654이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34040/94/cover200/k582931073_1.jpg) | 카메라로 지구를 구하는 방법 : 환경 다큐 피디들이 전하는 기후 위기 이야기 | 김가람 | [시흥] : 느린서재, 2024 | 363.7 카34김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33934/83/cover200/8964374487_1.jpg) | 자유에 관하여 | Mill, John Stuart | 서울 : 후마니타스, 2024 | 323.44 M645oK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33988/97/cover200/8965643007_1.jpg) | 실패의 기술과 퀴어 예술 | Halberstam, Jack | 서울 : 현실문화 : 현실문화연구, 2024 | 121 H157qK허 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33881/23/cover200/k972930713_1.jpg) | 신유물론과 유물론 : 미디어의 물질성에 대하여 | Bollmer, Grant | 서울 : 세창, 2024 | 302.23 B692mK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33931/16/cover200/k672930133_1.jpg) | 식후 30분에 읽으세요 : 약사도 잘 모르는 약 이야기 | 건강사회를 위한 약사회 | [서울] : 이매진, 2024 | 615.02 건12식2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33951/42/cover200/k902930334_1.jpg) | 시장의 빌런들 : 당신이 소비하는 사이, 그 기업들은 세상을 끝장내는 중이다 | 이완배 | 서울 : 북트리거 : 지학사, 2024 | 338.88 이65시 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33976/75/cover200/k722930548_1.jpg) | 서울의 심연 : 어느 청년 연구자의 빈곤의 도시 표류기 | 탁장한 | [서울] : 필요한책, 2024 | 362.50951 탁72서 | 중앙도서관 |
