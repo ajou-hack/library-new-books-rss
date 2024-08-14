@@ -2,6 +2,11 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34292/9/cover200/k682932176_1.jpg) | 영어로 문장 만들기 훈련 : 1차 임계점 | 유은하 | 서울 : 사람in, 2024 | 428.2 유67영 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34316/82/cover200/k492932578_1.jpg) | 당신의 불안은 죄가 없다 : 걱정 많고 불안한 당신을 위한 뇌과학 처방전 | Suzuki, Wendy | 파주 : 21세기북스 : 북이십일 21세기북스, 2024 | 152.46 S968gK안 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34275/63/cover200/k032932164_2.jpg) | 나 지금 가고 있어 : 715오송참사 그날의 기억, 1년의 이야기 | 715오송참사 기록단 | 옥천군 : 고래실, 2024 | 363.340951 칠68나 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Transference | Lacan, Jacques | Cambridge : Polity Press, 2015. | 616.8917 L129tEf | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33724/99/cover200/k192939548_1.jpg) | (강경태의) 세법 들어가기 : 세법 입문자를 위한 기초세법 | 강경태 | 서울 : 샘앤북스, 2024 | 343.04 강14세들6 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/34152/60/cover200/k642931499_2.jpg) | 리프레임 : 발상의 전환을 위한 28가지 생각 도구 | Furr, Nathan R | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2024 | 338.04 F989uK한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34330/14/cover200/8927813227_1.jpg) | 고잉 인피니트 | Lewis, Michael | 서울 : 중앙books : 중앙일보에스, 2024 | 305.5234 B218LK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33579/18/cover200/k152939397_1.jpg) | 의사 만들기 : 근대 의학교육의 탄생 | Bonner, Thomas Neville | 서울 : 청년의사, 2024 | 610.711 B716bK권 | 중앙도서관 |
@@ -47,8 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | If only... : finding freedom from regret | Leahy, Robert L | New York | 158.1 L434i | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | An America first approach to U.S. national security | Fleitz, Fred | Washington, D.C. : the American first policy institute, 2024. | 355.033073 F596a | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Essential aloneness : Rome lectures on DW Winnicott | Bollas, Christopher | New York, NY : Oxford University Press, 2024. | 155.422 B691e | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Power and prediction : the disruptive economics of artificial intelligence | Agrawal, Ajay | Boston, Massachusetts : Harvard Business Review Press, 2022. | 006.33 A277p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Overcoming resistance in cognitive therapy | Leahy, Robert L | New York : Guilford, 2003. | 616.89142 L434o | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Wonder | Palacio, R. J | New York : Alfred A. Knopf, 2014. | 823.92 P153w | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/b3de5894-f517-4a4f-9bdb-0dc02ff919f3) | 화석은 말한다 : 화석이 말하는 진화와 창조론의 진실 | Prothero, Donald R | 서울 : 바다, 2019 | 576.8 P967e2K류 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34275/76/cover200/8936480340_2.jpg) | 이황 : 조선 유학의 분수령 | 이봉규 | 파주 : 창비, 2024 | 181.16 이95이 | 중앙도서관 |
