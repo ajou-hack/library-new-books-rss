@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 드래곤 라자 : 이영도 장편소설 | 이영도 | 서울 : 황금가지, 1998 | 811.3 이64드 v.1~12 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34292/9/cover200/k682932176_1.jpg) | 영어로 문장 만들기 훈련 : 1차 임계점 | 유은하 | 서울 : 사람in, 2024 | 428.2 유67영 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34316/82/cover200/k492932578_1.jpg) | 당신의 불안은 죄가 없다 : 걱정 많고 불안한 당신을 위한 뇌과학 처방전 | Suzuki, Wendy | 파주 : 21세기북스 : 북이십일 21세기북스, 2024 | 152.46 S968gK안 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34275/63/cover200/k032932164_2.jpg) | 나 지금 가고 있어 : 715오송참사 그날의 기억, 1년의 이야기 | 715오송참사 기록단 | 옥천군 : 고래실, 2024 | 363.340951 칠68나 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A psychological approach to diagnosis : using the ICD-11 as a framework | Reed, Geoffrey M | Washington, DC : American Psychological Association, 2024. | 616.89075 R324p | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | If only... : finding freedom from regret | Leahy, Robert L | New York | 158.1 L434i | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | An America first approach to U.S. national security | Fleitz, Fred | Washington, D.C. : the American first policy institute, 2024. | 355.033073 F596a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Essential aloneness : Rome lectures on DW Winnicott | Bollas, Christopher | New York, NY : Oxford University Press, 2024. | 155.422 B691e | 중앙도서관 |
