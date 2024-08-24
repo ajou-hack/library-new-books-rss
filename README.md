@@ -2,6 +2,18 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32901/46/cover200/k782936625_1.jpg) | 미래 투자전략의 핵심축 토큰증권(STO) | 이재성 | 서울 : 유엔제이, 2023 | 332.632 이73미 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34129/97/cover200/893745677x_2.jpg) | 금빛 종소리 : 김하나의 자유롭고 쾌락적인 고전 읽기 | 김하나 | 서울 : 민음사, 2024 | 028.1 김92금 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Contraception : a concise history | Drucker, Donna J | Cambridge, Massachusetts : The MIT Press, 2020. | 618.18 D794c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Military history for the modern strategist : America's major wars since 1861 | O'Hanlon, Michael E | Washington, D.C. : Brookings Institution Press, 2024. | 355.00973 O36m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Defense 101 : understanding the military of today and tomorrow | O'Hanlon, Michael E | Ithaca [New York] : Cornell University Press, 2021. | 355.00973 O36d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Biocompatibility protocols for medical devices and materials | Shanmugam, Prakash Srinivasan Timiri | London, UK : Academic Press, an imprint of Elsevier, 2023. | 610.284 S528b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The ideological origins of the Dirty War : fascism, populism, and dictatorship in twentieth century Argentina | Finchelstein, Federico | New York : Oxford University Press, 2017 | 982.06 F492i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A political economy of behavioural public policy | Oliver, Adam J | New York, NY : Cambridge University Press, 2022. | 330.019 O48p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The origins of behavioural public policy | Oliver, Adam J | New York : Cambridge University Press, 2017. | 320.6 O48o | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Reciprocity and the art of behavioural public policy | Oliver, Adam J | Cambridge | 320.6 O48r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The heat will kill you first : life and death on a scorched planet | Goodell, Jeff | New York : Little, Brown and Company, 2023. | 363.73874 G648h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The urban planetary and Tokyo modernity : dwelling in passing | Thouny, Christophe | Lanham : Lexington Books, 2024. | 307.760953 T525u | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33924/32/cover200/k142930039_1.jpg) | 문명대변혁의 시대 : 사회구조 변화와 학문적 조망 | 김용학 | 파주 : 나남, 2024 | 303.483 문34김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 고색동 | 수원시정연구원 | 수원 : 수원시정연구원 수원학연구센터, 2022 | 951.957 수66고 v.1~2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이주 공동체의 '겹'과 '틈' | 한성대학교 | 서울 : 한성대학교 이주의인문학사업단 : 대자커뮤니케이션, 2024 | 304.8 한54이 | 중앙도서관 |
@@ -40,15 +52,3 @@
 | ![](https://image.aladin.co.kr/product/26784/85/cover200/k572730589_1.jpg) | 조직론 | 장인봉 | 서울 : 윤성사, 2020 | 658.402 장68조 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33586/50/cover200/8925418673_1.jpg) | 특수교육 교육과정 재구성 : 2022 개정 특수교육 교육과정 기반 | 김영미 | 파주 : 교육과학사, 2024 | 371.9 특56김교2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33489/51/cover200/8964149874_1.jpg) | 무역실무 | 이신규 | 서울 : 두남, 2024 | 382 이58무5 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 기계공작법 : SI단위 | Kalpakjian, Serope | 서울 : 퍼스트북, 2023 | 670.42 K14m8K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/3155/89/cover200/8976824067_1.jpg) | 들길의 사상가, 하이데거 | 박찬국 | 서울 : 그린비, 2013 | 193 H465박그 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31801/19/cover200/8932041644_2.jpg) | 고양이 대학살 : 프랑스 문화사 속의 다른 이야기들 | Darnton, Robert | 서울 : 문학과지성사, 2023 | 944.034 D223gK조2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33102/62/cover200/k742937715_1.jpg) | 소비자행동 : 마케팅전략적 접근 | 이학식 | 서울 : 집현재, 2024 | 658.8342 소48이8 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31288/62/cover200/8968444374_1.jpg) | 리더십 | Lussier, Robert N | 서울 : 한경사, 2023 | 658.4092 L972L7K차 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34361/9/cover200/8927880501_1.jpg) | (프렌즈) 이탈리아 | 황현희 | 서울 : 중앙books : 중앙일보에스, 2024 | 914.504 황94이11 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32417/64/cover200/k592935897_1.jpg) | 이탈리아 자동차 여행 : 국내 최초 이탈리아 자동차 여행 가이드북 | 이정운 | 파주 : 꿈의지도, 2023 | 914.504 이74이3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33558/44/cover200/k372939781_1.jpg) | 중년부부의 이탈리아, 프랑스 한 달 배낭여행 | 임규수 | 서울 : 바른북스, 2024 | 914.04 임16중 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34034/33/cover200/k372931261_1.jpg) | 이탈리아 알프스 & 북부 | 조대현 | 서울 : 해시태그, 2024 | 914.504 조23이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31288/43/cover200/k012832575_1.jpg) | 토큰증권 | 이건호 | 서울 : 커뮤니케이션북스, 2023 | 348.632 이14토 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | M. 에크하르트의 중세 고지(高地) 독일어 작품집 | Eckhart | 부산 : 메타노이아, 2023 | 248.22 M515mK이 v.1 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fundamental molecular biology | Allison, Lizabeth A | Hoboken, NJ : Wiley-Blackwell, 2021. | 572.8 A438f3 | 중앙도서관 |
