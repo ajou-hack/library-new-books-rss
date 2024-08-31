@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 돈 말고 무엇을 갖고 있는가 : 세상의 잣대에 휘둘리지 않는 나라는 세계를 만드는 법 | 정지우 | [고양] : 마름모, 2024 | 158.1 정78돈 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 아리스토텔레스 가정경제학 | Aristotle | 서울 : 그린비, 2024 | 330.08 A717oK김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 앤디 워홀 : 1928-1987 | Honnef, Klaus | 서울 : 마로니에북스, 2020 | 760.092 W275hK최 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 조선의 불교회화 | 정명희 | 서울 : 사회평론아카데미, 2024 | 755.943 정34조 | 중앙도서관 |
@@ -40,15 +41,14 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (자유와 진실을 향한) 장하리 | 추미애 | 서울 : 해피스토리, 2023 | 811.37 추38장 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27211/83/cover/k422732197_1.jpg) | 죽이고 싶은 아이 : 이꽃님 장편소설 | 이꽃님 | 서울 : 우리학교, 2021-2024 | 811.37 이15죽 v.2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 파이썬+AI : 코드조각과 실행화면으로 배우는 코딩 | 안용제 | 서울 : 디지털북스, 2024 | 005.133 안65파 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 자연어처리를 위한 딥러닝 | Raaijmakers, Stephan | 서울 : 시그마프레스, 2024 | 006.35 R111dK박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 우분투 리눅스 시스템 & 서버 | 창병모 | 파주 : 생능, 2024 | 005.432 창44우 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 쓸모 있는 AI 서비스 만들기 : 사전 학습 모델로 빠르게 구현하는 실전 AI 프로젝트 가이드 | 김경환 | 서울 : 한빛미디어, 2024 | 006.3 김14쓸 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 로봇 공학을 위한 인공 지능 : ROS 2, Python, OpenCV 및 AI/ML 기술을 사용하여 지능형 로봇구축하기 | Govers, Francis X | 서울 : 홍릉, 2024 | 006.3 G721a2K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (제품 디자이너와 3D 프린팅 모델링을 위한) 라이노8 독학하기 | 황정행 | 서울 : BM성안당, 2024 | 006.693 황74라 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 뚝딱 PostgreSQL 레시피 : 오라클과 PostgreSQL을 한 번에 | 김익서 | 서울 : 디비안, 2024 | 005.7585 김68뚝 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | MQL4 언어를 활용한 EA코딩 : 입문자용 | 김국한 | 서울 : 지식과감성#, 2024 | 005.1 김16m2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | LLM을 활용한 실전 AI 애플리케이션 개발 : LLM의 기본부터 모델 학습, 임베딩, 벡터 데이터베이스로 만드는 RAG까지 | 허정준 | 안양 : 책만, 2024 | 006.3 허74L | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 진짜 기본 청소책 | 정두미 | 서울 : 레시피팩토리, 2024 | 648.5 정26진 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 삶을 바꾸는 집 정리 노하우 | 김은호 | [군산] : 하움, 2024 | 648.8 김67삶 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 팔로우 더 머니 : 반트럼프 도당과 딥스테이트의 충격적인 연결고리들 | Bongino, Dan | 서울 : 열아홉, 2022 | 973.933 B713fK황 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 세상 멋져 보이는 것들의 사회학 : 그럼에도 불구하고 던져야 할 질문 | 오찬호 | 서울 : 북트리거 : 지학사, 2024 | 301 오82세 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 민주주의, 할 수 없는 것과 할 수 있는 것 | Przeworski, Adam | 서울 : 후마니타스, 2024 | 321.8 P973dK이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인생 설계자 : 꿈을 현실로 만드는 인생 설계의 힘 | Acuff, Jon | 군산 : 오픈도어북스 : 하움, 2024 | 153.85 A189aK박 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 능동적 아웃풋 : 막연한 기대를 현실로 풀어내는 사고 모드 | 촉촉한마케터 | 서울 : 초록비책공방 : 초록비공방, 2024 | 650.1 촉84능 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 뉴해피 : 행복을 바라보는 새로운 관점 | Harrison, Stephanie | 서울 : 세종 : 세종서적, 2024 | 158 H322nK정 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 나를 살리는 습관, 죽이는 습관 : 불안과 욕심으로 소모되지 않는 건강한 인생 수업 | 조승우 | 서울 : 알에이치코리아, 2024 | 613 조57나 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 진리 : 철학의 문을 여는 열쇠 | Wrenn, Chase B | 고양 : 연암서가, 2024 | 121 W945tK서 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 지금 내 마음 괜찮은 걸까요? : 방어기제를 알면 보이는 숨은 마음 | 김선희 | 괴산군 : 정한책방, 2024 | 158.3 김54지 | 중앙도서관 |
