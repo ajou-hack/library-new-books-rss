@@ -2,6 +2,12 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34595/65/cover200/k482933670_1.jpg) | 형사소송법 | 이주원 | 서울 : 박영사, 2024 | 345.05 이76형6 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/15897/58/cover/8936317601_1.jpg) | (예능 PD 7人이 작심하고 쓴) TV 예능 제작 가이드 =TV entertainment production guide | 이동규 | 파주 : 청문각 : 교문사, 2018 | 791.450232 T968이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/686e7c01-455b-4bc8-b7b1-e50beacbca6c) | 설득언어 : 상대의 마음을 사로잡는 프레임 대화법 | 박만규 | 서울 : 베가북스, 2019 | 808.56 박32설 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/25a66c9f-a030-4980-8d1d-b09ba6e8e9f7) | 지오인포매틱스 =Geoinformatics | 주현승 | 파주 :한국학술정보,2017 | 910.285 주94지3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/89/73/cover/8982255923_1.jpg) | 수리학 | 이재수 | 서울 : 구미서관, 2007 | 627 이73수 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 차량동역학 | Gillespie, Thomas D | 서울 : 피어슨에듀케이션코리아, 2002(2004 2쇄) | 629.2 G478fK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/12224/60/cover200/k292531547_1.jpg) | 디스옥타비아 : 2059 만들어진 세계 | 유진목 | 서울 : 알마, 2017(2023 5쇄) | 811.37 유78디 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31113/79/cover200/k032831844_1.jpg) | 고독사는 사회적 타살입니다 : 현직 경찰관의 눈으로 바라본 고독사 현장 | 권종호 | 부산 : 산지니, 2023 | 362.6 권75고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34168/13/cover200/k562931915_1.jpg) | 적당히 잊어버려도 좋은 나이입니다 : 도쿄의대 노년내과 의사가 알려주는 인생 후반을 위한 현실 조언 | 겸전실 | 서울 : 더퀘스트 : 길벗, 2024 | 155.67 겸74육K지 | 중앙도서관 |
@@ -46,9 +52,3 @@
 | ![](https://image.aladin.co.kr/product/26793/2/cover200/8934989793_1.jpg) | 좋은 기업을 넘어 위대한 기업으로 : 위대한 기업과 괜찮은 기업을 가르는 결정적 차이는 무엇인가 | Collins, James C | 파주 : 김영사, 2021 | 658 C712gK이2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29174/5/cover200/895090019x_1.jpg) | 두선생의 지도로 읽는 세계사 : 서양 편 | 한영준 | 파주 : 21세기북스 : 북이십일 21세기북스, 2022 | 909 한64두 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/20179/82/cover200/k362635649_1.jpg) | 우리가 우리이기 이전에 | 안리타 | [서울] : 홀로씨의 테이블, 2019 | 811.87 안298우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34371/99/cover200/8947549657_2.jpg) | 노화를 늦추는 보고서 : 질병과 나이에 대한 통념을 바꾼 거장의 45년 연구 | Langer, Ellen J | 서울 : 프런티어 : 한국경제신문 : 한경BP, 2024 | 158.13 L276mK신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34293/53/cover200/k922932271_1.jpg) | 파이썬 시계열 예측 분석 | Peixeiro, Marco | 파주 : 제이펍, 2024 | 005.133 P379tK동 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34297/58/cover200/k352932378_1.jpg) | 이벤트 소싱과 마이크로서비스 아키텍처 : 성공적인 이벤트 기반 시스템 구축하기 | 손경덕 | 서울 : 에이콘, 2024 | 005.12 손14이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34218/50/cover200/k992931134_1.jpg) | 오렌지3 with 파이썬 : 머신러닝으로 쉽게 따라 하는 데이터 과학 프로젝트 | 김현철 | 파주 : 생능북스 : 생능, 2024 | 005.133 오294김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34283/72/cover200/k642932072_1.jpg) | 미라클 HTML5+CSS3+자바스크립트 : 기적처럼 재미있는 웹 프로그래밍 | 조성호 | 서울 : 한빛아카데미, 2024 | 006.74 조54미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34384/49/cover200/k832932403_1.jpg) | 딥러닝 express | 천인국 | 파주 : 생능, 2024 | 006.31 천68딥2 | 중앙도서관 |
