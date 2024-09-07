@@ -2,10 +2,35 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/33837/74/cover200/k762930998_1.jpg) | 파시 : 박경리 장편소설 | 박경리 | 파주 : 다산책방 : 다산북스, 2024 | 811.37 박14파 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18655/56/cover200/8999717771_1.jpg) | 코칭 핵심 역량 : 실전 코칭을 위한 필독서 | 박창규 | 서울 : 학지사, 2019 | 658.3124 코86박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/801/62/cover200/8926815803_1.jpg) | 葛藤管理論 | 윤권종 | 파주 : 한국학술정보, 2010 | 303.69 윤16갈 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29759/61/cover200/k472838205_1.jpg) | 중국에서의 한국현대문학 수용양상 연구 | 김정일 | 서울 : 역락, 2022 | 811.09 김74중 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33710/34/cover200/k422939346_1.jpg) | 인구와 사회 | 이용균 | 광주 : 전남대학교출판문화원, 2024 | 304.6 이65인2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30341/40/cover200/8962381710_1.jpg) | 통치와 생존의 인구학 : 지피지기의 관점에서 | 이성용 | 서울 : 해남, 2022 | 304.6 이54통 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 만화 경제 상식사전 | 조립식 | 서울 : 길벗, 2024 | 330.02 조298만3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 미망 : 박완서 장편소설 | 박완서 | 서울 : 민음사, 2024 | 811.37 박65미 v.1~3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33922/53/cover200/899383461x_1.jpg) | 비행기에 관한 거의 모든 궁금증 : 베테랑 조종사가 들려주는 아찔하고 디테일한 비행기 세계 | 신지수 | 양평 : 책으로여는세상, 2024 | 629.13334 신78비 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34595/65/cover200/k482933670_1.jpg) | 형사소송법 | 이주원 | 서울 : 박영사, 2024 | 345.05 이76형6 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/15897/58/cover/8936317601_1.jpg) | (예능 PD 7人이 작심하고 쓴) TV 예능 제작 가이드 =TV entertainment production guide | 이동규 | 파주 : 청문각 : 교문사, 2018 | 791.450232 T968이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (Home cook) 홀썸의 집밥 예찬 : 매일의 건강 집밥이 불러온 놀라운 일상의 기적 | 홀썸모먼트 | 파주 : 다산라이프 : 다산북스, 2024 | 641.5 홀54홀 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 친구의 표정 | 안담 | 서울 : 위즈덤하우스, 2024 | 811.87 안22친 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 즐거운 어른 : 이옥선 산문 | 이옥선 | 파주 : 이야기장수, 2024 | 811.87 이65즐 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (서울에서 원산까지) 경원선 따라 산문여행 : 명사십리에 해당화 필 무렵 | 방민호 | 서울 : 예옥, 2020 | 811.47 방38경 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 쇼핑은 투표보다 중요하다 : 정치적 소비자 운동을 위하여 | 강준만 | 서울 : 인물과사상사, 2020 | 306.2 강76쇼 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24325/91/cover200/k552630709_1.jpg) | 한국 소비자 불매운동사 : 기업, 국가, 대중문화를 향한 소비자의 분노와 희망 | 천혜정 | 서울 : 이화여자대학교출판문화원, 2020 | 381.320951 천94한 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (어려운 수학을 맛있게 즐겨보는) 수학 겉핥기 | 김일희 | [파주] : 인성재단 : 종이향기, 2024 | 510.2 김68수 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 세상을 바꾼 수식 : 사물의 본질을 꿰뚫어 보는 위대한 수식들 | 부도우윤 | 고양 : 미디어숲, 2024 | 510 부25동K강 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 오십에 읽는 손자병법(孫子兵法) : 불확실한 삶을 대비하기 위한 2,500년의 전략 | 최송목 | 서울 : 유노북스 : 유노콘텐츠그룹, 2024 | 181.216 최55오 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (임상영역에서의) 성차의학 | 김나영 | 서울 : 대한의학 : 에스앤씨퍼블리싱, 2022 | 616 김192성 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 1402 강리도 : 아프리카를 최초로 그린 세계지도의 탄생 | 김선흥 | 파주 : 네잎클로바, 2022 | 912.09 김54천 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (아동과 청소년을 위한) 인지행동치료(CBT) 워크북 | Berman, Jenna | 서울 : 학지사, 2024 | 616.89142 B516sK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 교류분석의 이해와 상담의 적용 | 김미례 | 서울 : 학지사, 2024 | 616.89145 김38교학 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 다중회귀분석과 구조방정식모형분석 : 다중회귀분석을 넘어 | Keith, Timothy Z | 서울 : 학지사, 2024 | 519.536 K28m3K노 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 전통과 수용 : 한국 고전문학과 해외교류 | 이혜순 | 파주 : 돌베개, 2010 | 811.09 이94전 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 박물관의 미래지향성과 박물관교육 | 이연수 | 서울 : 민속원, 2021 | 069.15 이64박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/15897/58/cover/8936317601_1.jpg) | (예능 PD 7人이 작심하고 쓴) TV 예능 제작 가이드 | 이동규 | 파주 : 청문각 : 교문사, 2018 | 791.450232 T968이 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/686e7c01-455b-4bc8-b7b1-e50beacbca6c) | 설득언어 : 상대의 마음을 사로잡는 프레임 대화법 | 박만규 | 서울 : 베가북스, 2019 | 808.56 박32설 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/25a66c9f-a030-4980-8d1d-b09ba6e8e9f7) | 지오인포매틱스 =Geoinformatics | 주현승 | 파주 :한국학술정보,2017 | 910.285 주94지3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/25a66c9f-a030-4980-8d1d-b09ba6e8e9f7) | 지오인포매틱스 | 주현승 | 파주 : 한국학술정보, 2017 | 910.285 주94지3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/89/73/cover/8982255923_1.jpg) | 수리학 | 이재수 | 서울 : 구미서관, 2007 | 627 이73수 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 차량동역학 | Gillespie, Thomas D | 서울 : 피어슨에듀케이션코리아, 2002(2004 2쇄) | 629.2 G478fK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/12224/60/cover200/k292531547_1.jpg) | 디스옥타비아 : 2059 만들어진 세계 | 유진목 | 서울 : 알마, 2017(2023 5쇄) | 811.37 유78디 | 중앙도서관 |
@@ -27,28 +52,3 @@
 | ![](https://image.aladin.co.kr/product/34362/7/cover200/k832932904_1.jpg) | 소비하는 인간, 요구하는 인간 | 김경은 | [고양] : 마인드빌딩, 2024 | 363.7 김14소 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34280/1/cover200/k252932262_1.jpg) | 헌법의 순간 : 대한민국을 설계한 20일의 역사 | 박혁 | 서울 : 페이퍼로드, 2024 | 342.519 박94헌 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32044/75/cover200/k472834886_1.jpg) | 2030 삼성전자 시나리오 : 승자독식의 ICT 전장에서 최후의 패권을 거머쥘 자는 누구인가 | 김용원 | 서울 : SAY KOREA : 커리어케어, 2023 | 338.762138 김65이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 조직행동론 | Robbins, Stephen P | [서울] : 한티에듀, 2021 | 658.3 R636o18K김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/67494593-5822-4443-a49c-1cc50c650b81) | Save the cat! : 흥행하는 영화 시나리오의 8가지 법칙 | Snyder, Blake | 서울 : 비즈앤비즈, 20142024(12쇄) | 808.23 S675sK이흥 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/15bc8a4d-c2f0-4b7b-a762-b087ac45f593) | 비즈니스 프로세스 경영 :생산 및 서비스 운영 관리 | Anupindi, Ravi | [서울] :피어슨에듀케이션코리아,2012 | 658.5 M266a3K김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | World on the brink : how America can beat China in the race for the twenty-first century | Alperovitch, Dmitri | New York : PublicAffairs, 2024. | 327.73052 A456w | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Structural and system reliability | Der Kiureghian, Armen | New York, NY : Cambridge University Press, 2022. | 620.00452 D427s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Stem cells : biology and application | Frampton, Jonathan | Boca Raton : CRC Press, 2020. | 616.02774 F813s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | An introduction to optimization : with applications to machine learning | Chong, Edwin Kah Pin | Hoboken : John Wiley ＆ Sons, 2024. | 519.6 C548i5 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Power electronics, a first course : simulations and laboratory implementations | Mohan, Ned | Hoboken, New Jersey : John Wiley ＆ Sons, 2023. | 621.317 M697p2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Architecture : form, space, ＆ order | Ching, Francis D. K | Hoboken, New Jersey : Wiley, 2023. | 720.1 C539a5 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Renewable and efficient electric power systems | Masters, Gilbert M | Hoboken, New Jersey : John Wiley ＆ Sons Inc., 2024. | 621.31 M423r3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introduction to electrodynamics | Griffiths, David J | New York : Cambridge University Press, 2024. | 537.6 G855i5 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fluid mechanics : fundamentals and applications | Çengel, Yunus A | Singapore : McGraw-Hill Education, 2020. | 620.106 C395f4s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Matching supply with demand : an introduction to operations management | Cachon, Gérard | New York, NY : McGraw-Hill, 2024. | 658.5 C119m5 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Twilight of the elites : prosperity, the periphery, and the future of France | Guilluy, Christophe | New Haven : Yale University Press, 2019 | 305.50944 G962cEd | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The art of war in an age of peace : U.S. grand strategy and resolute restraint | O'Hanlon, Michael E | New Haven : Yale University Press, 2021. | 355.033073 O36a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Welfare and social policy in Britain since 1870 : essays in honour of Jose Harris | Harris, Jose | Oxford : Oxford University Press, 2019. | 361.941 H314w | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Advanced concepts in no-limit hold'em : a modern approach to poker analysis | Cichy, Hunter | [East Sussex, England] : D＆B Poker, 2017(2023 reprinting) | 795.412 C568a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Human nature | Winnicott, D. W | London : Free Association Books, 1988(1999 reprinting) | 618.9289 W776h | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34403/80/cover200/k012932614_1.jpg) | 돈 말고 무엇을 갖고 있는가 : 세상의 잣대에 휘둘리지 않는 나라는 세계를 만드는 법 | 정지우 | [고양] : 마름모, 2024 | 158.1 정78돈 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34455/42/cover200/8976828720_1.jpg) | 아리스토텔레스 가정경제학 | Aristotle | 서울 : 그린비, 2024 | 330.08 A717oK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25972/17/cover200/8960535907_1.jpg) | 앤디 워홀 : 1928-1987 | Honnef, Klaus | 서울 : 마로니에북스, 2020 | 760.092 W275hK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33968/98/cover200/k132930449_1.jpg) | 조선의 불교회화 | 정명희 | 서울 : 사회평론아카데미, 2024 | 755.943 정34조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26793/2/cover200/8934989793_1.jpg) | 좋은 기업을 넘어 위대한 기업으로 : 위대한 기업과 괜찮은 기업을 가르는 결정적 차이는 무엇인가 | Collins, James C | 파주 : 김영사, 2021 | 658 C712gK이2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29174/5/cover200/895090019x_1.jpg) | 두선생의 지도로 읽는 세계사 : 서양 편 | 한영준 | 파주 : 21세기북스 : 북이십일 21세기북스, 2022 | 909 한64두 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/20179/82/cover200/k362635649_1.jpg) | 우리가 우리이기 이전에 | 안리타 | [서울] : 홀로씨의 테이블, 2019 | 811.87 안298우 | 중앙도서관 |
