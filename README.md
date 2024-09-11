@@ -2,32 +2,38 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34471/85/cover200/8932043078_2.jpg) | 투계 : 마리아 페르난다 암푸에로 소설집 | Ampuero, María Fernanda | 서울 : 문학과지성사, 2024 | 863.7 A527pK임 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31269/11/cover200/8961542516_1.jpg) | 피부과학의 이해 | 최미영 | 서울 : 라이프사이언스, 2023 | 616.5 최38피 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33180/45/cover200/k392937332_1.jpg) | 첫 1년 움직임의 비밀 : 평생을 좌우하는 영유아기 움직임 발달 | Hermsen-van Wanrooy, Marianne | 의왕 : 푸른씨앗, 2024 | 649.122 H556b4K하 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/421/38/cover200/8937462141_2.jpg) | 면도날 | Maugham, William Somerset | 서울 : 민음사, 2009(2024 38쇄) | 808.8 세148민 v.214, 808.8 세148민v.214 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33030/17/cover200/8981098638_1.jpg) | 주석 행정소송법. 2, §25~§46, 부칙 | 안철상 | 서울 : 韓國司法行政學會, 2023 | 342.066 안83주 v.2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/33030/15/cover200/898109862x_1.jpg) | 주석 행정소송법. 1, §1~§24 | 안철상 | 서울 : 韓國司法行政學會, 2023 | 342.066 안83주 v.1 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/33837/74/cover200/k762930998_1.jpg) | 파시 : 박경리 장편소설 | 박경리 | 파주 : 다산책방 : 다산북스, 2024 | 811.37 박14파 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/18655/56/cover200/8999717771_1.jpg) | 코칭 핵심 역량 : 실전 코칭을 위한 필독서 | 박창규 | 서울 : 학지사, 2019 | 658.3124 코86박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/801/62/cover200/8926815803_1.jpg) | 葛藤管理論 | 윤권종 | 파주 : 한국학술정보, 2010 | 303.69 윤16갈 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29759/61/cover200/k472838205_1.jpg) | 중국에서의 한국현대문학 수용양상 연구 | 김정일 | 서울 : 역락, 2022 | 811.09 김74중 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33710/34/cover200/k422939346_1.jpg) | 인구와 사회 | 이용균 | 광주 : 전남대학교출판문화원, 2024 | 304.6 이65인2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30341/40/cover200/8962381710_1.jpg) | 통치와 생존의 인구학 : 지피지기의 관점에서 | 이성용 | 서울 : 해남, 2022 | 304.6 이54통 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 만화 경제 상식사전 | 조립식 | 서울 : 길벗, 2024 | 330.02 조298만3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 미망 : 박완서 장편소설 | 박완서 | 서울 : 민음사, 2024 | 811.37 박65미 v.1~3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33061/17/cover200/k242937993_1.jpg) | 만화 경제 상식사전 | 조립식 | 서울 : 길벗, 2024 | 330.02 조298만3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34444/25/cover200/8937457431_1.jpg) | 미망 : 박완서 장편소설 | 박완서 | 서울 : 민음사, 2024 | 811.37 박65미 v.1~3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33922/53/cover200/899383461x_1.jpg) | 비행기에 관한 거의 모든 궁금증 : 베테랑 조종사가 들려주는 아찔하고 디테일한 비행기 세계 | 신지수 | 양평 : 책으로여는세상, 2024 | 629.13334 신78비 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34595/65/cover200/k482933670_1.jpg) | 형사소송법 | 이주원 | 서울 : 박영사, 2024 | 345.05 이76형6 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (Home cook) 홀썸의 집밥 예찬 : 매일의 건강 집밥이 불러온 놀라운 일상의 기적 | 홀썸모먼트 | 파주 : 다산라이프 : 다산북스, 2024 | 641.5 홀54홀 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 친구의 표정 | 안담 | 서울 : 위즈덤하우스, 2024 | 811.87 안22친 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 즐거운 어른 : 이옥선 산문 | 이옥선 | 파주 : 이야기장수, 2024 | 811.87 이65즐 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (서울에서 원산까지) 경원선 따라 산문여행 : 명사십리에 해당화 필 무렵 | 방민호 | 서울 : 예옥, 2020 | 811.47 방38경 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 쇼핑은 투표보다 중요하다 : 정치적 소비자 운동을 위하여 | 강준만 | 서울 : 인물과사상사, 2020 | 306.2 강76쇼 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33970/91/cover200/k612930441_2.jpg) | (Home cook) 홀썸의 집밥 예찬 : 매일의 건강 집밥이 불러온 놀라운 일상의 기적 | 홀썸모먼트 | 파주 : 다산라이프 : 다산북스, 2024 | 641.5 홀54홀 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34433/61/cover200/k692932123_1.jpg) | 친구의 표정 | 안담 | 서울 : 위즈덤하우스, 2024 | 811.87 안22친 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34560/43/cover200/k762933261_1.jpg) | 즐거운 어른 : 이옥선 산문 | 이옥선 | 파주 : 이야기장수, 2024 | 811.87 이65즐 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24702/12/cover200/8993241694_1.jpg) | (서울에서 원산까지) 경원선 따라 산문여행 : 명사십리에 해당화 필 무렵 | 방민호 | 서울 : 예옥, 2020 | 811.47 방38경 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23719/37/cover200/8959065633_1.jpg) | 쇼핑은 투표보다 중요하다 : 정치적 소비자 운동을 위하여 | 강준만 | 서울 : 인물과사상사, 2020 | 306.2 강76쇼 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/24325/91/cover200/k552630709_1.jpg) | 한국 소비자 불매운동사 : 기업, 국가, 대중문화를 향한 소비자의 분노와 희망 | 천혜정 | 서울 : 이화여자대학교출판문화원, 2020 | 381.320951 천94한 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (어려운 수학을 맛있게 즐겨보는) 수학 겉핥기 | 김일희 | [파주] : 인성재단 : 종이향기, 2024 | 510.2 김68수 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 세상을 바꾼 수식 : 사물의 본질을 꿰뚫어 보는 위대한 수식들 | 부도우윤 | 고양 : 미디어숲, 2024 | 510 부25동K강 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 오십에 읽는 손자병법(孫子兵法) : 불확실한 삶을 대비하기 위한 2,500년의 전략 | 최송목 | 서울 : 유노북스 : 유노콘텐츠그룹, 2024 | 181.216 최55오 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (임상영역에서의) 성차의학 | 김나영 | 서울 : 대한의학 : 에스앤씨퍼블리싱, 2022 | 616 김192성 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 1402 강리도 : 아프리카를 최초로 그린 세계지도의 탄생 | 김선흥 | 파주 : 네잎클로바, 2022 | 912.09 김54천 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (아동과 청소년을 위한) 인지행동치료(CBT) 워크북 | Berman, Jenna | 서울 : 학지사, 2024 | 616.89142 B516sK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 교류분석의 이해와 상담의 적용 | 김미례 | 서울 : 학지사, 2024 | 616.89145 김38교학 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 다중회귀분석과 구조방정식모형분석 : 다중회귀분석을 넘어 | Keith, Timothy Z | 서울 : 학지사, 2024 | 519.536 K28m3K노 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 전통과 수용 : 한국 고전문학과 해외교류 | 이혜순 | 파주 : 돌베개, 2010 | 811.09 이94전 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 박물관의 미래지향성과 박물관교육 | 이연수 | 서울 : 민속원, 2021 | 069.15 이64박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34152/47/cover200/k472931499_1.jpg) | (어려운 수학을 맛있게 즐겨보는) 수학 겉핥기 | 김일희 | [파주] : 인성재단 : 종이향기, 2024 | 510.2 김68수 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34441/39/cover200/k172932239_1.jpg) | 세상을 바꾼 수식 : 사물의 본질을 꿰뚫어 보는 위대한 수식들 | 부도우윤 | 고양 : 미디어숲, 2024 | 510 부25동K강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33408/40/cover200/k362938239_2.jpg) | 오십에 읽는 손자병법(孫子兵法) : 불확실한 삶을 대비하기 위한 2,500년의 전략 | 최송목 | 서울 : 유노북스 : 유노콘텐츠그룹, 2024 | 181.216 최55오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30738/71/cover200/k582830155_1.jpg) | (임상영역에서의) 성차의학 | 김나영 | 서울 : 대한의학 : 에스앤씨퍼블리싱, 2022 | 616 김192성 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30442/97/cover200/8997966111_1.jpg) | 1402 강리도 : 아프리카를 최초로 그린 세계지도의 탄생 | 김선흥 | 파주 : 네잎클로바, 2022 | 912.09 김54천 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34017/60/cover200/8999731219_2.jpg) | (아동과 청소년을 위한) 인지행동치료(CBT) 워크북 | Berman, Jenna | 서울 : 학지사, 2024 | 616.89142 B516sK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34127/12/cover200/8999730719_1.jpg) | 교류분석의 이해와 상담의 적용 | 김미례 | 서울 : 학지사, 2024 | 616.89145 김38교학 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33880/50/cover200/8999731111_1.jpg) | 다중회귀분석과 구조방정식모형분석 : 다중회귀분석을 넘어 | Keith, Timothy Z | 서울 : 학지사, 2024 | 519.536 K28m3K노 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/732/14/cover200/8971993952_1.jpg) | 전통과 수용 : 한국 고전문학과 해외교류 | 이혜순 | 파주 : 돌베개, 2010 | 811.09 이94전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27417/65/cover200/8928516102_1.jpg) | 박물관의 미래지향성과 박물관교육 | 이연수 | 서울 : 민속원, 2021 | 069.15 이64박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/15897/58/cover/8936317601_1.jpg) | (예능 PD 7人이 작심하고 쓴) TV 예능 제작 가이드 | 이동규 | 파주 : 청문각 : 교문사, 2018 | 791.450232 T968이 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/686e7c01-455b-4bc8-b7b1-e50beacbca6c) | 설득언어 : 상대의 마음을 사로잡는 프레임 대화법 | 박만규 | 서울 : 베가북스, 2019 | 808.56 박32설 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/25a66c9f-a030-4980-8d1d-b09ba6e8e9f7) | 지오인포매틱스 | 주현승 | 파주 : 한국학술정보, 2017 | 910.285 주94지3 | 중앙도서관 |
@@ -46,9 +52,3 @@
 | ![](https://image.aladin.co.kr/product/22212/33/cover200/k642636513_1.jpg) | 이카이노시집 | 김시종 | 서울 : b, 2019 | 813.17 김58저K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/18468/57/cover200/k422534559_1.jpg) | 이카이노 : 일본 속 작은 제주 : 조지현 사진집 | 조지현 | 제주 : 각, 2019 | 779 조78이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34214/43/cover200/k402931034_1.jpg) | 디지털 제텔카스텐 | Kadavy, David | [서울] : 데이원, 2024 | 658.31243 K11dK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34366/78/cover200/k682932004_1.jpg) | 이 여름에 별을 보다 : 츠지무라 미즈키 장편소설 | 십촌심월 | 서울 : 내 친구의 서재, 2024 | 813.37 십84이K강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34442/8/cover200/k372932230_1.jpg) | 파도가 닿았던 모든 순간 : 무라야마 유카 장편소설 | 촌산유가 | 파주 : 놀 : 다산북스, 2024 | 813.37 촌52해K양 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34534/72/cover200/k942932956_1.jpg) | 홀리 | King, Stephen | 서울 : 황금가지, 2024 | 823.914 K54hK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34362/7/cover200/k832932904_1.jpg) | 소비하는 인간, 요구하는 인간 | 김경은 | [고양] : 마인드빌딩, 2024 | 363.7 김14소 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34280/1/cover200/k252932262_1.jpg) | 헌법의 순간 : 대한민국을 설계한 20일의 역사 | 박혁 | 서울 : 페이퍼로드, 2024 | 342.519 박94헌 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32044/75/cover200/k472834886_1.jpg) | 2030 삼성전자 시나리오 : 승자독식의 ICT 전장에서 최후의 패권을 거머쥘 자는 누구인가 | 김용원 | 서울 : SAY KOREA : 커리어케어, 2023 | 338.762138 김65이 | 중앙도서관 |
