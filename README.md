@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34481/86/cover200/8918915403_1.jpg) | 헌법개론 | 성낙인 | 파주 : 法文社, 2024 | 342 성192헌법14 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/28717/69/cover/k342836664_1.jpg) | 한국 문화의 정체성 | 김형찬 | 서울 : KU PRESS : 고려대학교출판문화원, 2021 | 306.0951 한16김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Social psychology | Aronson, Elliot | Harlow, England : Pearson, 2018. | 302 A796s9 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34331/51/cover200/k402932687_2.jpg) | 몽골제국 연대기 | Rashīd al-Dīn Ṭabīb | 파주 : 사계절, 2024 | 952.95 R224jK김사 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/2098/36/cover200/8926838994_1.jpg) | 돌궐어 문법 | Tekin, Talât | 파주 : 한국학술정보, 2012 | 494.35 T266oK이 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32952/96/cover200/k022936146_1.jpg) | 화석 자본 : 증기력의 발흥과 지구온난화의 기원 | Malm, Andreas | 성남 : 두번째테제, 2023 | 333.820941 M256fK위 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | All the beauty in the world : a museum guard's adventures in life, loss and art | Bringley, Patrick | London : Vintage, 2024. | 708.1471 B858a | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Classical mechanics : the theoretical minimum | Susskind, Leonard | London : Penguin Books, 2014. | 531 S964c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Every summer after | Fortune, Carley | New York : Jove, 2022. | 823.92 F745e | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Funerals, festivals, and cultural politics in Porfirian Mexico | Esposito, Matthew D | Albuquerque : University of New Mexico Press, 2010. | 393.0972 E77f | 중앙도서관 |
