@@ -2,6 +2,26 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32005/83/cover200/k142834771_1.jpg) | (현직 국회 보좌관 13인이 쓴) 세상이 바꾸는 입법, 입법이 바꾸는 세상 | 제방훈 | 서울 : 신조사, 2023 | 340.9 제42세 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 미지를 위한 루바토 : 김선오 산문집 | 김선오 | 서울 : 아침달, 2022 | 811.47 김54미 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34386/48/cover200/k732932508_1.jpg) | 조용한 여행 | 최승표 | 서울 : 어떤책, 2024 | 811.67 최57조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34313/29/cover200/k922932471_1.jpg) | 과거로 돌아가는 역 | 청수청목 | 서울 : 빈페이지, 2024 | 813.37 청56분K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 파리의 노트르담 | Hugo, Victor-Marie | 파주 : 작가정신, 2010(2022 3쇄) | 843.7 H895nK성 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 핵심 기업재무 | Berk, Jonathan | [서울] : 한빛아카데미, 2024 | 658.15 B512c5K선 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 세인트자일스의 나환자 : 엘리스 피터스 장편소설 | Peters, Ellis | 서울 : 북하우스, 2024 | 823.912 P481LK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 성 베드로 축일 : 엘리스 피터스 장편소설 | Peters, Ellis | 서울 : 북하우스, 2024 | 823.912 P481sK송 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 수도사의 두건 : 엘리스 피터스 장편소설 | Peters, Ellis | 서울 : 북하우스, 2024 | 823.912 P481mK현 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 착취 없는 세계를 위한 생태정치학 : 사회적 생태론과 코뮌주의 선언 | Bookchin, Murray | 파주 : 동녘, 2024 | 304.2 B724sK서 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (2024 오직 간호대생을 위한) 간호사 자소서 | 태원준 | 서울 : 홍지문, 2024 | 650.142 태66간8 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 여행지에서 만난 한국문학 | 강진호 | 서울 : 민음사, 2024 | 811.09 강78여 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 직업으로서의 교사 : 권재원 교육비평집 | 권재원 | 서울 : 우리학교, 2021 | 370.2 권73직 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 지적 대화를 위한 넓고 얕은 지식 : 한 권으로 현실 세계를 통달하는 지식 여행서 | 채사장 | 서울 : 웨일북, 2020 | 001 채52지2 v.1~2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 지구본 수업 | 박정주 | 파주 : 그림씨, 2024 | 909 박74지 v.1~2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (리액트 훅을 활용한) 마이크로 상태 관리 : 리액트 상태 관리의 기본 개념부터 동작 원리와 문제 해결, 렌더링 최적화 기법까지 | Kato, Daishi | 파주 : 위키북스, 2024 | 005.2762 K19mK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34016/24/cover200/k642931061_1.jpg) | (제7회) 한국과학문학상 수상작품집 | 장민 | 서울 : 허블, 2024 | 811.3708 한16과 v.7 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18594/44/cover/8962184621_1.jpg) | 집단상담 :과정과 실제 | Corey, Marianne Schneider | 서울 :센게이지러닝코리아, 2019 | 616.89152 C797g10K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/37f31c13-08e8-4b6a-a400-dbd636309c60) | 무기화학실험 | 노동윤 | 파주 :자유아카데미,2014 | 546 무18노 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34433/86/cover200/k472932124_1.jpg) | 찬란한 멸종 : 거꾸로 읽는 유쾌한 지구의 역사 | 이정모 | 파주 : 다산북스, 2024 | 576.84 이74찬 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34616/8/cover200/k502933989_1.jpg) | 미술관 에듀케이터 | 좋은질문워크숍 | 고양 : 퍼블리터, 2024 | 708 좋67미 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34555/2/cover200/k042933162_2.jpg) | 고요한 읽기 : 이승우 산문집 | 이승우 | 파주 : 문학동네, 2024 | 811.47 이57고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34599/20/cover200/899774366x_1.jpg) | 박물관의 그림자 : 지성의 위기를 넘어 새로운 미래로 | Kuper, Adam | 서울 : 진성북스, 2024 | 305.80075 K96mK김 | 중앙도서관 |
@@ -32,23 +52,3 @@
 | ![](https://image.aladin.co.kr/product/34526/60/cover200/k622932853_2.jpg) | 고전이 답했다 : 마땅히 살아야 할 삶에 대하여 | 고명환 | 서울 : 라곰, 2024 | 179.9 고34고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34577/37/cover200/8934918950_1.jpg) | 오롯이 내 인생이잖아요 : 밀라논나 이야기 | 장명숙 | 파주 : 김영사, 2024 | 811.87 장34오 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34390/43/cover200/k922932505_1.jpg) | 귀매 : 유은지 장편소설 | 유은지 | 파주 : 문학동네, 2024 | 811.37 유67귀2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34596/48/cover200/k342933674_2.jpg) | (The) show : 탁현민의 기획과 연출 | 탁현민 | 서울 : 메디치 : 메디치미디어, 2024 | 394.40951 탁94s | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34280/95/cover200/8920050392_1.jpg) | 21세기 노년 : 영화로 읽는 백세 시대의 삶과 교육 | 이로미 | 서울 : 지식의날개 : 한국방송통신대학교출판문화원, 2024 | 374 이295이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33669/60/cover200/8925418851_1.jpg) | 생성형 AI를 활용한 미래교육 | 한송이 | 파주 : 교육과학사, 2024 | 371.334 한55생2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32921/11/cover200/k552936931_1.jpg) | 물류로 읽는 세계사 | 옥목준명 | 서울 : 시그마북스, 2023 | 658.7809 옥35물K노시 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/21192/4/cover200/k232636089_1.jpg) | 첫사랑과 O | 김현 | 서울 : 알마, 2019 | 811.17 첫52김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34598/84/cover200/8928520169_1.jpg) | 박물관의 지속가능성과 박물관교육 | 이연수 | 서울 : 민속원, 2024 | 069.15 이64박민 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32285/94/cover/8946074736_1.jpg) | 대중문화와 문화산업 | 한국문화사회학회 | 파주 : 한울아카데미 : 한울엠플러스, 2023 | 306 한16대 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28717/69/cover/k342836664_1.jpg) | 한국 문화의 정체성 | 김형찬 | 서울 : KU PRESS : 고려대학교출판문화원, 2021 | 306.0951 한16김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Social psychology | Aronson, Elliot | Harlow, England : Pearson, 2018. | 302 A796s9 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34331/51/cover200/k402932687_2.jpg) | 몽골제국 연대기 | Rashīd al-Dīn Ṭabīb | 파주 : 사계절, 2024 | 952.95 R224jK김사 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2098/36/cover200/8926838994_1.jpg) | 돌궐어 문법 | Tekin, Talât | 파주 : 한국학술정보, 2012 | 494.35 T266oK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24367/63/cover200/k162630218_3.jpg) | 구제적 강도 : 현대어역본 | 전낙청 | 서울 : 소명, 2020 | 811.08 전192구현 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24374/91/cover200/k632630217_1.jpg) | 구제적 강도 : 주석본 | 전낙청 | 서울 : 소명, 2020 | 811.08 전192구 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33698/21/cover200/k042939149_1.jpg) | 포르노그래피, 그리고 청년이라는 문제 | Rebentisch, Juliane | 고양 : 사월의책, 2024 | 363.47 W525rK문 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28513/21/cover200/k882835835_1.jpg) | 언젠가 우리가 같은 별을 바라본다면 : 차인표 장편소설 | 차인표 | 서울 : 해결책, 2021 | 811.37 차68언 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34597/81/cover200/k912933677_1.jpg) | AI, 예술의 미래를 묻다 : 인공지능 시대의 새로운 예술과 가능성 | 장병탁 | 서울 : SIGONGART : 시공사, 2024 | 700.105 A288장 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32146/40/cover200/k272834219_1.jpg) | 뮤지엄 미술치료 : 미술관과 박물관이 품은 치유의 힘 | Ghadim, Mitra Reyhani | 파주 : 안그라픽스, 2023 | 616.891656 G411mK주 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34317/70/cover200/k152932570_1.jpg) | 내가 사랑한 파리의 작은 미술관 : 아주 특별하고 멋진 파리 탐방기 | 신정아 | 서울 : HU:iNE : 한국외국어대학교 지식출판콘텐츠원, 2024 | 708.44 신74내 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34155/61/cover200/k692931599_1.jpg) | 할아버지와 바닷가 | Courgeon, Rémi | 파주 : 노는날, 2024 | 843.914 C859vK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34578/54/cover200/8946075252_1.jpg) | 감성 X 경제 | Morson, Gary Saul | 파주 : 한울아카데미 : 한울엠플러스, 2024 | 330.01 M886cK김 | 중앙도서관 |
