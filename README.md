@@ -2,6 +2,28 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32825/72/cover200/k012936807_1.jpg) | 죽은 남편이 돌아왔다 : 제인도 장편소설 | 제인도 | 서울 : 팩토리나인, 2023 | 811.37 제68죽 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34410/57/cover200/k442932020_1.jpg) | 뒤틀린 한국 의료 : 의대 정원 너머 ‘진짜 보건의료 문제’ 취재기 | 김연희 | 부산 : 산지니, 2024 | 362.10951 김64뒤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33014/10/cover200/k952937079_3.jpg) | 제너레이션 : 세대란 무엇인가 | Twenge, Jean M | 서울 : 매일경제신문사 : 매경, 2023 | 305.2 T971gK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/21265/23/cover200/k092636286_1.jpg) | 소시오크라시 : 자율경영 시대의 조직개발 | Buck, John A | 서울 : 한국NVC, 2019 | 302.35 B922w2K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33855/78/cover200/k082930308_1.jpg) | 그림으로 이해하는 알고리즘 | 석전보휘 | 서울 : 길벗, 2024 | 005.1 석74그2K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/279/81/cover200/8950916134_1.jpg) | 여섯살, 소리 내어 읽어라 | 홍경수 | 파주 : 북이십일 : 21세기북스, 2008 | 649.68 홍14여 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/1323/33/cover200/8996462748_1.jpg) | 미디어콘텐츠 읽기 | 홍경수 | 아산 : 순천향대학교 출판부, 2011 | 302.23 홍14미 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34195/16/cover200/k032931410_1.jpg) | 오학준의 주변 : 끊임없이 멀어지며 가라앉기 | 오학준 | [서울] : 편않, 2024 | 070.4 오92오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/8511/31/cover200/8994158928_1.jpg) | 책의 역습 : 책의 미래는 밝다 | 내소진태랑 | 서울 : haru : 터닝포인트, 2016 | 070.5 내55본K문 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34620/85/cover200/k152933286_1.jpg) | 들개처럼 연출하다 : 방송 인생 35년 쌀집 아저씨의 PD 연대기 | 김영희 | 서울 : 애플북스 : 비전비엔피, 2024 | 811.87 김64들 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34561/6/cover200/k512933262_1.jpg) | 상처 입은 사람은 모두 철학자가 된다 : 철학상담이 건네는 가장 깊은 인생의 위로 | 박병준 | 서울 : 추수밭 : 청림, 2024 | 100 박44상 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32727/73/cover200/k512936979_1.jpg) | 조선후기 양반제도 | 이강욱 | 원주 : 은대사랑, 2023 | 951.5 이12조은 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32820/92/cover200/893292385x_1.jpg) | 블랙케이크 : 샤메인 윌커슨 장편소설 | Wilkerson, Charmaine | 파주 : 열린책들, 2023 | 823.92 W681bK서 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30151/43/cover200/8934944064_1.jpg) | 지금 살아남은 승자의 이유 : 먹히는 브랜드의 비밀 | 김영준 | 파주 : 김영사, 2022 | 658.827 김64지 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32043/57/cover200/k802834109_1.jpg) | 해양 대백과사전 | DK 『Oceanology』 Publishing | 서울 : 사이언스북스, 2023 | 551.46 D626oK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34235/82/cover200/8937492172_1.jpg) | 교정의 요정 : 일기들 | 유리관 | 서울 : 민음사, 2024 | 811.87 유298교 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32152/42/cover200/k822834319_1.jpg) | 아메리칸 티엔시아 : 중국의 돈, 미국의 권력 그리고 역사의 종언 | Babones, Salvatore J | 파주 : 이담북스 : 한국학술정보, 2023 | 330.952 B114aK현 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34040/93/cover200/k552931073_1.jpg) | 미국과 중국 : 글로벌경제 리더십의 경쟁과 협력 | Bergsten, C. Fred | 서울 : 명인문화사, 2024 | 330.973 B499uK전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34672/58/cover200/k702933895_1.jpg) | 술꾼들의 모국어 : 권여선 산문 | 권여선 | 서울 : 한겨레엔, 2024 | 811.87 권64술 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31790/73/cover/8962185512_1.jpg) | 학습과 행동 | Chance, Paul | 서울 : 학지사, 2023 | 153.15 C454L8K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29065/54/cover/8968241260_1.jpg) | (캠벨) 생명과학 | Campbell, Neil A | 파주 : 바이오사이언스, 2022 | 570 C189b12K전 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18594/44/cover/8962184621_1.jpg) | 집단상담 :과정과 실제 | Corey, Marianne Schneider | 서울 :센게이지러닝코리아, 2019 | 616.89152 C797g10K김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | New folk art | Viction:workshop | North Point, Hong Kong : Viction:workshop, 2023. | 745.4 V642n | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Florenz und Bagdad : eine westostliche Geschichte des Blicks | Belting, Hans | Munchen : C.H. Beck, 2012. | 701.82 B453f | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Pinochet generation : the Chilean military in the twentieth century | Bawden, John R | Tuscaloosa : The University of Alabama Press, 2021. | 355.00983 B354p | 중앙도서관 |
@@ -30,25 +52,3 @@
 | ![](https://image.aladin.co.kr/product/33492/65/cover200/k352938356_1.jpg) | (2024 오직 간호대생을 위한) 간호사 자소서 | 태원준 | 서울 : 홍지문, 2024 | 650.142 태66간8 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34351/48/cover200/k632932995_1.jpg) | 완전 (망)한 여행 : 망한 여행도 다시 보면 완전한 여행이 될 수 있지 | 허휘수 | 서울 : 상상, 2024 | 811.87 허96완 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34585/21/cover200/8984947415_1.jpg) | 조선초기 관인 연구 | 한충희 | 서울 : 혜안, 2024 | 951.51 한85조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33803/67/cover200/k512930678_1.jpg) | 로맨스 도파민 | 최영원 | 서울 : 안전가옥, 2024 | 811.37 로33최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34613/23/cover200/893745694x_1.jpg) | 여행지에서 만난 한국문학 | 강진호 | 서울 : 민음사, 2024 | 811.09 강78여 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29456/14/cover200/k892837139_1.jpg) | (혼자서 터득하는) 세무·회계 사무소 업무 가이드 | 이석정 | 서울 : 삼일인포마인, 2022 | 657.46 이54혼세4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27138/32/cover200/k712731342_1.jpg) | 직업으로서의 교사 : 권재원 교육비평집 | 권재원 | 서울 : 우리학교, 2021 | 370.2 권73직 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24011/46/cover200/k932639212_1.jpg) | 교육 그 자체 : 교육에 관한 열아홉 편의 에세이 | 권재원 | 서울 : 우리학교, 2020 | 370.2 권73교 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22717/35/cover200/k572636231_3.jpg) | 교사, 함께 할수록 빛나는 : 삶을 글로 나누며 성장하는 교사학습공동체 이야기 | 김종훈 | 인천 : 템북, 2020 | 371.1 김75교삶 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33748/38/cover200/k722930969_1.jpg) | 혼자 공부하는 네트워크 : 1:1 과외하듯 배우는 네트워크 자습서 | 강민철 | 서울 : 한빛미디어, 2024 | 004.6 강38혼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22872/79/cover200/k992636841_2.jpg) | 지적 대화를 위한 넓고 얕은 지식 : 한 권으로 현실 세계를 통달하는 지식 여행서 | 채사장 | 서울 : 웨일북, 2020 | 001 채52지2 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34587/11/cover200/k542933475_1.jpg) | 지구본 수업 | 박정주 | 파주 : 그림씨, 2024 | 909 박74지 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33359/93/cover200/k142938909_1.jpg) | (리액트 훅을 활용한) 마이크로 상태 관리 : 리액트 상태 관리의 기본 개념부터 동작 원리와 문제 해결, 렌더링 최적화 기법까지 | Kato, Daishi | 파주 : 위키북스, 2024 | 005.2762 K19mK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34016/24/cover200/k642931061_1.jpg) | (제7회) 한국과학문학상 수상작품집 | 장민 | 서울 : 허블, 2024 | 811.3708 한16과 v.7 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/18594/44/cover/8962184621_1.jpg) | 집단상담 :과정과 실제 | Corey, Marianne Schneider | 서울 :센게이지러닝코리아, 2019 | 616.89152 C797g10K김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/37f31c13-08e8-4b6a-a400-dbd636309c60) | 무기화학실험 | 노동윤 | 파주 :자유아카데미,2014 | 546 무18노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34433/86/cover200/k472932124_1.jpg) | 찬란한 멸종 : 거꾸로 읽는 유쾌한 지구의 역사 | 이정모 | 파주 : 다산북스, 2024 | 576.84 이74찬 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34616/8/cover200/k502933989_1.jpg) | 미술관 에듀케이터 | 좋은질문워크숍 | 고양 : 퍼블리터, 2024 | 708 좋67미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34555/2/cover200/k042933162_2.jpg) | 고요한 읽기 : 이승우 산문집 | 이승우 | 파주 : 문학동네, 2024 | 811.47 이57고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34599/20/cover200/899774366x_1.jpg) | 박물관의 그림자 : 지성의 위기를 넘어 새로운 미래로 | Kuper, Adam | 서울 : 진성북스, 2024 | 305.80075 K96mK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/4287/66/cover200/1185754024_1.jpg) | 조선의 교육헌장 : 우리 교육의 오래된 미래 | 김경용 | 서울 : 박영story, 2014 | 370.951 김14조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34618/84/cover200/k372933982_1.jpg) | 픽션의 가장자리 : 새로운 주체, 공통의 세계를 찾아 나선 지적 여정 | Rancière, Jacques | 파주 : 오월의봄, 2024 | 808.3 R185bK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34592/71/cover200/k912933678_1.jpg) | 재앙의 지리학 : 기후붕괴를 수출하는 부유한 국가들의 실체 | Parsons, Laurie | 파주 : 오월의봄, 2024 | 363.738746 P268cK추 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34559/61/cover200/k752933260_1.jpg) | (트렌드 연구원이 알려주는) 트렌드 읽는 법 | 이재흔 | 서울 : 리드앤두 : 길벗, 2024 | 303.4 이73트 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34385/71/cover200/k642932407_1.jpg) | 로마 가톨릭교와 정치적 형식 | Schmitt, Carl | 성남 : 두번째테제, 2024 | 261.7 S355rK윤 | 중앙도서관 |
