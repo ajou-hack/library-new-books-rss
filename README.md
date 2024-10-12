@@ -2,6 +2,22 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34195/86/cover200/8927813200_1.jpg) | 고독사를 준비 중입니다 : 홀로 인생을 마주할 줄 아는 용기와 자유에 대하여 | 최철주 | 서울 : 중앙북스 : 중앙일보에스, 2024 | 155.937 최83고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26245/19/cover200/k312738386_1.jpg) | (알아두면 쓸모 있는) 어원잡학사전 : 평범한 단어들의 특별한 어원 이야기 | Foote, Patrick | 서울 : 크레타, 2021 | 422 F689oK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25818/47/cover200/k032736430_2.jpg) | 행정윤리 | 김성준 | 파주 : 양성원, 2021 | 351 행74김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | People before markets : an alternative casebook | Souleles, Daniel Scott | Cambridge | 320.51 S722p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | ホントのことを言うと, よく, しかられる。 : (勝つコピーのぜんぶ) | 중전귀지 | 東京 : 宣伝会議, 2015 | 659.1 중74호2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Learning from our mistakes : beyond dogma in psychoanalysis and psychotherapy | Casement, Patrick | New York : Guilford Press, 2008. | 616.8917 C337L | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Principles of antitrust | Hovenkamp, Herbert | St. Paul, MN : West Academic Publishing, 2021. | 343.730721 H845p2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Constitutionalism and dictatorship : Pinochet, the Junta, and the 1980 constitution | Barros, Robert | Cambridge, UK | 320.98309045 B277c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | ビジュアル・ハーモニー : 黄金比, フィボナッチ数列を取り入れた, 世界のグラフィックデザイン事例集 | SendPoints | 東京 : ビー・エヌ・エヌ新社, 2018 | 741.6 S474비 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | アナログ・アルゴリズム : グリッドシステムによる形の探求 | Grünberger, Christoph | 東京 : ビー・エヌ・エヌ, 2024 | 741.6 G888아 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | アートディレクター/デザイナーの仕事 : デザインの手法, 思考の源泉 | 엠디엔서적편집부 | 東京 : エムディエヌコーポレーション, 2023 | 741.6 M478아 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | オランダ ベルギー ルクセンブルク : 2024~25 | 지구노보키방편집실 | 東京 : Gakken, 2024 | 914.04 지16오 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Human rights policies in Chile : the unfinished struggle for truth and justice | Borzutzky, Silvia | Cham, Switzerland : Palgrave Macmillan, 2017. | 323.0983 B739h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Neither Peace nor Freedom : The Cultural Cold War in Latin America | Iber, Patrick | Cambridge, Massachusetts : Harvard University Press, 2015. | 303.372098 I12n | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Casarett ＆ Doull's essentials of toxicology | Klaassen, Curtis D | New York : McGraw Hill, 2021. | 615.9 K63ct4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Why politicians lie about trade : ...and what you need to know about it | Grozoubinski, Dmitry | Kingston upon Thames, Surrey, United Kingdom : Canbury Press, 2024. | 382.71 G884w | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34829/35/cover200/k252933748_1.jpg) | 뜨거운 지구, 차가운 해법 : 지구는 식히고 경제는 뜨겁게 | 박재순 | 서울 : 어문학사, 2024 | 363.7 박73뜨 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32000/2/cover200/k472834668_1.jpg) | 니는 혼자가 아이다 | 심재훈 | 서울 : 가디언, 2023 | 811.37 심73니 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/9762/42/cover200/8954643175_1.jpg) | 길 위에서 읽는 시 | 김남희 | 파주 : 문학동네, 2016(2021 5쇄) | 808.81 김192길 | 중앙도서관 |
@@ -36,19 +52,3 @@
 | ![](https://image.aladin.co.kr/product/33330/49/cover200/k902938591_1.jpg) | 디지털 시대, 인문학의 미래를 말하다 | 서울대학교 | 서울 : 사회평론아카데미, 2024 | 001.3 서66디 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30864/83/cover/k412831575_2.jpg) | AI 2041 : 10개의 결정적 장면으로 읽는 인공지능과 인류의 미래 | Lee, Kai-Fu | 서울 : 한빛비즈, 2023 | 303.483 L478aK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/60/74/cover200/8970135472_1.jpg) | 은하수를 여행하는 히치하이커를 위한 안내서 | Adams, Douglas | 책세상2024 | 823 A211hK김책 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Kindred | Octavia E.Butler | Boston : Beacon Press, 2023. | 823.914 B986kb | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/8227/44/cover200/k322434959_1.jpg) | 수치해석 | Faires, J. Douglas | 파주 : 교우사, 2016(2023 2쇄) | 519.4 F165n4K권 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32509/10/cover200/8959729841_1.jpg) | (석박사학위와 학술논문 작성 중심의) SmartPLS 4.0 구조방정식모델링 | 신건권 | 서울 : 청람, 2023 | 519.535 신14s청 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32329/23/cover200/8949966220_1.jpg) | 북방에서 온 교역민 : 비단‧모피‧산탄인 | 좌좌목사랑 | 파주 : 경인문화사, 2022 | 382.095 좌75북K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/6863/71/cover200/k002434072_1.jpg) | 혼인, 세상을 바꾸다 : 조선시대 혼인의 사회사 | 정진영 | 성남 : 한국학중앙연구원출판부, 2015 | 392.50951 정78혼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34433/42/cover200/k002932123_1.jpg) | 프리세일즈 : 고객과 기업을 잇는 기술 대표 | 최종일 | 안양 : 책만, 2024 | 658.85 최75프 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34610/89/cover200/k212933784_2.jpg) | 파이썬으로 배우는 데이터분석 입문 | 강환수 | 서울 : 홍릉, 2024 | 005.133 강95파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34336/56/cover200/k622932898_1.jpg) | 파이썬과 자바스크립트로 배우는 OpenAI 프로그래밍 | 장전진야내 | 파주 : 제이펍, 2024 | 006.3 장74pK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34575/74/cover200/k292933366_1.jpg) | (데이터 과학을 위한) R 프로그래밍 : 기초 및 응용 | 석경하 | 파주 : 자유아카데미, 2024 | 519.50285 석14r | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34366/36/cover200/k902932003_1.jpg) | 기본기가 탄탄한 자바 개발자 | Evans, Benjamin J | 파주 : 제이펍, 2024 | 005.2762 E92w2K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34367/84/cover200/k512932006_1.jpg) | 90분 너머 축구 이야기 : 사람, 역사, 가족, 친구 | Kei | 서울 : 끌리는책, 2024 | 796.334 K27구 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34209/57/cover200/k072932228_2.jpg) | 평등의 짧은 역사 | Piketty, Thomas | 서울 : 그러나, 2024 | 305.09 P636bK전 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34296/58/cover200/k472932275_1.jpg) | (자본주의+사회주의 세상을 탐험하는) 지적인 여성을 위한 안내서 | Shaw, Bernard | [서울] : Tendedero : 뗀데데로, 2024 | 335 S534iK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34526/67/cover200/k862932853_1.jpg) | 영원의 전쟁 : 전통주의의 복귀와 우파 포퓰리즘 | Teitelbaum, Benjamin R | 파주 : 글항아리, 2024 | 303.484 T265wK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34329/34/cover200/k762932680_1.jpg) | (악마의 유혹,) 검은돈과 금융사기 | 이철환 | [서울] : 새빛, 2024 | 364.163 이83검 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34451/69/cover200/k052932438_1.jpg) | (로빈 니블렛의) 신냉전 : 힘의 대이동, 미국이 전부는 아니다 | Niblett, Robin | 서울 : 매일경제신문사 : 매경, 2024 | 327.52073 N579nK조 | 중앙도서관 |
