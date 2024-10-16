@@ -2,6 +2,18 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34449/77/cover200/k052932333_1.jpg) | 빛이 이끄는 곳으로 : 백희성 장편소설 | 백희성 | [대구] : 북로망스 : 책읽어주는남자, 2024 | 811.37 백97빛 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34560/43/cover200/k762933261_1.jpg) | 즐거운 어른 : 이옥선 산문 | 이옥선 | 파주 : 이야기장수, 2024 | 811.87 이65즐 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34372/90/cover200/8901285894_1.jpg) | 불안 세대 : 디지털 세계는 우리 아이들을 어떻게 병들게 하는가 | Haidt, Jonathan | 파주 : 웅진지식하우스 : 웅진씽크빅, 2024 | 305.23 H149aK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34193/64/cover200/k642931316_1.jpg) | 마녀와의 7일 : 히가시노 게이고 장편소설 | 동야규오 | 서울 : 현대문학, 2024 | 813.37 동63마K양현 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33119/32/cover/8937454823_1.jpg) | 귀신들의 땅 : 천쓰홍 장편소설 | 진사굉 | 서울 : 민음사, 2023 | 812.37 진52귀K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30769/24/cover/8937473402_1.jpg) | 급류 : 정대건 장편소설 | 정대건 | 서울 : 민음사, 2022 | 811.37 정23급 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29885/33/cover/k712838837_2.jpg) | 악마의 계약서는 만기 되지 않는다 : 리러하 장편소설 | 리러하 | 서울 : 팩토리나인, 2022 | 811.37 리294악 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28219/57/cover/8994025847_1.jpg) | 조선 레지스탕스의 두 얼굴 : 민족주의가 감춘 우리 영웅들의 화려한 흑역사 | 진명행 | 서울 : 양문, 2021 | 951.6 진34조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27587/94/cover/8954681158_1.jpg) | 홍학의 자리 :정해연 장편소설 | 정해연 | 파주 :엘릭시르 :문학동네, 2021 | 811.37 정93홍 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6382/21/cover/s292737852_1.jpg) | 자기 결정 :행복하고 존엄한 삶은 내가 결정하는 삶이다 | Bieri, Peter | 서울 :은행나무, 2015 | 170.44 B588wK문 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/86392acc-faee-42d8-a1f1-eab7321ea1eb) | (처음 만나는) 디지털 논리회로 | 임석구 | 서울 :한빛아카데미,2016 | 621.395 임54디한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/421/38/cover200/8937462141_2.jpg) | 면도날 | Maugham, William Somerset | 서울 : 민음사, 2009(2024 38쇄) | 808.8 세148민 v.214, 808.8 세148민v.214 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34195/86/cover200/8927813200_1.jpg) | 고독사를 준비 중입니다 : 홀로 인생을 마주할 줄 아는 용기와 자유에 대하여 | 최철주 | 서울 : 중앙북스 : 중앙일보에스, 2024 | 155.937 최83고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26245/19/cover200/k312738386_1.jpg) | (알아두면 쓸모 있는) 어원잡학사전 : 평범한 단어들의 특별한 어원 이야기 | Foote, Patrick | 서울 : 크레타, 2021 | 422 F689oK최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25818/47/cover200/k032736430_2.jpg) | 행정윤리 | 김성준 | 파주 : 양성원, 2021 | 351 행74김 | 중앙도서관 |
@@ -40,15 +52,3 @@
 | ![](https://image.aladin.co.kr/product/33875/81/cover200/k782930608_1.jpg) | RICOH GR III / GR IIIx : 기초부터 응용까지 100% 활용 가이드 | 영목광웅 | 서울 : 클, 2024 | 771.33 영35rK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34776/26/cover200/k392933121_1.jpg) | 혼자가 편한 게 아니라 상처받기 싫은 거였다 : 관계에 지친 나를 보듬어주는 치유의 심리학 | 하정희 | 서울 : 한밤의책 : 스몰빅미디어, 2024 | 158.2 하74혼 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34611/55/cover200/k952933888_1.jpg) | 스마트폰 끄기의 기술 : 옥스퍼드 신경과학자가 알려주는 무한 스크롤에서 벗어나는 법 | Begeti, Faye | 서울 : 부키, 2024 | 616.8584 B416pK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34712/98/cover200/8969151729_1.jpg) | (ADHD, 틱, 자폐 스펙트럼, 우울증, 느린 학습자도) 함께 성장하는 통합교실 이야기 | 천경호 | 서울 : 학교도서관저널, 2024 | 371.9 천14함 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34077/4/cover200/k982931572_1.jpg) | (셀프트래블) 호주 | 리, 앨리스 | 서울 : 상상, 2024 | 919.404 리63호3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34582/37/cover200/k652933375_1.jpg) | 미술관 가이드의 프랑스 여행법 : 전시실 밖에서 만나는 예술과 역사 | 이혜준 | 서울 : 클로브, 2024 | 914.404 이94미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1343/56/cover200/8972839876_1.jpg) | 배터리 : 재료과학의 고급이해 | Huggins, Robert A | 서울 : 홍릉과학, 2011 | 621.31242 H891aK강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33079/96/cover200/k202937505_1.jpg) | 내가 아니면 누가 나를 챙겨줄까 : 인생의 1순위는 언제나 나여야만 한다 | 홍현태 | 서울 : Deep&Wide, 2023 | 811.87 홍94내 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28818/16/cover200/k262836494_1.jpg) | 공공가치 : 이론과 실제 | 김명환 | 서울 : 윤성사, 2022 | 351.01 공15김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34444/90/cover200/k362932235_1.jpg) | 콘텐츠 전략가 : 세계최대 기업의 UX 기반 콘텐츠 전략 | Dunbar, Natalie Marie | 서울 : 유엑스리뷰, 2024 | 658.872 D899fK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32917/2/cover200/893749213x_1.jpg) | 이미지란 무엇인가 : 이미지 철학 탐구 | 이솔 | 서울 : 민음사, 2023 | 153.3 이55이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26681/10/cover200/k852730887_1.jpg) | 열두 개의 달 시화집 봄 : 三月.四月.五月 | 윤동주 | 파주 : 저녁달고양이 : 저녁달, 2021 | 808.81 열26윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33330/49/cover200/k902938591_1.jpg) | 디지털 시대, 인문학의 미래를 말하다 | 서울대학교 | 서울 : 사회평론아카데미, 2024 | 001.3 서66디 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30864/83/cover/k412831575_2.jpg) | AI 2041 : 10개의 결정적 장면으로 읽는 인공지능과 인류의 미래 | Lee, Kai-Fu | 서울 : 한빛비즈, 2023 | 303.483 L478aK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/60/74/cover200/8970135472_1.jpg) | 은하수를 여행하는 히치하이커를 위한 안내서 | Adams, Douglas | 책세상2024 | 823 A211hK김책 | 중앙도서관 |
