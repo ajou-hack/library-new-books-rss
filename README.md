@@ -2,6 +2,22 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34360/63/cover200/k702932909_1.jpg) | 인공지능 법정에서의 하루 : AI 판사에게 재판을 받을 것인가 | 강영주 | 서울 : 박영사, 2024 | 340 강64인 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/34572/57/cover200/k872933265_1.jpg) | EU 인공지능법 | 최경진 | 서울 : 박영사, 2024 | 343.0999 최14이 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/3073/28/cover200/8996391972_1.jpg) | 광전자 및 광자공학 | Kasap, S. O | 서울 : 퍼스트북, 2013 | 621.381 K19o2K반 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/610/66/cover200/8930620388_1.jpg) | 쉽게 읽는 언어철학 | 박병철 | 파주 : 서광사, 2009(2024 9쇄) | 401 박44쉽 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2604/97/cover200/8945001654_1.jpg) | 전자회로 | Boylestad, Robert L | 서울 : 피어슨에듀케이션코리아 : 홍릉과학, 2015 | 621.3815 B792e11K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18801/6/cover200/894606465x_1.jpg) | 신자유주의와 자본주의의 사회학 | 윤상우 | 파주 : 한울아카데미 : 한울엠플러스, 2018 | 330.122 윤52신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33492/53/cover200/k492938355_1.jpg) | AI 몸피로봇, 로댕 : 얼굴이 없어야 하는 이유 | 구연상 | 서울 : Artlake : 아트레이크, 2024 | 811.37 구64a | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24140/29/cover200/8998683032_1.jpg) | 공중부양의 인문학 : 사람과 노동 그리고 장애를 보는 관점 | 심승현 | 서울 : 쿠움, 2020 | 371.9 심57공 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34877/56/cover200/k692933054_1.jpg) | 때로는 워밍업 없이 가보고 싶어 : 어차피 준비된 인생은 없으니까 | 김수지 | 서울 : 서사원, 2024 | 811.87 김56때 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | U35つくるひと事典 : future of creative | Haconiwa編集部 | [東京] : 翔泳社, 2022 | 700.92 H124u | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | NMDA receptors : methods and protocols | Burnashev, Nail | New York : Humana Press, 2024. | 612.8 B963n2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 현실처럼 비현실적인 | 푸하하하프렌즈 | 서울 : 도미노프레스, 2024 | 720.2 푸92현 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31976/43/cover200/k582834366_1.jpg) | 나노소재 화학 | 김병윤 | 서울 : 사이플러스, 2023 | 540 나195김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30891/84/cover/k332831489_1.jpg) | 전기화학 | 오승모 | 파주 : 자유아카데미, 2023 | 541.37 오57전4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27556/54/cover/8964214242_1.jpg) | 컴퓨터 구조 및 설계 : 하드웨어/소프트웨어 인터페이스 | Patterson, David A | 서울 : 한티미디어, 2021 | 004.22 P317c6K박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/f8d00e84-b5c5-4b70-9a2e-ef3731fac274) | 반도체 소자공학 | Pierret, Robert F | 서울 : 피어슨에듀케이션코리아, 2016 | 621.38152 P623sK이피 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34259/77/cover200/k852932962_1.jpg) | 오렌지와 빵칼 : 청예 장편소설 | 청예 | 서울 : 허블, 2024 | 811.37 청64오 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34764/71/cover200/k522933926_1.jpg) | 시티-뷰 : 우신영 장편소설 | 우신영 | 파주 : 다산책방 : 다산북스, 2024 | 811.37 우58시 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/1336/46/cover200/8970138005_1.jpg) | 신자유주의의 탄생 : 왜 우리는 신자유주의를 막을 수 없었나 | 장석준 | 서울 : 책세상, 2011(2017 3쇄) | 320.513 장54신 | 중앙도서관 |
@@ -36,19 +52,3 @@
 | ![](https://image.aladin.co.kr/product/421/38/cover200/8937462141_2.jpg) | 면도날 | Maugham, William Somerset | 서울 : 민음사, 2009(2024 38쇄) | 808.8 세148민 v.214, 808.8 세148민v.214 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34195/86/cover200/8927813200_1.jpg) | 고독사를 준비 중입니다 : 홀로 인생을 마주할 줄 아는 용기와 자유에 대하여 | 최철주 | 서울 : 중앙북스 : 중앙일보에스, 2024 | 155.937 최83고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26245/19/cover200/k312738386_1.jpg) | (알아두면 쓸모 있는) 어원잡학사전 : 평범한 단어들의 특별한 어원 이야기 | Foote, Patrick | 서울 : 크레타, 2021 | 422 F689oK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25818/47/cover200/k032736430_2.jpg) | 행정윤리 | 김성준 | 파주 : 양성원, 2021 | 351 행74김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | People before markets : an alternative casebook | Souleles, Daniel Scott | Cambridge | 320.51 S722p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | ホントのことを言うと, よく, しかられる。 : (勝つコピーのぜんぶ) | 중전귀지 | 東京 : 宣伝会議, 2015 | 659.1 중74호2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Learning from our mistakes : beyond dogma in psychoanalysis and psychotherapy | Casement, Patrick | New York : Guilford Press, 2008. | 616.8917 C337L | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Principles of antitrust | Hovenkamp, Herbert | St. Paul, MN : West Academic Publishing, 2021. | 343.730721 H845p2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Constitutionalism and dictatorship : Pinochet, the Junta, and the 1980 constitution | Barros, Robert | Cambridge, UK | 320.98309045 B277c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | ビジュアル・ハーモニー : 黄金比, フィボナッチ数列を取り入れた, 世界のグラフィックデザイン事例集 | SendPoints | 東京 : ビー・エヌ・エヌ新社, 2018 | 741.6 S474비 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | アナログ・アルゴリズム : グリッドシステムによる形の探求 | Grünberger, Christoph | 東京 : ビー・エヌ・エヌ, 2024 | 741.6 G888아 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | アートディレクター/デザイナーの仕事 : デザインの手法, 思考の源泉 | 엠디엔서적편집부 | 東京 : エムディエヌコーポレーション, 2023 | 741.6 M478아 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | オランダ ベルギー ルクセンブルク : 2024~25 | 지구노보키방편집실 | 東京 : Gakken, 2024 | 914.04 지16오 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Human rights policies in Chile : the unfinished struggle for truth and justice | Borzutzky, Silvia | Cham, Switzerland : Palgrave Macmillan, 2017. | 323.0983 B739h | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Neither Peace nor Freedom : The Cultural Cold War in Latin America | Iber, Patrick | Cambridge, Massachusetts : Harvard University Press, 2015. | 303.372098 I12n | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Casarett ＆ Doull's essentials of toxicology | Klaassen, Curtis D | New York : McGraw Hill, 2021. | 615.9 K63ct4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Why politicians lie about trade : ...and what you need to know about it | Grozoubinski, Dmitry | Kingston upon Thames, Surrey, United Kingdom : Canbury Press, 2024. | 382.71 G884w | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34829/35/cover200/k252933748_1.jpg) | 뜨거운 지구, 차가운 해법 : 지구는 식히고 경제는 뜨겁게 | 박재순 | 서울 : 어문학사, 2024 | 363.7 박73뜨 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32000/2/cover200/k472834668_1.jpg) | 니는 혼자가 아이다 | 심재훈 | 서울 : 가디언, 2023 | 811.37 심73니 | 중앙도서관 |
