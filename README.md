@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/22769/79/cover/8937490927_1.jpg) | (인문잡지) 한편 | 한편 | 서울 : 민음사, 2020-2024 | 001.3 한894한 v.1~4/6~7/9~10/13~14 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/7abb8b5c-19e8-434c-9c61-4ae3328b7495) | (난생 처음 한번 공부하는) 미술 이야기 | 양정무 | 서울 : 사회평론, 2016-2022 | 709 양74미 v.1~5 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34360/63/cover200/k702932909_1.jpg) | 인공지능 법정에서의 하루 : AI 판사에게 재판을 받을 것인가 | 강영주 | 서울 : 박영사, 2024 | 340 강64인 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/34572/57/cover200/k872933265_1.jpg) | EU 인공지능법 | 최경진 | 서울 : 박영사, 2024 | 343.0999 최14이 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/3073/28/cover200/8996391972_1.jpg) | 광전자 및 광자공학 | Kasap, S. O | 서울 : 퍼스트북, 2013 | 621.381 K19o2K반 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/6382/21/cover/s292737852_1.jpg) | 자기 결정 : 행복하고 존엄한 삶은 내가 결정하는 삶이다 | Bieri, Peter | 서울 : 은행나무, 2015(2024 21쇄) | 170.44 B588wK문 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/86392acc-faee-42d8-a1f1-eab7321ea1eb) | (처음 만나는) 디지털 논리회로 | 임석구 | 서울 : 한빛아카데미, 2016(2023 10쇄) | 621.395 임54디한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/421/38/cover200/8937462141_2.jpg) | 면도날 | Maugham, William Somerset | 서울 : 민음사, 2009(2024 38쇄) | 808.8 세148민 v.214, 808.8 세148민v.214 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34195/86/cover200/8927813200_1.jpg) | 고독사를 준비 중입니다 : 홀로 인생을 마주할 줄 아는 용기와 자유에 대하여 | 최철주 | 서울 : 중앙북스 : 중앙일보에스, 2024 | 155.937 최83고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26245/19/cover200/k312738386_1.jpg) | (알아두면 쓸모 있는) 어원잡학사전 : 평범한 단어들의 특별한 어원 이야기 | Foote, Patrick | 서울 : 크레타, 2021 | 422 F689oK최 | 중앙도서관 |
