@@ -2,6 +2,18 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34970/40/cover200/8965183464_1.jpg) | 채용 트렌드 2025 : 당신이 놓쳤던 취업 & 채용 트렌드 국내 및 세계 전망 | 윤영돈 | 서울 : 경향미디어, 2024 | 658.311 윤64채 2025 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34765/4/cover200/k732933927_1.jpg) | 백석과 모네 : 열두 개의 달 시화집 스페셜 | 백석 | 파주 : 저녁달, 2024 | 811.17 백54백 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6234/41/cover200/8954636756_1.jpg) | 인도 야상곡 | Tabucchi, Antonio | 파주 : 문학동네, 2015 | 853.914 T114nK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34982/6/cover200/8961953648_1.jpg) | 어두운 생태학 : 미래 공존의 논리를 위하여 | Morton, Timothy | 서울 : 갈무리, 2024 | 304.2 M891dK안 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34243/84/cover200/k342931354_1.jpg) | 코칭 더 브레인 : 교사, 코치, 상담가, 부모를 위한 뇌 사용설명서 | O'Connor, Joseph A | 서울 : 박영story : 피와이메이트, 2024 | 612.8233 O18cK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31567/93/cover200/8956254494_1.jpg) | 서울 이야기 | 김남일 | 서울 : 학고재, 2023 | 811.09 김192서 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34385/53/cover200/k082932407_2.jpg) | 행복할 거야 이래도 되나 싶을 정도로 : 일홍 에세이 | 일홍 | [서울] : 부크럼, 2024 | 811.87 일95행 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34972/42/cover200/k892934662_1.jpg) | 제주영화사 | 김종원 | 남양주 : 한상언영화연구소, 2024 | 791.430951 김75제 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34898/10/cover200/k692933157_1.jpg) | 눈 떠보니 초등교사 : 출근하는 선생님들의 진짜 교실 이야기 | 강혜원 | 서울 : 미다스북스, 2024 | 370.2 눈24강 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Market civilizations : neoliberals East and South | Slobodian, Quinn | Brooklyn, New York : Zone Books, 2022. | 320.5109724 S634m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Counterrevolution : extravagance and austerity in public finance | Cooper, Melinda | New York : Zone Books, 2024. | 338.973 C777c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/ac5d810a-30c3-444d-8a67-4ed70a59293f) | 의례의 과정 | Turner, Victor | 서울 : 한국심리치료연구소, 2005 | 306.6 T944rK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/1671/4/cover200/8964450515_2.jpg) | 중국의 서진(西進) : 청(淸)의 중앙유라시아 정복사 | Perdue, Peter C | 서울 : 길, 2012(2024 3쇄) | 952.6 P433cK공 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34474/42/cover200/8937479842_1.jpg) | 달리는 말 | 삼도유기부 | 서울 : 민음사, 2024 | 813.37 삼25분K유 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34816/75/cover200/k142933437_1.jpg) | 숲새울의 정원식물 243 | 최가영 | [서울] : 목수책방, 2024 | 635.9344 최12숲 | 중앙도서관 |
@@ -40,15 +52,3 @@
 | ![](https://image.aladin.co.kr/product/34585/7/cover200/8976506170_1.jpg) | 한 번쯤, 뮤지엄 | 박소영 | 서울 : 산하, 2024 | 708.13 박55한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34820/88/cover200/k222933534_1.jpg) | 피카소의 말 : 이기기 위해서가 아니라 지지 않기 위해 싸운다 | 산구로 | 서울 : 인북 : 박영사, 2024 | 709.2 P586산K송 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34669/80/cover200/8934933933_1.jpg) | 하이, 스토리 한국사 : 시공간을 초월한 33번의 역사 여행 | 이기환 | 파주 : 김영사, 2024 | 951 이18하 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34592/89/cover200/k222933678_1.jpg) | 시공간 압축 : 맑스주의 지리학자 데이비드 하비 입문 | 김창현 | 서울 : 푸른길, 2024 | 335.41 H341김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34709/2/cover200/8932043205_1.jpg) | 폭포 열기 : 김연덕 시집 | 김연덕 | 서울 : 문학과지성사, 2024 | 811.17 김64폭 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34666/19/cover200/k662933795_1.jpg) | 취향껏 살고 있습니다 : 나만의 취향으로 가꾸는 작은 공간 | 지은 | 서울 : 상상, 2024 | 811.87 지67취 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34648/59/cover200/k362933791_1.jpg) | 조금 미친 사람들 | Čapek, Karel | 서울 : 휴머니스트 : 휴머니스트출판그룹, 2024 | 914.6 C237vK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34579/53/cover200/8932924570_1.jpg) | 자유 : 가장 고립된 나라에서 내가 배운 것 | Ypi, Lea | 파주 : 열린책들, 2024 | 949.6503 Y85fK오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34621/33/cover200/k092933287_1.jpg) | 영화 보고 오는 길에 글을 썼습니다 : 김중혁 영화 에세이 | 김중혁 | 서울 : 안온 : 안온북스, 2024 | 791.43015 김76영 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34559/2/cover200/k752933268_2.jpg) | 스릴 너머 : 범죄 전문 피디의 묻기, 뚫기, 그리고 뒤집어엎기 | 도준우 | 파주 : 글항아리, 2024 | 791.450233 도76스 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34648/54/cover200/k182933791_1.jpg) | 대놓고 다정하진 않지만 : 카렐 차페크의 세상 어디에도 없는 영국 여행기 | Čapek, Karel | 서울 : 휴머니스트출판그룹, 2024 | 914.2 C237aK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34679/2/cover200/k522933810_1.jpg) | 껍질 방정식 : 차정은 앤솔로지 | 차정은 | 서울 : 부크크, 2024 | 811.17 차74껍 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34594/2/cover200/k822933679_1.jpg) | 가장 사적인 평범 : 부희령 산문 | 부희령 | 파주 : 교유서가 : 교유당, 2024 | 811.47 부97가 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34672/37/cover200/8932461430_1.jpg) | 필로우맨 | McDonagh, Martin | 서울 : 을유문화사, 2024 | 822.914 M135pK서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34610/83/cover200/k022933784_1.jpg) | 죽지 않고 어른이 되는 법 : 강지영 장편소설 | 강지영 | 파주 : 북다 : 교보문고, 2024 | 811.37 강78죽 | 중앙도서관 |
