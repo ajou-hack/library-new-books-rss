@@ -2,6 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34762/63/cover200/k252933922_1.jpg) | 말투만 바꿨을 뿐인데 : 찰나의 말투 하나로 당신의 인생이 놀랍게 달라진다! | 김민성 | [서울] : 프로파일러북스, 2024 | 808.56 김38말 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34250/48/cover200/k072931651_1.jpg) | 직장 상사 악령 퇴치부 : 이사구 연작소설집 | 이사구 | 서울 : 황금가지, 2024 | 811.37 이52직 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (HS 품목별) 수출입통관편람 : HS품목별 | 한국관세무역연구원 | 서울 : 한국관세무역연구원, 2005- | 382.7 한16수 2005/2006/2017-1/2017-2/2024-1/2024-2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26254/65/cover200/8952242750_1.jpg) | 전쟁과 평화 | Tolstoy, Leo | 파주 : 살림, 2020 | 891.733 T654vK진살 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33858/83/cover200/893645725x_1.jpg) | 율의 시선 : 김민서 장편소설 | 김민서 | 파주 : 창비, 2024 | 811.37 김38율 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35101/21/cover200/k632934600_1.jpg) | 어떤 어른 : 김소영 에세이 | 김소영 | 파주 : 사계절, 2024 | 811.87 김55어사 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/34917/12/cover200/k332933253_2.jpg) | 어두울 때에야 보이는 것들이 있습니다 : 슈테판 츠바이크의 마지막 수업 | Zweig, Stefan | 파주 : 다산초당 : 다산북스, 2024 | 834.912 Z97kK배 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34591/4/cover200/k742933574_1.jpg) | (외국인을 위한) 한국어 고급 문형 연습 | 주월랑 | 서울 : 한국문화사, 2024 | 411.5 주66한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34855/5/cover200/k052933843_1.jpg) | FastAPI로 배우는 백엔드 프로그래밍 with 클린 아키텍처 | 한용재 | 파주 : 제이펍, 2024 | 005.133 한65f | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26652/26/cover/k672739336_1.jpg) | (Janeway's) 면역생물학 | Murphy, Kenneth M | 서울 : 범문에듀케이션, 2021 | 616.079 M978j9K김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/395162fd-6384-4965-a1ff-b100cc6e66e2) | (韓國 近代) 民俗·人類學 資料大系 | 선생영조 | 서울 : 민속원, 2008-2009 | 390.0951 민55민 v.6~15/21/23~27 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 폭력에 대항하는 법 : 일본군'위안부' 문제와 언어, 기억, 그리고 연대 | 한국여성인권진흥원 | 서울 : 한국여성인권진흥원 일본군'위안부'문제연구소, 2024 | 951.6 한16폭 | 중앙도서관 |
