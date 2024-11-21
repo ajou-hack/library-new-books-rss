@@ -2,9 +2,18 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/35119/62/cover200/8901290006_1.jpg) | (돈이 어렵지 않은) 어른이 된다는 것 : 재테크가 두려운 당신에게 시골쥐가 해주고 싶은 말들 | 시골쥐 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2024 | 332.024 시15어 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The white book | 한강 | New York : Hogarth, 2017. | 811.37 한12흰Es | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | L'art et la psychanalyse de Freud à Lacan | Izcovich, Anita | Paris : Éditions Stilus, 2020 | 701.15 I98a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Write like a chemist : a guide and resource | Robinson, Marin S | New York, NY : Oxford University Press, 2022. | 808.06654 R663w2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Battling for hearts and minds : memory struggles in Pinochet's Chile, 1973-1988 | Stern, Steve J | Durham : Duke University Press, 2006. | 983.065 S839b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Teaching health humanities | Banner, Olivia | New York, NY : Oxford University Press, 2019. | 610.711 B219t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The art of cinematic storytelling : a visual guide to planning shots, cuts, and transitions | Brine, Kelly Gordon | New York, NY : Oxford University Press, 2020. | 791.430233 B858a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | How the world ran out of everything : inside the global supply chain | Goodman, Peter S | New York : Mariner Books, 2024. | 658.7 G653h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/cfc29ce2-2fea-4f2b-a189-4b83eb4e56aa) | 객체지향의 사실과 오해 :역할, 책임, 협력 관점에서 본 객체지향 =(The)essence of object-orientation : roles, responsibilities, and collaborations | 조영호 | 파주 :위키북스,2015 | 005.117 조64객 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34762/63/cover200/k252933922_1.jpg) | 말투만 바꿨을 뿐인데 : 찰나의 말투 하나로 당신의 인생이 놀랍게 달라진다! | 김민성 | [서울] : 프로파일러북스, 2024 | 808.56 김38말 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34250/48/cover200/k072931651_1.jpg) | 직장 상사 악령 퇴치부 : 이사구 연작소설집 | 이사구 | 서울 : 황금가지, 2024 | 811.37 이52직 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (HS 품목별) 수출입통관편람 : HS품목별 | 한국관세무역연구원 | 서울 : 한국관세무역연구원, 2005- | 382.7 한16수 2005/2006/2017-1/2017-2/2024-1/2024-2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (HS 품목별) 수출입통관편람 : HS품목별 | 한국관세무역연구원 | 서울 : 한국관세무역연구원, 2005- | 382.7 한16수 2005, 382.7 한16수 2006, 382.7 한16수 2017-1, 382.7 한16수 2017-2, 382.7 한16수 2024-1, 382.7 한16수 2024-2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26254/65/cover200/8952242750_1.jpg) | 전쟁과 평화 | Tolstoy, Leo | 파주 : 살림, 2020 | 891.733 T654vK진살 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33858/83/cover200/893645725x_1.jpg) | 율의 시선 : 김민서 장편소설 | 김민서 | 파주 : 창비, 2024 | 811.37 김38율 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35101/21/cover200/k632934600_1.jpg) | 어떤 어른 : 김소영 에세이 | 김소영 | 파주 : 사계절, 2024 | 811.87 김55어사 | 중앙도서관 |
@@ -43,12 +52,3 @@
 | ![](https://image.aladin.co.kr/product/29607/25/cover200/k522838779_1.jpg) | 선배가 들려주는 기업 상담 이야기 | 변시영 | 서울 : 박영story : 피와이메이트, 2022 | 658.385 변58선 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34082/6/cover200/8999731278_1.jpg) | (슈퍼바이저를 위한) 슈퍼비전의 이론과 실제 | 양명숙 | 서울 : 학지사, 2024 | 158.3 슈894양 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34469/0/cover200/8999731790_1.jpg) | 학대 외상을 딛고 꽃으로 피어난 아이들 : 아동 외상 해리의 판별과 심리치료 | Silberg, Joyanna L | 서울 : 학지사, 2024 | 618.928523 S582c2K장 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34534/65/cover200/8999731863_1.jpg) | 유능한 심리치료사 : 치료 효과를 증진시키는 대인관계 임상 기술과 태도 | Miller, William R | 서울 : 학지사, 2024 | 616.8914 M652eK임 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34800/77/cover200/8999730069_1.jpg) | 정서 제대로 다루기 : 과정-경험적 접근방식 | Greenberg, Leslie S | 서울 : 학지사, 2024 | 616.8914 G798fK홍 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34705/14/cover200/8999732045_1.jpg) | 집단상담의 이론과 실제 | Corey, Gerald | 서울 : 학지사, 2024 | 616.89152 C797t10K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34995/0/cover200/8999732444_1.jpg) | 긍정정서치료 : 치료자 가이드북 | Craske, Michelle G | 서울 : 학지사, 2024 | 616.8527 P855cK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34995/4/cover200/8999732436_1.jpg) | 긍정정서치료 : 워크북 | Meuret, Alicia E | 서울 : 학지사, 2024 | 616.8527 P855mK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31740/47/cover200/k082833802_1.jpg) | 세계 경제학 필독서 50 : 애덤 스미스부터 토마 피케티까지 경제학 명저 50권을 한 권에 | Butler-Bowdon, Tom | 서울 : 센시오, 2023 | 330 B987fK서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34917/12/cover200/k332933253_2.jpg) | 어두울 때에야 보이는 것들이 있습니다 : 슈테판 츠바이크의 마지막 수업 | Zweig, Stefan | 파주 : 다산초당 : 다산북스, 2024 | 834.912 Z97kK배 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34591/4/cover200/k742933574_1.jpg) | (외국인을 위한) 한국어 고급 문형 연습 | 주월랑 | 서울 : 한국문화사, 2024 | 411.5 주66한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34855/5/cover200/k052933843_1.jpg) | FastAPI로 배우는 백엔드 프로그래밍 with 클린 아키텍처 | 한용재 | 파주 : 제이펍, 2024 | 005.133 한65f | 중앙도서관 |
