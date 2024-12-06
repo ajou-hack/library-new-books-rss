@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Kommentar zur Zivilprozessordnung. 7, §§ 704-723 Heinze ; 724-765 Bartels, §§ 765a-802 Kern | Stein, Friedrich | Tübingen : Mohr Siebeck, 2024. | 347.05 S819k23 v.7 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32496/12/cover200/898847614x_2.jpg) | 유머로 배우는 프랑스어 | 박만규 | 서울 : 씨엘, 2023 | 448 박32유 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/87/30/cover200/8957264248_1.jpg) | 은유와 영상도식 | Peña Cervel, M. Sandra | 서울 : 한국문화사, 2006 | 400.19 P397tK임 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34447/79/cover200/8935678805_1.jpg) | 김대중 육성 회고록 : 김대중은 오늘 우리에게 무엇을 말하는가 | 연세대학교 | 파주 : 한길사, 2024 | 320.092 김23연 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/34971/16/cover200/k582934660_1.jpg) | 행복은 발가락 사이로 : 이광이 산문집 | 이광이 | 서울 : 삐삐북스, 2024 | 811.47 이15행 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34826/79/cover200/k362933630_3.jpg) | 나이프 | Rushdie, Salman | 파주 : 문학동네, 2024 | 823.914 R953kK강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34773/24/cover200/k882933022_1.jpg) | 골동골동한 나날 : 젊은 수집가의 골동품 수집기 | 박영빈 | 파주 : 문학수첩, 2024 | 745.1 박64골 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34625/85/cover200/k062933485_1.jpg) | 100세 철학자의 사랑수업 | 김형석 | 파주 : 열림원, 2024 | 152.41 김94백 | 중앙도서관 |
