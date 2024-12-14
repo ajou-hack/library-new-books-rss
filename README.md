@@ -2,6 +2,13 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34712/24/cover200/8936439650_2.jpg) | 대온실 수리 보고서 : 김금희 장편소설 | 김금희 | 파주 : 창비, 2024 | 811.37 김17대 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34526/60/cover200/k622932853_2.jpg) | 고전이 답했다 : 마땅히 살아야 할 삶에 대하여 | 고명환 | 서울 : 라곰, 2024 | 179.9 고34고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34248/13/cover200/k322931553_1.jpg) | 인공지능 시대의 철학자들 : 정보철학이 던지는 열 가지 질문 | 김선희 | 고양 : 사월의책, 2024 | 100 인15김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30064/75/cover/8999727386_1.jpg) | (쉽게 풀어 쓴) MMPI-2/A : 해석상담 및 심리상담에서의 적용 | 성태훈 | 서울 : 학지사, 2022 | 155.283 성883m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 컴퓨터 네트워킹 : 하향식 접근 | Kurose, James F | [서울] : 퍼스트북, 2022 | 004.6 K96c8K최 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/90d26b56-e6f7-4b98-8d27-9c68262eefe7) | 핵심이 보이는 반도체 공학 :기초 이론에서 핵심 응용까지 | 권기영 | 서울 :한빛아카데미,2015 | 621.38152 권18핵 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31642/52/cover200/8936324799_1.jpg) | (Prescott) 미생물학 | Willey, Joanne M | 파주 : 교문사, 2023 | 579 W714p12K김교 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35040/16/cover200/k992934981_1.jpg) | (지금 알면 돈 버는) 최소한의 비트코인 | 김지훈 | 서울 : page2 : 페이지2북스, 2024 | 332.40285 김78최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35220/57/cover200/896952603x_1.jpg) | (트럼프 2.0) 가상화폐 투자 시그널 | 찰리브라웅 | 서울 : 경향비피, 2024 | 332.40285 찰298가 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32491/32/cover200/k682935507_2.jpg) | 일본의 가로를 걷다 | 예곡용아 | 대전 : 애트애드, 2023 | 720.953 예15일K추 | 중앙도서관 |
@@ -16,6 +23,7 @@
 | ![](https://image.aladin.co.kr/product/35331/70/cover200/k772035283_1.jpg) | 이것이 새입니까? : 브랑쿠시와 세기의 재판 | Nebbache, Arnaud | 서울 : 바람북스, 2024 | 741.5944 N358bK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35271/12/cover200/k932934458_1.jpg) | K-컬처와 새로운 한류 정경 : 지속 가능한 한류를 위한 성찰과 모색 | 배기형 | [서울] : 사우, 2024 | 306.40951 배18k | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34999/95/cover200/8946075430_1.jpg) | K-포맷 바이블 : 글로벌 미디어 시장의 새 강자 K-포맷의 모든 것 | 손태영 | 파주 : 한울아카데미 : 한울엠플러스, 2024 | 306.40951 손883k | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35039/99/cover200/k472934980_1.jpg) | 칭찬이 불편한 사람들 : 기성세대를 불편하게 하는 요즘 것들의 새로운 질서 | 금간대개 | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2024 | 305.242 금12선K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34776/53/cover200/k882933121_1.jpg) | 나는 미국 월배당 ETF로 40대에 은퇴한다 : 7천만 원으로 월 2백만 원 받는 연 30% 이상 초고배당의 비밀! | 최영민 | [고양] : 지음미디어, 2024 | 332.6327 최64나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35099/68/cover200/k442934507_1.jpg) | 모우어 : 천선란 소설 | 천선란 | 파주 : 문학동네, 2024 | 811.37 천54모 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34995/24/cover200/8988476204_1.jpg) | 설득의 인문학 : 문제를 해결하는 언어의 프레임 | 박만규 | 서울 : 씨엘, 2024 | 153.852 박32설 | 중앙도서관 |
@@ -29,26 +37,18 @@
 | ![](https://image.aladin.co.kr/product/34917/23/cover200/k022933254_1.jpg) | 넥서스 : 석기시대부터 AI까지, 정보 네트워크로 보는 인류 역사 | Harari, Yuval N | 파주 : 김영사, 2024 | 001.09 H254nK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34774/27/cover200/8932475237_1.jpg) | 괴물들 : 숭배와 혐오, 우리 모두의 딜레마 | Dederer, Claire | 서울 : 을유문화사, 2024 | 700.103 D299mK노 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34801/14/cover200/k312933328_1.jpg) | 가장 다정한 전염 : 혐오와 분열에 맞서 세상을 바꾸는 관대함의 힘 | Anderson, Chris | 서울 : 부키, 2024 | 177.7 A545iK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34712/88/cover200/8934967536_2.jpg) | 크리에이터 소사이어티 : 자유롭고 창의적인 개인들이 만드는 우리 모두의 미래 | 모종린 | 파주 : 김영사, 2024 | 338.544 모75크 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34406/99/cover200/k832933465_2.jpg) | 혐오의 즐거움에 관하여 : 거장의 재발견, 윌리엄 해즐릿 국내 첫 에세이집 | Hazlitt, William | 성남 : 아티초크, 2024 | 824.7 H431cK공 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34213/12/cover200/k842931936_1.jpg) | (인공지능 시대) 무기가 되는 생각법 | 변창우 | 서울 : SAY KOREA : 커리어케어 출판본부, 2024 | 658.403 변82무 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34214/60/cover200/k482931035_1.jpg) | 나는 왜 남들보다 쉽게 지칠까 | 최재훈 | [고양] : 서스테인, 2024 | 155.23 최73나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34030/87/cover200/k342931163_1.jpg) | AGI시대와 인간의 미래 : 챗GPT 이후의 삶, 일자리 그리고 교육 | 맹성현 | 성남 : 헤이북스, 2024 | 303.483 맹54a | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33696/25/cover200/k962939047_1.jpg) | 이 지랄맞음이 쌓여 축제가 되겠지 : 조승리 에세이 | 조승리 | 파주 : 달, 2024 | 811.87 조57이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31325/46/cover/8999727769_1.jpg) | 정서중심치료 | Greenberg, Leslie S | 서울 : 학지사, 2023 | 616.8914 G798e2K한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29541/58/cover/895469361x_1.jpg) | 빛을 걷으면 빛 : 성해나 소설 | 성해나 | 파주 : 문학동네, 2022 | 811.37 성93빛 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29043/96/cover/k152836038_1.jpg) | 민주주의 공부 : 개나 소나 자유 평등 공정인 시대의 진짜 판별법 | Müller, Jan-Werner | 파주 : 윌북, 2022 | 321.8 M958dK권 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26898/67/cover/k822730509_3.jpg) | 밸런싱 그린 : 탄소중립시대, ESG경영을 생각한다 | Sheffi, Yossi | 서울 : 리스크 인텔리전스 경영연구원, 2021 | 658.70286 S542bK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23972/98/cover/8963717577_2.jpg) | 당신에게 가고 있어 : 김보영 장편소설 | 김보영 | 서울 : 새파란상상 : 파란미디어, 2020 | 811.37 김45당김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23972/99/cover/8963717585_2.jpg) | 미래로 가는 사람들 : 김보영 장편소설 | 김보영 | 서울 : 파란미디어 : 새파란상상, 2020 | 811.37 김45미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24779/29/cover/k102631725_1.jpg) | 어른의 어휘력 :말에 품격을 더하고 세상을 올바르게 이해하는 힘 | 유선경 | 서울 :앤의서재, 2020 | 808.5 유54어 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25690/28/cover/8968801428_1.jpg) | 능력주의와 불평등 :능력에 따른 차별은 공정하다는 믿음에 대하여 | 박권일 | 서울 :교육공동체 벗, 2020 | 305.5 능294박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24415/15/cover/899844108x_1.jpg) | 희망 :양귀자 장편소설 | 양귀자 | 서울 :쓰다, 2020 | 811.37 양16희5 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1490/67/cover/8989824567_1.jpg) | 유한계급론 | Veblen, Thorstein | 서울 : 우물이있는집, 2012(2022 10쇄) | 305.52 V395tK김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35005/29/cover200/k332934889_1.jpg) | AI 에듀테크와 행동 과학 | 이수화 | 서울 : 커뮤니케이션북스, 2024 | 371.334 이56a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34672/76/cover200/k742933896_1.jpg) | 교육과 학습을 지원하는 생성형 인공지능 | 이웅기 | 서울 : 커뮤니케이션북스, 2024 | 371.334 이66교 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35219/9/cover200/k872934628_1.jpg) | 스피노자의 진찰실 : 나쓰카와 소스케 장편소설 | 하천초개 | 고양 : 알토북스, 2024 | 813.37 하83스K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/11841/53/cover200/8925412136_1.jpg) | 영혼을 찾아가는 사람들 : 범죄중독자 치유를 위한 상담 | Taylor, Charles | 파주 : 교육과학사, 2017 | 364.6 T239cK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35225/12/cover200/k752934734_2.jpg) | 일의 감각 | 조수용 | 서울 : B미디어컴퍼니 : REFERENCE BY B, 2024 | 658.827 조56일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34795/25/cover200/k522933127_1.jpg) | 100단어로 본 영어의 역사 : 지적인 독자를 위한 영어 이야기 | Crystal, David | 제주 : 꿈꿀자유 : 서울의학서적, 2024 | 422 C957sK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35099/36/cover200/k682934506_1.jpg) | 인물로 읽는 동남아 : 동남아시아의 어제와 오늘을 이끈 16인의 발자취 | 강희정 | 서울 : 한겨레 : 한겨레엔, 2024 | 959 인36강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34938/82/cover200/k552934469_1.jpg) | 매너의 역사 : 품격은 어떻게 만들어지는가 | 설혜심 | 서울 : 휴머니스트출판그룹, 2024 | 395.09 설94매 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34999/23/cover200/k602934786_1.jpg) | 다시 쓰는 수학의 역사 : 당신이 수학을 사랑하게 만들 책 | Kitagawa, Kate | 파주 : 서해문집, 2024 | 510.9 K62sK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34897/21/cover200/k942933156_1.jpg) | (내일 또 만나,) 깃대종 : 친환경 심리학자의 동물 사랑 이야기 | 김명철 | 서울 : 북플랫, 2024 | 155.9 김34깃 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34800/90/cover200/8984075108_1.jpg) | 원온원 대화의 기술 : 개인, 팀, 조직을 변화시키는 일대일 미팅의 힘 | Rogelberg, Steven G | 서울 : 세종 : 세종서적, 2024 | 658.456 R721gK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28136/35/cover/k232734659_1.jpg) | 나의 첫 메타버스 수업 : 메타버스가 궁금한 사람이라면 꼭 알아야 할 50가지 | 이재원 | 서울 : 메이트북스 : 원앤원콘텐츠그룹, 2021 | 303.4833 이73나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27984/22/cover/8931557779_1.jpg) | (3번째 세상) 메타버스의 비즈니스 기회 | 김지현 | 서울 : BM 성안당, 2021 | 338.544 김78메 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28092/2/cover/k252734941_1.jpg) | 메타버스란 무엇인가 | 이인화 | 서울 : 스토리프렌즈, 2021 | 303.4833 이68메스 | 중앙도서관 |
