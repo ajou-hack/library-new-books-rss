@@ -2,6 +2,19 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31739/91/cover200/8928781566_1.jpg) | 원자재를 알면 글로벌 경제가 보인다 : 원자재 슈퍼사이클의 진실과 해법을 만난다 | 이석진 | 서울 : 한국금융연수원, 2023 | 332.6328 이54원4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28290/23/cover200/8971907894_1.jpg) | 풍경의 해석 : 이우걸 산문집 | 이우걸 | 서울 : 동학사, 2021 | 811.47 이66풍 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29717/90/cover200/k682838993_1.jpg) | 압축성 유체 유동 | 노오현 | 서울 : 박영사, 2004(2022 인쇄) | 620.106 노65압 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/20008/3/cover200/8926888932_1.jpg) | 게임기획자 공략집 : 게임 기획자를 꿈꾸는 이들을 위한 스토리 가이드북 | 오현근 | 파주 : 이담Books : 한국학술정보, 2019 | 794.8 오94게 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30329/39/cover200/k502839232_1.jpg) | (그림으로 읽는) mini MBA | 평야돈사칼 | 서울 : 성신미디어, 2022 | 658 평63경K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25967/83/cover200/k882738485_2.jpg) | (회계 상식으로 배우는) 돈의 법칙 | 천야돈지 | 서울 : 시그마북스, 2021 | 332.024 천63회K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35176/30/cover200/k322934222_1.jpg) | 트럼프 2.0 : 트럼프의 귀환, 놓쳐서는 안 될 정책 변화와 산업 트렌드 | 김광석 | 서울 : 이든하우스, 2024 | 320.973 T871김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Why machines learn : the elegant math behind modern AI | Ananthaswamy, Anil | New York : Dutton, 2024. | 006.31 A533w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Patriots, traitors and empires : the story of Korea's fight for freedom | Gowans, Stephen | Montréal, Québec : Baraka Books, 2018. | 951.7 G722p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Entrepreneurial leadership : the art of launching new ventures, inspiring others, and running stuff | Peterson, Joel | [Nashville] : HarperCollins Leadership, 2020. | 658.4092 P485e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Generative AI in the english composition classroom : practical and adaptable strategies | Plate, Daniel | New York, NY : Routledge, 2025. | 371.358 G326p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The property species : mine, yours, and the human mind | Wilson, Bart J | New York, NY : Oxford University Press, 2020. | 306.32 W746p | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26665/78/cover/892840620x_1.jpg) | 송자대전 | 송시열 | 서울 : 한국고전번역원, 2019-2023 | 811.9 송58송K김 v.1/3~4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/22794/12/cover200/8932474192_1.jpg) | 지식인의 두 얼굴 | Johnson, Paul | 서울 : 을유문화사, 2020 | 305.552 J68iK윤2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35091/97/cover200/k202934497_1.jpg) | 오늘 사랑한 것 : 지금 사랑하는 것이 사랑이다 | 림태주 | 김포 : 행성비, 2024 | 811.47 림883오 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35086/45/cover200/k432934499_2.jpg) | 유랑하는 자본주의자 : 자유롭고 가슴 뛰는 삶을 위한 경로 이탈 에세이 | 임현주 | 파주 : 다산북스, 2024 | 811.87 임94유 | 중앙도서관 |
@@ -39,16 +52,3 @@
 | ![](https://image.aladin.co.kr/product/34038/82/cover200/k942931072_1.jpg) | 최고의 프로덕트는 무엇이 다른가 : 더 나은 소프트웨어를 만드는 방법 | 유진호 | 서울 : 비제이퍼블릭, 2024 | 005.1 유78최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35302/40/cover200/k512035976_1.jpg) | 노코드 풀스택 개발 with 버블 : 코딩 없이 실현하는 나만의 아이디어 | 이명성 | 서울 : 비제이퍼블릭, 2024 | 005.2762 이34노 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34689/12/cover200/k522933817_1.jpg) | 박태웅의 AI 강의 2025 : 인공지능의 출현부터 일상으로의 침투까지 우리와 미래를 함께할 새로운 지능의 모든 것 | 박태웅 | 서울 : 한빛비즈, 2024 | 303.483 박883박 2025 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35255/9/cover200/k132934144_1.jpg) | 런던의 마음치유 상담소 : 오래된 불안, 자기비판과 작별하는 곳 | Zimmerman Annie | 서울 : 더퀘스트 : 길벗, 2024 | 158.1 Z72yK민 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35042/68/cover200/k232934986_1.jpg) | 가장 젊은 날의 철학 : 지금 나답게 살기 위한 질문들 | 이충녕 | 서울 : 북스톤, 2024 | 142.78 이85가 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35068/37/cover200/k442934292_1.jpg) | 착한 대화 콤플렉스 : 말실수가 두려워 말수를 줄이는 우리의 자화상 | 유승민 | 서울 : 투래빗, 2024 | 808.56 유57착 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35331/70/cover200/k772035283_1.jpg) | 이것이 새입니까? : 브랑쿠시와 세기의 재판 | Nebbache, Arnaud | 서울 : 바람북스, 2024 | 741.5944 N358bK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35271/12/cover200/k932934458_1.jpg) | K-컬처와 새로운 한류 정경 : 지속 가능한 한류를 위한 성찰과 모색 | 배기형 | [서울] : 사우, 2024 | 306.40951 배18k | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34999/95/cover200/8946075430_1.jpg) | K-포맷 바이블 : 글로벌 미디어 시장의 새 강자 K-포맷의 모든 것 | 손태영 | 파주 : 한울아카데미 : 한울엠플러스, 2024 | 306.40951 손883k | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35039/99/cover200/k472934980_1.jpg) | 칭찬이 불편한 사람들 : 기성세대를 불편하게 하는 요즘 것들의 새로운 질서 | 금간대개 | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2024 | 305.242 금12선K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34776/53/cover200/k882933121_1.jpg) | 나는 미국 월배당 ETF로 40대에 은퇴한다 : 7천만 원으로 월 2백만 원 받는 연 30% 이상 초고배당의 비밀! | 최영민 | [고양] : 지음미디어, 2024 | 332.6327 최64나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35099/68/cover200/k442934507_1.jpg) | 모우어 : 천선란 소설 | 천선란 | 파주 : 문학동네, 2024 | 811.37 천54모 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34995/24/cover200/8988476204_1.jpg) | 설득의 인문학 : 문제를 해결하는 언어의 프레임 | 박만규 | 서울 : 씨엘, 2024 | 153.852 박32설 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35163/12/cover200/k362934121_1.jpg) | 트럼프 2.0 시대 : 글로벌 대격변이 시작된다 | 박종훈 | [서울] : 글로퍼스, 2024 | 338.544 박75트 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35101/21/cover200/k632934600_1.jpg) | 어떤 어른 : 김소영 에세이 | 김소영 | 파주 : 사계절, 2024 | 811.87 김55어사 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35068/81/cover200/8934911387_1.jpg) | 가난한 찰리의 연감 : 버크셔 해서웨이의 전설, 찰리 멍거의 모든 것 | Munger, Charles T | 파주 : 김영사, 2024 | 332.60207 M966p4K김 | 중앙도서관 |
