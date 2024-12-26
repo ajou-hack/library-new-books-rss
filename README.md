@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 집단 노동법 실무 : 80개 실무 테마 | 최영우 | 서울 : 중앙경제, 2024 | 344.01 최64집9 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/34667/20/cover200/8952136756_1.jpg) | (실전) 미적분학 | 윤형성 | 서울 : 서울대학교출판문화원, 2024 | 515 윤94미 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/5031/93/cover200/8952116550_1.jpg) | 한국형 시장경제체제 | 이영훈 | 서울 : 서울대학교출판문화원, 2014(2021 5쇄) | 330.951 이64한서 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35231/10/cover200/k632934740_1.jpg) | 코끼리를 새롭게 만나고 싶은 당신을 위한 안내서 | 이지원 | 서울 : 피스북스, 2024 | 811.87 이78코 | 중앙도서관 |
@@ -10,6 +11,7 @@
 | ![](https://image.aladin.co.kr/product/35314/21/cover200/k722035372_2.jpg) | 100가지 식물로 읽는 세계사 : 사과와 장미부터 크리스마스트리까지 인류와 역사를 함께 만든 식물 이야기 | Barnes, Simon | 서울 : 현대지성, 2024 | 581.7 B261hK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35308/67/cover200/k612035177_1.jpg) | 존재의 역사 : 우주에서 우리로 이어지는 138억 년의 거대사 | Coulson, Tim | 군산 : 오픈도어북스 : 하움, 2024 | 523.1 C855uK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35358/94/cover200/k982035896_1.jpg) | 나방은 빛을 쫓지 않는다 : 대낮의 인간은 잘 모르는 한밤의 생태학 | Blackburn, Tim M | 파주 : 김영사, 2024 | 595.78 B628jK한 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (시민 교양 강좌) 헌법. 2, 권력구조론 | 정만희 | 부산 : 미디어줌, 2024 | 342 정32헌시 v.2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35260/50/cover200/k502934247_1.jpg) | 부자는 시간에 투자하고 빈자는 돈에 투자한다 : 시간을 가치로 바꾸는 하루 11시간의 마법 | 주창희 | 서울 : 힘찬북스, 2024 | 658.4093 주82부 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35382/40/cover200/k222035818_1.jpg) | 제대로 연습하는 법 : 어학부터 스포츠까지, 인지심리학이 제시하는 배움의 기술 | Hernandez, Arturo E | 서울 : 북트리거 : 지학사, 2024 | 153.15 H557mK방 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/13487/71/cover200/k762532405_1.jpg) | 위쪽으로 떨어지다 : 인생의 전반기와 후반기를 위한 영성 | Rohr, Richard | 파주 : 국민북스, 2018 | 248.4 R739fK이 | 중앙도서관 |
@@ -26,6 +28,7 @@
 | ![](https://image.aladin.co.kr/product/35301/70/cover200/k692035972_1.jpg) | 지적 대화를 위한 넓고 얕은 지식 ∞ | 채사장 | 서울 : 웨일북, 2024 | 001.3 채52지무 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31959/99/cover200/k582833352_1.jpg) | (시나공 AI능력시험) AICE : associate 편 | 서길원 | 서울 : 길벗, 2023 | 006.3 A288서 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33199/79/cover200/k352937853_1.jpg) | 경영학개론 | 변승혁 | 서울 : 한올, 2024 | 658 변57경8 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 개별 노동법 실무 : 85개 실무테마 | 최영우 | 서울 : 중앙경제, 2024 | 344.01 최64개 2024 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/10674/35/cover200/899174334x_1.jpg) | 아비담마 길라잡이 : 아비담맛타상가하 | 대림 | 울산 : 초기불전연구원, 2017(2024 5쇄) | 294.3824 아48대2 v.1~2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/bba822a1-b155-40b8-ba90-b6027ab1c179) | 힐빌리의 노래 : 위기의 가정과 문화에 대한 회고 | Vance, J. D | 서울 : 흐름 : 넥스트웨이브미디어, 2017(2024 19쇄) | 305.562 V222hK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35335/34/cover200/k262035580_1.jpg) | (新) 민법강의 | 송덕수 | 서울 : 박영사, 2025 | 346 송24민박18 | 법학도서관 |
@@ -44,11 +47,8 @@
 | ![](https://image.aladin.co.kr/product/34936/58/cover200/k902934361_2.jpg) | 슬쩍 보는 헌법 : 100문장으로 이해하는 헌법 | 심독토 북클럽 | 서울 : 백북하우스, 2024 | 342 심25슬 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35044/35/cover200/k452934089_1.jpg) | 고소의 기술 : 90%는 모르는 변호사의 실전 테크닉 | 현창윤 | 서울 : 매일경제신문사 : 매경, 2024 | 347.053 현82고 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35196/7/cover200/k142934427_1.jpg) | 변호사가 읽어 주는 쉬운 상속법 | 이충호 | 서울 : 좋은땅, 2024 | 346.052 이85변 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 특허 존중 사회 | 백만기 | 서울 : 타커스, 2024 | 346.0482 백32특 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35221/68/cover200/8932323917_1.jpg) | 이 문장은 누구의 것인가 : 현대 사회를 움직이는 저작권의 역사 | Bellos, David | 서울 : 현암사, 2024 | 346.0482 B447wk이 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35341/21/cover200/k432035682_1.jpg) | 검사의 탄생 : 지금 이 순간 당신에게 필요한 검찰 공부 | 검찰연구모임 리셋 | 파주 : 윌북, 2024 | 347.91 검82검 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/33327/45/cover200/k622938495_1.jpg) | 88 metal | 김광현 | 서울 : 노웨이브, 2024 | 781.66 김15팔 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35123/68/cover200/k222934818_2.jpg) | 여자 주인공들 : 이것은 불멸의 이야기 | 오자은 | 서울 : 생각의힘, 2024 | 811.3709 오72여 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35292/10/cover200/k382035768_1.jpg) | 전문가를 위한 파이썬 : 간단하고, 명료하고, 효율적인 파이썬 프로그래밍 | Ramalho, Luciano | 서울 : 한빛미디어, 2024 | 005.133 R165f2K강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35290/1/cover200/k002934653_1.jpg) | 슬픔의 모양 : 이석원 산문집 | 이석원 | 파주 : 김영사, 2024 | 811.47 이54슬 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35303/14/cover200/8965966752_1.jpg) | 죽음 공부 : 똑바로 볼수록 더 환해지는 삶에 대하여 | 박광우 | 서울 : 흐름, 2024 | 128.5 박15죽 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35296/40/cover200/k142035860_1.jpg) | 개념 있는 수학자 : 공통수학 편 | 이광연 | 서울 : 어바웃어북, 2024 | 510 이15개 | 중앙도서관 |
