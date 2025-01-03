@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대한민국조약집 : 다자조약 | 외교통상부 | 서울 : 외교통상부, 2014 | 341.026451 외15대다 v.22~26 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대한민국 조약집 : 양자조약 | 외교통상부 조약국 조약과 | 서울 : 외교통상부, 2005- | 341.026451 외15대 v.28/v.29-1/v.29-2/v.30/v.31/v.32/v.33-1/v.33-2/v.34/v.35/v.36/v.37/v.38/v.39/v.40/v.41/v.43/v.44 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35070/31/cover200/k132934296_1.jpg) | 앤서블 시작과 실행 : 구성 관리와 배포를 쉽게 자동화하는 방법 | Meijer, Bas | 서울 : 에이콘, 2025 | 005.43 H685a3K양 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35145/27/cover200/k662934912_1.jpg) | 비전공자도 배울 수 있는 타입스크립트 : 그림과 예제로 배우는 TypeScript 기초 + 리액트 | HIRO | 서울 : 한빛미디어, 2024 | 005.2762 H668비K아 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35051/7/cover200/k922934384_1.jpg) | (사계절을 담은) 이케바나 | 홍세희 | 파주 : 제이펍, 2024 | 745.92 홍54이 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/35290/67/cover200/k322934654_1.jpg) | 대규모 머신러닝 시스템 디자인 패턴 : 14가지 패턴으로 분산 머신러닝 파이프라인 구축하기 | Tang, Yuan | 서울 : 한빛미디어, 2024 | 006.31 T164dK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35161/39/cover200/k872934113_1.jpg) | CINEMA 4D & OctaneRender : 기초부터 마스터하는 3D 렌더링 | 이덕준 | 서울 : 비제이퍼블릭, 2024 | 006.696 이24c | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35176/82/cover200/k982934223_1.jpg) | 3ds Max 베이직클래스 | 이동후 | 부천 : 루비페이퍼, 2024 | 006.696 이25스2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35084/12/cover200/8993784841_1.jpg) | 러닝 위드 리디아드 : 역사상 가장 위대한 코치의 달리기 수업 | Lydiard, Arthur | 서울 : 인간희극, 2024 | 796.42 L983r2K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35224/78/cover200/k732934733_1.jpg) | 시골집의 기적 | 오미숙 | 서울 : 포북, 2024 | 728.6 오38시 | 중앙도서관 |
