@@ -2,6 +2,20 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/32315/76/cover200/k712834154_1.jpg) | 화법 교육을 위한 의사소통 이론 | 박재현 | 서울 : 사회평론아카데미, 2023 | 411.07 박73국3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35414/1/cover200/k172035422_1.jpg) | (정신분석으로 만난) 독일 음악가 | 이성훈 | 서울 : 성인덕, 2024 | 780.92 이54독 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35431/66/cover200/k842035627_1.jpg) | 음악과 이미지 : 회화와 기보에 깃든 선율들 | 박찬이 | 서울 : 풍월당, 2024 | 780.1 박82음 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25521/80/cover200/k482633227_1.jpg) | 세기말의 러시아 문제 : 알렉산드르 이사예비치 솔제니친 평론집 | Solzhenit's'yn, Aleksandr Isaevich | 서울 : 걷는사람, 2020 | 947.086 S692rK유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34812/60/cover200/8979402074_1.jpg) | 신라 후비제 연구 | 이현주 | 서울 : 신서원, 2024 | 951.31 이94신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/10136/16/cover200/8980021526_1.jpg) | 불교논리학의 향연 | 범천 | 서울 : 불교시대사, 2016 | 294.3 범83불 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34588/46/cover200/k992933571_1.jpg) | (약국프로, 강약사가 알려주는) 잘 되는 약국의 일급비밀 | 강남성 | 서울 : 팜웨이 : 참약사, 2024 | 615.1068 강192잘 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30153/39/cover200/8992676956_1.jpg) | 유방암 환자를 위한 치료 안내서 | 유방암 전문의 50인 | 서울 : 영창, 2022 | 616.99449 유42유8 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35490/31/cover200/8967998678_1.jpg) | 창귀 | 문화류씨 | 서울 : 북오션, 2025 | 811.37 문95창 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/45/33/cover200/8957261036_1.gif) | 국어교육학과 서사교육론 | 임경순 | 서울 : 한국문화사, 2003 | 411.07 임14국 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34220/50/cover200/8957869239_1.jpg) | 나는 반금련이 아니야 | 류진운 | 서울 : 연극과인간, 2024 | 812.27 류78아K홍 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33648/81/cover200/k202939413_1.jpg) | 쿠튀리에 신부에게 보내는 편지 | Weil, Simone | 고양 : 리시올, 2024 | 232 W422쿠K이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Mathematics for economics and business | Jacques, Ian | Workingham, England | 512.02433 J19m2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Essential mathematics for economic analysis | Sydsaeter, Knut | Harlow, England : FT Prentice Hall, 2008. | 330.0151 S982e3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/1116/21/cover200/8991221785_1.jpg) | 그리스인 이야기 | Bonnard, André | 서울 : 책과함께, 2011(2018 3쇄) | 938 B716cK김 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26956/23/cover200/k032730313_1.jpg) | 불친절한 PL/SQL 프로그래밍 : 기본 개념에서 고급 기능까지 | 정희락 | 서울 : 디비안, 2021 | 005.7565 정97불 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35478/91/cover200/8972918628_1.jpg) | 알고리즘, 패러다임, 법 : 규칙은 어떻게 세계를 만드는가 | Daston, Lorraine | 서울 : 까치, 2025 | 303.36 D231rK홍 | 중앙도서관 |
@@ -38,17 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 천하제일루 | 하기평 | 서울 : 연극과인간, 2023 | 812.27 하18천K오 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29909/38/cover200/8957867805_1.jpg) | 만 마디를 대신하는 말 한마디 | 류진운 | 서울 : 연극과인간, 2020 | 812.27 류78일K오 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31524/25/cover200/8957868798_1.jpg) | 윌리엄과 나 | 전효위 | 서울 : 연극과인간, 2023 | 812.27 전95위K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31524/19/cover200/8957868763_1.jpg) | 모조인생 | 진사안 | 서울 : 연극과인간, 2023 | 812.27 진52모K홍 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34220/72/cover200/8957869255_1.jpg) | 제일 가까운 장애인 화장실이 어디죠? | 진사안 | 서울 : 연극과인간, 2024 | 812.27 진52청K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34212/63/cover200/k952931935_1.jpg) | 하버드 동그라미 육아 : 하버드대 아동 발달 전문가가 알려주는 다양성 육아 로드맵 | 킴, 지니 | 서울 : 웨일북, 2024 | 649.1 킴78하 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35449/89/cover200/k422035049_1.jpg) | 단둘이 북클럽 | 변혜진 | 용인 : 도토리책공방, 2024 | 028.9 변94단 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35421/6/cover200/k342035628_1.jpg) | 애니만 봤더니 일본어를 잘하게 된 건에 대하여 | 센님 | 서울 : 길벗이지:톡 : 길벗, 2024 | 413.8 센198애 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/3075/23/cover200/8999702030_1.jpg) | 아동중심 놀이치료 | VanFleet, Risë | 서울 : 학지사, 2013(2023 5쇄) | 618.92891653 V252cK권 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29144/20/cover200/k862837170_1.jpg) | (핏블리의) 운동 호르몬 생리학 | 핏블리 | [부천] : 쇼크북스, 2022 | 612.405 핏47운 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31801/75/cover200/k522833313_1.jpg) | (핏블리의) 다이어트 영양학 | 핏블리 | [부천] : 쇼크북스, 2023 | 613.25 핏47다쇼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29980/80/cover200/k342838245_1.jpg) | (핏블리) 기초 운동지식 전략집 | 핏블리 | [부천] : 쇼크북스, 2022 | 613.713 핏47기 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 새만금, 네버엔딩 프로젝트 : 역사적 변동과정과 협력적 거버넌스를 중심으로 | 조홍남 | 서울 : 퍼플, 2023 | 352.14 조95새 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The pricing roadmap : how to design B2B SaaS pricing models that your customers will love | Lehrskov-Schmidt, Ulrik | [S.l] : Houndstooth Press, 2023. | 658.804 L524p | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35432/56/cover200/k592035732_1.jpg) | 행복한 커플은 어떻게 싸우는가 : 세계적인 심리학자 존&줄리 가트맨 박사의 관계 심리학 | Gottman, John Mordechai | 서울 : 해냄, 2024 | 616.891562 G686fK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28266/4/cover200/8999725294_1.jpg) | 전생애 놀이치료 | 한유진 | 서울 : 학지사, 2021 | 618.92891653 전53한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31968/74/cover200/k132834165_2.jpg) | (인문학 독자를 위한) 법화경 | 하영수 | 서울 : 불광, 2023 | 294.382 하64법 | 중앙도서관 |
