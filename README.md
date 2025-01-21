@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | EU law : text, cases, and materials | Craig, Paul | New York, NY : Oxford University Press, 2024. | 341.2422 C886e8 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Allgemeines Verwaltungsrecht | Maurer, Hartmut | München : C.H. Beck, 2024. | 342.06 M453a21 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/32315/76/cover200/k712834154_1.jpg) | 화법 교육을 위한 의사소통 이론 | 박재현 | 서울 : 사회평론아카데미, 2023 | 411.07 박73국3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35414/1/cover200/k172035422_1.jpg) | (정신분석으로 만난) 독일 음악가 | 이성훈 | 서울 : 성인덕, 2024 | 780.92 이54독 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35431/66/cover200/k842035627_1.jpg) | 음악과 이미지 : 회화와 기보에 깃든 선율들 | 박찬이 | 서울 : 풍월당, 2024 | 780.1 박82음 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/18699/89/cover200/8957866787_1.jpg) | 붉은 장미 흰 장미 | 장애령 | 서울 : 연극과인간, 2019 | 812.27 장63홍K오 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34194/23/cover200/8957869247_2.jpg) | 원칙 | 곽영강 | 서울 : 연극과인간, 2024 | 812.27 곽64원K장 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 천하제일루 | 하기평 | 서울 : 연극과인간, 2023 | 812.27 하18천K오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29909/38/cover200/8957867805_1.jpg) | 만 마디를 대신하는 말 한마디 | 류진운 | 서울 : 연극과인간, 2020 | 812.27 류78일K오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31524/25/cover200/8957868798_1.jpg) | 윌리엄과 나 | 전효위 | 서울 : 연극과인간, 2023 | 812.27 전95위K김 | 중앙도서관 |
