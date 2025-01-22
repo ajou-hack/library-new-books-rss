@@ -2,8 +2,15 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34625/43/cover200/k292933484_1.jpg) | 우연은 비켜 가지 않는다 : 줄리언 반스 장편소설 | Barnes, Julian | 파주 : 다산책방 : 다산북스, 2024 | 823.914 B261eK정 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Getting things done : take control of your life in a distracting world | Allen, David | New York : Penguin Books, 2018 | 646.7 A425gt | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Getting things done : the art of stress-free productivity | Allen, David | New York : Penguin Books, 2015. | 646.7 A425g2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The quiet coup : neoliberalism and the looting of America | Baradaran, Mehrsa | New York, NY : W.W. Norton ＆ Company, 2024. | 320.5120973 B223q | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | From skepticism to competence : how American psychiatrists learn psychotherapy | Craciun, Mariana | Chicago | 616.89140076 C883f | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | EU law : text, cases, and materials | Craig, Paul | New York, NY : Oxford University Press, 2024. | 341.2422 C886e8 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Allgemeines Verwaltungsrecht | Maurer, Hartmut | München : C.H. Beck, 2024. | 342.06 M453a21 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Integrated terrestrial and non-terrestrial networks | Jamshed, Muhammad Ali | Cham : Springer, 2025. | 629.1355 J32i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | We do not part : a novel | 한강 | London | 811.37 한12작E이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32315/76/cover200/k712834154_1.jpg) | 화법 교육을 위한 의사소통 이론 | 박재현 | 서울 : 사회평론아카데미, 2023 | 411.07 박73국3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35414/1/cover200/k172035422_1.jpg) | (정신분석으로 만난) 독일 음악가 | 이성훈 | 서울 : 성인덕, 2024 | 780.92 이54독 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35431/66/cover200/k842035627_1.jpg) | 음악과 이미지 : 회화와 기보에 깃든 선율들 | 박찬이 | 서울 : 풍월당, 2024 | 780.1 박82음 | 중앙도서관 |
@@ -45,10 +52,3 @@
 | ![](https://image.aladin.co.kr/product/30519/91/cover200/k792830493_1.jpg) | 잉크, 예뻐서 좋아합니다 만년필도요 : 문구 덕후의 서랍 속 잉크 & 만년필 자랑 | 이선영 | 서울 : 한스미디어 : 한즈미디어, 2022 | 681.6 이54잉 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35198/89/cover200/8931024037_1.jpg) | 파리대왕 | Golding, William | 서울 : 문예, 2024 | 823.914 G619LK이3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35301/67/cover200/k562035972_1.jpg) | 허클베리 핀의 모험 | Twain, Mark | 파주 : 아르테, 2024 | 823.8 T969aK노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/14795/84/cover200/8957866418_1.jpg) | 물고기인간 | 과사행 | 서울 : 연극과인간, 2018 | 812.27 과52어K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/14796/6/cover200/8957866469_1.jpg) | 장 공의 체면 | 온방이 | 서울 : 연극과인간, 2018 | 812.27 온42장K장 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23585/95/cover200/8957867260_1.jpg) | 손님 | 유영군 | 서울 : 연극과인간, 2020 | 812.27 유64가K홍 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23585/95/cover200/8957867244_1.jpg) | 떠돌이 개 두 마리 | 맹경휘 | 서울 : 연극과인간, 2020 | 812.27 맹14량K장 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/18699/89/cover200/8957866787_1.jpg) | 붉은 장미 흰 장미 | 장애령 | 서울 : 연극과인간, 2019 | 812.27 장63홍K오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34194/23/cover200/8957869247_2.jpg) | 원칙 | 곽영강 | 서울 : 연극과인간, 2024 | 812.27 곽64원K장 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 천하제일루 | 하기평 | 서울 : 연극과인간, 2023 | 812.27 하18천K오 | 중앙도서관 |
