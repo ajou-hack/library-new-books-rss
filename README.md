@@ -2,9 +2,10 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 반지의 제왕 : 어펜딕스 | Tolkien, J. R. R | 파주 : arte : 북이십일 아르테, 2024 | 823.912 T649aK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 반지의 제왕 : 왕의 귀환 | Tolkien, J. R. R | 파주 : arte : 북이십일 아르테, 2024 | 823.912 T649rK김 v.1~2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 반지의 제왕 : 반지 원정대 | Tolkien, J. R. R | 파주 : arte : 북이십일 아르테, 2024 | 823.912 T649fK김반 v.1~3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30304/42/cover200/k422839935_1.jpg) | 내 안의 아이 치유하기 | Jacob, Gitt | 서울 : 메타미디어, 2022 | 158.1 J15bK최 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/3bc1091a-b765-470c-81f1-ed32340e34a4) | 반지의 제왕 : 어펜딕스 | Tolkien, J. R. R | 파주 : arte : 북이십일 아르테, 2024 | 823.912 T649aK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/4061f166-2a29-4320-8aca-08f4e61afbd7) | 반지의 제왕 : 왕의 귀환 | Tolkien, J. R. R | 파주 : arte : 북이십일 아르테, 2024 | 823.912 T649rK김 v.1~2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/b5d5e7a3-2d0c-41af-ae0e-f3181631fcbe) | 반지의 제왕 : 반지 원정대 | Tolkien, J. R. R | 파주 : arte : 북이십일 아르테, 2024 | 823.912 T649fK김반 v.1~3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34006/53/cover200/k722931862_1.jpg) | 게임 시나리오 기획자를 위한 안내서 : 이론과 실무 그리고 포트폴리오까지, 게임 시나리오의 모든 것 | 양정윤 | 서울 : 에이콘, 2024 | 794.8 양74게 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30726/65/cover200/k852830440_1.jpg) | 연약한 선 : 그리스 비극과 철학에서의 운과 윤리 | Nussbaum, Martha C | 파주 : 서커스 : 서커스출판상회, 2023 | 170.938 N975f2K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/6277/22/cover200/8994961844_2.jpg) | Digital design and computer architecture | Harris, David Money | Seoul : Elsevier Korea L.L.C, 2013. | 621.395 H313d2 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/25010/75/cover200/k582632722_1.jpg) | 남매의 여름밤 : 각본집 | 윤단비 | 파주 : 플레인아카이브, 2021 | 811.27 윤22남2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25415/41/cover200/893159013x_1.jpg) | (만화로 쉽게 배우는) 전파와 레이더 | 중사호생 | 서울 : 성안당, 2020 | 621.384 중52전K김2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25655/49/cover200/8936320904_1.jpg) | 레이다 시스템 공학 : 원리와 응용 | 곽영길 | 파주 : 교문사, 2020 | 621.3848 곽64레2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32240/71/cover200/k802834638_1.jpg) | 한국어의 의미와 의미 이론 | 전영철 | 하남 : 박이정, 2023 | 411.2 전64한박 | 중앙도서관 |
