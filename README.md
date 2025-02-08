@@ -2,6 +2,32 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/33738/32/cover200/k152930760_1.jpg) | Kino cinephile : 2024 a tribute issue | 키노 씨네필 | 파주 : 플레인아카이브, 2024 | 791.43 키195k | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33107/34/cover200/8991729487_1.jpg) | 신유물론 Ⅹ 페미니즘 : 몸, 물질, 생명 | 김남이 | 서울 : 여이연, 2023 | 305.42 신66김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Python data science handbook : essential tools for working with data | Vanderplas, Jacob T | Sebastopol, CA : O'Reilly Media, c2023. | 006.312 V239p2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Logic and computer design fundamentals | Mano, M. Morris | Harlow : Pearson education, 2016. | 621.395 M285L5 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Advanced Techniques for Ground Penetrating Radar Imaging | López, Yuri | Basel, Switzerland : MDPI, 2021. | 621.38485 L864a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Linear algebra : Finite-Dimensional vector spaces | Halmos, Paul R | Los Angeles : Bow wow press, 2020. | 512.5076 H194L | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Practical C programming | Oualline, Steve | Sebastopol, CA : O'Reilly, 1997. | 005.133 O93p3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The eye of the master : a social history of artificial intelligence | Pasquinelli, Matteo | London | 338.064 P284e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Afrofuturism : the world of black sci-fi and fantasy culture | Womack, Ytasha | Chicago : Chicago Review Press, 2013. | 809.38762 W872a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Africa fashion | Checinska, Christine | London : V＆A Publishing, 2022. | 746.92096 C514a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | All about computational linguistics | Tripurana, Shiva | [S.l] : [s.n], [2023] | 410.285 T836a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Rationalizing culture : IRCAM, Boulez, and the institutionalization of the musical avant-garde | Born, Georgina | Berkeley : University of California Press, 1995. | 306.484 B736r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Improvisation and social aesthetics | Born, Georgina | Durham : Duke University Press, 2017. | 781.36 B736i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cultural differences in a globalizing world | Minkov, Michael | Bingley, UK : Emerald, 2011. | 306 M665c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Data mining : concepts and techniques | Han, Jiawei | Cambridge, MA : Morgan Kaufmann is an imprint of Elsevier, 2023. | 006.3 H233d4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The clinical paradigms of Donald Winnicott and Wilfred Bion : comparisons and dialogues | Abram, Jan | Abingdon, Oxon | 150.195 A161c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | GMAT official guide 2024-2025 : from the makers of the GMAT exam | Graduate Management Admission Council | Hoboken, New Jersey : John Wiley ＆ Sons, Inc., 2024. | 650.076 G733g v.1~4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Diversity and coexistence : fostering acceptance in a diverse and open society | Nuaimi, Ali Rashid Al | Bloomington : Archway Publishing, 2023. | 305 N962d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Science and practice in cognitive therapy : foundations, mechanisms, and applications | Leahy, Robert L | New York, NY : The Guilford Press, 2018. | 616.891425 L434s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Tree ferns | Large, M. F | Portland : Timber Press, 2004. | 587.3 L322t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Digital play therapy : a clinician's guide to comfort and competence | Stone, Jessica | New York, NY : Routledge, 2022. | 618.92891653 S878d2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fostering development in midlife and older age : a positive psychology perspective | Crăciun, Irina Catrinel | Cham : Springer, 2024. | 155.67 C883f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 「自分史」は語る : 戦争の記憶, 自分史における虛構, 台湾日本語世代の自分史 | 석칠월자 | 京都 : 晃洋書房, 2020 | 953.63 석86자 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Marketing artificial intelligence : AI, marketing, and the future of business | Roetzer, Paul | Dallas, TX : Matt Holt Books, 2022. | 658.80028563 R719m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | AI fairness and beyond : law, regulation, and technology | Reed, Chris | Oxford | 174.90063 R323a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | An introduction to homological algebra | Weibel, Charles A | Cambridge [England] | 512.55 W415i | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30304/42/cover200/k422839935_1.jpg) | 내 안의 아이 치유하기 | Jacob, Gitt | 서울 : 메타미디어, 2022 | 158.1 J15bK최 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/3bc1091a-b765-470c-81f1-ed32340e34a4) | 반지의 제왕 : 어펜딕스 | Tolkien, J. R. R | 파주 : arte : 북이십일 아르테, 2024 | 823.912 T649aK김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/4061f166-2a29-4320-8aca-08f4e61afbd7) | 반지의 제왕 : 왕의 귀환 | Tolkien, J. R. R | 파주 : arte : 북이십일 아르테, 2024 | 823.912 T649rK김 v.1~2 | 중앙도서관 |
@@ -26,29 +52,3 @@
 | ![](https://image.aladin.co.kr/product/17100/34/cover200/k442534180_1.jpg) | (The) history of the Peloponnesian War | Thucydides | 부천 : 부크크, 2018 | 938.05 T532hEc v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31606/8/cover/895533642x_1.jpg) | (물어보기 부끄러워 묻지 못한) 부동산 상식 | 이찬종 | 부천 : 새로운 제안, 2023 | 333.33 이82부기 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/4403ce53-79f9-4e36-adff-ff0960e10650) | 마음챙김과 도식치료 :임상지침서 | Vreeswijk, Michiel van | 서울 :학지사,2017 | 616.8914 V979mK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35329/99/cover200/8901290324_1.jpg) | 말의 힘 : 나를 바꾸고 운명을 바꾸는 긍정의 기술 | 윤석금 | 파주 : 리더스북 : 웅진씽크빅, 2024 | 650.1 윤54말 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35517/44/cover200/k902036767_1.jpg) | 진짜 쉬운 파닉스는 이렇게 배웁니다 : 1년치 학원비 아끼는 기적의 영어 읽기 비법 | 윤선미 | 서울 : 미다스북스, 2025 | 421.52 윤54진 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/21775/38/cover200/8974797488_1.jpg) | 자네, 좌뇌한테 속았네! : 동양철학과 선불교를 위한 뇌과학 교과서 | Niebauer, Chris | 서울 : 불광, 2019 | 612.8 N665nK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35358/51/cover200/k672035893_3.jpg) | 교수대 위의 까마귀 | 홍정기 | 부천 : 서랍의 날씨, 2024 | 811.3708 교56홍 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34898/82/cover200/k432933259_1.jpg) | 오래전, 오래된 극장에서 | 김신형 | 파주 : 플레인아카이브, 2024 | 791.4302 김58오플 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/17036/60/cover200/k692534781_1.jpg) | 그렇게 아버지가 된다 : 각본집 | 시지유화 | 파주 : 플레인아카이브, 2019 | 813.27 시78그K정2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31193/81/cover200/k922831957_1.jpg) | 소울메이트 : 메이킹 다이어리 | 이은선 | 파주 : 플레인아카이브, 2023 | 791.4372 이67소 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31379/24/cover200/k772832009_1.jpg) | Prism of : Decision to leave | 프리즘오브 프레스 | [서울] : 프리즘오브 프레스, 2023 | 791.4305 프298p | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31815/57/cover200/k672833419_1.jpg) | 여덟 단어 : 인생을 대하는 우리의 자세 | 박웅현 | [파주] : 인티앤, 2023 | 179.7 박66여인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22805/82/cover200/8968178267_1.jpg) | 일본어 연어 연구 : 구조와 체계 | 윤상실 | 서울 : 한국문화사, 2019 | 413.5 윤52일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28873/18/cover200/k752836301_1.jpg) | 포커스 | 이준희 | 과천 : Alivebooks : NRD3, 2022 | 650.11 이76포 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35410/82/cover200/8946075570_1.jpg) | 인간 이후 : 21세기 문화, 이론, 그리고 비평 | Vint, Sherryl | 파주 : 한울엠플러스, 한울아카데미 : 2024 | 001.3 A258vK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35418/51/cover200/k642035522_1.jpg) | 카를로스 클라이버 | Werner, Alexander | 세종 : 마르코폴로, 2025 | 784.2092 K63wK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22869/43/cover200/8926897761_1.jpg) | 경계선 지능과 부모 : 지치지 않고 자녀와 행복하게 성장하는 법 | 박찬선 | 파주 : 이담 Books : 한국학술정보, 2020 | 371.926 박82경 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35450/55/cover200/k212035043_1.jpg) | 애프터 넷플릭스 | 조영신 | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 384.555 조64애 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28783/84/cover200/8931587503_1.jpg) | (현장 컨설턴트가 알려주는) 공급망 관리(SCM) 성공 전략 | 주호재 | 서울 : BM 성안당, 2022 | 658.7 주95공 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24773/23/cover200/8971994711_1.jpg) | 월요일의 마법사와 금요일의 살인자 : 추정경 장편소설 | 추정경 | 파주 : 돌베개, 2020 | 811.37 추74월 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35200/26/cover200/8976828844_1.jpg) | 시간에 대한 이해의 역사 : 콜레주 드 프랑스에서의 1902-1903년 강의 | Bergson, Henri | 서울 : 그린비, 2024 | 115 B499hK조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32224/53/cover200/k752834625_2.jpg) | 다음 소희 : 각본집 | 정주리 | 파주 : 플레인아카이브, 2023 | 811.27 정76다 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31327/76/cover200/k442832792_1.jpg) | 미성년 : 각본집 | 이보람 | 파주 : 플레인아카이브, 2023 | 811.27 이45미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28372/87/cover200/k892835500_1.jpg) | 어느 가족 : 각본집 | 시지유화 | 파주 : 플레인아카이브, 2021 | 813.27 시78만K정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7886/5/cover200/k902434839_1.jpg) | 디지털논리와 컴퓨터설계 | Mano, M. Morris | 서울 : 퍼스트북, 2016 | 621.395 M285L5K양 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7910/17/cover200/8998338866_1.jpg) | 디지털 논리 설계와 컴퓨터 구조 | Harris, David Money | 서울 : 카오스북, 2016 | 621.395 H313d2K강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25010/75/cover200/k582632722_1.jpg) | 남매의 여름밤 : 각본집 | 윤단비 | 파주 : 플레인아카이브, 2021 | 811.27 윤22남2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25415/41/cover200/893159013x_1.jpg) | (만화로 쉽게 배우는) 전파와 레이더 | 중사호생 | 서울 : 성안당, 2020 | 621.384 중52전K김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25655/49/cover200/8936320904_1.jpg) | 레이다 시스템 공학 : 원리와 응용 | 곽영길 | 파주 : 교문사, 2020 | 621.3848 곽64레2 | 중앙도서관 |
