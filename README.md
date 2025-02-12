@@ -2,7 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 반지의 제왕 : 두 개의 탑 | Tolkien, J. R. R | 파주 : arte : 북이십일 아르테, 2024 | 823.912 T649tK김 v.1~3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인권과 스포츠 | 김현수 | 서울 : noside, 2021 | 796.07 김94인 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/eea9b9b0-6e9b-4606-92e3-7ccdb8385f36) | 반지의 제왕 : 두 개의 탑 | Tolkien, J. R. R | 파주 : arte : 북이십일 아르테, 2024 | 823.912 T649tK김 v.1~3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33738/32/cover200/k152930760_1.jpg) | Kino cinephile : 2024 a tribute issue | 키노 씨네필 | 파주 : 플레인아카이브, 2024 | 791.43 키195k | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33107/34/cover200/8991729487_1.jpg) | 신유물론 Ⅹ 페미니즘 : 몸, 물질, 생명 | 김남이 | 서울 : 여이연, 2023 | 305.42 신66김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Python data science handbook : essential tools for working with data | Vanderplas, Jacob T | Sebastopol, CA : O'Reilly Media, 2023. | 006.312 V239p2 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/35414/1/cover200/k162035422_1.jpg) | 비트코인 15억 간다 : 슈퍼리치의 탄생 | 돈복남 | 서울 : 코주부북스, 2025 | 332.40285 돈45비슈 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/9973/63/cover200/8994534156_2.jpg) | 산업/시장/제품 수요예측 실무 : 초급편 | 김윤종 | 서울 : 지샘, 2016 | 338.544 김66산 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/17100/34/cover200/k442534180_1.jpg) | (The) history of the Peloponnesian War | Thucydides | 부천 : 부크크, 2018 | 938.05 T532hEc v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31606/8/cover/895533642x_1.jpg) | (물어보기 부끄러워 묻지 못한) 부동산 상식 | 이찬종 | 부천 : 새로운 제안, 2023 | 333.33 이82부기 | 중앙도서관 |
