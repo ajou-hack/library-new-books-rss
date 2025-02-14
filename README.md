@@ -2,7 +2,12 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인권과 스포츠 | 김현수 | 서울 : noside, 2021 | 796.07 김94인 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/9789/92/cover/8937429047_1.jpg) | 자기만의 방 | Woolf, Virginia | 서울 : 민음사, 2016 | 824.912 W913rK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35335/34/cover200/k262035580_1.jpg) | (新) 민법강의 | 송덕수 | 서울 : 박영사, 2025 | 346 송24민박18 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/34526/21/cover200/k932932852_1.jpg) | 민사소송법 | 김홍엽 | 서울 : 박영사, 2024 | 347.05 김95민박12 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/33295/90/cover200/k302938380_1.jpg) | 민사집행법 | 김홍엽 | 서울 : 박영사, 2024 | 347.077 김95민8 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/32898/31/cover/k812936622_1.jpg) | 프랑스민법전 | 한불민사법학회 | 서울 : 박영사, 2023 | 346.44 한46프 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/27074/77/cover200/k262731581_1.jpg) | 인권과 스포츠 | 김현수 | 서울 : noside, 2021 | 796.07 김94인 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/eea9b9b0-6e9b-4606-92e3-7ccdb8385f36) | 반지의 제왕 : 두 개의 탑 | Tolkien, J. R. R | 파주 : arte : 북이십일 아르테, 2024 | 823.912 T649tK김 v.1~3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33738/32/cover200/k152930760_1.jpg) | Kino cinephile : 2024 a tribute issue | 키노 씨네필 | 파주 : 플레인아카이브, 2024 | 791.43 키195k | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33107/34/cover200/8991729487_1.jpg) | 신유물론 Ⅹ 페미니즘 : 몸, 물질, 생명 | 김남이 | 서울 : 여이연, 2023 | 305.42 신66김 | 중앙도서관 |
@@ -47,8 +52,3 @@
 | ![](https://image.aladin.co.kr/product/34441/0/cover200/k192932137_3.jpg) | 이명의 탄생 : 페르난두 페소아 문학 에세이 | Pessoa, Fernando | [서울] : 미행, 2024 | 869.441 P475sK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35085/89/cover200/k412934397_1.jpg) | 나를 위한 뜨개 | 김수민 | 서울 : 동양북스, 2024 | 746.432 김56나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/9853/89/cover200/893743363x_1.jpg) | 행복의 형이상학 | Badiou, Alain | 서울 : 민음사, 2016 | 110 B136mK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35536/46/cover200/k202036179_1.jpg) | 골치 아픈 논문 그림 쉽게 그리기 | 신동선 | 파주 : 군자, 2025 | 808.0665 신25골 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28852/12/cover200/895468503x_1.jpg) | 훌훌 : 문경민 장편소설 | 문경민 | 파주 : 문학동네, 2022 | 811.37 문14훌 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35414/1/cover200/k162035422_1.jpg) | 비트코인 15억 간다 : 슈퍼리치의 탄생 | 돈복남 | 서울 : 코주부북스, 2025 | 332.40285 돈45비슈 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/9973/63/cover200/8994534156_2.jpg) | 산업/시장/제품 수요예측 실무 : 초급편 | 김윤종 | 서울 : 지샘, 2016 | 338.544 김66산 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/17100/34/cover200/k442534180_1.jpg) | (The) history of the Peloponnesian War | Thucydides | 부천 : 부크크, 2018 | 938.05 T532hEc v.1~2 | 중앙도서관 |
