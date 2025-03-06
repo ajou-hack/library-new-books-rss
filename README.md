@@ -2,11 +2,26 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34613/91/cover200/8925419742_1.jpg) | (현장 교사가 함께 집필한) 디지털교육 | 김현진 | 파주 : 교육과학사, 2024 | 371.334 디78김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35738/30/cover200/k772036537_1.jpg) | 한국지방정부론 : 진단과 개혁방향 | 송재복 | 서울 : 윤성사, 2025 | 352.140951 송73한2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6243/24/cover200/k862433524_1.jpg) | 아날로그 및 디지털 통신 시스템 | 장영범 | 서울 : 홍릉과학, 2015 | 621.382 장64아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35626/19/cover200/8961474626_1.jpg) | 문화 이론 : 사회학적 접근 | Smith, Philip | 서울 : 이학사, 2025 | 306 S656c2K한 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Structural analysis | Hibbeler, R. C | Harlow : Pearson, 2024. | 624.171 H624s11g | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Operations research : introduction to models and methods | Boucherie, Richard J | Singapore : World Scientific, 2022. | 658.4034 B753o | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Finite element procedures | Bathe, Klaus-Jurgen | Watertown (MA) : K.J. Bathe, 2014(2021 7th printing) | 620.001 B331f2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3347/1/cover/1156000114_1.jpg) | 군통신 시스템 | 한국통신학회 | 서울 : 홍릉과학, 2014 | 355.85 한16군 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29008/97/cover/k452836424_1.jpg) | 현대실험계획법 | 박성현 | 서울 : 민영사, 2022 | 519.7 박54현3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 한국문학통사 | 조동일 | 서울 : 지식산업사, 2005 | 811.09 조25한4 v.1~6 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Applied machine learning for health and fitness : a practical guide to machine learning with deep vision, sensors and IoT | Ashley, Kevin | New York : Apress, 2020. | 006.31 A826a | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Machine learning for indoor localization and navigation | Tiku, Saideep | Cham : Springer, 2023. | 621.384191 T568m | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Writing for computer science | Zobel, Justin | London : Springer, 2014. | 808.0666 Z83w3 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Linear algebra done right | Axler, Sheldon Jay | Cham, Switzerland : Springer, 2024. | 512.5 A969L4 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | DSM-5-TR diagnostic handbook : a practical guide to mental disorders through real-world cases and diagnostics | Steven, Morrison | [S.l] : [s.n], 2024. | 616.89075 S843d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 독일 조직재편법 Das deutsche Umwandlungsgesetz in Koreanischer Übersetzung | 이형규 | [과천] : 법무부, 2024 | 346.066 독68gK이2 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 독일 주식법 Das deutsche Aktiengesetz in Koreanischer Übersetzung | 이형규 | [과천] : 법무부, 2024 | 346.066 독68aK이2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/32915/15/cover200/8936480073_1.jpg) | 국토박물관 순례 | 유홍준 | 파주 : 창비, 2023 | 915.1 유95국 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33583/89/cover200/8999730565_1.jpg) | (DSM-5-TR 간편) 정신질환진단통계편람 | American Psychiatric Association | 서울 : 학지사, 2024 | 616.89075 A512dtK권 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/197/6/cover/8952109031_1.jpg) | 대수학 | 이인석 | 서울 : 서울대학교출판부, 2008(2024 10쇄) | 512 이68대 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31088/17/cover200/k482831838_1.jpg) | 물리화학 | Silbey, Robert J | 파주 : 자유아카데미, 2023 | 541.3 S582p5K강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31412/58/cover200/8981605076_1.jpg) | 지역사회영양학 | 김기랑 | 고양 : 파워북, 2023 | 613.2 지64김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31281/66/cover200/k902832474_3.jpg) | 초고령사회 뉴노멀시리즈 | 유선종 | 서울 : 박영사, 2023 | 362.6 유54초 v.1 | 중앙도서관 |
@@ -22,7 +37,6 @@
 | ![](https://image.aladin.co.kr/product/32357/16/cover200/8961544292_1.jpg) | 유전공학의 이해 | 남상욱 | 서울 : 라이프사이언스, 2023 | 660.65 남52유4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32631/38/cover200/8956994617_2.jpg) | 신인류가 온다 : 지속 가능한 미래를 위해 새로운 가치와 삶의 방식을 선택한 사람들 | 이승헌 | 서울 : 한문화 : 한문화멀티미디어, 2023 | 304.2 이57신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32756/69/cover200/k062936085_1.jpg) | 따라 쓰기만 해도 글이 좋아진다 : 글쓰기에 도움이 되는 필사 문장 30 | 김선영 | [고양] : 좋은습관연구소, 2023 | 808 김54따 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32915/15/cover200/8936480073_1.jpg) | 국토박물관 순례 | 유홍준 | 파주 : 창비, 2023 | 915.1 유95국 v.1 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32969/39/cover200/k182936352_1.jpg) | 벌거벗은 한국사 : 영웅편 | tvN STORY | 파주 : 프런트페이지, 2023 | 951 T968벌영 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32988/87/cover200/8932461406_1.jpg) | 고통을 말하지 않는 법 | Tumarkin, Maria M | 서울 : 을유문화사, 2023 | 304.23 T925aK서 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32991/3/cover200/k442936653_1.jpg) | (내 안의 충동에서 자유로워지는) 절제 수업 | Holiday, Ryan | 파주 : 다산초당 : 다산북스, 2023 | 179.9 H732dK정 | 중앙도서관 |
@@ -38,17 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 생물공정공학 | Shuler, Michael L | [서울] : 사이플러스, 2024 | 660.63 S562b3K구사 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33238/21/cover200/k872938060_2.jpg) | 국민을 위한 국민연금은 없다 : 국민이 알면 정부가 싫어할 당신의 국민연금 이야기 | 유원중 | 서울 : 더숲, 2024 | 331.252 유66국 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33336/41/cover200/8934981016_1.jpg) | (향문천의) 한국어 비사(秘史) : 천 년간 풀지 못한 한국어의 수수께끼 | 향문천 | 파주 : 김영사, 2024 | 411.09 향36한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33315/50/cover200/k792938482_1.jpg) | 마케터의 무기들 : 브랜딩 시대, 30가지 일의 무기로 싸우는 법 | 윤진호 | 고양 : 예미, 2024 | 658.8 윤78마 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33397/88/cover200/k032938512_1.jpg) | 아주 이상한 수학책 : 그림, 게임, 퍼즐로 즐기는 재미있는 두뇌 게임 75 1/4 | Orlin, Ben | 서울 : 북라이프, 2024 | 793.74 O71mK강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33493/24/cover200/k262938458_1.jpg) | 랭체인으로 LLM 기반의 AI 서비스 개발하기 | 서지영 | 서울 : 길벗, 2024 | 006.3 서78랭 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33339/98/cover200/8961544322_1.jpg) | (스마트) 생명과학 | Hillis, David M | 서울 : 라이프사이언스, 2024 | 570 P957h3K김라 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33483/65/cover200/8980811519_1.jpg) | (물리학의 기본지식을 공학에 응용한) 대학 물리학 실험 | 김덕현 | 서울 : 현우사, 2024 | 530.0724 대92김3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33492/91/cover200/k152938357_1.jpg) | 제가 쓰는 챗GPT는 당신이 쓰는 챗GPT와 전혀 다릅니다 : 당신만 모르는 챗GPT 상위 1% 활용법 | 허민 | 파주 : 리코멘드, 2024 | 006.3 허38제 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33783/53/cover200/k802930470_1.jpg) | 비즈니스 영어의 결정적 표현들 | 손민지 | 서울 : 사람in, 2024 | 428.34 손38비 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33686/2/cover200/k112939931_1.jpg) | 민주주의적 자본주의의 위기 | Wolf, Martin | 서울 : page2 : 페이지2북스, 2024 | 330.122 W854cK고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33711/82/cover200/k152939440_1.jpg) | 세상을 움직이는 놀라운 물리학 | Virovets, Yuri | 고양 : 미디어숲 : 다빈치하우스-미디어숲, 2024 | 530 V819fK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33819/28/cover200/k642930790_1.jpg) | 법구경 마음공부 : 걱정 많은 삶을 평온하게 바꾸는 법 | 정운 | 서울 : 유노책주 : 유노콘텐츠그룹, 2024 | 294.382 정66법 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33937/73/cover200/k222930234_1.jpg) | (온 국민을 위한) 대한민국 역사교과서 | 대한민국 역사교과서 편찬위원회 | 서울 : 한가람역사문화연구소, 2024 | 951 대92대한 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34015/32/cover200/k062931060_1.jpg) | 태어난 김에 생물 공부 : 한번 보면 결코 잊을 수 없는 필수 생물 개념 | Pilcher, Helen | 파주 : 윌북, 2024 | 570 P637bK고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34108/95/cover200/k652931287_1.jpg) | (세컨드 브레인은) 옵시디언 : 생각을 연결하고 지식을 확장하라 | 시안 | 서울 : 골든래빗, 2024 | 005.57 시62옵 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34387/41/cover200/8999731685_1.jpg) | 상담면접의 기초 : 마음을 성장시키는 대화 | 김환 | 서울 : 학지사, 2024 | 158.3 김95상2 | 중앙도서관 |
