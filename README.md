@@ -2,53 +2,53 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 근원의 빛 고딕 : 중세 유럽의 보편과 건축 그리고 도상에 관하여 | 이기범 | 안양 : 페스트북, 2024 | 726.6 이18근 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30986/36/cover200/8958813164_1.jpg) | 분자 세포 생물학 | Lodish, Harvey | 서울 : 월드사이언스, 2023 | 571.6 M718L9K조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31040/40/cover200/897644874x_1.jpg) | 정책평가론 : 실제와 사례 | 박홍윤 | 고양 : 대영문화사, 2023 | 352.34 박95정2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31294/22/cover200/k002832674_1.jpg) | 해양전략 지침서 | Holmes, James R | 서울 : 박영사, 2023 | 359.03 H751bK조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31222/10/cover200/k042831251_1.jpg) | 현대정책학개론 | 남기범 | 서울 : 윤성사, 2023 | 352.34 남18현3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31294/18/cover200/k642832673_1.jpg) | 정책학 : 공공정책의 이해를 위한 입문 | 김성준 | 서울 : 박영사, 2023 | 352.34 김54정2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31529/17/cover200/k642832345_1.jpg) | 한국의 주택 | 주남철 | 서울 : 고려대학교출판문화원, 2023 | 728.0951 주192한고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31843/73/cover200/k532833322_1.jpg) | 수학은 어떻게 세상을 디자인하는가 : 꽃, 조개, 인체에서부터 신화, 종교, 예술에 깃든 수학전 원형 | Schneider, Michael S | 서울 : 경문사, 2023 | 516.001 S359bK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32042/65/cover200/k832834889_1.jpg) | 의도적 수업 논의, 수학 교실을 바꾼다 | Kazemi, Elham | 서울 : 경문사, 2023 | 372.7 K23iK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32132/24/cover200/k772834303_1.jpg) | (참된 데이터 분석과 빈틈없는 보고서를 위한) 파워 BI 데이터 분석 & 시각화 | 김보겸 | 서울 : 비제이퍼블릭, 2023 | 005.74 김45파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31941/39/cover200/k992833156_1.jpg) | 인공지능 기반 의료 : 케어 패러다임 전환을 이끌 임상의학과 헬스케어 인공지능에 대한 조망 | Chang, Anthony C | 서울 : 에이콘, 2023 | 610.28563 C456iK고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32229/7/cover200/k332834735_2.jpg) | (현업 시니어와 함께하는) 임베디드 소프트웨어 베이직 : with 라즈베리파이 | 이경종 | 서울 : 비제이퍼블릭, 2023 | 005.43 이14임 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32206/29/cover200/k702834524_1.jpg) | 타입스크립트 교과서 | 조현영 | 서울 : 길벗, 2023 | 005.2762 조94타 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32363/26/cover200/k442935774_1.jpg) | (알기쉬운 최신) 전력반도체의 기본과 구조 : 고압·고속을 동시에 실현 | 좌등순일 | 파주 : 21세기사, 2023 | 621.38152 좌27전3K정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32401/44/cover200/k732935988_1.jpg) | 양자역학 | 신상진 | 서울 : 경문사, 2023 | 530.12 신52양2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32336/79/cover200/k782935264_1.jpg) | (한국어 통번역사를 위한) AI 번역의 이해 | 임형재 | 서울 : 소통, 2023 | 418.02 임94a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32314/14/cover200/k322834150_1.jpg) | 글은 어떻게 삶이 되는가 : 삶을 질적으로 변화시키는 글쓰기의 쓸모 | 김종원 | 서울 : 서사원, 2023 | 808 김75글 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32750/24/cover200/k982936981_1.jpg) | C++ 소프트웨어 디자인 : 고품질 소프트웨어 구축을 위한 설계 원칙과 패턴 | Iglberger, Klaus | 파주 : 위키북스, 2023 | 005.133 I24cK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32886/1/cover200/k642936325_1.jpg) | 현대 반도체 소자 공학 | Hu, Chenming Calvin | 서울 : 한빛아카데미, 2023 | 621.381531 H874mK권2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32790/94/cover200/k722936599_1.jpg) | 처음 배우는 애저 : 애저 기초부터 클라우드 서비스 구축까지 | 김도균 | 서울 : 한빛미디어, 2023 | 004.6782 김25처2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33336/26/cover200/8936325175_1.jpg) | (Pratt) 생화학의 이해 | Pratt, Charlotte W | 파주 : 교문사, 2024 | 572 P913e5K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33327/15/cover200/k162938495_1.jpg) | (수학자와 함께하는) 인공지능 수학 with 파이썬 : 인공지능을 이해하는 데 꼭 필요한 기초 수학부터 머신러닝·딥러닝까지 | 김종락 | 서울 : 한빛아카데미, 2024 | 510.285 김75인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33894/20/cover200/8972245593_1.jpg) | 치료적 운동 처방 | Dunleavy, Kim | 서울 : 영문, 2024 | 615.82 D921tK한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33529/45/cover200/k632939476_1.jpg) | (외국어로서의) 한국어 교육학 개론 | 허용 | 하남 : 박이정, 2024 | 411.07 외16허3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 디지털 영상 처리 | Gonzalez, Rafael C | 서울 : 퍼스트북, 2024 | 621.367 G643d4K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33587/93/cover200/k182939694_1.jpg) | (인간과 조직을 위한) 행정학 | 김정인 | 서울 : 박영사, 2024 | 351 김74행2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33416/66/cover200/k202938439_1.jpg) | (차근차근 따라하는) Autodesk Inventor | 김선용 | 서울 : 진샘미디어, 2024 | 620.00420285 김54a진 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33497/12/cover200/k222938455_1.jpg) | 안테나 이론과 설계 | Stutzman, Warren L | 서울 : 텍스트북스, 2024 | 621.3824 S937a3K윤텍 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33587/18/cover200/k902939693_1.jpg) | 디지털 트윈 구축과 배포 : 애저 디지털 트윈을 활용한 디지털 트윈 설계와 개발, 배포 | Nath, Shyam Varan | 서울 : 에이콘, 2024 | 004.6782 N274bK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33556/44/cover200/k422939676_2.jpg) | 일반화학실험 | 화학교재편찬회 | 서울 : 사이플러스, 2024 | 542 화92일화 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33622/27/cover200/k452939116_1.jpg) | 현대대수학 | Hungerford, Thomas W | 서울 : 경문사, 2024 | 512.02 H936a3K심 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33778/46/cover200/k222930378_1.jpg) | 생각하는 수학 수업 : 수학 수업을 위한 14가지 실천사항 | Liljedahl, Peter | 서울 : 경문사, 2024 | 510.712 L728bK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33534/51/cover200/k492939575_1.jpg) | 게임 AI를 위한 탐색 알고리즘 입문 : 트리 탐색과 메타 휴리스틱으로 완성하는 최적화 | 청목영태 | 서울 : 한빛미디어, 2024 | 794.81526 청35게K서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33562/9/cover200/k702939785_1.jpg) | 오토캐드 40시간 완성 | 신동진 | 파주 : 피앤피북, 2024 | 620.00420285 신25오2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33627/83/cover200/k982939216_1.jpg) | LangChain으로 구현하는 LLM : 파이썬, ChatGPT로 LLM 애플리케이션 만들기 | Auffarth, Ben | 서울 : 에이콘, 2024 | 006.3 A918gK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33517/61/cover200/k632938651_1.jpg) | (K-MOOC와 함께하는) 스포츠 마케팅 | 문개성 | 서울 : 박영사, 2024 | 796.0698 문13스박2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33620/3/cover200/k182939110_1.jpg) | 마음이란 무엇인가 : 뇌중심주의를 넘어 체화인지적으로 접근하기 | 체화인지연구단 | 하남 : 박이정, 2024 | 128.2 체95마 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33613/87/cover200/k072939917_1.jpg) | 핵심 계량경제학 | Gujarati, Damodar N | 서울 : 한빛아카데미, 2024 | 330.015195 G969e5K정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33673/18/cover200/k222939836_1.jpg) | 미시경제학 : 수학노트와 연습문제 해답 | 이준구 | 고양 : 문우사, 2024 | 338.5 이76미8수 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33812/44/cover200/k492930688_1.jpg) | Play! Solidworks 2024 : advance | 원동현 | 파주 : 청담북스, 2024 | 620.00420285 원25pa 2024 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33737/63/cover200/k712939656_1.jpg) | 경제안보와 수출통제 | 정인교 | 서울 : 박영사, 2024 | 382.64 정68경2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33990/42/cover200/k082930648_1.jpg) | (C#과 파이썬을 활용한) OpenCV 4 프로그래밍 : 컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지 | 윤대희 | 파주 : 위키북스, 2024 | 006.37 윤23o3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33864/0/cover200/k812930508_1.jpg) | 아동·청소년을 위한 수용전념치료 : 상담자, 교사, 부모가 함께 읽는 ACT 핵심 원리와 상담 기법 | Black, Tamar D | 서울 : 하나醫學社, 2024 | 618.92891425 B627aK송 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33973/66/cover200/k482930444_1.jpg) | (어떻게 팔지 막막할 때 읽는) 카피 책 : 기획자, 마케터, 광고인, 셀러라면 꼭 알아야 할 팔리는 글 작성법 | Albrighton, Tom | 서울 : 비즈니스북스, 2024 | 659.132 A342cK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34127/29/cover200/8931571275_1.jpg) | 인생 언리얼5 프로젝트 교과서 | 이영호 | 서울 : BM 성안당, 2024 | 794.81526 인53이언2 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34111/72/cover200/k702931383_1.jpg) | 글로벌 공급망과 ESG | 김민숙 | 고양 : 문우사, 2024 | 658.408 김38글 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34213/64/cover200/8925419025_1.jpg) | (하루에 한 장 뜯어 먹는) 교육과정 기초 다지기 | 한경화 | 파주 : 교육과학사, 2024 | 375 한14교 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34314/41/cover200/8968212007_1.jpg) | 인적자원관리 | 임창희 | 서울 : 비앤엠북스, 2024 | 658.3 임82인5 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34673/37/cover200/k402933998_1.jpg) | 친절한 수론 길라잡이 | Silverman, Joseph H | 서울 : 경문사, 2024 | 512.7 S587f4K김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34577/45/cover200/k022933468_1.jpg) | (예비교사와 현직교사를 위한) 수학교육과정과 교재연구 | 김남희 | 서울 : 경문사, 2024 | 510.7 수92김4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Mastering PyTorch : create and deploy deep learning models from CNNs to multimodal models, LLMs, and beyond | Jha, Ashish Ranjan | Birmingham : Packt Publishing, 2024 | 006.32 J59m2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29857/51/cover/k202838025_1.jpg) | 미키 7 : 에드워드 애슈턴 SF 장편소설 | Ashton, Edward | 서울 : 황금가지, 2022 | 823.92 A828mK배 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31015/41/cover200/k762831317_1.jpg) | 나노콜로이드 화학 | 유연태 | 전주 : 전북대학교출판문화원, 2023 | 660.2945 유64나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31085/88/cover200/8970445781_1.jpg) | 알기 쉬운 전파기술 입문 : 전파기술에의 길잡이 | 덕환인 | 서울 : 전파과학사, 2023 | 621.384 덕95전K박2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31219/39/cover200/8971806087_1.jpg) | 한국사상과 마음의 윤리학 | 이영경 | 대구 : 경북대학교출판부, 2023 | 181.1 이64한2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31080/67/cover200/k412831628_1.jpg) | 군사학개론 | 군사학연구회 | 서울 : 플래닛미디어, 2023 | 355 군52군플2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31426/38/cover200/k382832214_1.jpg) | 전쟁론 | 군사학연구회 | 서울 : 플래닛미디어, 2023 | 355.02 군52전2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32327/24/cover200/k722935066_1.jpg) | (14일 만에 뚝딱!) 파이썬 생활 프로젝트 코딩 | 서승희 | 서울 : 길벗, 2023 | 005.133 서57파 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32287/75/cover200/8999729435_1.jpg) | 태양을 직면하기 : 얄롬의 죽음불안심리와 상담 | Yalom, Irvin D | 서울 : 학지사, 2023 | 155.937 Y19sK임 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32431/52/cover200/k532935192_1.jpg) | (언어치료사가 말하는) 자폐, ADHD 부모상담서 : 자폐, ADHD에 축복이 되는 치유가이드북 | 이명은 | 서울 : 율도국, 2023 | 618.9285882 이34자 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32494/93/cover200/k012935605_1.jpg) | (2022 개정 국어과 교육과정에 따라 새롭게 집필한) 독서 교육론 | 천경록 | 서울 : 역락, 2023 | 028.5 천14독2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32536/36/cover200/k122935228_1.jpg) | 미래전의 도전과 항공우주산업 | 신범식 | 서울 : 사회평론아카데미, 2023 | 338.476291 미293신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32376/14/cover200/k902935678_2.jpg) | 현대성과 공공성 | 문성진 | 서울 : 박영사, 2023 | 301 문54현 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32503/8/cover200/894607471x_1.jpg) | 대전환 시대의 국가론 : 위기 극복의 국제정치학 | 김상배 | 파주 : 한울아카데미 : 한울엠플러스, 2023 | 327 대74김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32624/22/cover200/8999729443_1.jpg) | 정서중심치료 의도적 연습 | Goldman, Rhonda N | 서울 : 학지사, 2023 | 616.8914 G619dK한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33083/47/cover200/8925418495_1.jpg) | 확장학습 연구 : 아직 존재하지 않는 것에 대한 학습 | Engeström, Yrjö | 파주 : 교육과학사, 2024 | 371.39 E57sK한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33061/86/cover200/k152937994_1.jpg) | 데이터는 예측하지 않는다 : 데이터에 관한 꼭 알아야 할 오해와 진실 | 김송규 | [고양] : 좋은습관연구소, 2024 | 006.312 김55데 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33371/69/cover200/k382938215_1.jpg) | 전기기계 | 정승기 | 서울 : 학산미디어, 2024 | 621.31042 정57전2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33556/97/cover200/8946082968_1.jpg) | 악셀 호네트의 인정이론 | Zurn, Christopher F | 파주 : 한울아카데미 : 한울엠플러스, 2024 | 301.092 H773zK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33557/0/cover200/894608295x_1.jpg) | 조지 허버트 미드의 사회이론 | Carreira da Silva, Filipe | 파주 : 한울아카데미 : 한울엠플러스, 2024 | 301.01 M479cK하 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34434/6/cover200/8999731162_1.jpg) | 인지정서행동치료(REBT) 단기 상담 사례 연구 | 박경애 | 서울 : 학지사, 2024 | 616.89142 박14인학 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33464/99/cover200/8918914776_1.jpg) | 국제경제론 | 김신행 | 파주 : 法文社, 2024 | 337 김58국8 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33560/4/cover200/8972955507_1.jpg) | 목조건축 개론 | 심국보 | 청주 : 충북대학교 출판부, 2024 | 694 심16목 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 원가관리회계 | 강경태 | 서울 : 나우, 2024 | 657.42 강14원2 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33359/61/cover200/8946082933_1.jpg) | 국제정세의 이해 : 자유주의 국제질서의 위기와 지구촌의 국제관계 | 유현석 | 파주 : 한울아카데미 : 한울엠플러스, 2024 | 327 유94국8 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33583/89/cover200/k532939496_1.jpg) | 한국 초기사 연구 : 고대의 조선과 한국 | 박대재 | 서울 : 세창, 2024 | 951.2 박23한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33732/1/cover200/k752939642_1.jpg) | 약리학 | Katzung, Bertram G | 서울 : 신일서적, 2024 | 615.1 K19b16K한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33614/3/cover200/891891492x_1.jpg) | 국제경제론 해답집 | 김신행 | 파주 : 法文社, 2024 | 337 김58국해8 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33822/14/cover200/k662930796_1.jpg) | 실무로 통하는 ML 문제 해결 with 파이썬 : 전처리부터 딥러닝까지, 216개 실용 예제로 익히는 문제 해결 기법 | Gallatin, Kyle | 서울 : 한빛미디어, 2024 | 006.31 G164m2K박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33899/15/cover200/8999731014_1.jpg) | 상호주관적 자기심리학 | Hagman, George | 서울 : 학지사, 2024 | 155.2 H145iK조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33799/5/cover200/k842930578_1.jpg) | 건축하지 않는 건축가 | 송촌순 | 서울 : 인벨로프, 2024 | 720.953 송84건K민 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34260/43/cover200/8949968037_1.jpg) | 역사 인식으로 읽는 고조선사 : 고조선을 둘러싼 한국 상고사 체계에 대한 인식의 시대적 변천과 그 역사적 의미 | 송호정 | 파주 : 경인문화사, 2024 | 951.2 송95역 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34030/88/cover200/k402931163_1.jpg) | 사이버 안보의 국제정치학 : 기본 개념의 탐구 | 김상배 | 서울 : 사회평론아카데미, 2024 | 355.343 사68김기 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33915/33/cover200/k912930926_1.jpg) | (지속가능한 제조업 경쟁력 확보를 위한) 제조AI빅데이터 분석기법 : 코딩편 | 김일중 | 파주 : 보민, 2024 | 658.5 제75김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34254/63/cover200/k462932869_1.jpg) | Abaqus와 함께하는 구조해석의 개념과 분석방법 : 구조해석 기본 과정 | 브이이엔지 | 서울 : 이엔지미디어, 2024 | 620.00420285 브68a | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34111/73/cover200/8999729915_1.jpg) | 여성, 사회, 복지 | 이은미 | 서울 : 학지사, 2024 | 305.4 이67여 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34127/5/cover200/8949967995_1.jpg) | 장애인의 권리에 관한 연구 | 태평양 | 파주 : 景仁文化社, 2024 | 362.4 태894장 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34240/97/cover200/8966264433_1.jpg) | 코틀린 아카데미 : 핵심편 | Moskała, Marcin | 서울 : 인사이트, 2024 | 005.133 M911kK신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34386/78/cover200/k402932509_1.jpg) | 현대 경제지리학 강의 | Coe, Neil M | 서울 : 푸른길, 2024 | 330.9 C672e3K안 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34337/54/cover200/8963476049_1.jpg) | 화폐, 계급, 사회 : 계급화폐의 발생과 발전, 화폐권력에 관한 사회학적 탐구 | Gerloff, Wilhelm | 과천 : 진인진, 2024 | 332.4 G371gK현 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34613/98/cover200/k862933887_1.jpg) | (교사와 학생이 함께 만드는) 주제탐구독서 수업 | 권이은 | 서울 : 역락, 2024 | 028.55 주74권 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34579/94/cover200/8999727912_1.jpg) | 학습장애와 난독증의 언어재활 | 김기주 | 서울 : 학지사, 2024 | 371.9144 김18학 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34552/93/cover200/k892933066_1.jpg) | 뿌리부터 이해하는 내러티브 탐구 | Caine, Vera | 서울 : 학이시습, 2024 | 001.433 C135nK염 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34690/73/cover200/8999732142_1.jpg) | (상담 및 교육 장면에서) 심리검사의 이해와 활용 | 천성문 | 서울 : 학지사, 2024 | 150.287 심298천 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34816/6/cover200/k472933436_1.jpg) | PSIM을 활용한 전력전자공학 실습 | 박영수 | 대구 : 계명대학교 출판부, 2024 | 621.317 박64p | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34691/7/cover200/8991428703_1.jpg) | 리튬이온 배터리의 리사이클링 | Lin, Xiao | 고양 : 바오, 2024 | 621.312424 R311LK길 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34645/73/cover200/k772933686_1.jpg) | 기후변화, 상식을 넘어서 | 장유순 | 서울 : 북스힐, 2024 | 551.6 장66기 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34577/70/cover200/8966264441_1.jpg) | 코틀린 아카데미 : 함수형 프로그래밍 | Moskała, Marcin | 서울 : 인사이트, 2024 | 005.133 M911fK신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34588/49/cover200/8993512043_1.jpg) | 식품미생물학 용어사전 | 김성곤 | 서울 : 한림원, 2024 | 664.001579 식896김한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34938/78/cover200/8969151737_1.jpg) | 처음 만나는 교사 교육과정 : 2022 개정 교육과정 설계를 위한 주제별 수업 사례 | 황혜진 | 서울 : 학교도서관저널, 2024 | 371.3 황94처 | 중앙도서관 |
