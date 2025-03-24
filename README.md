@@ -2,6 +2,17 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대당서역기 | 현장 | 서울 : 글로벌콘텐츠, 2013(2020 2쇄) | 915.4 현72대K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 마하사띠빳타나숫따 대역 | Mahasi Sayadaw | 안양 : 불방일, 2016 | 294.382 M214mK일 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (도와 과, 열반에 빠르게 이르게 하는) 위빳사나 수행방법론 | Mahasi Sayadaw | 안양 : 불방일, 2023 | 294.3443 M214vK일2 v.1~2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 월터 옹 | 이동후 | 서울 : 커뮤니케이션북스, 2018 | 302.224 O58이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 배수찬의 서양 고전 읽기 | 배수찬 | 서울 : 지식을만드는지식, 2017 | 028.1 배56배 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 최신 코칭학개론 | 도미향 | 서울 : 신정, 2023 | 158.3 최58도 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 기업상담의 이론과 실제 | 이지연 | 서울 : 학지사, 2021 | 658.385 기64이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 테크놀로지와 상담의 미래 | 황매향 | 서울 : 학이시습, 2021 | 158.3 황33테 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | GAPS 다이어트 : 만성질환 자연치료 식이요법 갭스(GAPS diet) | Campbell-McBride, Natasha | 서울 : 겸엑스, 2024 | 613.2 C192gK남 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 도시, 장소, 그리고 맥락 | 이호정 | 서울 : 태림문화사, 2007 | 711.4 이95도 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Topological data analysis in high-frequency trading with python | Flux, Jamie | [S.l] : [s.n], [2024] | 005.133 F647t | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34577/39/cover200/k702933367_2.jpg) | 생(生) 존(zone) 십(ship) : 협력 개인의 출현 | 구정우 | 서울 : 쌤앤파커스, 2024 | 305.2 구74생 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34221/80/cover200/893648043x_2.jpg) | 나는 얼마짜리입니까 | 6411의 목소리 | 파주 : 창비, 2024 | 331.0951 육52나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33228/1/cover/8958208724_1.jpg) | 기후재난시대를 살아내는 법 : 우리 사회의 약자들에게 더 깊숙이 침투하는 기후변화의 현장을 고발하다 | 이수경 | 파주 : 궁리, 2024 | 363.73874 이56기 | 중앙도서관 |
@@ -41,14 +52,3 @@
 | ![](https://image.aladin.co.kr/product/35901/94/cover200/k792037082_1.jpg) | 달라진 김정은, 돌아온 트럼프 : 한반도 평화를 위한 대한민국의 선택은? | 정욱식 | 서울 : 갈마바람, 2025 | 327.51073 정66달 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35236/83/cover200/k462934844_1.jpg) | (팔로우) 타이베이 | 장은정 | 서울 : 트래블라이크, 2024 | 915.124904 장67타트 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35340/70/cover200/k772035680_1.jpg) | 現代文學賞 수상시집 : 오늘의 시 외 | 박소란 | 서울 : 현대문학, 2024 | 811.1708 현23현 2025 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35898/54/cover200/k702037088_1.jpg) | 창가의 토토, 그 후 이야기 | 흑류철자 | 파주 : 김영사, 2025 | 813.37 흑296창K권 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35890/14/cover200/k552037880_1.jpg) | 자본시장법 | 임재연 | 서울 : 박영사, 2025 | 346.09 임73자 2025 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 프랑스 : 하나 그리고 여럿 | 서울대학교 | 파주 : 지성공간, 2017(2022 4쇄) | 944 서66프2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30989/66/cover200/k012831404_1.jpg) | (그림으로 배우는) StatQuest 머신러닝 강의 : 머리에 쏙쏙 들어오는 머신러닝 그림책 | Starmer, Josh | 파주 : 제이펍, 2023 | 006.31 S795sK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35791/27/cover200/k712036359_1.jpg) | (쉽게 배우는) DSM-5-TR : 임상가를 위한 진단지침 | Morrison, James R | 서울 : 시그마프레스, 2025 | 616.89075 M879dK신임 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35626/15/cover200/k712036292_1.jpg) | 의사의 딜레마 : 의사들에 관한 서문 포함 | Shaw, Bernard | 서울 : 좋은땅, 2025 | 822.912 S534dK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35918/44/cover200/k992037699_1.jpg) | 읽다, 일하다, 사랑하다 : 풍월당 문학 강의, 모던 클래식 | 장은수 | 서울 : 풍월당, 2025 | 809 장67읽 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35937/84/cover200/k922037703_1.jpg) | 윈윈 협상법 | 박호환 | 성남 : 나무미디어, 2025 | 658.4052 박95윈 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35266/35/cover200/k542934359_1.jpg) | AGI의 시대 : 인간을 초월한 인공지능, AGI를 논하다 | 한상기 | 서울 : 한빛미디어, 2024 | 006.3 한52a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30782/50/cover200/k182832645_1.jpg) | 내 장은 왜 우울할까 : 장내미생물은 어떻게 몸과 마음을 바꾸는가 | Davis, William | 서울 : 북트리거 : 지학사, 2023 | 612.32 D265sK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29131/30/cover200/k302837465_1.jpg) | 리시안셔스 : 연여름 소설집 | 연여름 | 서울 : 황금가지, 2022 | 811.37 연64리 | 중앙도서관 |
