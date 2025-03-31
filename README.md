@@ -2,6 +2,21 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/35872/12/cover200/8991555969_2.jpg) | 다 말하게 하라 : 유교조선 지성사론(儒敎朝鮮 知性史論) | 김인환 | 서울 : 수류산방, 2025 | 951.5 김68다 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Climate of hope : how cities, businesses, and citizens can save the planet | Bloomberg, Michael | New York : St. Martin's Griffin, 2018. | 363.73874 B655c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Health psychology : an introduction to behavior and health | Brannon, Linda | Boston, MA : Cengage Learning, 2022. | 616.0019 B821h10 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Python programming for linguistics and digital humanities : applications for text-focused fields | Weisser, Martin | Hoboken, New Jersey : Wiley-Blackwell, 2024. | 005.133 W433p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Brief dynamic interpersonal therapy : a clinician's guide | Lemma, Alessandra | Oxford : Oxford University Press, 2024 | 616.89147 B853L2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Picturing the apocalypse : the book of Revelation in the arts over two millennia | O'Hear, Natasha | Oxford : Oxford University Press, 2015. | 704.9484 O37p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Contextual schema therapy : an integrative approach to personality disorders, emotional dysregulation, and interpersonal functioning | Roediger, Eckhard | Oakland, CA : Context Press, 2018. | 616.891425 R712c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Schema therapy in practice : an introductory guide to the schema mode approach | Arntz, Arnoud | Chichester, West Sussex : John Wiley ＆ Sons Inc., 2013. | 616.891425 A767s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | More than words : how to think about writing in the age of AI | Warner, John | New York : Basic Books, 2025. | 808.00285635 W282m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Automated vehicles : the role of ISO 26262 | Pimentel, Juan R | Warrendale, PA : SAE International, 2020. | 629.046 P644a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Smuggler's Cove : exotic cocktails, rum, and the cult of tiki | Cate, Martin | Berkeley : Ten Speed Press, 2016 | 647.9579461 C357s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Architecture. Research. Office. : Stephen Cassell. Kim Yao. Adam Yarinsky | Hodge, Brooke | New York : DelMonico Books D.A.P., 2024. | 720.922 H688a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Dollars and dominion : US bankers and the making of a superpower | Bridges, Mary | Princeton : Princeton University Press, 2024. | 332.150973 B851d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Magic pill : the extraordinary benefits and disturbing risks of the new weight-loss drugs | Hari, Johann | New York, NY : Crown Publishing, 2024. | 613.25 H281m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | House of Huawei : the secret history of China's most powerful company | Dou, Eva | [New York] : Portfolio / Penguin, 2025. | 338.887213916 D726h | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35897/18/cover200/k452037986_1.jpg) | 서비스 한국어 | 김은영 | 서울 : 박영사, 2025 | 411.8 김67서 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36003/57/cover200/8952132254_1.jpg) | 사적 정부 : 사용자는 어떻게 우리의 삶을 지배하는가? (그리고 우리는 왜 그것에 관하여 이야기하지 않는가?) | Anderson, Elizabeth | 서울 : 서울대학교출판문화원, 2025 | 306.36 A546pK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34577/88/cover200/k492933469_1.jpg) | 살인 재능 | Swanson, Peter | 서울 : 푸른숲, 2024 | 823.92 S972tK신 | 중앙도서관 |
@@ -37,18 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | K-로고 연대기 : 20세기 대한민국의 초상 | 김성천 | 서울 : 월간디자인, 2024 | 745.4 김54k v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35221/88/cover200/k522934625_1.jpg) | 이방인 : 프랑스 명작의 이해 | Camus, Albert | 파주 : 지성공간, 2024 | 843.914 C211eK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33329/56/cover200/8930319599_1.jpg) | 질적 연구의 방법과 분석 | 김인숙 | 서울 : 집문당, 2024 | 361.3072 김68사2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/14333/57/cover200/k762532048_2.jpg) | 다카야마 조규 비평선집 | 고산저우 | 서울 : 지식을만드는지식, 2018 | 813.09 고52저K표 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32801/63/cover200/k002936697_1.jpg) | 스토리의 유혹 : 내러티브의 사용과 남용 | Brooks, Peter | [서울] : 앨피, 2023 | 808.036 B873sK백 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/9002/84/cover200/k422535806_1.jpg) | 근대소설의 기원에 관한 한 연구 : 크레티엥 드 트르와(Chrétien de troyes) 소설의 구성적 원리 | 정과리 | 서울 : 역락, 2016 | 843.09 C553정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/9815/50/cover200/k012535059_1.jpg) | 한국 SF 장르의 형성 | 이지용 | 서울 : 커뮤니케이션북스, 2016 | 809.38762 이78한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/9111/99/cover200/8955067259_1.jpg) | SF 장르의 이해 | 장정희 | 서울 : 동인, 2016 | 808.38762 장74s | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/12358/27/cover200/s882833150_1.jpg) | 로맨스 웹소설 | 김경애 | 서울 : 커뮤니케이션북스, 2017 | 808.3 김14로 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/21144/58/cover200/k572636882_1.jpg) | 현대소설론 강의 | 이상우 | 서울 : 역락, 2019 | 808.3 이52현역 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32827/42/cover200/k282936901_1.jpg) | 환상과 토포필리아 | 이재훈 | 서울 : 역락, 2023 | 811.1709 이73환 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/657/74/cover200/8955567529_2.jpg) | 소설의 기교 | Lodge, David | 서울 : 역락, 2011 | 823.009 L822aK김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34596/1/cover200/k622933672_1.jpg) | 언어의 감옥 : 구조주의와 러시아 형식주의 비판 | Jameson, Fredric | 서울 : 세창, 2024 | 401.5 J31pK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/11792/34/cover200/8931010648_1.jpg) | 문학이란 무엇인가 | Sartre, Jean-Paul | 서울 : 문예, 2017(2022 재쇄) | 801 S251sK김3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/211/61/cover200/8955566085_1.jpg) | 북한역사소설의 재인식 | 임옥규 | 서울 : 역락, 2008 | 811.309 임65북 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7205/38/cover200/k512434495_1.jpg) | 서술이론 : 구조 대 역사 그 너머 | Phelan, James | 서울 : 소명, 2015 | 808 P538cK최 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1751/58/cover200/8932023085_1.jpg) | 영향에 대한 불안 | Bloom, Harold | 서울 : 문학과지성사, 2012(2023 3쇄) | 809.1 B655a2K양 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/11743/53/cover200/k552531928_1.jpg) | 현대문학이론의 길잡이 | 오민석 | 서울 : 시인동네 : 문학의전당, 2017(2024 6쇄) | 801 오38현 | 중앙도서관 |
