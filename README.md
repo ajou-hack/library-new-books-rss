@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36001/65/cover200/k182037726_1.jpg) | 국제 민사소송법 : 국제사법 절차법편 | 석광현 | 서울 : 박영사, 2025 | 340.9 석15국2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35869/8/cover200/k492037673_1.jpg) | 쟁점 행정법특강 | 김병기 | 서울 : 박영사, 2025 | 342.06 김44쟁2 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/247726fa-7ca4-4a1a-a58a-bbfb4af64672) | 연세 한국어 : English version | 연세대학교 | 서울 : 연세대학교 대학출판문화원, 2013(2023 11쇄) | 411.8 연54연e v.1-1/v.1-2/v.2-1/v.3-1/v.3-2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35872/12/cover200/8991555969_2.jpg) | 다 말하게 하라 : 유교조선 지성사론(儒敎朝鮮 知性史論) | 김인환 | 서울 : 수류산방, 2025 | 951.5 김68다 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/35400/57/cover200/k222035016_1.jpg) | 인공지능개론 | 허준 | 서울 : B.C.Info : 복두, 2025 | 006.3 허76인 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35110/26/cover200/896336951x_1.jpg) | 공무원 시험을 정복하는 공부법 | 신동민 | 서울 : 법률저널, 2024 | 371.30281 신25공2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34999/17/cover200/8946075449_1.jpg) | 우주안보의 국제정치학 : 복합지정학의 시각 | 김상배 | 파주 : 한울아카데미 : 한울엠플러스, 2024 | 327 우76김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | K-로고 연대기 : 20세기 대한민국의 초상 | 김성천 | 서울 : 월간디자인, 2024 | 745.4 김54k v.1~2 | 중앙도서관 |
