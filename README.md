@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34689/12/cover200/k522933817_1.jpg) | 박태웅의 AI 강의 2025 : 인공지능의 출현부터 일상으로의 침투까지 우리와 미래를 함께할 새로운 지능의 모든 것 | 박태웅 | 서울 : 한빛비즈, 2024 | 303.483 박883박 2025 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/73a012f6-8a5f-4b4f-bbd1-79a03e502503) | (김대식의) 인간 vs 기계 : 인공지능이란 무엇인가 | 김대식 | 서울 : 동아시아, 2016(2025 19쇄) | 006.3 김23인 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36114/12/cover200/s602038067_1.jpg) | 단 한 번의 삶 | 김영하 | 서울 : 복복서가, 2025 | 811.47 김64단 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hijacked : how neoliberalism turned the work ethic against workers and how workers can take it back | Anderson, Elizabeth | Cambridge, United Kingdom : Cambridge University Press, 2025. | 306.3613 A546h | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sunrise on the reaping | Collins, Suzanne | New York : Scholastic Press, 2025. | 823.92 C713s | 중앙도서관 |
@@ -19,6 +21,8 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Topological data analysis with applications | Carlsson, G | New York : Cambridge University Press, 2022. | 514.23 C284t | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Essentials of discrete mathematics | Hunter, David James | Burlington, MA : Jones ＆ Bartlett Learning, 2022. | 004.015113 H945e4 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Emerging field of personal relationships | Gilmour, Robin | Abingdon, Oxon : Routledge, 2021. | 302.34 G488e | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35852/87/cover200/k232037472_1.jpg) | 국민이 먼저입니다 : 한동훈의 선택 | 한동훈 | 서울 : 메디치 : 메디치미디어, 2025 | 320.951 한25국 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35840/96/cover200/k092037968_1.jpg) | 모르면 호구 되는 맞춤법 상식 : 교양 있는 한국어 사용자가 되기 위한 최소한의 맞춤법상식 떠먹여드림 | 이윤영 | 서울 : 한스미디어 : 한즈미디어, 2025 | 411.13 이66모 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 프랑스 : 하나 그리고 여럿 | 서울대학교 | 파주 : 지성공간, 2017(2022 4쇄) | 944 서66프2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35803/34/cover200/8962381923_1.jpg) | 나는 내 뜻대로 결정하는가 : 경제학에서의 개인 | 이상훈 | 서울 : 해남, 2025 | 330 이52나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34572/76/cover200/k362933267_1.jpg) | AI 반도체 혁명 : 3차 반도체 전쟁, 최후의 승자는 누가 될 것인가 | 권순우 | 서울 : page2 : 페이지2북스, 2024 | 338.47621381 A311권 | 중앙도서관 |
@@ -48,7 +52,3 @@
 | ![](https://image.aladin.co.kr/product/28338/41/cover/8958721804_1.jpg) | 그림자의 위로 : 빛을 향한 건축 순례 | 김종진 | 파주 : 효형, 2021 | 720.2 김75그 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28347/37/cover/8965822912_1.jpg) | 세상을 바꾼 화학 | 원정현 | 서울 : 리베르스쿨, 2021 | 540 원74세2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28393/34/cover/8962624044_3.jpg) | 앞으로 100년 : 인류의 미래를 위한 100장의 지도 | Goldin, Ian | 서울 : 동아시아, 2021 | 304.2 G619tK추 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25967/86/cover/k352734584_1.jpg) | 외국어 학습담 : 외국어 학습에 관한 언어 순례자 로버트 파우저의 경험과 생각 | Fouser, Rovert J | 서울 : 혜화1117, 2021 | 407 F781외 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27404/78/cover/8934986832_1.jpg) | 크래프톤 웨이 : 배틀그라운드 신화를 만든 10년의 도전 | 이기문 | 파주 : 김영사, 2021 | 658.401 이18크 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27124/32/cover/k742731145_2.jpg) | 시장을 풀어낸 수학자 : 짐 사이먼스가 일으킨 퀀트 혁명의 역사 | Zuckerman, Gregory | 서울 : 로크미디어, 2021 | 332.64 Z94mK문 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24548/62/cover/k632631872_1.jpg) | 도시와 교통 : 사람과 환경이 함께하는 지속가능교통 | 정병두 | 서울 : 크레파스북, 2020 | 629.04 정44도 | 중앙도서관 |
