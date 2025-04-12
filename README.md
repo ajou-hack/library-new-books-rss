@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 行政判例硏究 | 한국행정판례연구회 | 서울 : 博英社, 2002- | 342.060264 한16행 v.10/v.11/v.14/v.15-1/v.15-2/v.16-1/v.16-2/v.17-1/v.17-2/v.18-1/v.18-2/v.19-1/v.19-2/v.20-1/v.20-2/v.21-1/v.21-2/v.22-1/v.22-2-1/v.22-2-2/v.23-1/v.23-2/v.24-1/v.24-2/v.25-1/v.25-2/v.26-1/v.26-2/v.27-1/v.27-2/v.28-1/v.28-2/v.7/v.8/v.9 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/27224/84/cover200/896915101x_1.jpg) | 학교에서 낭독극하기 : 문학 작품 각색, 연출, 공연까지 교사와 학생이 함께 만드는 낭독극 | 전국교사연극모임 | 서울 : 학교도서관저널, 2021 | 372.66 전16학 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36164/78/cover200/k502038885_1.jpg) | 문학으로 철학하기 | 조동일 | 파주 : 보고사, 2025 | 809 조25문하 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36164/76/cover200/k472038885_1.jpg) | 문학끼리 철학 논란 | 조동일 | 파주 : 보고사, 2025 | 809 조25문철 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hyphenated Christians : towards a better understanding of dual religious belonging | Goosen, Gideon | Oxford : Peter Lang, 2011. | 261.201 G659h | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Life at the bottom : the worldview that makes the underclass | Dalrymple, Theodore | Chicago : Ivan R. Dee, 2001. | 362.2086942 D151L | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Topological data analysis with applications | Carlsson, G | New York : Cambridge University Press, 2022. | 514.23 C284t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Essentials of discrete mathematics | Hunter, David James | Burlington, MA : Jones ＆ Bartlett Learning, 2022. | 004.015113 H945e4 | 중앙도서관 |
