@@ -2,6 +2,14 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 뇌가 힘들 땐 미술관에 가는 게 좋다 : 더 아름다운 삶을 위한 예술의 뇌과학 | Magsamen, Susan | 파주 : 윌북, 2025 | 111.85 M212yK허 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 전력전자 | Mohan, Ned | 서울 : 한빛아카데미, 2025 | 621.317 M697p2K곽 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 다윈의 위험한 생각 | Dennett, D. C | 서울 : 바다, 2025 | 146.7 D399dK신 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 101 team exercises : to improve communication and cooperation | Otten, Herman | Las Vegas, Nevada : [Self-published], 2020. | 658.4035 O89o | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The technological republic : hard power, soft belief, and the future of the West | Karp, Alexander C | New York : Crown Currency, 2025. | 352.7450973 K18t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Technology and human development | Oosterlaken, Ilse | London : Routledge, 2015. | 303.483 O59t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The art of computer programming | Knuth, Donald Ervin | Boston : Addison-Wesley Professional, 2011-2022. | 005.1 K74a v.4A/v.4B | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (5급 공채) 행정고시 가이드 | 고시계 | 서울 : 고시계사, 2023 | 351.3 고58행 2023 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 行政判例硏究 | 한국행정판례연구회 | 서울 : 博英社, 2002- | 342.060264 한16행 v.10/v.11/v.14/v.15-1/v.15-2/v.16-1/v.16-2/v.17-1/v.17-2/v.18-1/v.18-2/v.19-1/v.19-2/v.20-1/v.20-2/v.21-1/v.21-2/v.22-1/v.22-2-1/v.22-2-2/v.23-1/v.23-2/v.24-1/v.24-2/v.25-1/v.25-2/v.26-1/v.26-2/v.27-1/v.27-2/v.28-1/v.28-2/v.7/v.8/v.9 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/27224/84/cover200/896915101x_1.jpg) | 학교에서 낭독극하기 : 문학 작품 각색, 연출, 공연까지 교사와 학생이 함께 만드는 낭독극 | 전국교사연극모임 | 서울 : 학교도서관저널, 2021 | 372.66 전16학 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36164/78/cover200/k502038885_1.jpg) | 문학으로 철학하기 | 조동일 | 파주 : 보고사, 2025 | 809 조25문하 | 중앙도서관 |
@@ -44,11 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Grounding psychotherapy in self-compassion | Tyano Ronen, Galia | New York : The Guilford Press, 2025. | 177.7 T977g | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Economics without preferences : microeconomics and policymaking beyond the maximizing individual | Mandler, Michael | Cambridge, United Kingdom : Cambridge University Press, 2025. | 338.5 M272e | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | James Buchanan and peaceful cooperation : from public finance to a theory of collective action | Marciano, Alain | Cambridge, United Kingdom : Cambridge University Press, 2024. | 330.092 B918m | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 民法研究ハンドブック | 대촌돈지 | 東京 : 有斐閣, 2000 | 346 대84민연 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Representation and inference for natural language : a first course in computational semantics | Blackburn, Patrick | Stanford, Calif. : Center for the Study of Language and Information, 2005. | 400.143 B628r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Eating in theory | Mol, Annemarie | Durham : Duke University Press, 2021. | 394.12 M717e | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Emotional schema therapy : distinctive features | Leahy, Robert L | Abingdon, Oxon | 616.891425 L434e | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 「債権法改正」の文脈 : 新旧両規定の架橋のために | 삼전수 | 東京 : 有斐閣, 2020 | 346.02 삼74채 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hyphenated Christians : towards a better understanding of dual religious belonging | Goosen, Gideon | Oxford : Peter Lang, 2011. | 261.201 G659h | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Life at the bottom : the worldview that makes the underclass | Dalrymple, Theodore | Chicago : Ivan R. Dee, 2001. | 362.2086942 D151L | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Topological data analysis with applications | Carlsson, G | New York : Cambridge University Press, 2022. | 514.23 C284t | 중앙도서관 |
