@@ -2,15 +2,23 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 뇌가 힘들 땐 미술관에 가는 게 좋다 : 더 아름다운 삶을 위한 예술의 뇌과학 | Magsamen, Susan | 파주 : 윌북, 2025 | 111.85 M212yK허 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 전력전자 | Mohan, Ned | 서울 : 한빛아카데미, 2025 | 621.317 M697p2K곽 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 다윈의 위험한 생각 | Dennett, D. C | 서울 : 바다, 2025 | 146.7 D399dK신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35799/91/cover200/k702036451_1.jpg) | ILO 결사의 자유 관련 기본협약(제87호, 제98호) 주해 | 노동자권리연구소 | 서울 : 박영사, 2025. | 344.01 노25i박 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/34526/94/cover200/k852932854_1.jpg) | 법인세법강의 | 이준봉 | 서울 : 삼일인포마인, 2024 | 343.067 이76법3 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/33627/4/cover200/k112939215_1.jpg) | 조세법개론 | 이중교 | 서울 : 삼일인포마인, 2024 | 343.04 이76조개2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36073/8/cover200/k232037241_2.jpg) | 뇌가 힘들 땐 미술관에 가는 게 좋다 : 더 아름다운 삶을 위한 예술의 뇌과학 | Magsamen, Susan | 파주 : 윌북, 2025 | 111.85 M212yK허 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36073/72/cover200/k812037242_1.jpg) | 전력전자 | Mohan, Ned | 서울 : 한빛아카데미, 2025 | 621.317 M697p2K곽 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35783/38/cover200/k622036856_2.jpg) | 다윈의 위험한 생각 | Dennett, D. C | 서울 : 바다, 2025 | 146.7 D399dK신 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 101 team exercises : to improve communication and cooperation | Otten, Herman | Las Vegas, Nevada : [Self-published], 2020. | 658.4035 O89o | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The technological republic : hard power, soft belief, and the future of the West | Karp, Alexander C | New York : Crown Currency, 2025. | 352.7450973 K18t | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Technology and human development | Oosterlaken, Ilse | London : Routledge, 2015. | 303.483 O59t | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The art of computer programming | Knuth, Donald Ervin | Boston : Addison-Wesley Professional, 2011-2022. | 005.1 K74a v.4A/v.4B | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (5급 공채) 행정고시 가이드 | 고시계 | 서울 : 고시계사, 2023 | 351.3 고58행 2023 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 行政判例硏究 | 한국행정판례연구회 | 서울 : 博英社, 2002- | 342.060264 한16행 v.10/v.11/v.14/v.15-1/v.15-2/v.16-1/v.16-2/v.17-1/v.17-2/v.18-1/v.18-2/v.19-1/v.19-2/v.20-1/v.20-2/v.21-1/v.21-2/v.22-1/v.22-2-1/v.22-2-2/v.23-1/v.23-2/v.24-1/v.24-2/v.25-1/v.25-2/v.26-1/v.26-2/v.27-1/v.27-2/v.28-1/v.28-2/v.7/v.8/v.9 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31529/59/cover200/8958226293_1.jpg) | (5급 공채) 행정고시 가이드 | 고시계 | 서울 : 고시계사, 2023 | 351.3 고58행 2023 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35804/18/cover200/8933708502_1.jpg) | (로스쿨) 법학입문 | 김동석 | 서울 : 일조각, 2025 | 340.115 김25법5 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/35808/23/cover200/k302036556_1.jpg) | 인공지능법. 2 | 인하대학교 | 서울 : 세창, 2025 | 343.0999 인92인 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/35933/97/cover200/k092037696_1.jpg) | 미국계약법 | 엄동섭 | 서울 : 박영사, 2025 | 346.02 엄25미2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/35951/10/cover200/k772037804_1.jpg) | (법령과 판례를 통해 읽는) 교양 헌법 | 홍완식 | 고양 : 피앤씨미디어, 2025 | 342 홍65교 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/35951/42/cover200/8918915926_2.jpg) | 회사법 | 장덕조 | 파주 : 法文社, 2025 | 346.066 장24회7 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 行政判例硏究 | 한국행정판례연구회 | 서울 : 博英社, 2002- | 342.060264 한16행 v.10/v.11/v.14/v.15-1/v.15-2/v.16-1/v.16-2/v.17-1/v.17-2/v.18-1/v.18-2/v.19-1/v.19-2/v.20-1/v.20-2/v.21-1/v.21-2/v.22-1/v.22-2-1/v.22-2-2/v.23-1/v.23-2/v.24-1/v.24-2/v.25-1/v.25-2/v.26-1/v.26-2/v.27-1/v.27-2/v.28-1/v.28-2/v.29-1/v.7/v.8/v.9 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/27224/84/cover200/896915101x_1.jpg) | 학교에서 낭독극하기 : 문학 작품 각색, 연출, 공연까지 교사와 학생이 함께 만드는 낭독극 | 전국교사연극모임 | 서울 : 학교도서관저널, 2021 | 372.66 전16학 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36164/78/cover200/k502038885_1.jpg) | 문학으로 철학하기 | 조동일 | 파주 : 보고사, 2025 | 809 조25문하 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36164/76/cover200/k472038885_1.jpg) | 문학끼리 철학 논란 | 조동일 | 파주 : 보고사, 2025 | 809 조25문철 | 중앙도서관 |
@@ -44,11 +52,3 @@
 | ![](https://image.aladin.co.kr/product/29037/86/cover200/899731551x_1.jpg) | 1867년 인천 영종도 주민들 | 임학성 | 인천 : 인천대학교 인천학연구원, 2022 | 951.955 임92천 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34689/12/cover200/k522933817_1.jpg) | 박태웅의 AI 강의 2025 : 인공지능의 출현부터 일상으로의 침투까지 우리와 미래를 함께할 새로운 지능의 모든 것 | 박태웅 | 서울 : 한빛비즈, 2024 | 303.483 박883박 2025 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/73a012f6-8a5f-4b4f-bbd1-79a03e502503) | (김대식의) 인간 vs 기계 : 인공지능이란 무엇인가 | 김대식 | 서울 : 동아시아, 2016(2025 19쇄) | 006.3 김23인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7/19/cover/8935651702_2.jpg) | 삼국사기 | 김부식 | 서울 : 한길사, 1998(2023 17쇄) | 951.3 김46삼한 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36114/12/cover200/s602038067_1.jpg) | 단 한 번의 삶 | 김영하 | 서울 : 복복서가, 2025 | 811.47 김64단 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hijacked : how neoliberalism turned the work ethic against workers and how workers can take it back | Anderson, Elizabeth | Cambridge, United Kingdom : Cambridge University Press, 2025. | 306.3613 A546h | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sunrise on the reaping | Collins, Suzanne | New York : Scholastic Press, 2025. | 823.92 C713s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | King Dollar : the past and future of the world's dominant currency | Blustein, Paul | New Haven : Yale University Press, 2025. | 332.4973 B659k | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Grounding psychotherapy in self-compassion | Tyano Ronen, Galia | New York : The Guilford Press, 2025. | 177.7 T977g | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Economics without preferences : microeconomics and policymaking beyond the maximizing individual | Mandler, Michael | Cambridge, United Kingdom : Cambridge University Press, 2025. | 338.5 M272e | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | James Buchanan and peaceful cooperation : from public finance to a theory of collective action | Marciano, Alain | Cambridge, United Kingdom : Cambridge University Press, 2024. | 330.092 B918m | 중앙도서관 |
