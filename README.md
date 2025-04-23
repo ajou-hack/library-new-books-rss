@@ -2,6 +2,11 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Game programming patterns | Nystrom, Robert | [S.l.] : Genever Benning, 2014. | 794.81526 N998g | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33001/45/cover/893745467x_1.jpg) | 광인 : 이혁진 장편소설 | 이혁진 | 서울 : 민음사, 2023 | 811.37 이94광 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31381/84/cover/8954691595_1.jpg) | 궤도의 밖에서, 나의 룸메이트에게 : 전삼혜 장편소설 | 전삼혜 | 파주 : 문학동네, 2023 | 811.37 전52궤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30569/63/cover/8958722096_1.jpg) | 요즈음 건축 : 건축가에게 꼭 필요한 고민과 실천의 기록들 | 국형걸 | 파주 : 효형, 2022 | 720.2 국94요 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23467/57/cover/k422638305_1.jpg) | (핵심) 화학반응공학 | Fogler, H. Scott | 서울 :한티에듀, 2020 | 660.2832 F656e2K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36208/70/cover200/k292038304_1.jpg) | 여자의 우정은 첫사랑이다 : 세상 가장 다정하고 복잡한 관계에 대하여 | Dancyger, Lilly | 파주 : 문학동네, 2025 | 177.62082 D175fK송 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36119/67/cover200/k722038163_1.jpg) | (공여사들의) 엑셀 혁명 with 챗GPT | 공여사들 | 서울 : 한빛미디어, 2025 | 005.54 공64엑 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36100/26/cover200/k542038967_1.jpg) | 파이어 웨더 : 뜨거워진 세상의 진실 | Vaillant, John | [서울] : 곰, 2025 | 363.379 V131fK제 | 중앙도서관 |
@@ -25,6 +30,7 @@
 | ![](https://image.aladin.co.kr/product/31266/97/cover200/k192832460_2.jpg) | 소설독본 | 삼도유기부 | [서울] : 미행, 2023 | 808.3 삼25소K손 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28979/23/cover200/k162836925_1.jpg) | 문장독본 | 삼도유기부 | [서울] : 미행, 2022 | 808 삼25문K강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/6239/93/cover200/8963741079_1.jpg) | 환경을 살리는 경제개발 : 살기 좋은 미래를 위한 최고의 선택 | 최승노 | 서울 : 프리이코노미스쿨 : 에프케이아이미디어, 2015 | 338.9 최57환 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34665/66/cover200/8946422866_1.jpg) | 홀랜프 | 사이먼 케이 | 서울 : 샘터 : 샘터사, 2024-2025 | 811.37 사68홀 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28904/58/cover/k332836604_1.jpg) | (난생 처음 한번 공부하는) 동양미술 이야기 | 강희정 | 서울 : 사회평론, 2022-2025 | 709.5 강97동 v.1~4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28312/36/cover/k982835707_2.jpg) | 아직 오지 않은 날들을 위하여 : 세계적 지성이 전하는 나이듦의 새로운 태도 | Bruckner, Pascal | 서울 : 인플루엔셜, 2021 | 113.8 B888bK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35783/52/cover200/k862036856_2.jpg) | 연예계 비공식입장 : 한국 엔터테인먼트의 내일을 여는 30인의 이야기 | 이하은 | [서울] : SUNNYSIDEWEST : 써니사이드웨스트, 2025 | 338.47791 이92연 | 중앙도서관 |
@@ -46,9 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36143/59/cover200/k742038673_1.jpg) | 젊은작가상 수상작품집제16회(2025) | 백온유 | 파주 : 문학동네, 2025 | 811.3708 젊67문 v.16 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31868/6/cover200/k222833529_1.jpg) | 10초는 영원히 | 황모과 | 서울 : 위즈덤하우스, 2023 | 811.37 황35십 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33614/26/cover200/k762939018_1.jpg) | 백만 유튜버 죽이기 | 박힘찬 | 태안군 : 오러, 2024 | 811.37 박98백 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29502/11/cover200/8957337954_1.jpg) | 토피카 | Cicero, Marcus Tullius | 파주 : 아카넷, 2022 | 186.3 C568tK성 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35606/20/cover200/k672036091_1.jpg) | 동아시아의 앙시앙 레짐과 근대 | 김건태 | 파주 : 빈서재, 2024 | 950.3 동62김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31556/82/cover200/8984946974_1.jpg) | 교화와 형벌 : 조선의 범죄대책과 『경민편』 | 정호훈 | 서울 : 혜안, 2023 | 951.5 정95교 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27744/99/cover200/k962733645_1.jpg) | 명공서판 청명집 징악문 | 만정증손 | 서울 : 소명, 2021 | 340.115 송23송K임 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/35952/83/cover200/k652037909_1.jpg) | 일제강점기 사법제도와 감옥 | 문준영 | 서울 : 동북아역사재단, 2024 | 951.6 문76일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34875/69/cover200/8928519993_1.jpg) | 조선후기 법사회사 연구. 1 | 심재우 | 서울 : 민속원, 2024 | 340.0951 조54심 v.1 | 법학도서관 |
