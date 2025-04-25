@@ -2,6 +2,16 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/35711/84/cover200/k492036228_1.jpg) | 행정학 콘서트 | 권기헌 | 서울 : 박영사, 2025 | 351 권18행박3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32447/7/cover/8964946537_1.jpg) | (읽자마자 과학의 역사가 보이는) 원소 어원 사전 | 김성수 | 서울 : 보누스, 2023 | 546 김54원 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29837/57/cover/8936322877_1.jpg) | 환경공학 및 과학 | Masten, Susan J | 파주 : 교문사, 2022 | 628 M423p4K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28730/80/cover/k972836674_1.jpg) | (처음 읽는) 플랜트 엔지니어링 이야기 : 모든 물건의 시작, 플랜트 · 플랜트의 시작, 플랜트 엔지니어링! | 박정호 | 서울 : 플루토, 2022 | 658.2 박74플 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29943/75/cover/8950922967_1.jpg) | 인생에 관한 새빨간 거짓말 : 타인의 말에 속지 않고 나로서 결정하는 법 | 윤성식 | 파주 : 21세기북스 : 북이십일 21세기북스, 2022 | 650.1 윤54인 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25063/90/cover/k702632756_1.jpg) | 선물·옵션 투자의 이론과 전략 | Hull, John | 서울 : 퍼스트북, 2020 | 332.645 H913o10K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/207fdc47-c96f-4303-8a40-ffb99741ef45) | 프랑스의 지역문화 콘텐츠 : 역사야외극, 에코뮤지엄, 송에뤼미에르 | 송희영 | 성남 : 북코리아, 2018 | 709.44 송97프 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/068df8e4-4dec-4429-ab1f-615c95179ff6) | 공대생도 잘 모르는 재미있는 공학 이야기 : 관찰, 측정, 계산, 상상, 응용, 공학한다는 것의 모든 것! | 한화택 | 서울 : 플루토, 2017(2024 12쇄) | 620.002 한95공2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/ae9c5742-ab8d-4081-8dbd-c26d3db04d19) | 퀀트 : 세계 금융시장을 장악한 수학천재들 이야기 | Patterson, Scott | 서울 : 다산북스, 2011(2021 7쇄) | 332.64092273 P318qK구 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/64/83/cover200/8937416174_2.jpg) | 열린사회와 그 적들 | Popper, Karl Raimund | 서울 : 민음사, 2006(2024 23쇄) | 301 P831oK이개 v.1 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34585/16/cover200/k062933470_1.jpg) | 신약의 탄생 : 신약은 어떻게 암, 알츠하이머병, 노화, 감염병에 도전하는가? | 윤태진 | 서울 : 바다, 2024 | 615.19 윤883신2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30818/81/cover200/k852831663_1.jpg) | 헨리에타 랙스의 불멸의 삶 | Skloot, Rebecca | 제주 : 꿈꿀자유 : 서울의학서적, 2023 | 616.02774092 L141sK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34526/38/cover200/k352932853_1.jpg) | 과학자가 되는 방법 : 직업 과학자를 꿈꾸는 당신이 해야 할 모든 준비, 선택, 그리고 도전 | 남궁석 | 서울 : 이김, 2024 | 502 남16과2 | 중앙도서관 |
@@ -42,13 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The virtue of nationalism | Hazony, Yoram | New York : Basic Books, 2018. | 320.5401 H431v | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Conservatism : a rediscovery | Hazony, Yoram | Washington, DC : Regnery Publishing, 2024. | 320.52 H431c | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36114/12/cover200/s602038067_1.jpg) | 단 한 번의 삶 | 김영하 | 서울 : 복복서가, 2025 | 811.47 김64단 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Game programming patterns | Nystrom, Robert | [S.l.] : Genever Benning, 2014. | 794.81526 N998g | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35873/90/cover200/k762037781_1.jpg) | 듀얼 브레인 : AI 시대의 실용적 생존 가이드 | Mollick, Ethan | 성남 : 상상스퀘어, 2025 | 303.4834 M726cK신 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The terror of neoliberalism | Giroux, Henry A | Abingdon, Oxon : Routledge, 2017. | 320.51 G528t | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35978/7/cover200/k822037902_1.jpg) | 세상은 어떻게 작동하는가 : 우리를 현혹하는 것들에 논리와 근거로 맞서는 힘 | Dawkins, Clinton Richard | 서울 : 포레스트북스 : 컨텐츠그룹 포레스트, 2025 | 500 H866dK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35831/84/cover200/8933803653_1.jpg) | 이어령의 말 : 이어령 어록집 | 이어령 | 서울 : 세계사 : 세계사컨텐츠그룹, 2025 | 179.9 이64이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35918/62/cover200/8932043507_1.jpg) | 봄밤의 모든 것 : 백수린 소설집 | 백수린 | 서울 : 문학과지성사, 2025 | 811.37 백56봄 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35225/12/cover200/k752934734_2.jpg) | 일의 감각 | 조수용 | 서울 : B미디어컴퍼니 : REFERENCE BY B, 2024 | 658.827 조56일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33001/45/cover/893745467x_1.jpg) | 광인 : 이혁진 장편소설 | 이혁진 | 서울 : 민음사, 2023 | 811.37 이94광 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31381/84/cover/8954691595_1.jpg) | 궤도의 밖에서, 나의 룸메이트에게 : 전삼혜 장편소설 | 전삼혜 | 파주 : 문학동네, 2023 | 811.37 전52궤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30569/63/cover/8958722096_1.jpg) | 요즈음 건축 : 건축가에게 꼭 필요한 고민과 실천의 기록들 | 국형걸 | 파주 : 효형, 2022 | 720.2 국94요 | 중앙도서관 |
