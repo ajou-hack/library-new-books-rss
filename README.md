@@ -2,6 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 기구학 | Uicker, John Joseph | 서울 : 텍스트북스, 2024 | 621.815 U33t6K신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30727/3/cover/k592830441_1.jpg) | 줬으면 그만이지 : 아름다운 부자 김장하 취재기 | 김주완 | 창원 : 피플파워, 2023 | 920.051 김72김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/22039/45/cover/k662636816_1.jpg) | 방구석 미술관 | 조원재 | 서울 : 블랙피쉬 : 백도씨, 2018-2025 | 750.118 조66방 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/6061/13/cover200/6000855349_1.jpg) | 박정희, 살아있는 경제학 | 좌승희 | 파주 : 백년동안, 2015(2021 4쇄) | 330.951 박74좌백 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25861/25/cover200/k142737469_1.jpg) | 새마을운동 왜 노벨상 감인가 | 좌승희 | 하남 : 청미디어, 2020 | 303.4840951 좌57새 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34330/16/cover200/k082932684_1.jpg) | (디자인이 쉬워지는) 포토샵 & AI 완벽 시너지 | 쌩초 | 서울 : 비제이퍼블릭, 2024 | 006.686 쌩84포 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/30818/81/cover200/k852831663_1.jpg) | 헨리에타 랙스의 불멸의 삶 | Skloot, Rebecca | 제주 : 꿈꿀자유 : 서울의학서적, 2023 | 616.02774092 L141sK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34526/38/cover200/k352932853_1.jpg) | 과학자가 되는 방법 : 직업 과학자를 꿈꾸는 당신이 해야 할 모든 준비, 선택, 그리고 도전 | 남궁석 | 서울 : 이김, 2024 | 502 남16과2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32706/76/cover200/k312936776_1.jpg) | 나우 : 시간의 물리학 | Muller, R | 서울 : 바다, 2023 | 530.11 M958nK강2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 프랑스 : 하나 그리고 여럿 | 서울대학교 | 파주 : 지성공간, 2017(2022 4쇄) | 944 서66프2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34029/17/cover200/893232364x_1.jpg) | 모던 빠리 : 예술의 흐름을 바꾼 열두 편의 전시 | 박재연 | 서울 : 현암사, 2024 | 707.40944361 박73모 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33853/72/cover200/8962632721_1.jpg) | 침묵의 봄 | Carson, Rachel | 서울 : 에코리브르, 2024 | 363.7384 C321sK김2 | 중앙도서관 |
