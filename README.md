@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Formations of the unconscious : the seminar of Jacques Lacan, Book V | Lacan, Jacques | Cambridge, UK | 154.2 L129sEc | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 엘리펀트 헤드 : 시라이 도모유키 장편소설 | 백정지지 | 서울 : 내친구의서재, 2024 | 813.37 백74엘K구 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36160/30/cover200/k472038888_1.jpg) | 긴키 지방의 어느 장소에 대하여 : 세스지 장편소설 | 배근 | 서울 : 오팬하우스 : VANTA, 2025 | 813.37 배17근K전 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29689/45/cover200/8954687385_1.jpg) | 저주받은 몫 : 일반경제 시론-소진/소모 | Bataille, Georges | 파주 : 문학동네, 2022 | 330.01 B328pK최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31581/87/cover200/k702833863_1.jpg) | 한국 과학소설사 : 한국 SF의 엉뚱한 상상의 계보 | 최애순 | 서울 : 소명, 2023 | 811.309 최63한 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36248/94/cover200/k062038528_1.jpg) | 요즘 10대를 위한 최소한의 어휘력 : 글이 술술, 머리에 쏙쏙 문해력 필수 어휘 | 이주윤 | 서울 : 빅피시, 2025 | 411.4 이76요 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36196/61/cover200/k912038594_1.jpg) | 미세공격 주의보 : 출세보다 상처받지 않는 것이 목표가 된 이유 | 남대희 | 파주 : 김영사, 2025 | 302.35 남23미 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36242/65/cover200/k742038810_1.jpg) | 금붕어의 철학 : 알튀세르, 푸코, 버틀러와 함께 어항에서 빠져나오기 | 배세진 | [서울] : 출판공동체 편않, 2025 | 194 배54금 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | God 4.0 : on the nature of higher consciousness and the experience called "God" | Ornstein, Robert E | [San Jose, CA] : Malor Books, 2021. | 200.19 O74g | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | How religion evolved : and why it endures | Dunbar, R. I. M | New York, NY : Oxford University Press, 2022. | 210 D899h | 중앙도서관 |
