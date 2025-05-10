@@ -2,9 +2,12 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 韩国大法院判例选编 | 법원도서관 | 고양 : 法院图书馆, 2009- | 348.044 한16대도 v.1~15 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Supreme Court Decisions | Supreme Court Library of Korea | Seoul : Supreme Court Library of Korea, 2004- | 348.044 S959s v.1~8/10~19 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36221/18/cover200/k742038507_1.jpg) | 인생의 파도를 넘는 법 : 도전과 모험을 앞둔 당신에게 | 김재철 | 파주 : 콜라주 : 문학동네, 2025 | 658.0092 김73인 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Formations of the unconscious : the seminar of Jacques Lacan, Book V | Lacan, Jacques | Cambridge, UK | 154.2 L129sEc | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34942/12/cover200/k792934464_1.jpg) | 엘리펀트 헤드 : 시라이 도모유키 장편소설 | 백정지지 | 서울 : 내친구의서재, 2024 | 813.37 백74엘K구 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35376/79/cover200/k092035601_1.jpg) | 임팩트 네트워크 : 연결, 협업 그리고 시스템 변화 | Ehrlichman, David | 서울 : 박영story : 피와이메이트, 2024 | 361.25 E33iK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36160/30/cover200/k472038888_1.jpg) | 긴키 지방의 어느 장소에 대하여 : 세스지 장편소설 | 배근 | 서울 : 오팬하우스 : VANTA, 2025 | 813.37 배17근K전 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29689/45/cover200/8954687385_1.jpg) | 저주받은 몫 : 일반경제 시론-소진/소모 | Bataille, Georges | 파주 : 문학동네, 2022 | 330.01 B328pK최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31581/87/cover200/k702833863_1.jpg) | 한국 과학소설사 : 한국 SF의 엉뚱한 상상의 계보 | 최애순 | 서울 : 소명, 2023 | 811.309 최63한 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/28966/4/cover200/8959968471_1.jpg) | 일본어 음성학 연구 | 록도앙 | 서울 : 경진, 2022 | 413.11 록25일K양 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35346/10/cover200/k622035793_1.jpg) | 향료 A to Z : 천연 향료가 향수가 되기까지 | Collectif Nez | 고양 : 미술문화, 2024 | 668.54 C697dK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34474/54/cover200/k662932633_1.jpg) | 불멸의 인절미 | 한유리 | 서울 : 위즈덤하우스, 2024 | 811.37 한66불위 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36243/74/cover200/k782038816_1.jpg) | 인생 녹음 중 : 노래와 웃음이 함께하는 티키타카 부부의 일상 | 인생 녹음 중 부부 | 파주 : 김영사, 2025 | 811.87 인53인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36248/94/cover200/k062038528_1.jpg) | 요즘 10대를 위한 최소한의 어휘력 : 글이 술술, 머리에 쏙쏙 문해력 필수 어휘 | 이주윤 | 서울 : 빅피시, 2025 | 411.4 이76요 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36196/61/cover200/k912038594_1.jpg) | 미세공격 주의보 : 출세보다 상처받지 않는 것이 목표가 된 이유 | 남대희 | 파주 : 김영사, 2025 | 302.35 남23미 | 중앙도서관 |
