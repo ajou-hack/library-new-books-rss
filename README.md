@@ -2,6 +2,21 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36203/99/cover200/k792038697_1.jpg) | 도시의 동물들 : 동물과 함께 살기 위해 시작해야 할 이야기들 | 최태규 | 파주 : 사계절, 2025 | 577.56 최883도 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36196/71/cover200/k362038594_1.jpg) | 행동은 불안을 이긴다 : 의지박약과 만성적 미루기에서 벗어나는 아주 작은 행동 설계 | Dial, Rob | [서울] : 서삼독, 2025 | 158.1 D536LK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36198/24/cover200/k112038698_1.jpg) | 나는 왜 마음 놓고 쉬지 못할까 : 마음의 기초체력을 올리는 진짜 휴식의 기술 | 김은영 | 서울 : 심심 : 푸른숲, 2025 | 158.1 김67나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36099/38/cover200/k942038964_1.jpg) | 어른을 위한 영어 수업 : 인생 두 번째 영어를 만나다 | 채서영 | 서울 : 북커스, 2025 | 420.7 채54어 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36215/71/cover200/k012038407_1.jpg) | 문학의 쓸모 : 21세기 프랑스 대표적 지성의 문학을 대하는 현대적 방식 | Compagnon, Antoine | 서울 : 뮤진트리, 2025 | 801 C736LK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36249/33/cover200/8970413189_1.jpg) | 내가 사랑한 예술가들 : 창작은 삶의 격랑에 맞서는 가장 우아한 방법이다 | Peppiatt, Michael | 서울 : 디자인하우스, 2025 | 700.922 P424aK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36276/27/cover200/k262038835_1.jpg) | 벌거벗은 세계사 : 과학편 | tvN | 파주 : 교보문고, 2025 | 909 T968벌과 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36172/89/cover200/8936425161_1.jpg) | 마중도 배웅도 없이 : 박준 시집 | 박준 | 파주 : 창비, 2025 | 811.17 박76마 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36201/12/cover200/k282038691_1.jpg) | 버터밀크 그래피티 : 음식과 사람, 인생의 비밀을 찾아 떠난 이균의 미국 횡단기 | Lee, Edward | 서울 : 위즈덤하우스, 2025 | 641.59 L477bK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36199/6/cover200/k102038690_2.jpg) | (드디어 만나는) 북유럽 동화 : 노르웨이부터 아이슬란드까지 신비롭고 환상적인 북유럽 동화 32편 | Asbjørnsen, Peter Christen | 서울 : 현대지성, 2025 | 839.8236 A799nK서 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36171/39/cover200/8990247918_1.jpg) | 수학의 중력 : 일반상대성이론부터 양자중력까지, 우주를 지배하는 수학의 최전선 | Yau, Shing-Tung | 파주 : 동녘사이언스, 2025 | 530.11 Y35gK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36175/95/cover200/k642038293_1.jpg) | 경제학자처럼 생각하기 : 불확실성의 시대를 읽어내는 경제학 | Conway, Ed | 서울 : 이화북스, 2025 | 330 C767f2K육 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36241/48/cover200/8947501549_1.jpg) | 굿 에너지 : 망가진 몸을 되살리는 스탠퍼드식 4주 건강 혁명 | Means, Casey | 서울 : 한국경제신문 : 한경BP, 2025 | 616.399 M483gK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36121/89/cover200/k212038262_1.jpg) | 80대20 러닝 훈련법 : 더 천천히 달리면 더 빠르게 달릴 수 있다 | Fitzgerald, Matt | 서울 : 빌리버튼, 2025 | 613.71 F554eK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28227/88/cover/k992835474_1.jpg) | 법정의 얼굴들 | 박주영 | [서울] : 모로, 2021, 2024 | 340 박76법 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/12079/93/cover200/8963652300_1.jpg) | M-GTA 질적연구법 실천 : 수정판 근거이론 접근법의 모든 것 | 목하강인 | 파주 : 범우, 2017 | 361.0072 목92mK황 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/781/82/cover200/8991799531_1.jpg) | 행복한 심리학 : 김경미 시인이 띄우는 심리학 편지 | 김경미 | 서울 : 교양인, 2010 | 150.2 김14행 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36256/14/cover200/k012038621_1.jpg) | 공자가 AI 시대를 산다면 : 2500년을 초월한 논어 속 빛나는 가르침 | 김준태 | 서울 : 한겨레엔, 2025 | 181.2183 김76공 | 중앙도서관 |
@@ -37,18 +52,3 @@
 | ![](https://image.aladin.co.kr/product/23381/97/cover200/8901240084_1.jpg) | 우리가 이 도시의 주인공은 아닐지라도 : 박찬용 세속 에세이 | 박찬용 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2020 | 811.87 박82우 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35309/55/cover200/k612035270_1.jpg) | 미워하지 않으려면, 미움받지 않으려면 | 김강우 | 서울 : 하나醫學社, 2024 | 616.8589 김12미 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36044/21/cover200/k282037845_1.jpg) | 불가능한 애도 | 박영진 | 서울 : 림보 프레스, 2025 | 155.937 불12박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36281/57/cover200/k262038030_1.jpg) | 나에게는 다정하게, 세상에는 단호하게 | 이정숙 | 서울 : 해냄, 2025 | 811.87 이74나해 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36291/76/cover200/k312038142_1.jpg) | 생텍쥐페리의 미소 : 삶과 지혜에 대한 시인의 성찰 | 이길원 | 파주 : 윙스펜, 2025 | 811.87 이18생 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34002/68/cover200/k652930653_1.jpg) | 임신 출산 미리보기 : 산부인과 의사가 알려 주는 초보 임신부 시간표 | 이재일 | 서울 : 유노라이프 : 유노콘텐츠그룹, 2024 | 618.2 이73임 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31290/23/cover200/k172832670_1.jpg) | 어떻게든 되겠지 | 내전수 | 서울 : 에이케이커뮤니케이션즈, 2023 | 813.47 내74어K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36281/48/cover200/8901294699_1.jpg) | 부서지는 아이들 : 다정한 양육은 어떻게 아이를 망치는가 | Shrier, Abigail | 파주 : 웅진지식하우스, 2025 | 618.928914 S561bK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36179/65/cover200/k102038392_1.jpg) | (비교하는 삶에 지친 당신에게 필요한) 타인에게 기대하지 않는 삶을 위한 안내서 | Bernardy, Jörg | 서울 : 필름, 2025 | 188 B523kK이필 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36286/32/cover200/s372039570_1.jpg) | 청춘의 독서 : 세상을 바꾼 위험하고 위대한 생각들 | 유시민 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2025 | 028.1 유58청3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36299/65/cover200/k332038349_1.jpg) | 철학의 기본 | 강본유일랑 | [부천] : 로북, 2025 | 102 강45철K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36236/71/cover200/k512038719_1.jpg) | 강남 아파트 인사이트 : 강남을 처음 공부하는 당신에게, 3060 생애주기별 인생투자 가이드 | 오스틀로이드 | 서울 : 진서원, 2025 | 332.6324 오57강강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/17252/75/cover200/k692534093_1.jpg) | 고요 속의 대화 : 오늘 여기, 반짝반짝 빛나는 마음의 소리 들리나요? | 노선영 | 고양 : 좋은땅, 2018 | 811.87 노54고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36254/72/cover200/k322038527_1.jpg) | 연매장 : 팡팡 장편소설 | 방방 | 파주 : 문학동네, 2025 | 812.37 방42연K문 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The judicialization of politics in Latin America | Sieder, Rachel | New York : Palgrave Macmillan, 2005. | 340.115 S571j | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 韩国大法院判例选编 | 법원도서관 | 고양 : 法院图书馆, 2009- | 348.044 한16대도 v.1~16 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Supreme Court Decisions | Supreme Court Library of Korea | Seoul : Supreme Court Library of Korea, 2004- | 348.044 S959s v.1~8/10~20 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36221/18/cover200/k742038507_1.jpg) | 인생의 파도를 넘는 법 : 도전과 모험을 앞둔 당신에게 | 김재철 | 파주 : 콜라주 : 문학동네, 2025 | 658.0092 김73인 | 중앙도서관 |
