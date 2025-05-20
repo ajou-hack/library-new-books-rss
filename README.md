@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34896/0/cover200/8966348033_1.jpg) | (2026학년도 LEET 대비) 메가로스쿨 잘고른 300제 : 추리논증 | 메가로스쿨 | 서울 : 메가로스쿨, 2024 | 340.076 메12메9 v.2-1/v.2-2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36121/3/cover200/k652038260_1.jpg) | 좋은 변론, 좋은 변호사 | 윤재윤 | 서울 : 법률신문사, 2025 | 340.023 윤73좋2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30768/99/cover200/k252830652_2.jpg) | 나미야 잡화점의 기적 : 히가시노 게이고 장편소설 | 동야규오 | 서울 : 현대문학, 2022 | 813.37 동63나K양2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36320/92/cover200/k302038544_1.jpg) | 나는 곧 세계 : 의식, 어떻게 확장할 것인가 | Koch, Christof | 파주 : arte : 북이십일 아르테, 2025 | 612.8233 K76tK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36298/56/cover200/k512038246_2.jpg) | 산 루이스 레이의 다리 : 손턴 와일더 장편소설 | Wilder, Thornton | 파주 : 클레이하우스, 2025 | 823.912 W673bK정 | 중앙도서관 |
@@ -34,21 +36,19 @@
 | ![](https://image.aladin.co.kr/product/36318/91/cover200/8928521068_1.jpg) | 1897년 경상북도 김산군 민장치부책上 | 연세대학교 | 서울 : 민속원, 2025 | 951.5 연54천 v.1 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25649/15/cover200/k472735044_1.jpg) | 황폐한 집 | Dickens, Charles | 서울 : 비꽃, 2020 | 823.8 D548bK김비 v.1~3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36254/87/cover200/k922038628_1.jpg) | 멀티패러다임 프로그래밍 : 객체지향, 함수형, 명령형의 통합적 사고로 구현하는 소프트웨어 설계와 구현 | 유인동 | 서울 : 한빛미디어, 2025 | 005.1 유68멀 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Select SQL 쿼리 작성법 From 기초편; 이럴 땐, 이런 쿼리! | 서경숙 | 부천 : 프리렉, 2025 | 005.7585 S464서 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36252/5/cover200/k232038524_1.jpg) | (LLMOps를 활용한) LLM 엔지니어링 : LLM 애플리케이션 개발과 관리, 운영을 위한 LLMOps 핵심 가이드 | 박슬기 | 파주 : 위키북스, 2025 | 006.3 박57L | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36239/7/cover200/k032038716_1.jpg) | (그림과 작동 원리로 쉽게 이해하는) 네트워크의 기초 : 네트워크의 전체 구조와 기술이 한눈에 들어오는 핵심 입문서 | 데브아틱스 | 파주 : 위키북스, 2025 | 004.6 데47네 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 30가지 패턴으로 배우는 분산 시스템 설계와 구현 기법 | Joshi, Unmesh | 서울 : 인사이트, 2025 | 004.36 J83pK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 예제로 배우는 C++ STL : C++20과 핵심  STL로 구현하는 모던 프로그래밍! | Weinman, Bill | 서울 : 영진닷컴, 2025 | 005.133 W424cK유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36198/50/cover200/8964947436_1.jpg) | IT 업무의 기본이 되는 컴퓨터 구조 원리 교과서 : 컴퓨터의 본질을 알려주는 하드웨어·소프트웨어·자료구조·네트워크·보안의 핵심 개념 | 시택구웅 | 서울 : 보누스, 2025 | 004.22 시883i2K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36211/47/cover200/k732038409_1.jpg) | M365 코파일럿 : 무작정 따라하기 | 김시연 | 서울 : 길벗, 2025 | 006.3 김58m | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36210/69/cover200/k912038409_1.jpg) | (처음부터 시작하는) Next.js/React 개발 입문 : 리액트 베이스의 Next.js를 이용한 백엔드/프런트엔드 웹 앱 개발 기법 | 삼호아키 | 서울 : 에이케이커뮤니케이션즈, 2025 | 005.2762 삼95동K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36161/77/cover200/k272038889_1.jpg) | LLM 서비스 설계와 최적화 : 비용은 낮추고 성능은 극대화하는 AI 서비스 구축과 운영 가이드 | Subramanian, Shreyas | 서울 : 한빛미디어, 2025 | 006.35 S941LK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (랭체인과 RAG로 배우는) 실전 LLM 애플리케이션 개발 : 멀티모달·GraphRAG·ReAct 에이전트·sLLM 완벽 실무 가이드 | 양기빈 | 파주 : 위키북스, 2025 | 006.3 실74양 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 처음이지만 프로처럼 쓰는 노션(Notion) : 기초, 데이터베이스, 자동화 템플릿 완벽 활용법 | 박한용 | 서울 : 디지털북스, 2025 | 005.57 박92처 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 모던 소프트웨어 엔지니어링 : 소프트웨어 개발의 복잡함과 난해함 속에서 길을 찾으려는 엔지니어를 위한 필독서 | Farley, David | 안양 : 책만, 2025 | 005.1 F231mK박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (된다! 조회수 터지는) 유튜브 쇼츠 만들기 : 구독자 없어도 알고리즘 탄다! AI로 영상 빠르게 만들어 수익화까지! | 최지영 | 서울 : 이지스퍼블리싱, 2025 | 006.696 최78유 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 골프는 기본이 전부 : 완벽한 스윙을 위한 실전 레슨 | 테라유 | 서울 : 하빌리스 : 대원씨아이, 2025 | 796.352 테292골K류 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36239/20/cover200/k132038716_1.jpg) | 위험한 국가의 위대한 민주주의 : 국가의 미래, 어떻게 만들 것인가 | 윤비 | 서울 : 생각정원, 2025 | 321.8 윤48위 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36161/79/cover200/k342038889_1.jpg) | 자기이론 : 자기의 삶으로 작업하기 | Fournier, Lauren | 서울 : 마티, 2025 | 700.82 F778aK양 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36236/39/cover200/k132038718_1.jpg) | 중독된 그녀들 : 탐닉의 늪에서 탈주하기 | 임해영 | 파주 : 드루 : 한국학술정보, 2025 | 362.29 임93중 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36225/9/cover200/k172038605_2.jpg) | 더 리프레임 | Adams, Scott | 파주 : 베리북, 2025 | 158.1 A217rK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36277/22/cover200/k862038837_1.jpg) | 일보다 사람이 더 힘든 당신에게 | 강예돈 | 고양 : 미래북, 2025 | 158.2 강64일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36256/82/cover200/k152038622_1.jpg) | 남몰래 거리 두는 관계의 기술 : 가까이하기엔 너무 피곤한 인간관계 처방전 | Tomy | 서울 : 필름, 2025 | 158.2 T662정K송 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36141/56/cover200/k682038679_1.jpg) | 늦어도 괜찮아, 성장하고 있으니까 : 내일을 바꾸기 위해 오늘부터 시작하는 성장 습관 | 변향미 | 파주 : 헤르몬하우스 : 피앤피북, 2025 | 158.1 늦64변 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36161/78/cover200/k232038889_1.jpg) | 보건교사 메시지 | 나애정 | [파주] : 생각의빛, 2025 | 371.71 나63보 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36196/32/cover200/k542038593_1.jpg) | 지나고 보니 마흔이 기회였다 : 인생의 전환점에 선 당신에게 2500년 동양고전이 전하는 어른의 철학 | 이남훈 | 서울 : page2 : 페이지2북스, 2025 | 179.9 이192지 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36235/65/cover200/8947501530_1.jpg) | 모든 인생은 불안하다 : 불안을 용기로 바꾸는 하버드 심리학 수업 | Marques, Luana | 서울 : 한국경제신문, 2025 | 158.1 M357bK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36208/89/cover200/k082038305_1.jpg) | 내 머릿속은 왜 항상 복잡할까 : 과도한 생각, 걱정, 불안을 멈추는 심리 처방전 | Nolen-Hoeksema, Susan | 서울 : 유노라이프 : 유노콘텐츠그룹, 2025 | 158.082 N791wK나과 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36223/90/cover200/k182038603_1.jpg) | 아트 딜러, 멀고도 아름다운 여정 | 리, 준 | 서울 : 바이북스, 2025 | 702.9 리76아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36257/49/cover200/k462038623_1.jpg) | 무굴 제국의 역사 | Fisher, Michael H | 서울 : 더숲, 2025 | 954.025 F535sK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36257/67/cover200/k632038623_1.jpg) | 바다의 황제 : 쿠빌라이 칸은 어떻게 유목 제국을 해양 초강국으로 변모시켰는가 | Weatherford, Jack | 서울 : 책과함께, 2025 | 952.95092 K95wK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36173/36/cover200/k522038290_1.jpg) | 욕망의 향신료 제국의 향신료 : 근대 세계를 형성한 16세기 해상 경쟁 | Crowley, Roger | 서울 : 책과함께, 2025 | 909 C953sK조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36208/49/cover200/k782038303_1.jpg) | 이상한 마을 청호리 : 배명은 장편소설 | 배명은 | 서울 : 네오픽션 : 네오북스, 2025 | 811.37 배34이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36142/41/cover200/k532038671_2.jpg) | 절대 진공&상상된 위대함 | Lem, Stanisław | 서울 : 현대문학, 2025 | 891.8537 L544dK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36264/19/cover200/k352038839_1.jpg) | 질병청 관리국, 도난당한 시간들 : 이지유 장편소설 | 이지유 | 서울 : 네오픽션 : 네오북스, 2025 | 811.37 이78질 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 한반도 리빌딩 전략 2025 | 정일영 | 서울 : 선인, 2025 | 327.510518 한42정 | 중앙도서관 |
