@@ -2,6 +2,23 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36237/4/cover200/k812038710_1.jpg) | 아주 오래되었으나 새로운 세계로 : 절기 따라 걷기 | 최예슬 | 서울 : 어라운드, 2025 | 811.87 최64아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26645/48/cover200/8971998989_1.jpg) | 그래서 우리는 사랑을 하지 : YA 퀴어 로맨스 단편집 | 박서련 | 파주 : 돌베개, 2021 | 811.3708 그293박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36276/30/cover200/k362038835_1.jpg) | 기울어진 평등 : 부와 권력은 왜 불평등을 허락하는가 | Piketty, Thomas | 서울 : 와이즈베리 : 미래엔, 2025 | 305.5 P636eK장 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29857/57/cover200/k432838025_1.jpg) | 물리요? : 다시 시작하는 물리 공부 | 이주열 | 서울 : 사람의무늬 : 성균관대학교 출판부, 2022 | 530 이76물 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/14993/20/cover200/k302533064_1.jpg) | 증거기반의학의 철학 : 의학의 새로운 패러다임 | Howick, Jeremy | 파주 : 생각의힘, 2018 | 610 H861pK전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34855/35/cover200/k582933843_1.jpg) | 생각의 기술 : 바로 써먹는 논리학 사용법 | 코디정 | 서울 : 이소노미아, 2024 | 160 코28생 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36303/47/cover200/k612038345_1.jpg) | 내가 이런 데서 일할 사람이 아닌데 | 김동식 | 파주 : 문학동네, 2025 | 811.3708 내12김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34072/96/cover200/k792931474_1.jpg) | 새 이화 한국어 : workbook | 이화여자대학교 | 서울 : 이화여자대학교 출판문화원, 2024 | 411.8 이95새w v.1-1/v.1-2/v.2-1/v.2-2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32991/26/cover200/k962936654_1.jpg) | 새 이화 한국어 | 이화여자대학교 | 서울 : 이화여자대학교 출판문화원, 2023-2025 | 411.8 이95새 v.1-1/v.1-2/v.2-1/v.2-2/v.3-1/v.3-2/v.4-1/v.4-2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31273/29/cover200/k592832565_1.jpg) | 파쇄 | 구병모 | 서울 : 위즈덤하우스, 2023 | 811.37 구44파위 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36236/28/cover200/8932925046_2.jpg) | 바움가트너 : 폴 오스터 장편소설 | Auster, Paul | 파주 : 열린책들, 2025 | 823.914 A934bK정 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The human magnet syndrome : the codependent narcissist trap | Rosenberg, Ross | Bellingham, WA : Self-Love Recovery Institute, [2022]. | 616.8581 R813h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Virtual reality therapy for anxiety : a guide for therapists | McMahon, Elizabeth | New York : Routledge, 2022. | 616.8522 M167v | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Psychocinema | Rollins, Helen | Cambridge | 791.43019 R754p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Safe enough : and other stories | Child, Lee | London : Bantam, 2024. | 823.914 C536sa | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Liberal Responses to Populism | Horn, Karen | Boston : De Gruyter, 2025 | 320.5662 H813L | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The closer | Rivera, Mariano | New York : Little, Brown and Company, 2015(2022 printing) | 796.357092 R621c | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Energierecht : Kommentar : Gesetzestexte. Band 1-5&Textband 1-2 | Theobald, Christian | München : C.H.Beck, 2025. | 343.092 T385e128 v.1~8 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Energiewirtschaftsgesetz : Kommentar | Assmann, Lukas | München : C.H. Beck, 2024. | 343.092 A848e | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/34896/0/cover200/8966348033_1.jpg) | (2026학년도 LEET 대비) 메가로스쿨 잘고른 300제 : 추리논증 | 메가로스쿨 | 서울 : 메가로스쿨, 2024 | 340.076 메12메9 v.2-1/v.2-2 | 법학도서관 |
@@ -35,20 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36320/92/cover200/k302038544_1.jpg) | 나는 곧 세계 : 의식, 어떻게 확장할 것인가 | Koch, Christof | 파주 : arte : 북이십일 아르테, 2025 | 612.8233 K76tK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36298/56/cover200/k512038246_2.jpg) | 산 루이스 레이의 다리 : 손턴 와일더 장편소설 | Wilder, Thornton | 파주 : 클레이하우스, 2025 | 823.912 W673bK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31132/30/cover200/8932461368_1.jpg) | 별의 시간 | Lispector, Clarice | 서울 : 을유문화사, 2023 | 869.342 L771hK민 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36224/89/cover200/k882038604_1.jpg) | 이재명의 준비 : 이재명 곁에서 오랫동안 함께한 사람들은 왜 이재명의 성공을 확신하는가 | 이재명 곁에서 함께해온 사람들 | 서울 : 더봄, 2025 | 324.2092 이73이이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35056/39/cover200/k922934093_2.jpg) | 수 - 영원해! | Dickinson, Emily | 고양 : 파시클, 2024 | 821.8 D553sK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36321/94/cover200/k872038545_1.jpg) | 우생학 : 배제, 차별 그리고 혐오의 역사 | 김호연 | 고양 : 단비, 2025 | 363.92 김95우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36280/39/cover200/k622038935_1.jpg) | 경제학연습 : 미시편 | 정병열 | 서울 : 세경북스, 2025 | 338.5076 정44경10 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28642/28/cover200/8937420589_1.jpg) | 3월의 눈 : 배삼식 희곡집 | 배삼식 | 서울 : 민음사, 2021 | 811.27 배52삼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35782/17/cover200/k662036444_1.jpg) | 교육의 뇌과학 : 뇌과학이 밝혀낸 공부 잘하는 아이들의 비밀 | Oakley, Barbara A | 서울 : 현대지성, 2025 | 370.15 O11uK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33116/44/cover200/k552937129_1.jpg) | 미래의 필란트로피 : 새로운 시민 리더십을 정의하는 기술, 트렌드, 인재상에 대하여 | Ginard, Ryan | 서울 : 박영story : 피와이메이트, 2023 | 361.7 G492fK함 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36304/48/cover200/k542038448_1.jpg) | 클래식 왜 안 좋아하세요? : 아는 만큼 들리는 나의 첫 클래식 수업 | 권태영 | 서울 : 빅피시, 2025 | 780.15 권883클 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35394/58/cover200/k952035912_1.jpg) | 오스카 코코슈카 : 세기의 예술가, 인간의 내면을 탐구한 색채의 철학자 | Görner, Rüdiger | 서울 : 북캠퍼스, 2024 | 759.36 K79gK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36305/78/cover200/k012038442_1.jpg) | 당신은 언제나 괜찮다 | 이현수 | [파주] : 북파머스 : 책읽어주는남자, 2025 | 155.6 이94당 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36079/91/cover200/k192037247_1.jpg) | 나는 내 생각을 다 믿지 않기로 했다 : 생각과 적정 거리를 두는 30가지 심리 법칙 | 홍승주 | 파주 : 다산북스, 2025 | 158.1 홍57나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35182/54/cover200/k622934225_1.jpg) | 탄성 인간 : 단순한 회복을 넘어 더 나은 인간으로 성장하는 회복탄력성의 힘 | Bojilova, Alia | 서울 : 피카, 2024 | 158.1 B685rK손 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36294/39/cover200/k082038248_1.jpg) | 라두 루푸는 말이 없다 : 침묵의 피아니스트를 그린 20가지 데생 | 판원천가자 | 서울 : 봄날의책, 2025 | 786.2092 L966판K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35856/46/cover200/k992037579_1.jpg) | 재정정책의 부활 : 현대통화이론의 재구성 | 노진호 | 서울 : 바른북스, 2025 | 336.3 노78재 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29294/10/cover200/k682837401_1.jpg) | (게으르게 투자하고 확실하게 수익 내는) 나의 첫 ETF 포트폴리오 | 송민섭 | 서울 : 토네이도 : 토네이도미디어그룹, 2022 | 332.6327 송38나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24879/91/cover200/k752632276_1.jpg) | 학생이 질문하는 즐거운 수업 만들기 : 중등활동편 | 정혜승 | 서울 : 사회평론아카데미, 2020 | 371.3 학53정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36183/34/cover200/k372038498_1.jpg) | (질문하고, 생각하고, 표현하고, 해결하는) 깊이있는 수업 | 김현섭 | 군포 : 수업디자인연구소, 2025 | 371.3 김94깊 | 중앙도서관 |
