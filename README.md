@@ -2,6 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Traffic flow dynamics : data, models and simulation | Treiber, Martin | Heidelberg | 388.31 T787vEt | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 세계의 헌법 : 40개국 헌법 전문 | 국회도서관 | 서울 : 국회도서관, 2025 | 342 세14국전4 v.1~2 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 사람, 헌법 그리고 법정 : 김상환 대법관 퇴임기념 판례집 | 사법발전재단 | 서울 : 사법발전재단, 2025 | 340.04 사44사 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36237/4/cover200/k812038710_1.jpg) | 아주 오래되었으나 새로운 세계로 : 절기 따라 걷기 | 최예슬 | 서울 : 어라운드, 2025 | 811.87 최64아 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26645/48/cover200/8971998989_1.jpg) | 그래서 우리는 사랑을 하지 : YA 퀴어 로맨스 단편집 | 박서련 | 파주 : 돌베개, 2021 | 811.3708 그293박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36276/30/cover200/k362038835_1.jpg) | 기울어진 평등 : 부와 권력은 왜 불평등을 허락하는가 | Piketty, Thomas | 서울 : 와이즈베리 : 미래엔, 2025 | 305.5 P636eK장 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/886a2af8-653e-4882-a38e-b38903f526fb) | 룬의 아이들 : 블러디드 | 전민희 | 파주 : 엘릭시르 : 문학동네, 2018-2025 | 811.37 전38룬 v.1~8 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36121/3/cover200/k652038260_1.jpg) | 좋은 변론, 좋은 변호사 | 윤재윤 | 서울 : 법률신문사, 2025 | 340.023 윤73좋2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/30768/99/cover200/k252830652_2.jpg) | 나미야 잡화점의 기적 : 히가시노 게이고 장편소설 | 동야규오 | 서울 : 현대문학, 2022 | 813.37 동63나K양2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36320/92/cover200/k302038544_1.jpg) | 나는 곧 세계 : 의식, 어떻게 확장할 것인가 | Koch, Christof | 파주 : arte : 북이십일 아르테, 2025 | 612.8233 K76tK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36298/56/cover200/k512038246_2.jpg) | 산 루이스 레이의 다리 : 손턴 와일더 장편소설 | Wilder, Thornton | 파주 : 클레이하우스, 2025 | 823.912 W673bK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31132/30/cover200/8932461368_1.jpg) | 별의 시간 | Lispector, Clarice | 서울 : 을유문화사, 2023 | 869.342 L771hK민 | 중앙도서관 |
