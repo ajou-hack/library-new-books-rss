@@ -2,6 +2,15 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36196/71/cover200/k362038594_1.jpg) | 행동은 불안을 이긴다 : 의지박약과 만성적 미루기에서 벗어나는 아주 작은 행동 설계 | Dial, Rob | [서울] : 서삼독, 2025 | 158.1 D536LK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36286/32/cover200/s372039570_1.jpg) | 청춘의 독서 : 세상을 바꾼 위험하고 위대한 생각들 | 유시민 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2025 | 028.1 유58청3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35994/94/cover200/k502037616_1.jpg) | 결핍은 우리를 어떻게 변화시키는가 : 부족함이 만들어 내는 선택과 행동의 비밀 | Mullainathan, Sendhil | 서울 : 빌리버튼, 2025 | 338.521 M958sK이부 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36143/59/cover200/k742038673_1.jpg) | 젊은작가상 수상작품집제16회(2025) | 백온유 | 파주 : 문학동네, 2025 | 811.3708 젊67문 v.16 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36073/8/cover200/k232037241_2.jpg) | 뇌가 힘들 땐 미술관에 가는 게 좋다 : 더 아름다운 삶을 위한 예술의 뇌과학 | Magsamen, Susan | 파주 : 윌북, 2025 | 111.85 M212yK허 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23365/34/cover200/8972917036_2.jpg) | 소유냐 존재냐 | Fromm, Erich | 서울 : 까치 : 까치글방, 2020(2025 20쇄) | 128 F932hK차2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35777/65/cover200/k852036942_2.jpg) | 환율의 대전환 : 경제 질서의 변곡점에서 글로벌 통화의 미래를 말하다 | 오건영 | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2025 | 332.45 오14환 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32191/5/cover/k422834326_1.jpg) | 공룡의 이동 경로 : 김화진 소설 | 김화진 | 서울 : 스위밍꿀, 2023 | 811.37 김95공 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/ec2c779e-73c8-4bd7-88c3-bbe096c7ec9a) | 책문 : 이 시대가 묻는다 | 김태완 | 광주 : 현자의마을, 2015(2025 5쇄) | 951.5 김883책이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25808/87/cover200/k862736330_1.jpg) | 한일 관계 2천 년 : 화해의 실마리 | 남창희 | 대전 : 상생, 2020 | 327.51053 남82한2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36241/17/cover200/8932912947_1.jpg) | 아바나의 우리 사람 : 그레이엄 그린 장편소설 | Greene, Graham | 파주 : 열린책들, 2025 | 823.912 G799oK최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/19584/32/cover200/k382635324_1.jpg) | 한국의 판타지 백과사전 | 도현신 | 서울 : 생각비행, 2019(2024 7쇄) | 398.20951 도94한2 | 중앙도서관 |
@@ -43,12 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36283/22/cover200/8966264778_1.jpg) | DuckDB 인 액션 : SQL만 알면 되는 로컬 데이터 분석, DuckDB로 가볍게 시작한다 | Needham, Mark | 서울 : 인사이트, 2025 | 005.74 N375dK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36289/7/cover200/k762038149_1.jpg) | (조코딩의 AI 비트코인) 자동 매매 시스템 만들기 : AI & API를 활용한 스스로 투자하고 회고하는 자동 매매 시스템 완성 | 조동근 | 서울 : 한빛미디어, 2025 | 006.3 조25자 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36184/51/cover200/896540410x_1.jpg) | RAG 마스터 : 랭체인으로 완성하는 LLM 서비스 | 유, 브라이스 | 부천 : 프리렉, 2025 | 006.3 R146유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36238/15/cover200/k532038713_1.jpg) | (실리콘밸리에서 통하는) 파이썬 인터뷰 가이드 | 임건봉 | 파주 : 제이펍, 2025 | 005.133 임14규K신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36257/95/cover200/k292038624_1.jpg) | (된다!) 하루 5분 아이패드 기록 생활 | 희나 | 서울 : 이지스퍼블리싱, 2025 | 004.16 희192하 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36252/56/cover200/8960884855_2.jpg) | 네이버 블로그 AI 자동화 마케팅 : with 챗GPT+Zapier+Make | 조영빈 | 서울 : 디지털북스, 2025 | 006.3 조64네 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36299/11/cover200/k732038348_1.jpg) | 노가다가 아닌 노동자로 삽니다 : 건설 노동자가 말하는 노동, 삶, 투쟁 | 이은주 | 서울 : 한겨레엔 : 한겨레, 2025 | 331 노12이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36263/32/cover200/8936480790_1.jpg) | 처음 만나는 헌법 | 차병직 | 파주 : 창비, 2025 | 342 차44처 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 공자와 한비자를 알아야 중국이 보인다 : 36년 외교관 경험으로 풀어낸 중국과 한중관계의 본질 | 조용천 | 서울 : 북랩, 2025 | 327.51052 조65공 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 성장이라는 착각 : 지속 가능한 미래를 위한 이정표 | 안호기 | 파주 : 들녘, 2025 | 338.927 안95성 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36407/12/cover200/k402039880_1.jpg) | 일하지 않을 용기 : 일해야 산다는 강요에 맞서는 사람들 | Frayne, David | 서울 : 끌리는책, 2025 | 331.011 F847rK장일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36101/60/cover200/k802038068_2.jpg) | 작가노동 선언 : 우리는 글 쓰는 노동자다 | 작가노조 준비위원회 | 파주 : 오월의봄, 2025 | 331.88 작12작 | 중앙도서관 |
