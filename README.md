@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36222/87/cover200/k512038601_1.jpg) | (월급쟁이, 벼락 상속인을 위한) 상속·증여 솔루션 | 조용주 | 서울 : 가디언, 2025 | 343.053 조65상 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 북한형법 주석 | 법무부 | 과천 : 법무부, 2025 | 340.04026 한16법2 v.345 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36470/66/cover200/k522039910_1.jpg) | (실무사례 중심의) 무역회계와 세무 | 이강오 | 서울 : 씨에프오아카데미, 2025 | 657.839 이12무개17 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27816/35/cover200/k572734575_1.jpg) | 최신 수리통계학 | 안승철 | 서울 : 경문사, 2021 | 519.5 안57최2 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/f4182ecf-330f-4616-a8b2-27f5267681b1) | 스토너 : 존 윌리엄스 장편소설 | Williams, John | 서울 : 알에이치코리아, 2015(2025 31쇄) | 823.914 W724sK김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/ec2c779e-73c8-4bd7-88c3-bbe096c7ec9a) | 책문 : 이 시대가 묻는다 | 김태완 | 광주 : 현자의마을, 2015(2025 5쇄) | 951.5 김883책이 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/15bc8a4d-c2f0-4b7b-a762-b087ac45f593) | 비즈니스 프로세스 경영 : 생산 및 서비스 운영 관리 | Anupindi, Ravi | [서울] : 피어슨에듀케이션코리아, 2012 | 658.5 M266a3K김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/abed1bed-7f1f-4d7f-a94b-d251f5781fec) | (칼 세이건) 코스모스 | Sagan, Carl Edward | 서울 : 사이언스북스, 2006(2025 115쇄) | 523.1 S129cK홍 | 중앙도서관 |
