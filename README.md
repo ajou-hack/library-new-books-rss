@@ -2,6 +2,23 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 합리적 망상의 시대 : 자기만의 심리학 | Montell, Amanda | 파주 : arte : 북이십일 아르테, 2025 | 153.42 M776aK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | AI는 인간을 먹고 자란다 : 인공지능 신화에 가려진 보이지 않는 노동자들 | Graham, Mark | 서울 : 흐름, 2025 | 006.3 G741fK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 회복탄력성의 뇌과학 : 하버드대 의사가 알려주는 5가지 회복탄력성 리셋 버튼 | Nerurkar, Aditi | 서울 : 현대지성, 2025 | 155.9042 N454fK박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 경험의 멸종 : 기술이 경험을 대체하는 시대, 인간은 계속 인간일 수 있을까 | Rosen, Christine | 서울 : 어크로스, 2025 | 303.483 R813eK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 세상에 왜 도서관이 필요한가 | 양소추 | 파주 : 교유서가 : 교유당, 2025 | 027 양55세K홍 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 질문의 격 : 옳은 방식으로 질문해야 답이 보인다 | 유선경 | 서울 : 앤의서재, 2025 | 302.2 유54질 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 노예제와 사회적 죽음 | Patterson, Orlando | 서울 : 이학사, 2025 | 306.362 P318sK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (신병주 교수의) 인물 따라 공간 따라 역사 문화 산책 | 신병주 | 서울 : 매일경제신문사 : 매경, 2025 | 915.1 신44인 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 나로 늙어간다는 것 : 80대 독일 국민 작가의 무심한 듯 다정한 문장들 | Heidenreich, Elke | 서울 : 북라이프, 2025 | 834.914 H465aK유 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 가스등 : 패트릭 해밀턴 희곡집 | Hamilton, Patrick | 서울 : 민음사, 2025 | 822.912 H219gK민 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 뱀과 양배추가 있는 풍경 : 강보라 소설 | 강보라 | 파주 : 문학동네, 2025 | 811.37 강45뱀 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 불멸의 유전자 | Dawkins, Richard | 서울 : 을유문화사, 2025 | 576 D271gK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (비전공자도 이해할 수 있는) 챗GPT | 박상길 | 서울 : 비즈니스북스, 2025 | 006.3 박52챗 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 광물 전쟁 : #리튬 #구리 #니켈 #코발트 #희토류 미래경제를 지배할 5가지 금속의 지정학 | Scheyder, Ernest | 서울 : 위즈덤하우스, 2025 | 333.816 S328wK안 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 행복 호르몬 : 무기력, 불안, 우울, 고통을 극복하는 내 안의 힘 | 산구창 | 서울 : 동양북스, 2025 | 612.405 산16행K곽 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32328/3/cover/k922935161_1.jpg) | 살롱 드 경성 | 김인혜 | 서울 : 해냄, 2023-2025 | 759.11 김68살 v.1~2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대법원판례해설 | 대법원 법원행정처 | 서울 : 대법원 법원행정처/법원도서관, 1988- | 348.044 한16대해 v.127/v.128/v.129/v.130/v.131/v.132/v.133/v.134/v.135/v.136/v.137/v.138/v.139/v.140/v.141/v.142/v.1/v.10/v.100/v.101/v.102/v.103/v.104/v.105/v.106/v.107/v.108/v.109/v.11/v.110/v.111/v.112/v.113/v.114/v.115/v.116/v.117/v.118/v.119/v.12/v.120/v.121/v.122/v.123/v.124/v.125/v.126/v.13/v.14/v.15/v.16/v.17/v.18/v.19-1/v.19-2/v.2/v.20/v.21/v.22/v.23/v.24/v.25/v.26/v.27/v.28/v.29/v.3/v.30/v.31/v.32/v.33/v.34/v.35/v.36/v.37/v.38/v.39/v.4/v.40/v.41/v.42/v.43/v.44/v.45/v.46/v.47/v.48/v.49/v.5/v.50/v.51/v.52/v.53/v.54/v.55/v.56/v.57/v.58/v.59/v.6/v.60/v.61/v.62/v.63/v.64/v.65/v.66/v.67/v.68/v.69/v.7/v.70/v.71/v.72/v.73/v.74/v.75/v.76/v.77/v.78/v.79/v.8/v.80/v.81/v.82/v.83/v.84/v.85/v.86/v.87/v.88/v.89/v.9/v.90/v.91/v.92/v.93/v.94/v.95/v.97/v.98/v.99 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/2/7/cover200/8936421638_1.jpg) | 그리운 여우 : 안도현 시집 | 안도현 | 서울 : 창작과비평사, 1997 | 811.17 안25그 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36446/10/cover200/8937428377_1.jpg) | 나와 맞지 않는 것을 하지 않는 것 | 길본바나나 | 서울 : 민음사, 2025 | 813.47 길45위K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36465/58/cover200/8925573601_1.jpg) | 합리적인 미스터리를 쓰는 법 : 반전의 제왕 나카야마 시치리 | 중산칠리 | 서울 : 알에이치코리아, 2025 | 808.3872 중52초K민 | 중앙도서관 |
@@ -35,20 +52,3 @@
 | ![](https://image.aladin.co.kr/product/25684/92/cover200/k372735343_2.jpg) | (시간 낭비를 확 줄여주는) 초효율 공부법 : 당장, 잘못된 공부 습관에서 벗어나라 | 멘탈리스트 다이고 | [고양] : 더메이커, 2020 | 371.30281 멘882최K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36251/84/cover200/k772038523_1.jpg) | 북한은 왜 미국과 싸우는가 : 비핵화와 평화체제의 국제정치 딜레마 | 황지환 | 서울 : 서울시립대학교출판부, 2025 | 327.1747 황78북 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/096f6282-06bc-4e25-b2b1-d0fbbd7653c8) | (최신)분석화학 | Harris, Daniel C | 파주 : 자유아카데미, 2013 | 543 H313e5K박 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 북한형법 주석 | 법무부 | 과천 : 법무부, 2025 | 340.04026 한16법2 v.345 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36470/66/cover200/k522039910_1.jpg) | (실무사례 중심의) 무역회계와 세무 | 이강오 | 서울 : 씨에프오아카데미, 2025 | 657.839 이12무개17 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27816/35/cover200/k572734575_1.jpg) | 최신 수리통계학 | 안승철 | 서울 : 경문사, 2021 | 519.5 안57최2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31088/23/cover200/k082831839_1.jpg) | (존 맥스웰) 리더십 불변의 법칙 | Maxwell, John C | 서울 : 비즈니스북스, 2023 | 658.4092 M465tK박2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34110/18/cover200/k602931389_2.jpg) | 비트코인 낙관론 : 50년 후, 비트코인의 운명은 | Boyapati, Vijay | [서울] : 논스랩, 2024 | 332.40285 B789bK일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/8220/97/cover200/8957334904_1.jpg) | 언어 상대성 원리는 있는가? : 샤피어-워프 가설 연구 | Gipper, Helmut | 파주 : 아카넷, 2016 | 400.1 G514gK곽 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33346/5/cover200/k452938801_1.jpg) | 왜 내 사랑은 이렇게 힘들까 : 애착의 네 가지 유형과 치유에 대하여 | Heller, Diane Poole | 서울 : 멀리깊이, 2024 | 155.51241 H477pK유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36202/24/cover200/k462038693_1.jpg) | (인생의 고비마다 답을 주는) 초역 채근담 | 홍자성 | 서울 : 부키, 2025 | 179.9 홍72채K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36428/43/cover200/8901295318_1.jpg) | 당신은 결코 특별하지 않다 : 비교와 강박을 내려놓고 삶의 중심을 되찾는 마음의 기술 | 전미경 | 파주 : 갤리온 : 웅진씽크빅, 2025 | 158.1 전38당비 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36450/73/cover200/k872039496_1.jpg) | 나는 왜 마음이 아플까 : 그림 그리는 정신과 의사의 상담 일기 | 전지현 | 서울 : 시원북스 : 에스제이더블유인터내셔널, 2025 | 616.89 전78나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36387/23/cover200/8925573768_1.jpg) | 엔비디아 젠슨 황, 생각하는 기계 | Witt, Stephen | 서울 : 알에이치코리아, 2025 | 006.3 W827tK백 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36124/94/cover200/k382038276_1.jpg) | 테크 천재들의 연대기 : 그들은 어떻게 세상을 읽고, 바꾸고, 망가뜨리나 | Swisher, Kara | 파주 : 글항아리, 2025 | 338.47004 S979bK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33899/11/cover200/8999731189_1.jpg) | 인공지능을 활용한 사회과학 연구방법 : 학술논문과 보고서 작성의 시작부터 끝까지 | 김태용 | 서울 : 학지사, 2024 | 300.72 김883인2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32749/93/cover200/k922936980_1.jpg) | 질문의 기술 : "왜?"만 할 줄 알던 사람도 위대한 철학자처럼 | 유, 아이작 | 파주 : 드루 : 한국학술정보, 2023 | 650.1 유62질왜 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34030/94/cover200/k412931163_1.jpg) | 인공지능과 국제정치 : 연구 어젠다의 발굴 | 김상배 | 서울 : 사회평론아카데미, 2024 | 327 인15김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36348/57/cover200/k332039966_1.jpg) | 공부머리 뇌과학 : 세계적 뇌과학자가 밝힌 유전 지능을 이기는 공부 지능 발달 습관 | 천도륭태 | 서울 : 부키, 2025 | 612.82 천25뇌K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32954/11/cover200/k202936249_1.jpg) | 뉴 큐레이터 : 건축과 디자인을 전시하기 | Watson, Fleur | 파주 : 안그라픽스, 2023 | 745.4074 W338nK김 | 중앙도서관 |
