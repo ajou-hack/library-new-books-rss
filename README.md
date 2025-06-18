@@ -2,6 +2,10 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/20815/31/cover/k412636878_1.jpg) | 계량경제학 | Wooldridge, Jeffrey M | 서울 : 박영사, 2019 | 330.015195 W913i7K한 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29064/79/cover/k662836457_1.jpg) | 감정을 할인가에 판매합니다 | 신조하 | 파주 : 네오픽션 : 네오북스, 2022 | 811.3708 감74신 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/c106aa77-72c9-49b9-b222-ae87770d7572) | (서울대 최종학 교수의) 숫자로 경영하라 | 최종학 | 서울 : 원앤원북스, 2009-2022 | 657.8 최75숫 v.1~4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33108/41/cover200/k982937822_1.jpg) | 프랑스를 만든 나날, 역사와 기억 | 이용재 | 서울 : 푸른역사, 2023-2025 | 944 프292이 v.1 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29561/64/cover/k292837252_1.jpg) | 우리는 왜 서로를 미워하는가 : 편 가르기 시대 휘둘리지 않는 유권자를 위한 정당정치 안내서 | Klein, Ezra | 파주 : 윌북, 2022 | 320.973 K64wK황 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36466/8/cover200/k112039816_1.jpg) | 합리적 망상의 시대 : 자기만의 심리학 | Montell, Amanda | 파주 : arte : 북이십일 아르테, 2025 | 153.42 M776aK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36415/87/cover200/8965967147_1.jpg) | AI는 인간을 먹고 자란다 : 인공지능 신화에 가려진 보이지 않는 노동자들 | Graham, Mark | 서울 : 흐름, 2025 | 006.3 G741fK김 | 중앙도서관 |
@@ -48,7 +52,3 @@
 | ![](https://image.aladin.co.kr/product/30664/44/cover200/k542830039_1.jpg) | 마인드셋 : 스탠퍼드 인간 성장 프로젝트 | Dweck, Carol S | 서울 : 스몰빅라이프 : 스몰빅미디어, 2023 | 153.8 D989mK김2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31520/64/cover200/k802832639_1.jpg) | 애착과 강점을 기반으로 한 노인 서포트 | Blood, Imogen | 서울 : 박영story : 피와이메이트, 2023 | 362.6 B655sK서 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35220/85/cover200/8937464489_1.jpg) | 바스커빌가의 사냥개 | Doyle, Arthur Conan | 서울 : 민음사, 2024 | 823.8 D754hK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36222/87/cover200/k512038601_1.jpg) | (월급쟁이, 벼락 상속인을 위한) 상속·증여 솔루션 | 조용주 | 서울 : 가디언, 2025 | 343.053 조65상 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36349/88/cover200/8983934425_1.jpg) | (#알기 쉬운) 무역실무 길라잡이 | 한국무역협회 | 서울 : 한국무역협회, 2025 | 382 한16무23 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25684/92/cover200/k372735343_2.jpg) | (시간 낭비를 확 줄여주는) 초효율 공부법 : 당장, 잘못된 공부 습관에서 벗어나라 | 멘탈리스트 다이고 | [고양] : 더메이커, 2020 | 371.30281 멘882최K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36251/84/cover200/k772038523_1.jpg) | 북한은 왜 미국과 싸우는가 : 비핵화와 평화체제의 국제정치 딜레마 | 황지환 | 서울 : 서울시립대학교출판부, 2025 | 327.1747 황78북 | 중앙도서관 |
