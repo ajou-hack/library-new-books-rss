@@ -2,7 +2,31 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36450/78/cover200/k982039497_1.jpg) | 핸즈온 LLM : 프롬프트 엔지니어링부터 임베딩, 시맨틱 검색, 미세 튜닝까지, 손에 잡히는 LLM 개념 | Alammar, Jay | 서울 : 한빛미디어, 2025 | 006.35 A318hK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36373/87/cover200/k772039475_1.jpg) | 워런 버핏 웨이 | Hagstrom, Robert G | 성남 : 상상스퀘어, 2025 | 332.6 B929hK신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35628/23/cover200/8949968355_1.jpg) | 탈중앙화 자율조직(DAO)과 회사법 | 남궁주현 | 파주 : 경인문화사, 2024 | 346.066 남16탈 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Judith Barry, William Kentridge, David Levine, Gedi Sibony, Gary Simmons, Charline von Heyl, Mark Wallinger on Bruce Nauman | Atkins, Katherine | New York, NY : Dia Art Foundation, 2019. | 709.2 N299a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Matthew Buckingham, Abraham Cruzvillegas, Mark Dion, Teresita Fernandez, Trevor Paglen, Rayyane Tabet, Diana Thater On Robert Smithson | Atkins, Katherine | New York : Dia Art Foundation, 2020. | 709.73 S664a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Dia : an Introduction to Dia's Locations and Sites | Foreman, Kamilah N | New York : Dia Art Foundation, 2024. | 709.0407 F715d2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Alejandro Cesarco, Nancy Davenport, Renée Green, Annette Lawrence, Scott Lyall, Dave McKenzie, Bettina Pousttchi, Haim Steinbach on On Kawara | Atkins, Katherine | New York : Dia Art Foundation, 2021. | 759.13 K22a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Footnotes in Gaza | Sacco, Joe | London : Jonathan Cape, 2019. | 956.04 S119f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Palestine | Sacco, Joe | London : Jonathan Cape, 2003. | 956.94 S119p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cinemaps : an atlas of great movies | DeGraff, Andrew | Philadelphia : Quirk Books, 2017. | 791.430223 D321c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | AI ethics | Coeckelbergh, Mark | Cambridge, MA : The MIT Press, 2020. | 170 C672a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Lies my teacher told me : a graphic adaptation | Loewen, James W | New York : The New Press, 2024. | 973 L827L | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Angel | Taylor, Elizabeth | New York : New York Review Books, 2011. | 823.914 T239a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Someday is today : 22 simple, actionable ways to propel your creative life | Dicks, Matthew | Novato, California : New World Library, 2022. | 153.35 D554s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | On becoming a sandplay therapist : the healing spirit of sandplay in nature and in therapy | Steinhardt, Lenore | London | 616.891656 S822o | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Ripe : a novel | Etter, Sarah Rose | New York, NY : Scribner, 2023. | 823.92 E85r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | On the calculation of volume | Balle, Solvej | New York : New Directions Publishing, 2024. | 839.81374 B191oEh v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The wall | Haushofer, Marlen | New York : A New Directions Paperbook, 2022. | 833.914 H376wEw2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Plasma medical science | Toyokuni, Shinya | London | 610.28 P715t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Economists at war : how a handful of economists helped win and lose the World Wars | Bollard, Alan | Oxford : Oxford University Press, 2020. | 330.0922 B691e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Economists in the cold war : how a handful of economists fought the battle of ideas | Bollard, Alan | Oxford | 330.9045 B691e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | What alive means : psychoanalytic explorations | Ogden, Thomas H | Abingdon, Oxon | 150.195 O34w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A concise history of Hungary | Molnár, Miklós | Cambridge, U.K. : Cambridge University Press, 2001. | 943.9 M727hEm | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Many faces of shame | Nathanson, Donald L | New York : Guilford Press, 1987. | 616.852 N275m | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/207/86/cover/8990745306_1.jpg) | 朝鮮時代 文科白書 | 송준호 | 서울 : 삼우반 | 951.5 송76조삼 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31786/36/cover200/k612833013_1.jpg) | 린 스타트업 : 린 캔버스 창시자 애시 모리아가 전하는 설계, 검증, 성장 3단계 스타트업 가이드 | Maurya, Ash | 서울 : 한빛미디어, 2023 | 658.4013 M459r3K권 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27820/49/cover200/k622734671_1.jpg) | 왜 사업하는가 : 숱한 밤과 싸워야 할 오늘의 젊은 사업가들에게 | 도성화부 | 파주 : 다산북스, 2021 | 658.4092 도54왜K김2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26666/69/cover200/8947547034_1.jpg) | 하드씽 : 경영의 난제를 푸는 최선의 한 수 | Horowitz, Ben | 서울 : 한국경제신문 : 한경BP, 2021 | 658.421 H816hK안경 | 중앙도서관 |
@@ -28,27 +52,3 @@
 | ![](https://image.aladin.co.kr/product/35996/73/cover200/k622037720_1.jpg) | 조직심리학 및 조직행동 | Jex, Steve M | 서울 : 시그마프레스, 2025 | 158.7 J59o4K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36458/64/cover200/k782039714_1.jpg) | 무엇도 홀로 존재하지 않는다 : 존재의 연결을 묻는 카를로 로벨리의 질문들 | Rovelli, Carlo | 서울 : 쌤앤파커스, 2025 | 501 R873LK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36022/73/cover200/k782037927_1.jpg) | 정치 성향은 어떻게 결정되는가 : 타고난 성향인가, 학습된 이념인가 | Hibbing, John R | 군산 : 오픈도어북스 : 하움, 2025 | 320.50973 H624p2K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36500/9/cover200/k182039329_1.jpg) | 리더의 길을 묻다 : 경영의 신 마쓰시타 고노스케에게 | 송하행지조 | 고양 : 지니의서재, 2025 | 658.4092 송92리K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36458/75/cover200/s252039425_1.jpg) | 빅 사이클 | Dalio, Ray | 서울 : 한빛비즈, 2025 | 338.542 D143hK조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36202/6/cover200/k732038692_1.jpg) | 일단 의심하라, 그 끝에 답이 있다 | Descartes, René | [서울] : 모티브, 2025 | 194 D445일K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36472/31/cover200/k122039914_1.jpg) | 왓츠 유어 드림 : 인생을 뒤바꾸는 단 하나의 질문 | Squibb, Simon | [파주] : 북파머스 : 책읽어주는남자, 2025 | 658.421 S773wK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36539/5/cover200/k892039940_1.jpg) | (국가정책 전문가의 시각에서 본) AI 코리아 | 구윤철 | 서울 : 바다위의정원, 2025 | 303.483 구66a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36486/45/cover200/8969526196_1.jpg) | 화장품은 한국이 1등입니다 : K뷰티 글로벌 인사이트 | 박종대 | 서울 : 경향비피, 2025 | 668.55 박75화 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/48/66/cover200/898107237x_1.gif) | 인현왕후전 | 정은임 | 서울 : 이회문화사, 2004 | 811.34 정67인이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36386/29/cover200/8937479869_1.jpg) | 천인오쇠 | 삼도유기부 | 서울 : 민음사, 2025 | 813.37 삼25천K유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33999/41/cover200/k172930556_1.jpg) | 아비치 공식 전기 | Mosesson, Måns | [대전] : P&S : 송민(P&S), 2024 | 781.648092 A957mK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36450/29/cover200/8958209089_1.jpg) | 비트겐슈타인과 규칙 따르기 : 사회과학의 철학적 기초를 찾아서 | 김경만 | 파주 : 궁리, 2025 | 192 W831김사 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/11258/50/cover200/k212531794_1.jpg) | 도스토옙스키의 메타지식 : 지하로부터의 수기 | 조주관 | 서울 : 우물이 있는 집 : 써네스트, 2017 | 891.73309 D724조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36462/74/cover200/k752039811_1.jpg) | 적대정치 청산과 개헌을 말하다 : 한국 민주주의 구출하기 | 강원택 | 파주 : 나남, 2025 | 320.951 적23강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36422/69/cover200/8936431552_1.jpg) | 일억 번째 여름 : 청예 장편소설 | 청예 | 파주 : 창비, 2025 | 811.37 청64일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36501/39/cover200/k922039321_1.jpg) | 짧아서 더 많이 쓰는 제스처×영어표현들 | 백선엽 | 서울 : 사람in, 2025 | 428.34 백54짧 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30153/55/cover200/k412839485_1.jpg) | Mohamed Salah | Sunsoo editors | [서울] : Brainstore, 2022 | 796.334092 S159s | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/3126/15/cover200/899765344x_1.jpg) | 라이벌 | 임형철 | 서울 : 사람들 : 엘티에스 출판부, 2013 | 796.334 임94라 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/11964/49/cover200/8965251230_1.jpg) | 삼국지의 정치와 사상 : 역사적 사실의 영웅들 | 도변의호 | 서울 : 동과서, 2017 | 952.33 도44삼K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28904/33/cover200/k092836604_1.jpg) | 놓아주는 엄마 주도하는 아이 | Stixrud, William R | 서울 : 쌤앤파커스, 2022 | 155.4138 S862sK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30107/81/cover200/k532839883_1.jpg) | 과정기반치료 어떻게 할 것인가? | Hofmann, Stefan G | 서울 : 삶과지식, 2022 | 616.8914 H713LK곽 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35949/41/cover200/k912037802_1.jpg) | 다시 만날 세계에서 : 내란 사태에 맞서고 사유하는 광장의 여성들 | 강유정 | 서울 : 안온 : 안온북스, 2025 | 320.02 다58강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26193/38/cover200/k752738084_1.jpg) | 한국의 국민대차대조표 해설2020 | 한국은행 | 서울 : 한국은행, 2020 | 339.351 한16한한2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36458/45/cover200/k562039714_1.jpg) | 너무 오래 오타쿠로 살아서 : 케이팝 러버, 고경력 오타쿠, 트위터 NPC 쑨디가 140자로는 부족해 14만 자나 주절거린 한풀이 | 쑨디 | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 811.87 쑨28너 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29607/25/cover200/k522838779_1.jpg) | 선배가 들려주는 기업 상담 이야기 | 변시영 | 서울 : 박영story : 피와이메이트, 2022 | 658.385 변58선 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33994/48/cover200/k312930644_1.jpg) | 일할 사람이 사라진다 : 새로 쓰는 대한민국 인구와 노동의 미래 | 이철희 | 서울 : 위즈덤하우스, 2024 | 331.12 이83일 | 중앙도서관 |
