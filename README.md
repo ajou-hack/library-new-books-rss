@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/35656/80/cover200/8957117717_1.jpg) | 딥페이크 허위정보 대응을 위한 연구 | 오세욱 | 서울 : 한국언론진흥재단, 2024 | 303.483 오54딥 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34292/9/cover200/k682932176_1.jpg) | 영어로 문장 만들기 훈련 | 유은하 | 서울 : 사람in, 2024-2025 | 428.2 유67영 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35774/64/cover200/k332036846_1.jpg) | 회사법 | 오성근 | 서울 : 박영사, 2025 | 346.066 오54회4 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/1417/5/cover200/8964069862_2.jpg) | 사물의 체계 | Baudrillard, Jean | 서울 : 지식을만드는지식, 2011 | 301.01 B342sK배지 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34708/86/cover200/k832933016_1.jpg) | 직필(直筆)과 객설(客說) : 金容燮敎授停年記念文集 | 김용섭 | 서울 : 법률신문사, 2024 | 340 김65직 | 법학도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/35628/23/cover200/8949968355_1.jpg) | 탈중앙화 자율조직(DAO)과 회사법 | 남궁주현 | 파주 : 경인문화사, 2024 | 346.066 남16탈 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Judith Barry, William Kentridge, David Levine, Gedi Sibony, Gary Simmons, Charline von Heyl, Mark Wallinger on Bruce Nauman | Atkins, Katherine | New York, NY : Dia Art Foundation, 2019. | 709.2 N299a | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Matthew Buckingham, Abraham Cruzvillegas, Mark Dion, Teresita Fernandez, Trevor Paglen, Rayyane Tabet, Diana Thater On Robert Smithson | Atkins, Katherine | New York : Dia Art Foundation, 2020. | 709.73 S664a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Dia : an Introduction to Dia's Locations and Sites | Foreman, Kamilah N | New York : Dia Art Foundation, 2024. | 709.0407 F715d2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Alejandro Cesarco, Nancy Davenport, Renée Green, Annette Lawrence, Scott Lyall, Dave McKenzie, Bettina Pousttchi, Haim Steinbach on On Kawara | Atkins, Katherine | New York : Dia Art Foundation, 2021. | 759.13 K22a | 중앙도서관 |
