@@ -2,6 +2,19 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인공지능이 가르칠 수 있다는 착각 : AI 시대, 교육의 가치와 교사의 역할을 다시 묻다 | 김성우 | 서울 : 우리학교, 2025 | 370.1 인15김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 애덤 스미스 함께 읽기 : 다시 보는 『도덕감정론』과 『국부론』 | 장경덕 | 파주 : 글항아리, 2023 | 330.153 S642장 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 다른 과학은 가능하다, ‘느린 과학’ 선언 : 상호의존의 관계를 다시 엮는 과학으로 | Stengers, Isabelle | 남양주 : 에디토리얼, 2025 | 501 S825aK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 제약바이오 투자 입문하기 : 애널리스트 출신 벤처투자자의 관점에서 바라본 신약개발 산업 이야기 | 이태영 | 서울 : 모어사이언스, 2021 | 338.476151 이883제 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 친절한 빛과 색 | 박리노 | 서울 : 디지털북스, 2021 | 752 박298친디 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 아동기 역경과 트라우마 기반 개입 : 학교 및 지역사회 전문가를 위한 통합 가이드 | Wycoff, Kirby L | 서울 : 학지사, 2025 | 618.928521 W977eK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 퀀텀 : 만화로 배우는 양자역학과 상대성이론 | Schafer, Laurent | 서울 : 한빛비즈, 2020 | 530.12 S296qK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 기억을 되살리는 남자 : 데이비드 발다치 장편소설 | Baldacci, David | 서울 : 북로드 : 더난콘텐츠그룹, 2025 | 823.914 B175LK김북 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 그림으로 읽는 논어 | 김정숙 | 서울 : 토트 : 북새통, 2025 | 181.2183 김74그 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 조선과 명청의 향촌사회 비교 연구 | 장동표 | 고양 : 국학자료원 : 국학자료원 새미, 2024 | 951.5 장25조 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 나중에 누가 돼지갈비 사 주겠나 : 포토보이스로 기록한 노년, 장애, 돌봄의 초상들 | 김정석 | [서울] : 이매진, 2025 | 362 나76김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 포토보이스 : 사회 변화를 위한 목소리 | 오영범 | 파주 : 교육과학사, 2023 | 371.3352 오64포 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 진짜의 마인드 : 삶의 본질에 집중하는 태도에 관하여 | 김찬희 | 서울 : 터닝페이지, 2025 | 158.1 김82진 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36491/25/cover200/k952039115_1.jpg) | 나는 솔로프리너다 : 회사 밖을 나온 어느 대기업 직장인의 1인 생존기 | 조쉬 | 서울 : 이오스튜디오, 2025 | 658.11 조56나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35307/78/cover200/k142035174_1.jpg) | 귀 기초연구 | 정연훈 | 서울 : 세종의학, 2024 | 617.8 정64귀 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32357/7/cover200/k752935463_1.jpg) | Dr. New : IL Han New | 이헌숙 | 양평군 : 휴먼컬처아리랑 : 생각쉼표, 2023 | 338.092 유68이 | 중앙도서관 |
@@ -39,16 +52,3 @@
 | ![](https://image.aladin.co.kr/product/26860/24/cover200/k902730204_1.jpg) | 늦게라도 시작하는 게 훨씬 낫지 : 80이 넘어 내가 깨달은 것들 | Grossmann, Mechthild | 서울 : 미래의창, 2021 | 838.92 G878bK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36527/50/cover200/k982039620_1.jpg) | 토막 난 우주를 안고서 | 김초엽 | 서울 : 허블, 2025 | 811.3708 토32김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36487/22/cover200/k522039015_1.jpg) | 아이들의 집 : 정보라 장편소설 | 정보라 | 파주 : 열림원, 2025 | 811.37 정45아열 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36566/52/cover200/k462039240_1.jpg) | 안녕이라 그랬어 : 김애란 소설 | 김애란 | 파주 : 문학동네, 2025 | 811.37 김63안 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36582/10/cover200/k672039455_1.jpg) | 귀신 저택 | 궁부미유키 | 고양 : 북스피어, 2025 | 813.37 궁46기K이북 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36486/91/cover200/s912030968_1.jpg) | 치유의 빛 : 강화길 장편소설 | 강화길 | 서울 : 은행나무, 2025 | 811.37 강95치 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35656/80/cover200/8957117717_1.jpg) | 딥페이크 허위정보 대응을 위한 연구 | 오세욱 | 서울 : 한국언론진흥재단, 2024 | 303.483 오54딥 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34292/9/cover200/k682932176_1.jpg) | 영어로 문장 만들기 훈련 | 유은하 | 서울 : 사람in, 2024-2025 | 428.2 유67영 v.2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35774/64/cover200/k332036846_1.jpg) | 회사법 | 오성근 | 서울 : 박영사, 2025 | 346.066 오54회4 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/1417/5/cover200/8964069862_2.jpg) | 사물의 체계 | Baudrillard, Jean | 서울 : 지식을만드는지식, 2011 | 301.01 B342sK배지 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34708/86/cover200/k832933016_1.jpg) | 직필(直筆)과 객설(客說) : 金容燮敎授停年記念文集 | 김용섭 | 서울 : 법률신문사, 2024 | 340 김65직 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36140/96/cover200/k422038678_1.jpg) | AI와 중국 법 | 이상우 | 서울 : 커뮤니케이션북스, 2025 | 349.52 이52a | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36507/35/cover200/k702039420_1.jpg) | 특허와 인공지능 | 조성광 | 서울 : 커뮤니케이션북스, 2025 | 346.048 조54특 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36390/80/cover200/k252039780_1.jpg) | 의료사고 진실을 찾아서, 전문 탐정의 감정이 필요한 순간 : 의료 소비자와 공급자를 위한 명탐정사 하명기 박사 해결 가이드 | 하명기 | 서울 : 부크크, 2025 | 344.0411 하34의 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36539/39/cover200/k132039942_1.jpg) | 국민참여재판 공략집 : 강간, 준강간, 강제추행, 성범죄, 강력사건 | 신정우 | 서울 : 부크크, 2025 | 345.0752 신74국 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/34208/67/cover200/k492931836_1.jpg) | (생각하며 배우는) 대학물리학 | 이기영 | 서울 : 한빛아카데미, 2024 | 530 이18대2 | 중앙도서관 |
