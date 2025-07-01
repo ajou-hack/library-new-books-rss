@@ -2,19 +2,34 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인공지능이 가르칠 수 있다는 착각 : AI 시대, 교육의 가치와 교사의 역할을 다시 묻다 | 김성우 | 서울 : 우리학교, 2025 | 370.1 인15김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 애덤 스미스 함께 읽기 : 다시 보는 『도덕감정론』과 『국부론』 | 장경덕 | 파주 : 글항아리, 2023 | 330.153 S642장 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 다른 과학은 가능하다, ‘느린 과학’ 선언 : 상호의존의 관계를 다시 엮는 과학으로 | Stengers, Isabelle | 남양주 : 에디토리얼, 2025 | 501 S825aK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 제약바이오 투자 입문하기 : 애널리스트 출신 벤처투자자의 관점에서 바라본 신약개발 산업 이야기 | 이태영 | 서울 : 모어사이언스, 2021 | 338.476151 이883제 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 친절한 빛과 색 | 박리노 | 서울 : 디지털북스, 2021 | 752 박298친디 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 아동기 역경과 트라우마 기반 개입 : 학교 및 지역사회 전문가를 위한 통합 가이드 | Wycoff, Kirby L | 서울 : 학지사, 2025 | 618.928521 W977eK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 퀀텀 : 만화로 배우는 양자역학과 상대성이론 | Schafer, Laurent | 서울 : 한빛비즈, 2020 | 530.12 S296qK이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 기억을 되살리는 남자 : 데이비드 발다치 장편소설 | Baldacci, David | 서울 : 북로드 : 더난콘텐츠그룹, 2025 | 823.914 B175LK김북 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 그림으로 읽는 논어 | 김정숙 | 서울 : 토트 : 북새통, 2025 | 181.2183 김74그 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 조선과 명청의 향촌사회 비교 연구 | 장동표 | 고양 : 국학자료원 : 국학자료원 새미, 2024 | 951.5 장25조 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 나중에 누가 돼지갈비 사 주겠나 : 포토보이스로 기록한 노년, 장애, 돌봄의 초상들 | 김정석 | [서울] : 이매진, 2025 | 362 나76김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 포토보이스 : 사회 변화를 위한 목소리 | 오영범 | 파주 : 교육과학사, 2023 | 371.3352 오64포 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 진짜의 마인드 : 삶의 본질에 집중하는 태도에 관하여 | 김찬희 | 서울 : 터닝페이지, 2025 | 158.1 김82진 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36071/17/cover200/8932043531_1.jpg) | 소설 보다 : 2025 | 강보라 | 서울 : 문학과지성사, 2025 | 811.3708 소54문 2025 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 호그 연쇄살인 | DeAndrea, William L | 서울 : 동서문화사, 1980(2003 중판) | 823.914 D282hK허 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 기록하는 사람들, 기록되는 이야기 : 충북대 학생들의 AI 구술생애사 프로젝트 | 민수연 | 서울 : Repeto AI : 레페토에이아이, 2025 | 300.72 기295민 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The (honest) truth about dishonesty : how we lie to everyone--especially ourselves | Ariely, Dan | New York : Harper Perennial, 2013. | 177.3 A698h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Dopamine nation : finding balance in the age of indulgence | Lembke, Anna | New York : Dutton, 2021. | 152.42 L549d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | This is marketing | Godin, Seth | New York : Portfolio/Penguin, 2018. | 658.8 G585t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Change by design : how design thinking transforms organizations and inspires innovation | Brown, Tim | New York : HarperBusiness, an imprint of HarperCollinsPublishers, 2019. | 658.4063 B881c2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Original sin : President Biden's decline, its cover-up, and his disastrous choice to run again | Tapper, Jake | New York, NY : Random House Large Print, 2025. | 973.934 T175o | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Nudge : the final edition | Thaler, Richard H | [New York] : Penguin Books, an imprint of Penguin Random House LLC, 2021. | 330.019 T365n3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The gift of love : Augustine, Jean-Luc Marion, and the Trinity | Staron, Andrew | Minneapolis : Fortress Press, 2017. | 231.044 S795g | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | God and philosophy | Gilson, Étienne | New Haven | 231 G489g2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Pre-filled syringes and aseptic processing | Bruce, Ian | [S.l] : [s.n], 2025 | 615.19 B886p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Drug device combination products | Robinson, Shane | [S.l] : [s.n], 2025. | 615.19 R664d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The technological republic : hard power, soft belief, and the future of the West | Karp, Alexander C | New York : Crown Currency, 2025. | 352.7450973 K18t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/ed7dc311-eac3-4328-a5eb-ee2ef3fa9f2e) | Introduction to probability | Bertsekas, Dimitri P | Belmont, Mass. : Athena Scientific, 2008 | 519.2 B551i2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36615/22/cover200/k852030968_1.jpg) | 인공지능이 가르칠 수 있다는 착각 : AI 시대, 교육의 가치와 교사의 역할을 다시 묻다 | 김성우 | 서울 : 우리학교, 2025 | 370.1 인15김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30967/19/cover200/k912831205_1.jpg) | 애덤 스미스 함께 읽기 : 다시 보는 『도덕감정론』과 『국부론』 | 장경덕 | 파주 : 글항아리, 2023 | 330.153 S642장 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36588/95/cover200/k742039557_1.jpg) | 다른 과학은 가능하다, ‘느린 과학’ 선언 : 상호의존의 관계를 다시 엮는 과학으로 | Stengers, Isabelle | 남양주 : 에디토리얼, 2025 | 501 S825aK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28416/40/cover200/k472835218_1.jpg) | 제약바이오 투자 입문하기 : 애널리스트 출신 벤처투자자의 관점에서 바라본 신약개발 산업 이야기 | 이태영 | 서울 : 모어사이언스, 2021 | 338.476151 이883제 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25968/6/cover200/8960883670_1.jpg) | 친절한 빛과 색 | 박리노 | 서울 : 디지털북스, 2021 | 752 박298친디 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36595/87/cover200/8999734234_1.jpg) | 아동기 역경과 트라우마 기반 개입 : 학교 및 지역사회 전문가를 위한 통합 가이드 | Wycoff, Kirby L | 서울 : 학지사, 2025 | 618.928521 W977eK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23399/97/cover200/k892637310_2.jpg) | 퀀텀 : 만화로 배우는 양자역학과 상대성이론 | Schafer, Laurent | 서울 : 한빛비즈, 2020 | 530.12 S296qK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35996/31/cover200/k842037729_1.jpg) | 기억을 되살리는 남자 : 데이비드 발다치 장편소설 | Baldacci, David | 서울 : 북로드 : 더난콘텐츠그룹, 2025 | 823.914 B175LK김북 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36225/24/cover200/k402038605_1.jpg) | 그림으로 읽는 논어 | 김정숙 | 서울 : 토트 : 북새통, 2025 | 181.2183 김74그 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34704/95/cover200/k682933012_1.jpg) | 조선과 명청의 향촌사회 비교 연구 | 장동표 | 고양 : 국학자료원 : 국학자료원 새미, 2024 | 951.5 장25조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36143/16/cover200/k612038672_1.jpg) | 나중에 누가 돼지갈비 사 주겠나 : 포토보이스로 기록한 노년, 장애, 돌봄의 초상들 | 김정석 | [서울] : 이매진, 2025 | 362 나76김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32028/99/cover200/8925417901_1.jpg) | 포토보이스 : 사회 변화를 위한 목소리 | 오영범 | 파주 : 교육과학사, 2023 | 371.3352 오64포 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36390/11/cover200/k232039789_1.jpg) | 진짜의 마인드 : 삶의 본질에 집중하는 태도에 관하여 | 김찬희 | 서울 : 터닝페이지, 2025 | 158.1 김82진 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36491/25/cover200/k952039115_1.jpg) | 나는 솔로프리너다 : 회사 밖을 나온 어느 대기업 직장인의 1인 생존기 | 조쉬 | 서울 : 이오스튜디오, 2025 | 658.11 조56나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35307/78/cover200/k142035174_1.jpg) | 귀 기초연구 | 정연훈 | 서울 : 세종의학, 2024 | 617.8 정64귀 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32357/7/cover200/k752935463_1.jpg) | Dr. New : IL Han New | 이헌숙 | 양평군 : 휴먼컬처아리랑 : 생각쉼표, 2023 | 338.092 유68이 | 중앙도서관 |
@@ -37,18 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36527/33/cover200/k042039629_1.jpg) | 창조적 영감에 관하여 : 천천히 사유할 때 얻는 진정한 통찰의 기쁨 | Zuylen, Marina Van | 파주 : 다산초당 : 다산북스, 2025 | 153.42 Z96pK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/5941/81/cover200/897291584x_1.jpg) | (만화로 읽는) 아들러 심리학 | 암정준헌 | 서울 : 까치, 2015(2021 6쇄) | 150.1953 암74아K황 v.1~3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32953/57/cover200/k982936248_1.jpg) | 리스펙트 유일한 : 당신을 비추어 우리의 오늘을 그립니다 | 연만희 | 서울 : 시공사, 2023 | 338.092 유68연 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36331/53/cover200/k832038555_1.jpg) | (Physical AI로 떠나는) 강화학습 첫걸음 | 김원하 | 서울 : 진샘미디어, 2025 | 006.31 김66강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35416/46/cover200/k582035529_1.jpg) | 타인의 시선에 나를 가두지 마라 : 특별함에 대한 집착을 버리고 있는 그대로의 나를 사랑하는 법 | 손정연 | 서울 : 한밤의책 : 스몰빅미디어, 2025 | 158.1 손74타 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36455/98/cover200/k932039713_1.jpg) | (트래블러스 노트와 함께하는) 도쿄 골목 산책 | Tamy | 서울 : 비타북스 : 헬스조선, 2025 | 915.304 T159도K남 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36582/30/cover200/k412039456_1.jpg) | 신을 찾는 뇌 : 종교는 어떻게 진화했는가 | Dunbar, R. I. M | 파주 : arte : 북이십일 아르테, 2025 | 210 D899hK구 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/16236/39/cover200/8999715922_1.jpg) | 예술기반 연구의 실제 | Leavy, Patricia | 서울 : 학지사, 2018 | 700.72 L439m2K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35289/55/cover200/k252934651_1.jpg) | 베아 : 이희영 장편소설 | 이희영 | 서울 : 위즈덤하우스, 2024 | 811.37 이97베 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36276/63/cover200/k362038836_1.jpg) | 영어 글쓰기 핸드북 : 대학 에세이부터 대학원 논문까지 | 윤사라 | 서울 : 지식과감성#, 2025 | 808.042 윤52영2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36179/25/cover200/k412038391_1.jpg) | 인공지능과 프롭테크 | 문혜정 | 서울 : 커뮤니케이션북스, 2025 | 333.33 문94인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/6212/32/cover200/8930104843_1.jpg) | (존 버거) 사진의 이해 | Berger, John | 파주 : 열화당, 2015(2022 5쇄) | 770 B496uK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36459/69/cover200/k982039818_1.jpg) | 인생의 컨닝페이퍼 : 쉽게, 빠르게, 영리하게 꿈을 이룬 사람들의 비밀 노트 | 박종경 | 서울 : 토네이도 : 토네이도미디어그룹, 2025 | 650.1 박75인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36429/26/cover200/8959408654_2.jpg) | (촘스키와 무히카) 우리는 어떻게 살아가야 하는가 : 청년에게 전하는 21세기 생존 지침 | Alvídrez, Saúl | 서울 : 시대의창, 2025 | 301 A475cK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36504/93/cover200/k482039325_1.jpg) | 행동 다양성 : 진화인류학의 오랜 역사 | 박한선 | 서울 : 에이도스, 2025 | 599.938 박92행 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26860/24/cover200/k902730204_1.jpg) | 늦게라도 시작하는 게 훨씬 낫지 : 80이 넘어 내가 깨달은 것들 | Grossmann, Mechthild | 서울 : 미래의창, 2021 | 838.92 G878bK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36527/50/cover200/k982039620_1.jpg) | 토막 난 우주를 안고서 | 김초엽 | 서울 : 허블, 2025 | 811.3708 토32김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36487/22/cover200/k522039015_1.jpg) | 아이들의 집 : 정보라 장편소설 | 정보라 | 파주 : 열림원, 2025 | 811.37 정45아열 | 중앙도서관 |
