@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/35653/80/cover200/8944505845_1.jpg) | 국제법론 | 김대순 | 서울 : 三英社, 2025 | 341 김23국22 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/33441/72/cover200/k792938636_1.jpg) | (외국인을 위한) 한국의 역사와 문화 | 박성준 | 서울 : 한국문화사, 2024 | 951 박54한2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36568/16/cover200/k922039245_2.jpg) | 커뮤니티에 입장하셨습니다 : 각자의 현실 너머, 서로를 잇는 정치를 향하여 | 권성민 | 서울 : 돌고래, 2025 | 302.23 권54커 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36659/27/cover200/k712030086_1.jpg) | 여름은 고작 계절 : 김서해 장편소설 | 김서해 | 서울 : 위즈덤하우스, 2025 | 811.37 김54여 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/24016/34/cover200/k602639416_1.jpg) | 우즈베크어 표준 교재 : A1 | Aziza, Mashrabbekova | 서울 : Hu:ine : 한국외국어대학교 지식출판콘텐츠원, 2019 | 494.325 A995우 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The food prescription for better health : a cardiologist's proven method to reverse heart disease, diabetes, obesity, and other chronic illnesses, naturally! | Montgomery, Baxter D | Houston, Tex. : Delworth Pub., 2011. | 613.26 M787f | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/13120/4/cover200/8971728639_1.jpg) | (가장 알기 쉽게 배우는) 바로바로 베트남어 독학 단어장 | FL4U컨텐츠 | 서울 : 탑메이드북, 2018 | 495.922 F568바 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1775/68/cover200/8974826534_1.jpg) | 베트남어 한국어 사전 : 보급판 | 류지은 | 서울 : 문예림, 2012 | R 495.922 류78베 | 중앙도서관 |
