@@ -2,9 +2,12 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The new conservatives : restoring America's commitment to family, community, and industry | Cass, Oren | New York : Radius Book Group, 2025. | 320.52 C343n | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36730/85/cover200/8936480855_1.jpg) | 작은 일기 : 황정은 에세이 | 황정은 | 파주 : 창비, 2025 | 811.47 황74작 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36697/59/cover200/k482030585_1.jpg) | (이게 되네?) 제미나이 노트북LM : 미친 활용법 51제 | 오힘찬 | 서울 : 골든래빗, 2025 | 006.3 오98제 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36422/69/cover200/8936431552_1.jpg) | 일억 번째 여름 : 청예 장편소설 | 청예 | 파주 : 창비, 2025 | 811.37 청64일 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33464/3/cover200/k082938849_1.jpg) | 쇼펜하우어 인생수업 : 한 번뿐인 삶 이렇게 살아라 | Schopenhauer, Arthur | [서울] : Highest : 하이스트그로우, 2024-2025 | 193 S373pK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31317/64/cover/8950906562_2.jpg) | 대한민국, 넥스트 레벨 | 코리아다이나미즘포럼 | 파주 : 21세기북스 : 북이십일 21세기북스, 2023-2025 | 303.4951 코298대 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36566/27/cover200/k552039249_1.jpg) | 우리 일의 미래 : 6개 분야 대표 전문가에게 듣는 우리 세계, 내 일의 전망 | 김봉찬 | 서울 : 메멘토, 2025 | 303.49 우298김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36567/80/cover200/8925573636_1.jpg) | 침묵 깨기 : 원하는 것을 얻는 확실한 방법 | Hering, Elaine Lin | 서울 : 알에이치코리아, 2025 | 158.2 H546uK황 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36612/28/cover200/k202030863_1.jpg) | 편안함의 습격 : 편리와 효율, 멸균과 풍족의 시대가 우리에게서 앗아간 것들에 관하여 | Easter, Michael | 파주 : 수오서재, 2025 | 613 E13cK김 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/34243/70/cover200/8963034046_1.jpg) | 사물은 어떤 꿈을 꾸는가 | 국립현대미술관 | 서울 : 국립현대미술관, 2024 | 707.4 국298사 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29398/23/cover200/8965642744_1.jpg) | 이것은 미술이 아니다 | Staniszewski, Mary Anne | 서울 : 현실문화연구, 2022 | 700 S786bK박4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33608/50/cover200/k952939008_1.jpg) | 중국인 문제 : 19세기 골드러시, 이주와 노동과 배제 | Ngai, Mae M | 서울 : 책과함께, 2024 | 331.6252 N576cK안 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31613/85/cover200/8982227458_1.jpg) | 조선전기 과전법 연구 | 김태영 | 서울 : 경희대학교 출판문화원, 2023 | 951.5 김883조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36589/29/cover200/k882039658_1.jpg) | 일본의 근대건축 1860~1945 | 등삼조신 | 서울 : 집, 2025 | 720.953 등52일K최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36566/52/cover200/k462039240_1.jpg) | 안녕이라 그랬어 : 김애란 소설 | 김애란 | 파주 : 문학동네, 2025 | 811.37 김63안 | 중앙도서관 |
