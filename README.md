@@ -2,6 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36679/81/cover200/k782030484_1.jpg) | 10분 만에 따라 하는 Claude MCP 업무 자동화 혁신 가이드 : 비개발자도 쉽게 만드는 AI 기반 스마트 워크플로 | 이호준 | 고양 : 리코멘드, 2025 | 006.3 이95십 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | MCP로 똑똑하게 일하는 법 : 인공지능에 도구를 더해 나만의 AI 에이전트 만들기 | 케이트리 | 파주 : 제이펍, 2025 | 006.3 케68m | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36733/24/cover200/k932030098_1.jpg) | 한국 경제법의 역외적용 : 공정거래법과 소비자보호법 | 정재훈 | 서울 : 부크크, 2025 | 343.07 정73한 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36498/2/cover200/k152039224_1.jpg) | 회사에서 바로 쓰는 AI 치트키 | 이혜정 | 서울 : 애드앤미디어, 2025 | 006.3 이94회 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36664/56/cover200/k012030187_1.jpg) | 류수영의 평생 레시피 : 죽을 때까지 나를 먹여 살릴 ‘어남선생’의 쉽고 맛있는 집밥 | 류수영 | 서울 : 세미콜론, 2025 | 641.5 류56류 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36423/30/cover200/8960909335_1.jpg) | 에릭 로메르 : 아마추어리즘의 가능성 | Handyside, Fiona | 서울 : 마음산책, 2025 | 791.430233092 R738hK이2 | 중앙도서관 |
@@ -39,16 +42,13 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Beyond the state examinations : evaluations of knowledge in premodern Korea | Gehlmann, Martin | Wiesbaden : Harrassowitz Verlag, 2024. | 951 G311b | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Oxford handbook of geoeconomics and economic statecraft | Aggarwal, Vinod K | New York : Oxford University Press, 2025. | 337 A266o | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36627/15/cover200/k302030577_1.jpg) | 생성형 AI를 위한 프롬프트 엔지니어링 : 랭체인, 스테이블 디퓨전, 미드저니, 챗GPT를 다루는 가장 실용적인 방법 | Phoenix, James | 서울 : 한빛미디어, 2025 | 006.3 P574pK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36671/64/cover200/k572030385_1.jpg) | (디자인 경험을 바꾸는) UX/UI 디자인 with AI | 유훈식 | 서울 : 한빛미디어, 2025 | 005.437 유96u | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36583/77/cover200/k102039550_1.jpg) | (대체불가) AI 노코드 : 업무 툴 & 게임 개발 | 김윤우 | 횡성군 : 책바세, 2025 | 006.3 김66a | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36658/87/cover200/k192030085_1.jpg) | 객체지향 시스템 디자인 원칙 | Aniche, Maurício | 서울 : 길벗, 2025 | 005.117 A597sK오 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36617/4/cover200/k832030960_1.jpg) | 이것이 스프링 부트다 with 자바 : JPA와 AWS, 챗GPT까지 스프링 부트를 활용한 백엔드 프로젝트 실습서 | 김희선 | 서울 : 한빛미디어, 2025 | 005.133 김97이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36505/2/cover200/k802039325_1.jpg) | 실전 백엔드 러스트 Axum 프로그래밍 : 채팅 앱을 만들면서 배우는 모던 웹 애플리케이션 개발 | 윤인도 | 파주 : 제이펍, 2025 | 005.133 윤68실 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (랭체인과 랭그래프로 구현하는) RAG·AI 에이전트 실전 입문 : RAG 설계부터 AI 에이전트 구현과 디자인 패턴까지, LLM 애플리케이션 개발자를 위한 완벽 실습서 | 서견공굉 | 파주 : 위키북스, 2025 | 006.3 서14LK최 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | C# 교과서 | 박용준 | 서울 : 길벗, 2025 | 005.133 박65c2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | AI로 7일 만에 사업 시작하기 : 망설이는 사이, 누군가는 AI로 돈을 벌고 있습니다 | 로사장 | 서울 : 길벗, 2025 | 658.11 로52a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36667/76/cover200/k632030285_1.jpg) | 아임 스틸 히어 : 나는 지금도 여기에 있다 | Brown, Austin Channing | 서울 : 바람이불어오는곳, 2025 | 305.896073 B877iK황 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 독재자를 막을 것인가 만들 것인가 | Chaleff, Ira | 서울 : 이사빛, 2025 | 320.5 C436tK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 한국 현대 사회 이해 | 정용교 | 파주 : 교육과학사, 2025 | 301.0951 한16정 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이 폭풍의 전개 : 뜨거워지는 세계 속의 자연과 사회 | Malm, Andreas | 서울 : 갈무리, 2025 | 304.25 M256pK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 노션하는 직장인의 정리법 : 업무력이 수직 상승하는 노션 실전 가이드 | 지니언트 | 부천 : 프리렉, 2025 | 005.57 지198노 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 정약용의 정치사상 : 유교 문명론과 조선 정치의 구상 | 백민정 | 서울 : 이학사, 2025 | 181.16 정63정유 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 여성을 억압하는 세계 : 차별, 폭력, 불평등의 흔적들 | Nussbaum, Martha C | 서울 : 세창, 2025 | 305.4209 N975wK강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36510/72/cover200/k482039423_1.jpg) | LLM 인 프로덕션 : 대규모 언어 모델의 성공적인 제품화 전략 | Brousseau, Christopher | 파주 : 위키북스, 2025 | 006.35 B876LK삼 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36510/74/cover200/k492039423_1.jpg) | (랭체인과 랭그래프로 구현하는) RAG·AI 에이전트 실전 입문 : RAG 설계부터 AI 에이전트 구현과 디자인 패턴까지, LLM 애플리케이션 개발자를 위한 완벽 실습서 | 서견공굉 | 파주 : 위키북스, 2025 | 006.3 서14LK최 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 줄리아 프로그래밍 입문 | 이인호 | [서울] : 북스힐, 2025 | 005.133 이68줄 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36592/44/cover200/k032039656_1.jpg) | C# 교과서 | 박용준 | 서울 : 길벗, 2025 | 005.133 박65c2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36615/39/cover200/k392030969_1.jpg) | 생성형 AI 활용 100과사전 | 전구화유 | 서울 : 길벗, 2025 | 006.3 전16생K서 | 중앙도서관 |
