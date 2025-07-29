@@ -2,6 +2,15 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 암을 극복하는 항암생활 : 6가지 통합치료로 당신의 삶과 건강을 변화시키기 | Cohen, Lorenzo | 서울 : 아침사과, 2021 | 616.994052 C678aK유 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 관음이란 누구인가? | 서경보 | 서울 : 서음미디어, 2011 | 294.3 서14관 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 스파클 : 최현진 장편소설 | 최현진 | 파주 : 창비, 2025 | 811.37 최94스 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 글로벌 커스터디 : 자산운용 백 & 미들오피스 업무지침서 | 안중석 | 서울 : 지식플랫폼, 2023 | 332.6322 안76글 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 나는 투자로 30년을 벌었다 : 최상위로 올라가는 7가지 투자 습관 | 한정수 | 서울 : 토네이도, 2021 | 332.6 한74나 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 용서를 배울 만한 시간 : 심재휘 시집 | 심재휘 | 파주 : 문학동네, 2018(2024 5쇄) | 811.17 심73용 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이미, 서로 알고 있었던 것처럼 : 윤희상 시집 | 윤희상 | 파주 : 문학동네, 2014(2020 5쇄) | 811.17 윤97이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (49가지 교수학습 전략을 담은) 국어과 교재 연구 및 지도법 | 김주환 | 서울 : 사회평론아카데미, 2024 | 411.07 국64김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (2022 개정 교육과정에 따른) 국어과 교재 연구 및 지도법 | 황미향 | 파주 : 보고사, 2024 | 411.07 국64황 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25454/68/cover200/k572633611_1.jpg) | 관음신앙(觀音信仰), 33개의 나침반 | 목경찬 | 서울 : 담앤북스, 2020 | 294.3 목14관 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36628/19/cover200/k192030670_1.jpg) | 이단자의 상속녀 : 엘리스 피터스 장편소설 | Peters, Ellis | 서울 : 북하우스, 2025 | 823.912 P481hK손2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36628/16/cover200/k012030670_1.jpg) | 할루인 수사의 고백 : 엘리스 피터스 장편소설 | Peters, Ellis | 서울 : 북하우스, 2025 | 823.912 P481cK송2 | 중앙도서관 |
@@ -43,12 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36589/25/cover200/k462039658_1.jpg) | 쓰는 인간 : 종이에 기록한 사유와 창조의 역사 | Allen, Roland | 성남 : 상상스퀘어, 2025 | 676.2823 A428nK손 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36699/11/cover200/k072030689_1.jpg) | 결국 다 좋아서 하는 거잖아요 : 이곳은 도쿄의 유일한 한국어 책방 | 김승복 | 파주 : 달, 2025 | 811.87 김57결 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36628/3/cover200/k902030670_1.jpg) | 에이턴 숲의 은둔자 : 엘리스 피터스 장편소설 | Peters, Ellis | 서울 : 북하우스, 2025 | 823.912 P481hK김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36627/98/cover200/k802030679_1.jpg) | 장미나무 아래의 죽음 : 엘리스 피터스 장편소설 | Peters, Ellis | 서울 : 북하우스, 2025 | 823.912 P481rK김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36751/41/cover200/k212030192_1.jpg) | 화웨이 쇼크 : 그들은 어떻게 글로벌 1위가 되었는가 | Dou, Eva | 서울 : 생각의힘, 2025 | 338.887213916 D726hK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36672/95/cover200/k962030387_1.jpg) | 과학의 최전선 : 노화 연구에서 우주 탐사까지, 인류의 미래를 향한 지적 여행 | Cramer, Patrick | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 502 C889zK강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36652/92/cover200/k832030985_1.jpg) | 열세 번째 계절의 소녀들 : 정이담 장편소설 | 정이담 | 서울 : 한겨레 : 한겨레엔, 2025 | 811.37 정68열 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31867/68/cover200/k832833427_1.jpg) | (애매~한 영어 실력이 네이티브급으로 점프하는) 네이티브력 급상승 영어 문장 300 : 입버릇 훈련 | 권주현 | 서울 : 시원스쿨닷컴 : 에스제이더블유인터내셔널, 2023 | 428 권76네 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31609/12/cover200/k912833770_1.jpg) | 사마천 《사기》 100문 100답 : 독자 눈높이에 맞춘 알기 쉬운 사마천의 《사기》 100문 100답! | 김영수 | 서울 : 창해, 2023 | 952.2 김64사 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23586/18/cover200/8957867252_1.jpg) | 로비스트 | 서영 | 서울 : 연극과인간, 2020 | 812.27 서64설K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31059/35/cover200/8932041237_1.jpg) | 아이들 타임 : 조시현 시집 | 조시현 | 서울 : 문학과지성사, 2023 | 811.17 조58아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34945/11/cover200/k572934561_1.jpg) | 긴자 시호도 문구점 : 우에다 겐지 장편소설 | 상전건차 | 서울 : 크래커 : 오팬하우스, 2024-2025 | 813.37 상74은K최 v.1~2 | 중앙도서관 |
