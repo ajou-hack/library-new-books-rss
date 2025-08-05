@@ -2,6 +2,19 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The cinema of Germany | Garncarz, Joseph | London | 791.430943 G234c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Counseling children and adolescents : working in school and clinical mental health settings | Ziomek-Daigle, Jolie | New York, NY : Routledge, 2025. | 158.3083 Z79c2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Arbitrage and rational decisions | Nau, Robert | Boca Raton : CRC Press, 2024. | 332.6 N287a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sustainable public management | Boyd, Neil M | Abingdon, Oxon : Routledge, Taylor ＆ Francis Group, 2022. | 351 B789s | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34593/56/cover200/k452933679_1.jpg) | 한국 고시조 영역의 태동과 성장 | 강혜정 | 서울 : 소명출판, 2024 | 811.104 강94한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34585/9/cover200/k822933479_1.jpg) | 조선전기 문명전환과 동국문명의 지평 : 조선전기를 읽는 시각 | 정출헌 | 파주 : 점필재, 2024 | 951.5 정85조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34704/15/cover200/k402933011_1.jpg) | 표암 강세황 : 붓을 꺾인 문인화가의 자화상 | 이경화 | 서울 : 소명출판, 2024. | 759.11 강54이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 삶의 평형과 예술 : 예술과 문화 그리고 자서적 단상 | 정점식 | 고양 : 아트무빙, 2025 | 700.2 정74삶 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 예술의 밀어 : 조형예술과 대중문화에 대한 단상 | 정점식 | 고양 : 아트무빙, 2025 | 700.2 정74예 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 바이오경제 바로알기 | 한국생명공학연구원 | 대전 : 한국생명공학연구원, 2024 | 338.927 한16바 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/15168/7/cover200/k592533660_1.jpg) | 통일국가론 | 김천식 | 서울 : 늘품플러스 : 책밭, 2018. | 320.951 김83통 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27898/94/cover200/k292734401_1.jpg) | 샬롬! 기초 히브리어 | 임채의 | 서울 : 시원스쿨닷컴, 2021 | 492.4 임82샬 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36157/30/cover200/8949968452_1.jpg) | 국제조세레짐 : 국제적 조세회피 문제를 중심으로 | 윤준석 | 서울 : 경인문화사, 2025 | 336.2 윤76국 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/100/19/cover200/899265006x_1.jpg) | 샤바의 소년 | Begag, Azouz | 서울 : 푸르메, 2007 | 843.914 B416gK강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36584/58/cover200/k642039551_1.jpg) | KGM 500 : 주제로 만나는 우수정원식물 | 송정섭 | 고양 : 디자인포스트, 2025 | 635.967 K44송 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36795/83/cover200/k792030707_1.jpg) | 조종당하는 인간 | 김석재 | 파주 : Snowfox : 스노우폭스북스, 2025 | 612.82 김54조 | 중앙도서관 |
@@ -39,16 +52,3 @@
 | ![](https://image.aladin.co.kr/product/34711/83/cover200/k482933111_1.jpg) | (2022 개정 교육과정에 따른) 국어과 교재 연구 및 지도법 | 황미향 | 파주 : 보고사, 2024 | 411.07 국64황 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/25454/68/cover200/k572633611_1.jpg) | 관음신앙(觀音信仰), 33개의 나침반 | 목경찬 | 서울 : 담앤북스, 2020 | 294.3 목14관 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36628/19/cover200/k192030670_1.jpg) | 이단자의 상속녀 : 엘리스 피터스 장편소설 | Peters, Ellis | 서울 : 북하우스, 2025 | 823.912 P481hK손2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36628/16/cover200/k012030670_1.jpg) | 할루인 수사의 고백 : 엘리스 피터스 장편소설 | Peters, Ellis | 서울 : 북하우스, 2025 | 823.912 P481cK송2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36789/20/cover200/k322030697_1.jpg) | 에도괴담걸작선 | 제방언 | 서울 : 소명, 2025 | 813.37 제42현K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32042/94/cover200/k212834881_1.jpg) | 밤을 달리다 : YOASOBI 소설집 | 성야무야 | 서울 : GC BOOKS : 디앤씨미디어, 2023 | 813.3708 야198성K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29875/27/cover200/k062838739_1.jpg) | 7번째 여름이 남긴 기적 | Trapp, Nataël | 서울 : 북플라자, 2022 | 843.92 T774sK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31151/79/cover200/k272831047_1.jpg) | (면역 체계를 위협하고 온갖 질병을 부르는) 만성염증 탈출 프로젝트 | Johnson, Duke | 고양 : 전나무숲, 2023 | 616.044 J66oK안3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23843/75/cover200/k732639387_1.jpg) | 장이 깨끗하면 뇌도 건강해진다 : 몸과 마음을 지배하는 장의 놀라운 힘, 장뇌력을 갈고닦아 본디의 생명력을 회복하자! | 장소경헌 | 서울 : 전나무숲, 2020 | 616.3 장55장K배 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36789/9/cover200/k132030697_2.jpg) | (글로벌 주식 투자) 빅 시프트 : 핵심 산업 밸류체인 판이 바뀐다 | 메리츠증권 | 서울 : 에프엔미디어, 2025 | 332.6322 메298빅 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24773/79/cover200/k962631722_1.jpg) | 머더봇 다이어리 : 인공 상태 | Wells, Martha | 서울 : 알마, 2020(2025 2쇄) | 823.92 W455aK고인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36465/67/cover200/k052039815_1.jpg) | 부사가 없는, 삶은 없다 : 소위 에세이 | 소위 | 서울 : 채륜서, 2025 | 811.87 소66부 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36747/98/cover200/k022030096_2.jpg) | 도시 관측소 : 유동하는 도시에서 '나'의 가치를 높이는 방법 | 김세훈 | 서울 : 책사람집, 2025 | 711.4 김54도유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36698/65/cover200/k692030587_1.jpg) | 부자의 기술 : 상위 1%로 가는 부의 로드맵 | 박승영 | 서울 : 티더블유아이지, 2025 | 332.024 박57부 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7492/3/cover200/8994898417_1.jpg) | C. 라이트 밀스 : 실천적 지식인과 사회학적 상상력 | Geary, Daniel | 서울 : 삼천리, 2016 | 301.092 M657gK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/10044/23/cover200/8965641942_1.jpg) | 북해에서의 항해 : 포스트-매체 조건 시대의 미술 | Krauss, Rosalind E | 서울 : 현실문화A : 현실문화연구, 2017(2024 4쇄) | 709.2 K91vK김 | 중앙도서관 |
