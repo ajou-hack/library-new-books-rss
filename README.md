@@ -2,6 +2,18 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 전생애 인간발달의 이론 | 정옥분 | 서울 : 학지사, 2024 | 155 정65전4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (초보자를 위한) 정신분석 이론 입문 | Frosh, Stephen | 서울 : 학지사, 2025 | 616.8917 F938bK강 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (초보 상담자를 위한) 사례중심 관계정신분석 상담 | Wachtel, Paul L | 서울 : 학지사, 2021 | 616.8914 W114iK허 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 성인·노인심리학 | 정옥분 | 서울 : 학지사, 2024 | 155.6 정65성학4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (최신) 임상심리학 | 신민섭 | 서울 : 사회평론아카데미, 2025 | 616.89 임52신2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 노인상담 | 장선철 | 서울 : 동문사, 2018 | 362.66 장54노 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 노인상담 : 경험적 접근 | 이장호 | 서울 : 시그마프레스, 2013 | 362.66 이72노2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 노인상담 | 이준원 | 서울 : 학지사, 2025 | 362.66 노68이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 텔레비전제작론 | 심길중 | 파주 : 한울아카데미, 2011(2021 6쇄) | 384.55 심18텔2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인형치료 : 상징체계의 활용과 적용모델 | 최광현 | 서울 : 학지사, 2023 | 616.89156 최15인3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (반도체 전공면접) 합격의 모든 것 : 이론 완성편 | 서재범 | 서울 : Enginic, 2023 | 658.31124 합14서2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 데이터 시각화 | 허명회 | 파주 : 자유아카데미, 2014 | 519.50285 허34데 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36704/76/cover200/8965404169_1.jpg) | 암호, 비밀을 지키는 과학 : 고전 암호부터 양자 암호까지, 일상의 보안을 지키는 핵심 원리 | Louridas, Panos | 부천 : 프리렉, 2025 | 652.8 L892cK안 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36696/86/cover200/8936480871_3.jpg) | 당신의 퇴근은 언제입니까 | 6411의 목소리 | 파주 : 창비, 2025 | 331.0951 육52당 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36796/59/cover200/k402030809_1.jpg) | 가해자는 모두 피해자라 말한다 : 피해자성은 어떻게 권력자의 무기가 되었나 | Chouliaraki, Lilie | 서울 : 은행나무, 2025 | 362.880973 C552wK성 | 중앙도서관 |
@@ -40,15 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36768/97/cover200/8964374886_2.jpg) | 우리들의 드라마 : 너무 가까워 낯설게 만난 당신 인생의 이야기 | 노회찬재단 | 서울 : 후마니타스, 2025 | 811.87 노95우 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36642/8/cover200/k112030983_1.jpg) | 쉬어도 쉰 것 같지 않은 사람을 위한 책 : 정신건강의가 알려주는 진짜 휴식 | 령목유개 | 서울 : 사이드웨이, 2025 | 613.79 령35심K최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36764/43/cover200/k062030499_1.jpg) | 금수 의복 경연 대회 | 무모한 스튜디오 | 서울 : 하빌리스 : 대원씨아이, 2025 | 811.37 무35금 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36261/52/cover200/k652038732_1.jpg) | (요즘 교사를 위한) AI 수업 활용 가이드 : with 2022 개정 교육과정 | 박진환 | 서울 : 한빛미디어, 2025 | 371.334 박78a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35779/47/cover200/k002036946_1.jpg) | 발달의 이론 : 개념과 적용 | Crain, William C | 서울 : 시그마프레스, 2025 | 155 C887t7K송 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36747/55/cover200/8999734501_1.jpg) | 현대 심리치료와 상담 이론 : 마음의 치유와 성장으로 가는 길 | 권석만 | 서울 : 학지사, 2025 | 616.8914 권54현2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36582/88/cover200/8959129437_1.jpg) | 노인상담 | 김수진 | 서울 : 신정, 2025 | 362.66 김56노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33555/96/cover200/k572939674_1.jpg) | (자신만만) 제약영업마케팅 실무 : 쉽고 든든한 영업 비법서 | 임형식 | 파주 : 군자, 2024 | 338.476151 임94제쉽 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/19223/13/cover200/k212635100_1.jpg) | (건축을 보는 또 다른 시선) 건축 사진의 비밀 : 기록을 넘어 추상으로 | 박길룡 | 부천 : 디북 : 디, 2019 | 778.94 건85박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36539/33/cover200/k982039942_1.jpg) | 미중경쟁의 기원 : 중국 기업의 대미 해외직접투자 증가와 미국 투자정책의 변화 | 박상신 | 서울 : 지식과감성#, 2025 | 327.73052 박52미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36809/49/cover200/8930108091_1.jpg) | 건축의 사회사 : 정치경제학의 시각에서 본 대안적 역사 | Risebero, Bill | 파주 : 열화당, 2025 | 724 R595mK박2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36792/61/cover200/892557344x_1.jpg) | 열심히 살아도 불안한 사람들 : 과도한 생각과 완벽주의를 끊어내는 불안 관리 솔루션 | Suglani, Lalitaa | 서울 : 알에이치코리아, 2025 | 152.46 S947hK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36812/95/cover200/k112030108_1.jpg) | 실재론 되찾기 | Dreyfus, Hubert L | 서울 : b, 2025 | 121 D778rK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32516/43/cover200/8962819031_1.jpg) | 오픽노잼 : 스크립트 없이 오픽 쌉가능 | 오픽노잼 | 서울 : PAGODA Books, 2023 | 428.34 오898오2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36765/52/cover200/8936480847_1.jpg) | 극우 유튜브에서 아들을 구출해 왔다 | 권정민 | 파주 : 창비, 2025 | 303.6 권74극 | 중앙도서관 |
