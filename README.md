@@ -2,18 +2,19 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 전생애 인간발달의 이론 | 정옥분 | 서울 : 학지사, 2024 | 155 정65전4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (초보자를 위한) 정신분석 이론 입문 | Frosh, Stephen | 서울 : 학지사, 2025 | 616.8917 F938bK강 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (초보 상담자를 위한) 사례중심 관계정신분석 상담 | Wachtel, Paul L | 서울 : 학지사, 2021 | 616.8914 W114iK허 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 성인·노인심리학 | 정옥분 | 서울 : 학지사, 2024 | 155.6 정65성학4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (최신) 임상심리학 | 신민섭 | 서울 : 사회평론아카데미, 2025 | 616.89 임52신2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 노인상담 | 장선철 | 서울 : 동문사, 2018 | 362.66 장54노 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 노인상담 : 경험적 접근 | 이장호 | 서울 : 시그마프레스, 2013 | 362.66 이72노2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 노인상담 | 이준원 | 서울 : 학지사, 2025 | 362.66 노68이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 텔레비전제작론 | 심길중 | 파주 : 한울아카데미, 2011(2021 6쇄) | 384.55 심18텔2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인형치료 : 상징체계의 활용과 적용모델 | 최광현 | 서울 : 학지사, 2023 | 616.89156 최15인3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (반도체 전공면접) 합격의 모든 것 : 이론 완성편 | 서재범 | 서울 : Enginic, 2023 | 658.31124 합14서2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 데이터 시각화 | 허명회 | 파주 : 자유아카데미, 2014 | 519.50285 허34데 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2265/2/cover/8932916055_2.jpg) | 아이네이스 : 베르길리우스 서사시 | Vergilius Maro, Publius | 파주 : 열린책들, 2013-2025 | 873.01 V497aK김열 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35541/59/cover200/8999731634_1.jpg) | 전생애 인간발달의 이론 | 정옥분 | 서울 : 학지사, 2024 | 155 정65전4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36793/51/cover200/8999734587_1.jpg) | (초보자를 위한) 정신분석 이론 입문 | Frosh, Stephen | 서울 : 학지사, 2025 | 616.8917 F938bK강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27370/41/cover200/8999724263_1.jpg) | (초보 상담자를 위한) 사례중심 관계정신분석 상담 | Wachtel, Paul L | 서울 : 학지사, 2021 | 616.8914 W114iK허 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36451/4/cover200/8999731693_1.jpg) | 성인·노인심리학 | 정옥분 | 서울 : 학지사, 2024 | 155.6 정65성학4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35578/50/cover200/k512036792_1.jpg) | (최신) 임상심리학 | 신민섭 | 서울 : 사회평론아카데미, 2025 | 616.89 임52신2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/13508/72/cover200/8982519599_1.jpg) | 노인상담 | 장선철 | 서울 : 동문사, 2018 | 362.66 장54노 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2448/17/cover200/8968660018_1.jpg) | 노인상담 : 경험적 접근 | 이장호 | 서울 : 시그마프레스, 2013 | 362.66 이72노2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36664/69/cover200/8999734420_1.jpg) | 노인상담 | 이준원 | 서울 : 학지사, 2025 | 362.66 노68이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26723/6/cover200/8946080485_1.jpg) | 텔레비전제작론 | 심길중 | 파주 : 한울아카데미, 2011(2021 6쇄) | 384.55 심18텔2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32819/91/cover200/8999729605_1.jpg) | 인형치료 : 상징체계의 활용과 적용모델 | 최광현 | 서울 : 학지사, 2023 | 616.89156 최15인3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33971/44/cover200/k412930442_1.jpg) | (반도체 전공면접) 합격의 모든 것 : 이론 완성편 | 서재범 | 서울 : Enginic, 2023 | 658.31124 합14서2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/4035/28/cover200/8973383809_1.jpg) | 데이터 시각화 | 허명회 | 파주 : 자유아카데미, 2014 | 519.50285 허34데 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36704/76/cover200/8965404169_1.jpg) | 암호, 비밀을 지키는 과학 : 고전 암호부터 양자 암호까지, 일상의 보안을 지키는 핵심 원리 | Louridas, Panos | 부천 : 프리렉, 2025 | 652.8 L892cK안 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36696/86/cover200/8936480871_3.jpg) | 당신의 퇴근은 언제입니까 | 6411의 목소리 | 파주 : 창비, 2025 | 331.0951 육52당 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36796/59/cover200/k402030809_1.jpg) | 가해자는 모두 피해자라 말한다 : 피해자성은 어떻게 권력자의 무기가 되었나 | Chouliaraki, Lilie | 서울 : 은행나무, 2025 | 362.880973 C552wK성 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/34813/95/cover200/k902933430_1.jpg) | 취중 마음 농도 | 설재인 | 파주 : 든, 2024 | 811.87 설73취 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36768/97/cover200/8964374886_2.jpg) | 우리들의 드라마 : 너무 가까워 낯설게 만난 당신 인생의 이야기 | 노회찬재단 | 서울 : 후마니타스, 2025 | 811.87 노95우 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36642/8/cover200/k112030983_1.jpg) | 쉬어도 쉰 것 같지 않은 사람을 위한 책 : 정신건강의가 알려주는 진짜 휴식 | 령목유개 | 서울 : 사이드웨이, 2025 | 613.79 령35심K최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36764/43/cover200/k062030499_1.jpg) | 금수 의복 경연 대회 | 무모한 스튜디오 | 서울 : 하빌리스 : 대원씨아이, 2025 | 811.37 무35금 | 중앙도서관 |
