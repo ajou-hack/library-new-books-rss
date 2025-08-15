@@ -2,6 +2,19 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36653/16/cover200/k602030986_1.jpg) | 곰돌이 푸 전집 : 푸, 피글렛, 티거와 함께 떠나는 숲속 모험 | Milne, A. A | 서울 : 현대지성, 2025 | 823.912 M659wK이푸 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/4708/7/cover200/8965641039_1.jpg) | 비상과 환상 : 김소영 영화평론집 | 김소영 | 서울 : 현실문화, 2014 | 791.43015 김55비 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33010/74/cover200/8962388103_1.jpg) | 통상정책 | 서정민 | 서울 : 해남, 2023 | 382.3 서74통 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36096/51/cover200/8958209070_1.jpg) | 헌법재판소, 한국 현대사를 말하다 | 이범준 | 파주 : 궁리, 2025 | 342.00269 이44헌2 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36868/2/cover200/k712030506_1.jpg) | 나만의 MCP 서버 만들기 with 커서 AI | 서지영 | 서울 : 길벗, 2025 | 006.3 서78나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36844/73/cover200/8973278630_1.jpg) | 한국정당정치사 : 위기와 통합의 정치 | 심지연 | 서울 : 백산서당, 2025 | 324.251 심78한6 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33492/58/cover200/k562938355_1.jpg) | 노인상담 | 오승하 | 파주 : 양성원, 2024 | 362.66 오57노 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2453/25/cover200/8918210612_1.jpg) | 노인상담의 실제 | 이장호 | 파주 : 法文社, 2013 | 362.66 노68이법 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6844/90/cover200/8996671673_1.jpg) | 건축가 유걸 | 유걸 | 서울 : 공간서가, 2015 | 720.951 유14건 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Murderbot diaries : All systems red : Artificial condition.vol.1 | Wells, Martha | New York : Tordotcom, Tor Publishing Group, 2025. | 823.92 W455m v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Recipes for science : an introduction to scientific methods and reasoning | Potochnik, Angela | New York, NY : Routledge, Taylor ＆ Francis Group, 2024. | 501 P864r2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Grid-forming converters : principles, control, and applications in modern power systems | Fang, Jingyang | London, United Kingdom : Academic Press, 2025. | 621.3815322 G847f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 디지털 인문학 총서 : 디지털 인문학을 위한 연구 방법과 주제1 | 이상국 | 수원 : 아주대학교 출판부, 2025 | 001.3 디78이디 v.1 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35258/57/cover200/k912934240_1.jpg) | (가장 보통의) 광기 | 헤이든 | [서울] : 스토디오, 2024 | 811.37 헤68광 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28588/82/cover200/8999725502_1.jpg) | 질투, 나는 왜 그를 믿지 못할까 | Leahy, Robert L | 서울 : 학지사, 2022 | 152.48 L434jK서 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36837/53/cover200/8932925283_1.jpg) | 마오 이후의 중국 : 성장과 통제, 초강대국 중국의 역설 | Dikötter, Frank | 파주 : 열린책들, 2025 | 952.72 D575cK고성 | 중앙도서관 |
@@ -39,16 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36786/80/cover200/k472030698_2.jpg) | 가공범 | 동야규오 | 파주 : 북다 : 교보문고, 2025 | 813.37 동63가K김북 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36589/25/cover200/k462039658_1.jpg) | 쓰는 인간 : 종이에 기록한 사유와 창조의 역사 | Allen, Roland | 성남 : 상상스퀘어, 2025 | 676.2823 A428nK손 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36709/50/cover200/k962030793_1.jpg) | 너무 늦은 시간 : 클레어 키건 소설 | Keegan, Claire | 파주 : 다산책방 : 다산북스, 2025 | 823.914 K26sK허 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36566/76/cover200/k212039241_3.jpg) | 료의 생각 없는 생각 | 료 | 파주 : 열림원, 2025 | 811.87 료295료 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36661/52/cover200/k972030181_1.jpg) | (박곰희) 연금 부자 수업 : 4개의 통장으로 월 300만 원 만들기 | 박곰희 | 서울 : 인플루엔셜, 2025 | 332.0240145 박15연 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36659/27/cover200/k712030086_1.jpg) | 여름은 고작 계절 : 김서해 장편소설 | 김서해 | 서울 : 위즈덤하우스, 2025 | 811.37 김54여 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36599/27/cover200/k652030767_2.jpg) | 장미와 나이프 | 동야규오 | 서울 : VANTA : 오팬하우스, 2025 | 813.37 동63탐K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32294/5/cover200/8954694578_1.jpg) | 여름을 한 입 베어 물었더니 : 이꽃님 장편소설 | 이꽃님 | 파주 : 문학동네, 2023 | 811.37 이15여 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36588/70/cover200/k932039557_1.jpg) | 지뢰 글리코 : 아오사키 유고 장편소설 | 청기유오 | 서울 : READbie : 디앤씨미디어, 2025 | 813.37 청18지K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36599/6/cover200/k212030767_1.jpg) | 궤도 | Harvey, Samantha | 파주 : 서해문집, 2025 | 823.92 H342oK송 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36704/76/cover200/8932925224_1.jpg) | 언와인드 : 하비스트 캠프의 도망자 | Shusterman, Neal | 파주 : 열린책들, 2025 | 823.92 S562uK강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36538/51/cover200/k452039949_3.jpg) | 미술관에 간 할미 : 짧게 읽고 오래 남는 모두의 명화수업 | 할미 | 서울 : 더퀘스트 : 길벗, 2025 | 750.2 할38미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36542/2/cover200/k172039049_2.jpg) | 마침내 특이점이 시작된다 : 인류가 AI와 결합하는 순간 | Kurzweil, Ray | 서울 : 비즈니스북스, 2025 | 303.483 K96sK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36423/59/cover200/k912039194_1.jpg) | 경험의 멸종 : 기술이 경험을 대체하는 시대, 인간은 계속 인간일 수 있을까 | Rosen, Christine | 서울 : 어크로스, 2025 | 303.483 R813eK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36422/36/cover200/k122039199_1.jpg) | 오역하는 말들 : 황석희 에세이 | 황석희 | 파주 : 북다 : 교보문고, 2025 | 811.87 황54오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36387/54/cover200/k702039674_1.jpg) | 내게 남은 스물다섯 번의 계절 : 슈테판 셰퍼 소설 | Schaefer, Stephan C | [서울] : 서삼독, 2025 | 833.92 S294fK전 | 중앙도서관 |
