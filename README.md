@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (國譯) 韓國近代民事判決文. 01-30 | 강릉원주대학교 인문학연구소 | 서울 : 민속원, 2021, 2025 | 347.05 강297한 v.1~15 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36653/16/cover200/k602030986_1.jpg) | 곰돌이 푸 전집 : 푸, 피글렛, 티거와 함께 떠나는 숲속 모험 | Milne, A. A | 서울 : 현대지성, 2025 | 823.912 M659wK이푸 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/4708/7/cover200/8965641039_1.jpg) | 비상과 환상 : 김소영 영화평론집 | 김소영 | 서울 : 현실문화, 2014 | 791.43015 김55비 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33010/74/cover200/8962388103_1.jpg) | 통상정책 | 서정민 | 서울 : 해남, 2023 | 382.3 서74통 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/2470/12/cover200/8999700429_1.jpg) | 노인상담 : 기본 기술과 과정 | 서혜경 | 서울 : 학지사, 2013(2024 6쇄) | 362.66 서94노기 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36786/80/cover200/k472030698_2.jpg) | 가공범 | 동야규오 | 파주 : 북다 : 교보문고, 2025 | 813.37 동63가K김북 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36589/25/cover200/k462039658_1.jpg) | 쓰는 인간 : 종이에 기록한 사유와 창조의 역사 | Allen, Roland | 성남 : 상상스퀘어, 2025 | 676.2823 A428nK손 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36709/50/cover200/k962030793_1.jpg) | 너무 늦은 시간 : 클레어 키건 소설 | Keegan, Claire | 파주 : 다산책방 : 다산북스, 2025 | 823.914 K26sK허 | 중앙도서관 |
