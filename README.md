@@ -2,6 +2,25 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/35906/57/cover200/k832037494_1.jpg) | (2025년도) 법학전문대학원 민사재판실무. 3 : 수습기록 | 사법연수원 | 서울 : 사법발전재단, 2025 | 347.07 사44민수 2025 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (2025년도) 법학전문대학원 민사재판실무. 2 : 강의노트 | 사법연수원 | 서울 : 사법발전재단, 2025 | 347.07 사44민강 2025 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (2025년도) 법학전문대학원 민사재판실무. 1 | 사법연수원 | 서울 : 사법발전재단, 2025 | 347.07 사44민 2025 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36661/81/cover200/8972971693_2.jpg) | 헤어지다 죽은 여자들 : 가장 조용한 참사, 교제폭력을 말하다 | 경향신문 | 파주 : 동녘, 2025 | 364.15082 경93헤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36852/41/cover200/k812030305_1.jpg) | (지도로 읽는) 분쟁 세계사 | 황권풍지 | 서울 : 바다, 2025 | 327.16 황16분K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36792/14/cover200/8965967333_1.jpg) | 스포트라이트 : 세상을 향한 조명을 끄고 내 안의 불을 켜는 법 | Gervais, Michael | 서울 : 흐름, 2025 | 158.1 G385fK고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36885/47/cover200/k072030607_1.jpg) | 말하지 않고 이기기로 했다 : 소통만능주의 사회에서 살아남는 법 | 최명기 | 서울 : SIGONGSA, 2025 | 158.2 최34말 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36837/25/cover200/k752030106_1.jpg) | 현명한 개입은 어떻게 삶을 바꾸는가 : 스탠퍼드대가 수십만 명의 삶을 통해 밝혀낸 변화 설계의 심리학 | Walton, Gregory M | 서울 : 더퀘스트 : 길벗, 2025 | 158.1 W239oK고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36813/13/cover200/k072030109_1.jpg) | 우리는 무엇을 안다고 말할 수 있는가 : 몸으로 익히고 삶으로 깨닫는 앎의 철학 | 양로맹사 | 파주 : 김영사, 2025 | 102 양295우K최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36898/25/cover200/892788101x_1.jpg) | 아트 컬렉터스 : 한국의 수집가 17인 | 이은주 | 서울 : The JoongAng Plus : 중앙일보에스, 2025 | 702.9 이67아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36837/87/cover200/k992030208_1.jpg) | 꽃 떨어진 동산에서 호미와 괭이를 들자 : 일제감시대상인물카드에 남은 보통 사람들의 독립운동 | 이동해 | 서울 : H : 휴머니스트출판그룹, 2025 | 951.61 이25꽃 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36909/32/cover200/k742030111_1.jpg) | 매일 뉴스로 출근하는 여자 : 빨래골 여자아이가 동대문 옷가게 알바에서 뉴스룸 앵커가 되기까지 | 한민용 | 파주 : 이야기장수, 2025 | 811.87 한38매 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36801/27/cover200/k312030805_1.jpg) | 외계인 자서전 : 마리-헐린 버티노 장편소설 | Bertino, Marie-Helene | 서울 : 은행나무, 2025 | 823.92 B544bK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36752/1/cover200/8937477319_2.jpg) | 꽤 낙천적인 아이 : 원소윤 장편소설 | 원소윤 | 서울 : 민음사, 2025 | 811.37 원55꽤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36931/25/cover200/8962626683_1.jpg) | 전기의 요정 | 이태연 | 서울 : 동아시아, 2025 | 537 이883전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36890/27/cover200/k242030716_1.jpg) | 우연의 의미를 찾아서 : 양자역학의 세계관을 구축한 과학자들의 도전 | Halpern, Paul | 서울 : 위즈덤하우스, 2025 | 539.725 H195sK강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36844/33/cover200/8925573474_1.jpg) | AI 혁명, 슈퍼 에이전시 : 인간보다 더 뛰어난 AI의 초지능을 활용하라! | Hoffman, Reid | 서울 : 알에이치코리아, 2025 | 303.483 H711sK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36885/0/cover200/k512030605_1.jpg) | 킹 달러 : 달러, 코인, CBDC의 미래와 새로운 통화 질서의 탄생 | Blustein, Paul | 서울 : 인플루엔셜, 2025 | 332.4973 B659kK서 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36812/43/cover200/8901296578_1.jpg) | 슬로 조깅 혁명 : 혈당·비만·노화를 한 번에 잡는 최강의 운동법 | 전중굉효 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2025 | 613.7172 전76슬K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/2704/58/cover200/118513400x_1.jpg) | 오후의 죽음 | Hemingway, Ernest | 서울 : 책미래, 2013 | 791.82 H488dK장 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34425/32/cover200/8968212082_2.jpg) | 대한민국 관광대국의 길 | 장수청 | 서울 : 비앤엠북스, 2024 | 338.4791 대92장 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36890/9/cover200/k582030715_1.jpg) | 나폴리 1925 : 아도르노, 벤야민, 그리고 ‘비판이론’이 탄생한 그 여름 | Mittelmeier, Martin | 고양 : 사월의책, 2025 | 193 M685aK최 | 중앙도서관 |
@@ -33,22 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36628/18/cover200/k042030670_1.jpg) | 욕망의 땅 : 엘리스 피터스 장편소설 | Peters, Ellis | 서울 : 북하우스, 2025 | 823.912 P481pK송2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36943/7/cover200/k712030519_1.jpg) | 비판적 사고의 힘 : AI시대를 앞서 나가는 생각의 기술 | Cottrell, Stella | 서울 : 크레센도, 2025 | 160 C851c4K윤 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36844/35/cover200/k092030205_1.jpg) | 삶은 여전히 빛난다 : 무력한 일상에서 찬란함을 발견하는 철학 | Devillairs, Laurence | 서울 : 위즈덤하우스, 2025 | 158.1 D494sK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36697/59/cover200/k452030585_1.jpg) | 제국의 저항자들 : 청대 중국의 비밀결사 천지회의 세계, 탄생에서 성장까지 | 이평수 | 서울 : 성균관대학교출판부, 2025 | 952.6 이894제 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36867/92/cover200/k622030506_1.jpg) | 데이터 삽질 끝에 UX가 보였다 : 스타트업 전문 프로덕트 디자이너가 들려주는 현실 데이터 드리븐 | 이미진 | 서울 : 한빛미디어, 2025 | 005.437 이38데 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36375/86/cover200/k392039579_1.jpg) | 그래도 여행은 하고 싶어 | 이희진 | 고양 : 모아북스, 2025 | 811.67 이97그 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36862/39/cover200/k512030501_2.jpg) | 야망은 큰데 게으른 사람을 위한 책 : 평범한 사람이 압도적인 성과를 만드는 법 | 노아영 | 서울 : 북스고, 2025 | 650.1 노62야 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36143/19/cover200/k732038672_1.jpg) | (진우 스님의) 금강경 강설 : 진우 스님 강설 | 진우 | 파주 : 김영사2025 | 294.382 진66금 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36702/82/cover200/s152030684_1.jpg) | 여자에 관하여 | Sontag, Susan | 서울 : 윌북, 2025 | 824.914 S699oK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1404/42/cover200/8949908204_1.jpg) | '몸'으로 본 한국여성사 | 국사편찬위원회 | 서울 : 경인문화사, 2011 | 305.40951 국52몸 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36094/58/cover200/8999733769_1.jpg) | 지적장애인의 삶과 유산 | Keith, Kenneth D | 서울 : 학지사, 2025 | 362.4 K28LK박 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Plain english for lawyers | Wydick, Richard C | Durham : Carolina Academic Press, 2024. | 808.042 W978p7 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36816/35/cover200/k692030102_1.jpg) | AI 에이전트 생태계 : 프레임워크와 프로토콜로 여는 새로운 AI 패러다임 | 조쉬 | 서울 : 로드북, 2025 | 006.3 조56a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26839/71/cover200/k472730393_1.jpg) | Aubrey Beardsley | 월간일러스트 | 서울 : ILLUST Book, 2021 | 741.092 B368월 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33858/83/cover200/893645725x_1.jpg) | 율의 시선 : 김민서 장편소설 | 김민서 | 파주 : 창비, 2024 | 811.37 김38율 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (國譯) 韓國近代民事判決文. 01-30 | 강릉원주대학교 인문학연구소 | 서울 : 민속원, 2021, 2025 | 347.05 강297한 v.1~15 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36653/16/cover200/k602030986_1.jpg) | 곰돌이 푸 전집 : 푸, 피글렛, 티거와 함께 떠나는 숲속 모험 | Milne, A. A | 서울 : 현대지성, 2025 | 823.912 M659wK이푸 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/4708/7/cover200/8965641039_1.jpg) | 비상과 환상 : 김소영 영화평론집 | 김소영 | 서울 : 현실문화, 2014 | 791.43015 김55비 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33010/74/cover200/8962388103_1.jpg) | 통상정책 | 서정민 | 서울 : 해남, 2023 | 382.3 서74통 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36096/51/cover200/8958209070_1.jpg) | 헌법재판소, 한국 현대사를 말하다 | 이범준 | 파주 : 궁리, 2025 | 342.00269 이44헌2 v.1 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36868/2/cover200/k712030506_1.jpg) | 나만의 MCP 서버 만들기 with 커서 AI | 서지영 | 서울 : 길벗, 2025 | 006.3 서78나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36844/73/cover200/8973278630_1.jpg) | 한국정당정치사 : 위기와 통합의 정치 | 심지연 | 서울 : 백산서당, 2025 | 324.251 심78한6 | 중앙도서관 |
