@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (코딩 문제 해결을 위한) C언어 실전 코딩 | 구은희 | 수원 : 아주대학교 출판부, 2025 | 005.133 구67c | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35906/57/cover200/k832037494_1.jpg) | (2025년도) 법학전문대학원 민사재판실무. 3 : 수습기록 | 사법연수원 | 서울 : 사법발전재단, 2025 | 347.07 사44민수 2025 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (2025년도) 법학전문대학원 민사재판실무. 2 : 강의노트 | 사법연수원 | 서울 : 사법발전재단, 2025 | 347.07 사44민강 2025 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (2025년도) 법학전문대학원 민사재판실무. 1 | 사법연수원 | 서울 : 사법발전재단, 2025 | 347.07 사44민 2025 | 법학도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36628/20/cover200/k122030670_1.jpg) | 반란의 여름 : 엘리스 피터스 장편소설 | Peters, Ellis | 서울 : 북하우스, 2025 | 823.912 P481sK김북2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36628/18/cover200/k042030670_1.jpg) | 욕망의 땅 : 엘리스 피터스 장편소설 | Peters, Ellis | 서울 : 북하우스, 2025 | 823.912 P481pK송2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36943/7/cover200/k712030519_1.jpg) | 비판적 사고의 힘 : AI시대를 앞서 나가는 생각의 기술 | Cottrell, Stella | 서울 : 크레센도, 2025 | 160 C851c4K윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36844/35/cover200/k092030205_1.jpg) | 삶은 여전히 빛난다 : 무력한 일상에서 찬란함을 발견하는 철학 | Devillairs, Laurence | 서울 : 위즈덤하우스, 2025 | 158.1 D494sK이 | 중앙도서관 |
