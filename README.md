@@ -2,7 +2,13 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 형사법 기록형 : 이해와 해설 | 한상규 | 고양 : 정독, 2025 | 345.0076 한52형3 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 특별형법 | 이주원 | 서울 : 弘文社, 2025 | 345 이76특11 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (실무) 형사소송법 | 김정한 | 대구 : 준커뮤니케이션즈, 2025 | 345.05 김74실개 2025 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 신국제법입문 | 정인섭 | 서울 : 박영사, 2025 | 341 정68국박6 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36949/35/cover200/k532030618_2.jpg) | 렛뎀 이론 : 인생이 ‘나’로 충만해지는 내버려두기의 기술 | Robbins, Mel | 서울 : 비즈니스북스, 2025 | 158.1 R635LK윤 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Recipes for science : an introduction to scientific methods and reasoning | Potochnik, Angela | New York, NY : Routledge, Taylor ＆ Francis Group, 2024. | 501 P864r2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Plants ＆ society | Levetin, Estelle | New York : McGraw Hill LLC, 2024. | 580 L663p9 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35273/58/cover200/k552934456_1.jpg) | 계절 한 그릇 : 그릇 가득 사계절의 아름다움을 담은 제철 요리 52가지 | 조민진 | 파주 : 제이펍, 2024 | 641.5 조38계 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29638/98/cover200/k422838476_1.jpg) | (한살림이 제안하는) 살림밥상 차림 | 한살림식생활센터 | 서울 : 한살림, 2022 | 641.5 한52살 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/6932/75/cover200/8996460273_1.jpg) | (우리 땅 친환경 제철 먹을거리로 만드는) 한살림 요리 | 채송미 | 서울 : 한살림, 2015(2022 4쇄) | 641.5 채55한 | 중앙도서관 |
@@ -46,9 +52,3 @@
 | ![](https://image.aladin.co.kr/product/29293/31/cover200/8961876864_1.jpg) | 관습조사 | 왕현종 | 서울 : 동북아역사재단, 2021-2024 | 951.6 왕94관 v.1~3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/20791/32/cover/8950976706_1.jpg) | 슬픔이여 안녕 | Sagan, Françoise | 파주 : 아르테, 2019 | 843.914 S129bK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34075/1/cover200/k482931476_1.jpg) | 의식은 어디에서 오는가 : 숨겨진 의식의 샘을 찾아서 | Solms, Mark | 서울 : 하나醫學社, 2024 | 153 S688hK려 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35606/30/cover200/k272036092_1.jpg) | (2025) 물류관리사 : 화물운송론 | 임종석 | 서울 : 신지원, 2025 | 658.78 임75화 2025 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36652/90/cover200/k732030985_1.jpg) | 탄소중립개론 | 정복영 | 서울 : 다누리, 2025 | 363.73874 정45탄 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/20315/0/cover200/8968177686_1.jpg) | 소통의 화용론 : 커뮤니케이션에 대한 화용적 접근 | 이성범 | 서울 : 한국문화사, 2019 | 306.44 이54소2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/18471/15/cover200/8981603901_1.jpg) | (이해하기 쉬운) 건강기능식품 | 박희정 | 고양 : 파워북, 2019 | 613.2 건12박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26010/60/cover200/8962204053_1.jpg) | 건강기능성식품학 | 고종호 | 서울 : 보문각, 2021 | 613.2 건12고4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23283/87/cover200/k662637506_1.jpg) | (Kuby) 면역학 | Punt, Jenni | 서울 : 범문에듀케이션, 2020 | 616.079 K51k8K대 | 중앙도서관 |
