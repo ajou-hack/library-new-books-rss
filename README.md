@@ -2,11 +2,26 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36157/32/cover200/8949968525_1.jpg) | 교정시설 과밀수용 방지를 위한 정책적·법적 대책 | 신용해 | 파주 : 경인문화사, 2025 | 345 신65교 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35631/96/cover200/k622036396_1.jpg) | 행정법론. 하 | 박균성 | 서울 : 박영사, 2025 | 342.06 박16행법23 v.2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35478/51/cover200/k522035549_1.jpg) | 상법강의. 하 | 정찬형 | 서울 : 박영사, 2025 | 346.07 정82상24 v.2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/37029/2/cover200/k362030838_1.jpg) | 세계의 정보보안법 : 사이버위협과 법적 대응의 체계 | 박정인 | 서울 : 지식과감성#, 2025 | 343.099 박74세 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36949/29/cover200/k172030618_1.jpg) | 법은 어디에서 오는가? | Starck, Christian | 서울 : 박영사, 2025 | 340.1 S795wK김 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36859/84/cover200/k672030405_1.jpg) | 미술과 저작권 : 내 작품도 알아야 지킨다 | 서경대학교 부설 | 서울 : 창조와지식, 2025 | 346.0482 서14미 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36994/98/cover200/k422030225_1.jpg) | 국가연구과제소송 | 황은정 | 서울 : 지식과감성#, 2025 | 342.06 황67국 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36984/84/cover200/k162030025_1.jpg) | 형법각론 | 이재상 | 서울 : 박영사, 2025 | 345 이73형각14 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36984/81/cover200/k622030024_1.jpg) | 형법총론 | 김정환 | 서울 : 박영사, 2025 | 345 김74형총 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36956/86/cover200/k342030728_1.jpg) | 특별형법 강의 | 민수영 | 고양 : 정독, 2025 | 345 민56특 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/37030/64/cover200/8918916140_1.jpg) | 친족·상속법 : 가족법 | 김주수 | 파주 : 法文社, 2025 | 346.015 김76친21 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36931/12/cover200/k252030216_1.jpg) | 商法要解 | 김선광 | 고양 : 정독, 2025 | 346.07 김54상 2025 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36930/72/cover200/k872030213_1.jpg) | 특허법 4.0 | 조영선 | 서울 : 박영사, 2025 | 346.0486 조64특9 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36912/42/cover200/k402030113_1.jpg) | (알기 쉬운) 소비자 보호법 =Consumer protection law | 남윤경 | 서울 : 박영사, 2025 | 343.071 남66소 2025 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36906/26/cover200/k432030014_1.jpg) | 핵심 민법판례와 사례 : 변호사시험 기출문제 포함 | 양형우 | 고양 : 정독, 2025 | 346.0076 양94핵4 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36898/17/cover200/k992030915_1.jpg) | 특허 3.0 AI를 활용하여 지적재산 강국으로 | 백판일 | 서울 : 박영사, 2025 | 346.0486 백892특K김 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36859/87/cover200/k862030405_1.jpg) | 스마트 치료의 법과 사회 | 엄주희 | 서울 : 박영사, 2025 | 340 스32엄 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36803/30/cover200/k662030909_1.jpg) | 위기 시대의 법과 경제 | 김철 | 파주 : 한국학술정보, 2025 | 340.1 김83위 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36791/94/cover200/k812030708_1.jpg) | 국제법의 원리 | Wheaton, Henry | 서울 : 박영사, 2025 | 341 W558eK박 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36864/3/cover200/k222030504_1.jpg) | 두 번째 기회를 위한 변론 : 왕미양 변호사 에세이 | 왕미양 | 서울 : SAY KOREA : 커리어케어, 2025 | 340.02 왕38두 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37013/6/cover200/k272030328_1.jpg) | 민사소송법 | 이시윤 | 서울 : 博英社, 2025 | 347.05 이58신 2025 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36990/54/cover200/k822030126_1.jpg) | 현대사회와 민법 | 정상현 | 서울 : 박영사, 2025 | 346 현23정 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36885/89/cover200/8977707730_1.jpg) | 민법강의 | 최준규 | 서울 : 홍문사, 2025 | 346 최76민 | 법학도서관 |
@@ -37,18 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Steel design | Segui, William T | Mason, OH : Cengage Learning, Inc., 2026. | 624.1821 S456s7 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The immune system | Parham, Peter | New York, NY : W.W. Norton ＆ Company, 2021. | 616.079 P229i5 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The new economic diplomacy : decision-making and negotiation in international economic relations | Woolcock, Stephen | Abingdon, Oxon : Routledge, 2025. | 337 B361n5 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Understanding and negotiating construction contracts : a contractor's and subcontractor's guide to protecting company assets | Werremeyer, Kit | Hoboken, New Jersey : Wiley, 2023 | 343.07869 W498u2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Data-driven science and engineering : machine learning, dynamical systems, and control | Brunton, Steven L | Cambridge, United Kingdom : Cambridge University Press, 2022. | 620.00285 B911d2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Brock biology of microorganisms | Madigan, Michael T | Harlow, England : Pearson Education Limited, 2022. | 579 B864m16 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Applied digital signal processing : theory and practice | Manolakis, Dimitris G | New York : Cambridge University Press, 2011. | 621.3822 M285a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Antennas : from theory to practice | Huang, Yi | Hoboken, NJ : Wiley, 2022. | 621.3824 H874a2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Advanced mechanics of materials and applied elasticity | Ugural, A. C | Boston : Pearson, 2020. | 620.112 U27a6 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A concise history of modern Korea : from the late nineteenth century to the present.Volume 2 | Seth, Michael J | Lanham : Rowman ＆ Littlefield, 2024. | 951 S495c4 v.2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Recipes for science : an introduction to scientific methods and reasoning | Potochnik, Angela | New York, NY : Routledge, Taylor ＆ Francis Group, 2024. | 501 P864r2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Plants ＆ society | Levetin, Estelle | New York : McGraw Hill LLC, 2024. | 580 L663p9 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35273/58/cover200/k552934456_1.jpg) | 계절 한 그릇 : 그릇 가득 사계절의 아름다움을 담은 제철 요리 52가지 | 조민진 | 파주 : 제이펍, 2024 | 641.5 조38계 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29638/98/cover200/k422838476_1.jpg) | (한살림이 제안하는) 살림밥상 차림 | 한살림식생활센터 | 서울 : 한살림, 2022 | 641.5 한52살 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/6932/75/cover200/8996460273_1.jpg) | (우리 땅 친환경 제철 먹을거리로 만드는) 한살림 요리 | 채송미 | 서울 : 한살림, 2015(2022 4쇄) | 641.5 채55한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36415/80/cover200/k242039991_2.jpg) | 퀀트 투자의 기초 : 펀더멘털 투자자를 위한 퀀트 가이드 | Paleologo, Giuseppe A | 서울 : 비지니스101, 2025 | 332.6 P156aK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33107/44/cover200/k562937828_1.jpg) | 춘추전국이야기 | 공원국 | 고양 : 위즈덤하우스, 2023 | 952.24 공66춘3 v.1 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34691/57/cover200/k592933912_1.jpg) | 제자백가, 인생 불변의 지혜 : 공자·맹자·순자·묵자·노자·장자·한비자 | 옥현주 | 서울 : 유노책주 : 유노콘텐츠그룹, 2024 | 181.2 옥94제 | 중앙도서관 |
