@@ -2,6 +2,12 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인공지능 입문 | 강경란 | 수원 : 아주대학교 출판부, 2025 | 006.3 강14인 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3047/18/cover200/898401687x_1.jpg) | 내 이름은 혹부리 : 420년 만에 돌아온 포로 소년, 홍호연 | 한수연 | 서울 : 알라딘북스 : 영림카디널, 2013 | 811.37 한56내 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29411/39/cover200/k702837222_1.jpg) | (인공지능 시대의) AI 리터러시 교과서 : 인공지능의 기본개념부터 활용기술까지 쉽게 이해하며 마스터할 수 있는 교양 필독서 | 강도유사 | 서울 : 홍릉, 2022 | 006.3 강25aK황 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25401/57/cover200/k922633013_1.jpg) | 밥을 짓읍니다 : 엄마가 딸에게 | 박정윤 | 서울 : 책과강연, 2020 | 811.87 박74밥 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35333/66/cover200/k452035589_1.jpg) | 역사적 상상과 역사교육 | 김한종 | 서울 : 책과함께, 2024 | 907 김92역책 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34469/7/cover200/k352932531_1.jpg) | (용례 기반) 일본어 유래 우리말 사전 | 이한섭 | 서울 : 한국문화사, 2024 | 411.3 이92일한 v.1~2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 裁判과 判例. 제33집 | 대구판례연구회 | 대구 : 대구판례연구회, 2025 | 348.04 재892대 v.33 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36407/13/cover200/k552039880_1.jpg) | 칼을 이긴 큰 붓 : 임진왜란 소년 포로 홍운해 이야기 | 홍종의 | 서울 : 어린이나무생각 : 나무생각, 2025 | 811.37 홍75칼 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37062/10/cover200/8966264859_1.jpg) | 데이터 리터러시를 높이는 데이터 시각화 : 숫자를 메시지로 바꾸는 스토리텔링과 그래프 작성 | Yau, Nathan | 서울 : 인사이트, 2025 | 005.55 Y35v2K한 | 중앙도서관 |
@@ -46,9 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36930/72/cover200/k872030213_1.jpg) | 특허법 4.0 | 조영선 | 서울 : 박영사, 2025 | 346.0486 조64특9 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36912/42/cover200/k402030113_1.jpg) | (알기 쉬운) 소비자 보호법 =Consumer protection law | 남윤경 | 서울 : 박영사, 2025 | 343.071 남66소 2025 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36906/26/cover200/k432030014_1.jpg) | 핵심 민법판례와 사례 : 변호사시험 기출문제 포함 | 양형우 | 고양 : 정독, 2025 | 346.0076 양94핵4 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36898/17/cover200/k992030915_1.jpg) | 특허 3.0 AI를 활용하여 지적재산 강국으로 | 백판일 | 서울 : 박영사, 2025 | 346.0486 백892특K김 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36859/87/cover200/k862030405_1.jpg) | 스마트 치료의 법과 사회 | 엄주희 | 서울 : 박영사, 2025 | 340 스32엄 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36803/30/cover200/k662030909_1.jpg) | 위기 시대의 법과 경제 | 김철 | 파주 : 한국학술정보, 2025 | 340.1 김83위 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36791/94/cover200/k812030708_1.jpg) | 국제법의 원리 | Wheaton, Henry | 서울 : 박영사, 2025 | 341 W558eK박 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36864/3/cover200/k222030504_1.jpg) | 두 번째 기회를 위한 변론 : 왕미양 변호사 에세이 | 왕미양 | 서울 : SAY KOREA : 커리어케어, 2025 | 340.02 왕38두 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37013/6/cover200/k272030328_1.jpg) | 민사소송법 | 이시윤 | 서울 : 博英社, 2025 | 347.05 이58신 2025 | 법학도서관 |
