@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 민사집행법 | 이시윤 | 서울 : 博英社, 2025 | 347.077 이58신 2025 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 헌법의 기초 | 이민열 | 서울 : KNOU Press : 한국방송통신대학교출판문화원, 2023 | 342 이38헌 v.1~2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/25967/85/cover/k412737326_1.jpg) | 돈의 심리학 : 당신은 왜 부자가 되지 못했는가 | Housel, Morgan | 서울 : 인플루엔셜, 2021 | 332.4019 H842pK이 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인공지능 입문 | 강경란 | 수원 : 아주대학교 출판부, 2025 | 006.3 강14인 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/3047/18/cover200/898401687x_1.jpg) | 내 이름은 혹부리 : 420년 만에 돌아온 포로 소년, 홍호연 | 한수연 | 서울 : 알라딘북스 : 영림카디널, 2013 | 811.37 한56내 | 중앙도서관 |
@@ -35,20 +37,18 @@
 | ![](https://image.aladin.co.kr/product/36167/43/cover200/k292038190_2.jpg) | 백날 지워봐라, 우리가 사라지나 : 광장에 선 딸들의 이야기 | 최나현 | 파주 : 오월의봄, 2025 | 305.42 최192백 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37021/58/cover200/k532030527_1.jpg) | 자소서 바이블 3.0 | 이준희 | 과천 : Alivebooks : 얼라이브커뮤니티, 2025 | 650.142 이76자3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33258/8/cover200/k712938666_1.jpg) | 재테크 시작하기 | 감형규 | 서울 : 율곡, 2024 | 332.024 감94재2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 완벽하게 전해주는 범죄이야기 | 곽대훈 | 고양 : 정독, 2025 | 345.02 곽23완 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 기본권의 기초이론 | 이민열 | 서울 : KNOU Press : 한국방송통신대학교출판문화원, 2021 | 342.085 이38기한 v.1~2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36808/37/cover200/k082030009_1.jpg) | 자몽살구클럽 | 한로로 | 서울 : 어센틱, 2025 | 811.37 한295자 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31399/67/cover/k452832203_1.jpg) | 바다가 들리는 편의점 | 정전소노코 | 서울 : 모모 : 바이포엠 스튜디오, 2023-2025 | 813.37 정74바K황 v.1~4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 大法院判例集 | 한국 | 서울 : 大法院 法院行政處 ;法院圖書館, 2001 | 348.044 한16대 v.70-1, 348.044 한16대 v.70-2, 348.044 한16대 v.70-3, 348.044 한16대 v.51-2/v.52-1/v.52-2/v.53/v.54-1/v.54-2/v.55-1/v.55-2/v.56-1/v.56-2/v.57-1/v.57-2/v.58-1/v.58-2/v.59-1/v.59-2/v.60-1/v.60-2/v.60-3/v.61-1/v.61-2/v.61-3/v.62-1/v.62-2/v.63-1/v.63-2/v.64-1/v.64-2/v.66-1/v.66-2/v.66-3/v.67-1/v.67-2/v.67-3/v.67-4/v.68-1/v.68-2/v.68-3/v.68-4/v.69-1/v.69-2/v.69-3/v.69-4/v.71-1/v.71-2/v.71-3 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 大法院判例集 | 한국 | 서울 : 大法院 法院行政處 ;法院圖書館, 2001 | 348.044 한16대 v.70-1, 348.044 한16대 v.70-2, 348.044 한16대 v.70-3, 348.044 한16대 v.51-2/v.52-1/v.52-2/v.53/v.54-1/v.54-2/v.55-1/v.55-2/v.56-1/v.56-2/v.57-1/v.57-2/v.58-1/v.58-2/v.59-1/v.59-2/v.60-1/v.60-2/v.60-3/v.61-1/v.61-2/v.61-3/v.62-1/v.62-2/v.63-1/v.63-2/v.64-1/v.64-2/v.66-1/v.66-2/v.66-3/v.67-1/v.67-2/v.67-3/v.67-4/v.68-1/v.68-2/v.68-3/v.68-4/v.69-1/v.69-2/v.69-3/v.69-4/v.71-1/v.71-2/v.71-3/v.72-1/v.72-2/v.72-3 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2025년도 법학전문대학원 형사재판실무. 4 : 수습기록 | 사법연수원 | 서울 : 사법발전재단, 2025 | 345.05 사44법형 2025 v.4 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2025년도 법학전문대학원 형사재판실무. 3 : 강의노트 | 사법연수원 | 서울 : 사법발전재단, 2025 | 345.05 사44법형 2025 v.3 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2025년도 법학전문대학원 형사재판실무. 2 : 형사판결서 | 사법연수원 | 서울 : 사법발전재단, 2025 | 345.05 사44법형 2025 v.2 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2025년도 법학전문대학원 형사재판실무. 1 : 형사소송 | 사법연수원 | 서울 : 사법발전재단, 2025 | 345.05 사44법형 2025 v.1 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36157/32/cover200/8949968525_1.jpg) | 교정시설 과밀수용 방지를 위한 정책적·법적 대책 | 신용해 | 파주 : 경인문화사, 2025 | 345 신65교 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35631/96/cover200/k622036396_1.jpg) | 행정법론. 하 | 박균성 | 서울 : 박영사, 2025 | 342.06 박16행법23 v.2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35478/51/cover200/k522035549_1.jpg) | 상법강의. 하 | 정찬형 | 서울 : 박영사, 2025 | 346.07 정82상24 v.2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37029/2/cover200/k362030838_1.jpg) | 세계의 정보보안법 : 사이버위협과 법적 대응의 체계 | 박정인 | 서울 : 지식과감성#, 2025 | 343.099 박74세 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36949/29/cover200/k172030618_1.jpg) | 법은 어디에서 오는가? | Starck, Christian | 서울 : 박영사, 2025 | 340.1 S795wK김 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36859/84/cover200/k672030405_1.jpg) | 미술과 저작권 : 내 작품도 알아야 지킨다 | 서경대학교 부설 | 서울 : 창조와지식, 2025 | 346.0482 서14미 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36994/98/cover200/k422030225_1.jpg) | 국가연구과제소송 | 황은정 | 서울 : 지식과감성#, 2025 | 342.06 황67국 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36984/84/cover200/k162030025_1.jpg) | 형법각론 | 이재상 | 서울 : 박영사, 2025 | 345 이73형각14 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36984/81/cover200/k622030024_1.jpg) | 형법총론 | 김정환 | 서울 : 박영사, 2025 | 345 김74형총 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36956/86/cover200/k342030728_1.jpg) | 특별형법 강의 | 민수영 | 고양 : 정독, 2025 | 345 민56특 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37030/64/cover200/8918916140_1.jpg) | 친족·상속법 : 가족법 | 김주수 | 파주 : 法文社, 2025 | 346.015 김76친21 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36931/12/cover200/k252030216_1.jpg) | 商法要解 | 김선광 | 고양 : 정독, 2025 | 346.07 김54상 2025 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36930/72/cover200/k872030213_1.jpg) | 특허법 4.0 | 조영선 | 서울 : 박영사, 2025 | 346.0486 조64특9 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36912/42/cover200/k402030113_1.jpg) | (알기 쉬운) 소비자 보호법 =Consumer protection law | 남윤경 | 서울 : 박영사, 2025 | 343.071 남66소 2025 | 법학도서관 |
