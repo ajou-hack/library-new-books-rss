@@ -2,6 +2,31 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36584/42/cover200/k502039551_1.jpg) | 붓과 칼 사이의 질서 : 조선의 무관 제도사 | 정해은 | 고양 : 역사산책, 2025 | 951.5 정93붓 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37117/86/cover200/8925573229_1.jpg) | 저소비 생활 : 돈도 마음도 낭비 없이 나만의 행복을 버는 | 가제노타미 | 서울 : 알에이치코리아, 2025 | 640.4 가74저K정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36995/0/cover200/k552030225_1.jpg) | 워런 버핏 바이블 : 완결판 | Buffett, Warren | 서울 : 에프엔미디어, 2025 | 658 B929wK이완 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36664/51/cover200/k612030186_1.jpg) | 몰타 | 조대현 | 서울 : 해시태그, 2025 | 914.58504 조23몰 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36995/6/cover200/k672030225_1.jpg) | 다시 쓰는 자살론 : 자살국가와 사회정의 | 김명희 | 서울 : 그린비, 2025 | 362.28 김34다 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/1130/44/cover200/8964910389_3.jpg) | (김세윤교수) 요한복음 강해 | 김세윤 | 서울 : 두란노아카데미, 2001(2024 45쇄) | 226.5 김54요 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37154/49/cover200/k512031570_1.jpg) | 전통 미술의 상징 코드 : 상징으로 읽는 옛사람들의 마음 | 허균 | 파주 : 돌베개, 2025 | 709.51 허16전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/20290/36/cover200/k302635953_1.jpg) | 포커스 중국어 독해 | 왕영 | 서울 : 시사중국어사, 2019-2020 | 412.8 왕64금K김 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32049/86/cover200/k232834984_1.jpg) | 봇로스 리포트 | 최정화 | 서울 : 위즈덤하우스, 2023 | 811.37 최74봇 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37093/25/cover200/k092030157_1.jpg) | (혁신과 가치 창출을 위한) 실전 비즈니스 프롬프트 엔지니어링 : 방법론과 적용 | 전용준 | 서울 : 홍릉, 2025 | 006.3 전65실 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36450/3/cover200/899973420x_1.jpg) | 꿈의 심리학과 집단투사 꿈작업 | 김중호 | 서울 : 학지사, 2025 | 154.63 김76꿈 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36901/41/cover200/8999734668_1.jpg) | 게슈탈트 치료 : 100가지 핵심 포인트 | Mann, Dave | 서울 : 학지사, 2025 | 616.89143 M281g2K장 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36985/44/cover200/8999734609_1.jpg) | (학교현장 중심의) 아동·청소년 이상심리학 | Diamanduros, Terry | 서울 : 학지사, 2025 | 618.9289 C536dK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37084/49/cover200/899973479x_1.jpg) | 음악은 어떻게 치료적인가 : 감정, 인지, 신경과학적 기반에서 음악치료 이해를 위한 입문 | 강경선 | 서울 : 학지사, 2025 | 615.85154 강14음 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37137/86/cover200/899973482x_1.jpg) | 자비중심치료 경험하기 : 치료자를 위한 자기연습·자기성찰 훈련 워크북 | Kolts, Russell L | 서울 : 학지사, 2025 | 616.891425 E96kK조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37154/47/cover200/8999734870_1.jpg) | (아동 청소년을 위한) 집단모래놀이치료 : 이론 및 실제 | 장미경 | 서울 : 학지사, 2025 | 616.891653 집22장 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37179/86/cover200/8999735095_1.jpg) | 게임놀이치료 | 유미숙 | 서울 : 학지사, 2025 | 618.92891653 게68유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/13739/44/cover200/s402038341_1.jpg) | 내가 죽기 일주일 전 : 내가 죽기 일주일 전 네가 내게 돌아왔다 | 서은채 | 서울 : 황금가지, 2018(2025 15쇄) | 811.37 서67내 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34896/95/cover200/8942618847_1.jpg) | (2019 개정 누리과정과 2022 개정 초등학교 교육과정에 기초한) 유아교육기관과 초등학교의 연계교육 | 곽노의 | 서울 : 창지사, 2024 | 372.21 곽195유3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/13177/1/cover200/8930089631_1.jpg) | 〈댈러스〉 보기의 즐거움 : 우리의 삶을 드라마처럼 상상하다 | Ang, Ien | 파주 : 나남, 2018 | 791.4572 A581gK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37024/58/cover200/k152030732_1.jpg) | (Cartoon college) 면역학 | 신인철 | [서울] : 마리기획, 2025 | 616.079 신68면 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11089/52/cover200/8966550770_1.jpg) | 통증을 켜다 : 손병걸 시집 | 손병걸 | 서울 : 삶창, 2017 | 811.17 손44통 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36667/5/cover200/k792030283_1.jpg) | 박승흡의 메밀 순례기 : 구황에서 미식으로 | 박승흡 | 서울 : 더봄, 2025 | 641.5951 박57박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36788/47/cover200/k462030695_1.jpg) | 진짜 나로 사는 삶 : 감정의 지혜와 힘을 다루어 진정으로 원하는 삶 살기 | Frederick, Ronald J | 파주 : 삶과지식, 2025 | 152.4 F852LK오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32856/69/cover200/k252936917_1.jpg) | 민법개론 | 김준호 | 고양 : 자운, 2024 | 346 김76민자2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/29922/1/cover200/k782838539_1.jpg) | 1897년 파리사람들 | Vrignault, Pierre | 의성군 : 스틸로그라프, 2022 | 841.8 V982pK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37016/3/cover200/8947501875_2.jpg) | 팔란티어 시대가 온다 : 엔비디아·테슬라를 뛰어넘는 AI 패권 전쟁의 승자 | 변우철 | 서울 : 한국경제신문 : 한경BP, 2025 | 658.401 변66팔 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37030/35/cover200/k972030832_1.jpg) | 문학교육론 | 최미숙 | 서울 : 사회평론아카데미, 2023 | 807 문92최사 | 중앙도서관 |
@@ -27,28 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36973/9/cover200/k532030823_1.jpg) | 달러 자산 1억으로 평생 월급 완성하라 : 집 한 채에 갇힐 것인가, 현금 부자로 살 것인가 | 채부심 | 서울 : 몽스북, 2025 | 332.6 채46달 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37149/82/cover200/k322031476_2.jpg) | 라이프코드 : 세상을 움직이는 인간 본성의 암호를 풀다 | Häusel, Hans-Georg | 서울 : 필로틱 : 라이프해킹, 2025 | 153.4 H137LK임 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34942/51/cover200/8965966574_1.jpg) | (지우고 지워서 완성한) 카피라이터의 일 | 오하림 | 서울 : 흐름, 2024 | 659.132 오92카 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/19437/13/cover200/k442635512_1.jpg) | 박정민 | 백은하 | 서울 : 백은하 배우연구소, 2019(2024 5쇄) | 791.43028092 박74백 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34545/2/cover200/8901285495_1.jpg) | 기억의 낙원 : 김상균 장편소설 | 김상균 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2024 | 811.37 김52기웅 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36388/33/cover200/k972039677_1.jpg) | 대한민국 행복지도 2025 : 서울대 행복연구센터의 행복 리포트 | 서울대학교 | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 301.0951 서66대 2025 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30065/64/cover200/k762839567_1.jpg) | 밀실살인게임 : 왕수비차잡기 | 가야정오 | 서울 : 한스미디어 : 한즈미디어, 2022 | 813.37 가63밀K김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1834/67/cover200/8997914006_1.jpg) | (루이스 웨인의 웃기고 슬프고 이상한) 고양이들 | Beetles, Chris | 서울 : 저공비행, 2012 | 741.092 W141bK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36747/4/cover200/k022030094_1.jpg) | 아무튼, 레코드 | 성진환 | 파주 : 위고, 2025 | 811.87 성78아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35373/90/cover200/k012035504_1.jpg) | 테이스트 : 음식으로 본 나의 삶 | Tucci, Stanley | 파주 : 이콘, 2024 | 641.5092 T886tK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37039/23/cover200/k732030039_1.jpg) | 참 괜찮은 나 | 변시영 | 파주 : 얼론북, 2025 | 158.1 변58참 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37036/46/cover200/8936480928_1.jpg) | 어쩌다 리더가 된 당신에게 | 최재천 | 파주 : 창비, 2025 | 658.4092 최73어 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36801/4/cover200/k552030804_1.jpg) | 징계를 마칩니다 : 일 좋아하던 평범한 검사, 총장과 맞서다 | 박은정 | 고양 : 안나푸르나, 2025 | 324.2092 박67징 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37038/63/cover200/k722030038_3.jpg) | 길을 잃은 나에게 꿈이 답하다 | 문심춘 | 남양주 : 그루칸, 2025 | 150.1954 문58길 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37028/53/cover200/8925573261_3.jpg) | 탐나는 현대미술 : 21세기가 사랑한 예술가들 | 김슬기 | 서울 : 알에이치코리아, 2025 | 709.05 김57탐 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35725/38/cover200/k802036430_1.jpg) | 파이어드 : 부의 해방일지 | 한정수 | 고양 : 체인지업북스, 2025 | 332.024 한74파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36708/83/cover200/k892030790_1.jpg) | (인생의 작은 숙련가를 위한) 감정 사전 | 단춤 | [서울] : 유유히, 2025 | 811.87 단85감 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | PowerScore LSAT reading comprehension bible | Killoran, David M | Charleston, SC : PowerScore Publishing, 2025. | 340.076 K48p 2025 v.2 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The loophole in LSAT logical reasoning | Cassidy, Ellen | [S.l] : Elemental Prep, 2025. | 340.076 C345L | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | PowerScore LSAT logical reasoning bible | Killoran, David M | Charleston, SC : PowerScore Publishing, 2025. | 340.076 K48p 2025 v.1 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The LSAT trainer : a remarkable self-study guide for the self-driven student | Kim, Mike | New York : Trainer Test Prep, 2022. | 340.076 K49L4 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/13912/65/cover200/8942623751_1.jpg) | 건강기능식품 | 김기대 | 서울 : 창지사, 2018 | 613.2 건12김창 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31644/73/cover200/k792833376_1.jpg) | (Chapra의) 응용수치해석 | Chapra, Steven C | 서울 : 맥그로힐에듀케이션코리아유한회사, 2023 | 518 C467a5K정 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introduction to chemical engineering : tools for today and tomorrow | Solen, Kenneth A | Hoboken, NJ : John Wiley ＆ Sons, Inc., 2011. | 660.2 S685i5 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Engineering mechanics : statics | Bedford, Anthony | Upper Saddle River, New Jersey : Pearson/Prentice Hall, 2024. | 620.103 B411e6 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Social psychology | Aronson, Elliot | Hoboken, NJ : Pearson, 2023. | 302 A796s11 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35626/19/cover200/8961474626_1.jpg) | 문화 이론 : 사회학적 접근 | Smith, Philip | 서울 : 이학사, 2025 | 306 S656c2K한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/18801/52/cover200/8955186010_1.jpg) | (New) easy Korean : for foreigners | Easy Korean Academy | 서울 : 한글파크, 2019(2025 7쇄) | 411.8 E13e3 v.1A/v.1B | 중앙도서관 |
