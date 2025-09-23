@@ -2,7 +2,13 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (Cartoon college) 분자세포생물학 | 신인철 | [서울] : 마리기획, 2022 | 571.6 신68분3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26334/74/cover200/8920038597_1.jpg) | 헌법논증이론 | 이민열 | 서울 : KNOU Press : 한국방송통신대학교출판문화원, 2021 | 342 이38헌한 v.1~2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/28380/25/cover200/8965964806_1.jpg) | (피터 린치의) 이기는 투자 : 월街의 영웅, 피터 린치의 개인 투자자를 위한 주식·펀드 투자법 | Lynch, Peter | 서울 : 흐름, 2021 | 332.6322 L987bK권흐2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36492/27/cover200/8957822402_1.jpg) | 현명한 투자자 | Graham, Benjamin | 파주 : 국일증권경제연구소 : 국일미디어, 2025 | 332.6 G738i4K이2 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36099/46/cover200/k252038964_2.jpg) | 흰 : 한강소설 | 한강 | 파주 : 문학동네, 2025 | 811.37 한12흰3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36215/52/cover200/k882038405_1.jpg) | 내 말은 왜 오해를 부를까 : 소통이 어려워 손해 보는 당신을 위한 현실 밀착 대화 공식 | 김윤나 | 파주 : 나무의마음, 2025 | 808.56 김66내 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36885/4/cover200/k772030605_1.jpg) | 폭력의 유산 : 억압과 저항으로 물든 제국주의 잔혹사 | Elkins, Caroline | 성남 : 상상스퀘어, 2025 | 909.0971241 E43LK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30313/49/cover200/k842839037_1.jpg) | (Cartoon college) 분자세포생물학 | 신인철 | [서울] : 마리기획, 2022 | 571.6 신68분3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/22114/3/cover200/8966551157_1.jpg) | 우리가 너무 가엾다 : 권혁소 시집 | 권혁소 | 서울 : 삶창, 2019 | 811.17 권94우 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/24525/66/cover200/k652631467_1.jpg) | 스피킹 매트릭스 : 30초 영어 말하기 | 황서윤 | 서울 : 길벗이지톡 : 길벗, 2020(2025 4쇄) | 428.34 황54스 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36584/42/cover200/k502039551_1.jpg) | 붓과 칼 사이의 질서 : 조선의 무관 제도사 | 정해은 | 고양 : 역사산책, 2025 | 951.5 정93붓 | 중앙도서관 |
@@ -46,9 +52,3 @@
 | ![](https://image.aladin.co.kr/product/34447/25/cover200/893567866x_1.jpg) | 미쉬나 | 권성달 | 파주 : 한길사, 2024 | 296.123 M678권 v.1~7 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/890/1/cover200/8956407975_1.jpg) | 포스트드라마 연극의 미학 | 김형기 | 서울 : 푸른사상, 2011 | 792.01 포57김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/1963/43/cover200/8957993061_2.jpg) | 성경 헬라어 | 한천설 | 서울 : 그리심, 2012(2022 5쇄) | 220.48 한83성 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/10249/94/cover200/8930105416_2.jpg) | 이십세기 집합주택 : 근대 공동주거 백 년의 역사 | 손세관 | 파주 : 열화당, 2016(2023 3쇄) | 728.31 손54이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The complete guide to the Willem C. Vis international commercial arbitration moot | Risse, Jörg | München, Germany : C.H. Beck | 347.09 R596c7 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32372/80/cover200/8925576163_1.jpg) | 파수꾼 : 윤성현 각본집 | 윤성현 | 서울 : after : 알에이치코리아, 2023 | 811.27 윤54파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37068/20/cover200/k042030434_1.jpg) | 어떤 마음은 설명되지 않는다 : 우울증 걸린 런던 정신과 의사의 마음 소생 일지 | Waterhouse, Benji | 서울 : 어크로스 : 어크로스출판그룹, 2025 | 616.8527 W326yK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/11987/57/cover200/k422531630_2.jpg) | (『콜랭 드 플랑시 문서철』에 새겨진) 젊은 한국학자의 영혼 : 모리스 쿠랑 평전과 서한자료집 | 부산대학교 | 서울 : 소명, 2017 | 951 C858부 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27971/7/cover200/8953140641_1.jpg) | 기독교 세계관 바로 세우기 : 성경의 렌즈로 세상을 보다 | 류현모 | 서울 : 두란노 : 두란노서원, 2021 | 261 류94기 | 중앙도서관 |
