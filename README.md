@@ -2,6 +2,10 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Intermediate accounting : IFRS edition | Kieso, Donald E | Hoboken, NJ : Wiley, 2024 | 657.044 K47ii5 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The power of cash : why using paper money is good for you and society | Zagorsky, Jay L | Hoboken, New Jersey : Wiley, 2025. | 332.4044 Z18p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The power of creative destruction : economic upheaval and the wealth of nations | Aghion, Philippe | Cambridge, Massachusetts : Belknap Press of Harvard University Press, 2023. | 330.122 A266pEc | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 根っからの文系のためのシンプル数学発想術 : あなたに秘められた数学力を引き出す7つのパターン | 영야곡지 | 東京 : 技術評論社, 2013 | 510 영63근 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36305/59/cover200/k502038441_1.jpg) | 중독되는 아이들 : 미디어 세상에서 현명한 부모로 살기 | 송지혜 | 파주 : 글항아리, 2025 | 649.1 중25송 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/13707/4/cover200/8999715086_1.jpg) | 자폐성 장애학생 교육 | 방명애 | 서울 : 학지사, 2018(2025 11쇄) | 371.94 자894방 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33408/70/cover200/k072938230_1.jpg) | 다음 세대를 위한 남북주민통합 : 접촉 일상 공존 | 한기호 | 파주 : 한국학술정보, 2024 | 325.21 다67한 | 중앙도서관 |
@@ -33,6 +37,14 @@
 | ![](https://image.aladin.co.kr/product/36786/15/cover200/893158606x_1.jpg) | 스포츠, AI와 동행하다 : 인간 본능과 기계 지능이 만나는 미래 스포츠 | Brady, Christopher | 서울 : BM성안당, 2025 | 796.021 B812aK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/6614/1/cover200/8961542028_1.jpg) | (웰니스) 맞춤운동 | Thygerson, Alton L | 서울 : 라이프사이언스, 2015 | 613 T549f3K차 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34127/66/cover200/k252931195_1.jpg) | (데이터로 말한다!) CRM 마케팅 : 일회성 구매자를 충성 고객으로! 돈이 되는 고객 관리 실무 전략 | 이은영 | 서울 : 한빛미디어, 2024 | 658.812 이67c | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36951/4/cover200/k562030611_1.jpg) | 딥러닝 제대로 이해하기 | Prince, Simon J. D | 파주 : Jpub : 제이펍, 2025 | 006.31 P957uK고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37083/70/cover200/k332030051_1.jpg) | 생존을 위한 최소한의 지리 : 다섯 가지 키워드로 보는 초예측 지정학 | 최준영 | 파주 : 교보문고, 2025 | 320.12 최76생 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36976/43/cover200/k702030923_.jpg) | 납득되는 몰상식한 아이디어 : 제대로 설계된 무례함으로 세상을 주목시키는 힘 | 송재원 | 서울 : 토네이도 : 토네이도미디어그룹, 2025 | 658.4063 송73납 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37083/87/cover200/k902030052_2.jpg) | 경성풍경 : 지도와 사진으로 만나는 근대 서울의 원형 | 김상엽 | 서울 : 혜화1117, 2025 | 951.91 김52경 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37020/88/cover200/k942030524_1.jpg) | 모든 것은 하나다 : 플라톤에서 양자역학까지 일원론의 철학과 과학 | Päs, Heinrich | 서울 : 바다, 2025 | 523.101 P126oK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37035/52/cover200/k472030930_1.jpg) | 것필링 : 미생물이 들려주는 생명과 건강의 새로운 이야기 | Fasano, Alessio | 서울 : 파라사이언스 : 파라북스, 2025 | 612.32 F248gK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37064/36/cover200/k912030337_1.jpg) | CRYPTO.AI : 블록체인과 AI의 본질을 이해하고, 트렌드를 파악하다 | 김기영 | 남양주 : 키랩스, 2025 | 332.178 김18c | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37067/43/cover200/k992030432_2.jpg) | 우리 가족의 하루는 36시간입니다 : 치매 돌봄 사전 | Mace, Nancy L | 파주 : 라라 : 한국학술정보, 2025 | 616.831 M141t7K정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31313/21/cover200/k542832880_1.jpg) | 사마귀 생태 도감 | 변영호 | 파주 : 자연과생태, 2023 | 595.727 변64사 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28350/32/cover200/8937463954_1.jpg) | 월든 | Thoreau, Henry David | 서울 : 민음사, 2021 | 828.8 T488wK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36909/56/cover200/k322030112_1.jpg) | 월요일 수요일 토요일 : 페트라 펠리니 소설 | Pellini, Petra | [파주] : 북파머스 : 책읽어주는남자, 2025 | 833.92 P391bK전 | 중앙도서관 |
@@ -40,15 +52,3 @@
 | ![](https://image.aladin.co.kr/product/37061/58/cover200/k812030236_3.jpg) | 호의에 대하여 : 무엇이 우리를 살아가게 하는가 | 문형배 | 파주 : 김영사, 2025 | 811.87 문94호 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37024/77/cover200/k482030732_1.jpg) | 양면의 조개껍데기 : 김초엽 소설집 | 김초엽 | 서울 : 래빗홀 : 인플루엔셜, 2025 | 811.37 김84양 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36949/35/cover200/k532030618_2.jpg) | 렛뎀 이론 : 인생이 ‘나’로 충만해지는 내버려두기의 기술 | Robbins, Mel | 서울 : 비즈니스북스, 2025 | 158.1 R635LK윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36801/27/cover200/k312030805_1.jpg) | 외계인 자서전 : 마리-헐린 버티노 장편소설 | Bertino, Marie-Helene | 서울 : 은행나무, 2025 | 823.92 B544bK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36931/65/cover200/k912030312_2.jpg) | 치매에 걸린 뇌과학자 : 절망 속에서도 결코 사라지지 않는 것들에 대하여 | Gibbs, Daniel | 서울 : 더퀘스트 : 길벗, 2025 | 616.8311 G442tK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36890/78/cover200/k672030717_1.jpg) | 치즈 이야기 : 조예은 소설 | 조예은 | 파주 : 문학동네, 2025 | 811.37 조64치 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36844/27/cover200/k742030204_1.jpg) | 다크 심리학 | 다크 사이드 프로젝트 | [천안] : 어센딩, 2025 | 150 다877다 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36792/68/cover200/k402030700_1.jpg) | 명랑한 이시봉의 짧고 투쟁 없는 삶 : 이기호 장편소설 | 이기호 | 파주 : 문학동네, 2025 | 811.37 이18명 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32516/43/cover200/8962819031_1.jpg) | 오픽노잼 : 스크립트 없이 오픽 쌉가능 | 오픽노잼 | 서울 : PAGODA Books, 2023 | 428.34 오898오2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34582/45/cover200/k862933375_1.jpg) | 마침내 멸망하는 여름 | 정 | 서울 : 부크크, 2024 | 811.17 정74마 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36612/28/cover200/k202030863_1.jpg) | 편안함의 습격 : 편리와 효율, 멸균과 풍족의 시대가 우리에게서 앗아간 것들에 관하여 | Easter, Michael | 파주 : 수오서재, 2025 | 613 E13cK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36653/11/cover200/k582030986_2.jpg) | (이게 되네?) 클로드 MCP : 미친 활용법 27제 | 박현규 | 서울 : 골든래빗, 2025 | 006.3 박94클 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36659/88/cover200/8962626608_1.jpg) | 먼저 온 미래 : AI 이후의 세계를 경험한 사람들 | 장강명 | 서울 : 동아시아, 2025 | 303.483 장12먼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36652/71/cover200/k802030984_1.jpg) | 테이블 포 투 : 에이모 토울스 소설 | Towles, Amor | 서울 : 현대문학, 2025 | 823.92 T742tK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34797/80/cover200/8937437562_1.jpg) | 참을 수 없는 존재의 가벼움 | Kundera, Milan | 서울 : 민음사, 2018(2025 40쇄) | 891.8635 K96nK이4 | 중앙도서관 |
