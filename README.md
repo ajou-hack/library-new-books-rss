@@ -2,6 +2,15 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/23793/16/cover200/k652639088_1.jpg) | 미시경제학 : 연습문제 해답집 | 김영산 | 서울 : 박영사, 2020(2025 인쇄) | 338.5 김64미연3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37087/35/cover200/k162030150_1.jpg) | 로컬 문화 혹은 모더니티의 가장자리 | 최유준 | 광주 : 전남대학교출판문화원, 2025 | 306.4 최66로 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 수학없는 물리 | Hewitt, Paul G | 서울 : 프로텍미디어, 2022 | 530 H611c13K원 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/20635/25/cover200/8955662297_1.jpg) | (의학·보건학 연구자를 위한) R 메타분석 | 심성률 | 서울 : 한나래아카데미 : 한나래플러스, 2019 | 519.50285 심54r | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37174/53/cover200/8956298610_1.jpg) | (보건·사회 정책분야의) 체계적 문헌고찰과 메타분석 | 우경숙 | 서울 : 계축문화사, 2025 | 519.50285 체14우 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36413/78/cover200/8930319734_1.jpg) | 한국어 음성학 연구 방법론 | 김현 | 서울 : 집문당, 2025 | 411.11 김94한 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 동아시아 도시의 접속과 연결 : 실천편 | 권응상 | 고양 : 學古房, 2024 | 307.76 동62권실 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34072/96/cover200/k792931474_1.jpg) | 새 이화 한국어 : workbook | 이화여자대학교 | 서울 : 이화여자대학교 출판문화원, 2024-2025 | 411.8 이95새w v.1-1/v.1-2/v.2-1/v.2-2/v.3-1/v.3-2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/287/50/cover/899351027x_1.jpg) | 심리치료에서 정서를 어떻게 다룰 것인가 | Greenberg, Leslie S | 서울 : 학지사, 2008(2024 15쇄) | 616.8914 G798wK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37298/25/cover200/k902031546_1.jpg) | (2026) 대한민국 대전망 : 대변혁시대 대한민국 리빌딩 | 이영한 | 서울 : 케이북스, 2025 | 303.4951 대92이 2026 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33315/45/cover200/k582938482_2.jpg) | 여든의 문턱 : 한판암 수필집 | 한판암 | 서울 : 해드림, 2024 | 811.47 한892여 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37290/85/cover200/k782031345_2.jpg) | 자린고비의 노래 : 한판암 수필집 | 한판암 | 서울 : 해드림, 2025 | 811.47 한892자 | 중앙도서관 |
@@ -43,12 +52,3 @@
 | ![](https://image.aladin.co.kr/product/37083/11/cover200/k632030059_1.jpg) | 형사소송에서 하자의 치유 | 나기업 | 서울 : 박영사, 2025 | 345.05 나18형 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37192/3/cover200/k582031296_1.jpg) | 케이팝, 이상한 나라의 아이돌 : 상품으로 소모되는 아이들에 대하여 | 전다현 | 파주 : 김영사, 2025 | 338.4778 전22케 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37144/50/cover200/8932324476_1.jpg) | 낭만적 우정과 무가치한 연애들 : 연인도 부부도 아니지만 인생을 함께하는 친구 관계에 대하여 | Cohen, Rhaina | 서울 : 현암사, 2025 | 177.62 C678oK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37242/43/cover200/890129737x_1.jpg) | 어떻게 말해야 사람의 마음을 얻는가 : 결국 목적을 달성하는 과학적 대화의 법칙 | Brooks, Alison Wood | 파주 : 웅진지식하우스 : 웅진씽크빅, 2025 | 153.6 B873tK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37154/30/cover200/k152031570_1.jpg) | 조용한 회복 : 삶의 균열 앞에서 나를 돌보는 연습 | 박재연 | 서울 : 한빛라이프, 2025 | 158.1 박73조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37178/65/cover200/k832031677_1.jpg) | 제3의 응전 : 기계·인터넷·AI, 기술 혁명에 응답한 인간의 전략 | 모종린 | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 303.483 모75제 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37192/45/cover200/8901297477_1.jpg) | 감정의 과학 : 불안과 무기력, 감정 기복의 악순환을 끊는 6가지 감정 체인저 | Kross, Ethan | 파주 : 웅진지식하우스 : 웅진씽크빅, 2025 | 152.4 K93sK왕 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37211/13/cover200/k202031594_1.jpg) | 하늘 | Mouawad, Wajdi | 서울 : 지만지드라마 : 커뮤니케이션북스, 2025 | 842.92 M924cK임 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37225/61/cover200/8932925429_1.jpg) | 콜디츠 : 나치 포로수용소를 뒤흔든 집요한 탈출과 생존의 기록 | Macintyre, Ben | 파주 : 열린책들, 2025 | 940.547243 M152cK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37202/91/cover200/8932044384_1.jpg) | 행복한 시간들 | Quignard, Pascal | 서울 : 문학과지성사, 2025 | 844.914 Q6hK송 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37145/19/cover200/k042031470_1.jpg) | 산 위의 미술관 : 류성훈 시집 | 류성훈 | 파주 : 문학동네, 2025 | 811.17 류54산 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37226/4/cover200/k122031701_2.jpg) | 일곱 번째는 내가 아니다 : 폴 클리브 장편소설 | Cleave, Paul | [서울] : 서삼독, 2025 | 823.92 C623cK백 | 중앙도서관 |
