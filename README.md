@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/37144/79/cover200/k442031479_3.jpg) | 트렌드 코리아 2026 : 2026 대한민국 소비트렌드 전망 | 김난도 | 서울 : 미래의창, 2025 | 338.544 트294김 2026 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37092/22/cover200/k332030153_1.jpg) | 머니 트렌드 2026 : 위기 속 돈의 흐름을 지배하는 50가지 생존 공식 | 김도윤 | [대구] : 북모먼트 : 책읽어주는남자, 2025 | 332.024 머198정 2026 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23793/16/cover200/k652639088_1.jpg) | 미시경제학 : 연습문제 해답집 | 김영산 | 서울 : 박영사, 2020(2025 인쇄) | 338.5 김64미연3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37087/35/cover200/k162030150_1.jpg) | 로컬 문화 혹은 모더니티의 가장자리 | 최유준 | 광주 : 전남대학교출판문화원, 2025 | 306.4 최66로 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 수학없는 물리 | Hewitt, Paul G | 서울 : 프로텍미디어, 2022 | 530 H611c13K원 | 중앙도서관 |
@@ -11,6 +13,7 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 동아시아 도시의 접속과 연결 : 실천편 | 권응상 | 고양 : 學古房, 2024 | 307.76 동62권실 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34072/96/cover200/k792931474_1.jpg) | 새 이화 한국어 : workbook | 이화여자대학교 | 서울 : 이화여자대학교 출판문화원, 2024-2025 | 411.8 이95새w v.1-1/v.1-2/v.2-1/v.2-2/v.3-1/v.3-2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/287/50/cover/899351027x_1.jpg) | 심리치료에서 정서를 어떻게 다룰 것인가 | Greenberg, Leslie S | 서울 : 학지사, 2008(2024 15쇄) | 616.8914 G798wK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31427/37/cover/k532832215_1.jpg) | 하우스메이드 | McFadden, Freida | 서울 : 북플라자, 2023-2025 | 823.92 M143hK김 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37298/25/cover200/k902031546_1.jpg) | (2026) 대한민국 대전망 : 대변혁시대 대한민국 리빌딩 | 이영한 | 서울 : 케이북스, 2025 | 303.4951 대92이 2026 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33315/45/cover200/k582938482_2.jpg) | 여든의 문턱 : 한판암 수필집 | 한판암 | 서울 : 해드림, 2024 | 811.47 한892여 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37290/85/cover200/k782031345_2.jpg) | 자린고비의 노래 : 한판암 수필집 | 한판암 | 서울 : 해드림, 2025 | 811.47 한892자 | 중앙도서관 |
@@ -34,9 +37,7 @@
 | ![](https://image.aladin.co.kr/product/27940/5/cover200/k642734118_2.jpg) | 비틀즈 : 겟 백 | Beatles | [서울] : 항해, 2022 | 782.421660922 B369bK서 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36796/72/cover200/8920052778_1.jpg) | 문학으로 본 프랑스역사 | 이용철 | 서울 : KNOU Press : 한국방송통신대학교출판문화원, 2025 | 944 문92이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37172/36/cover200/k662031678_2.jpg) | 절창 : 구병모 장편소설 | 구병모 | 파주 : 문학동네, 2025 | 811.37 구44절 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37144/79/cover200/k442031479_3.jpg) | 트렌드 코리아 2026 : 2026 대한민국 소비트렌드 전망 | 김난도 | 서울 : 미래의창, 2025 | 338.544 트294김 2026 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Intermediate accounting : IFRS edition | Kieso, Donald E | Hoboken, NJ : Wiley, 2024 | 657.044 K47ii5 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37092/22/cover200/k332030153_1.jpg) | 머니 트렌드 2026 : 위기 속 돈의 흐름을 지배하는 50가지 생존 공식 | 김도윤 | [대구] : 북모먼트 : 책읽어주는남자, 2025 | 332.024 머198정 2026 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37021/12/cover200/k802030524_1.jpg) | 헷갈리는 우리말 바로 알기 : 이 정도 알면 맞춤법 실력 상위 5%! | 송현정 | 파주 : 한국학술정보, 2025 | 411.13 송94헷 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/13708/43/cover200/k822532728_1.jpg) | 사회심리학 | Aronson, Elliot | 서울 : 시그마프레스, 2018(2024 3쇄) | 302 A769s9K고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36905/51/cover200/8981099022_1.jpg) | (주석) 민법 : 친족. 2 : §844-§996 | 민유숙 | 서울 : 韓國司法行政學會, 2025 | 346 민44친7 v.2 | 법학도서관 |
@@ -51,4 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 과학기술과 법 : 사례와 이론 중심 | 오승한 | 파주 : 기한재, 2025 | 344.095 오57과 2025 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37083/11/cover200/k632030059_1.jpg) | 형사소송에서 하자의 치유 | 나기업 | 서울 : 박영사, 2025 | 345.05 나18형 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37192/3/cover200/k582031296_1.jpg) | 케이팝, 이상한 나라의 아이돌 : 상품으로 소모되는 아이들에 대하여 | 전다현 | 파주 : 김영사, 2025 | 338.4778 전22케 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37144/50/cover200/8932324476_1.jpg) | 낭만적 우정과 무가치한 연애들 : 연인도 부부도 아니지만 인생을 함께하는 친구 관계에 대하여 | Cohen, Rhaina | 서울 : 현암사, 2025 | 177.62 C678oK박 | 중앙도서관 |
