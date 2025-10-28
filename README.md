@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Droit des contrats administratifs | Richer, Laurent | Paris : LGDJ, 2024 | 342.06 R529d13 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36129/99/cover200/k842038374_1.jpg) | 공생과 회복 : 1990년대 이후 한국 현대시의 타자, 소수자와 원형 이미지 | 변선우 | 서울 : 역락, 2025 | 811.1709 변54공 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (과학잡지) 에피 | 이음 | 서울 : 이음, 2023 | 502 이67에 v.24~25 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37208/11/cover200/k942031599_2.jpg) | 한화 이글스 불꽃의 시즌 : 어게인 1999를 향해 다함께 울고 웃었던 시간 | 조은혜 | 서울 : 브레인스토어, 2025 | 796.357 조67한 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/873/3/cover200/8957974652_1.jpg) | (빠른 독해의 지름길) 문맥 순해 | 김영로 | 서울 : 넥서스, 2011(2025 20쇄) | 428.4 김64문2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37110/77/cover200/k162030350_1.jpg) | 끝까지 나를 사랑하는 마음 | 홍성남 | 파주 : 김영사, 2025 | 158.3 홍54끝 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37299/36/cover200/k432031547_1.jpg) | 쓰는 몸으로 살기 : 나를 다듬고 타자와 공명하는 어른의 글쓰기 | 김진해 | 서울 : 한겨레엔, 2025 | 808 김78쓰 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37225/12/cover200/k162031697_1.jpg) | 고요한 결심 : 내 삶의 언어로 존엄을 지키는 일에 대하여 | 이화열 | 서울 : 앤의서재, 2025 | 811.87 이95고 | 중앙도서관 |
