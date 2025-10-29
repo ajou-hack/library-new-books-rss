@@ -2,6 +2,38 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/35936/7/cover200/k272037700_1.jpg) | (한 권으로 끝내는) 만만한 자소서 : 1,000명 이상의 합격자를 배출한 취업 준비 로드맵! | 취업왕 이쌤 | 서울 : 한빛미디어, 2025 | 650.142 취64만 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36182/0/cover200/k842038394_1.jpg) | 상위 2% 자소서의 15가지 조건 | 김다빛 | 서울 : 바른북스, 2025 | 650.142 김22상 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37426/26/cover200/k292032990_1.jpg) | (실무로 통하는) LLM 애플리케이션 설계 | Pai, Suhas | 서울 : 한빛미디어, 2025 | 006.3 P142dK박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 파생상품의 평가와 헤징전략 | Hull, John | 서울 : 퍼스트북, 2023 | 332.645 H913f9K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36853/50/cover200/k072030409_2.jpg) | 야구선수 김원중 : 그저 롯데 자이언츠 | 김원중 | 서울 : 브레인스토어, 2025 | 798.357092 김66야 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36529/99/cover200/k402039626_1.jpg) | 스마트도시, 미래를 혁신하다 : 빅데이터가 말하는 스마트 시티 | 진희선 | 서울 : 나무지혜, 2025 | 307.76 스32진 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36214/37/cover200/k872038402_1.jpg) | 행복한 위선자 : 지친 사람들을 위한 동화 | Beerbohm, Max | 서울 : 사자와어린양, 2025 | 823.912 B415hK홍 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37324/15/cover200/k262031951_1.jpg) | 세상을 바꾼 위대한 질문들 : 외대부고 박인호 쌤의 미국 명문대 인문기행 | 박인호 | 서울 : 글로세움, 2025 | 378.73 박68세 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35567/72/cover200/k272036377_1.jpg) | 사토시 테라피 | 거스 쿤 | 서울 : 디애셋, 2024 | 332.40285 거57사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36497/90/cover200/k612039222_1.jpg) | 부동산 개발사업 시행원리 : 금융/도급/신탁 계약과 부동산 역사 | 최필주 | 김포 : 드림디벨롭, 2025 | 332.6324 최898부금 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/5232/48/cover200/8952771869_1.jpg) | 세상의 생일 | Le Guin, Ursula K | 서울 : 시공사, 2015(2020 3쇄) | 823.914 L521bK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37210/87/cover200/k822031593_1.jpg) | 부동산 트렌드 2026 : 하버드 박사 김경민 교수의 부동산 투자 리포트 | 김경민 | 서울 : 와이즈맵, 2025 | 332.6324 김14부 2026 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23313/50/cover200/8920035261_1.jpg) | 부모교육 | 김진경 | 서울 : KNOU PRESS : 한국방송통신대학교출판문화원, 2020(2025 6쇄) | 649.1 김78부2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37298/43/cover200/k372031546_1.jpg) | 오직 그녀의 것 : 김혜진 장편소설 | 김혜진 | 파주 : 문학동네, 2025 | 811.37 김94오문 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28121/56/cover200/8965457521_1.jpg) | 하근찬 전집 | 하근찬 | 부산 : 산지니, 2021-2025 | 811.37 하17하 v.3/10~11 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37231/42/cover200/k292031803_1.jpg) | 요즘 개발자를 위한 시스템 설계 수업 : 기초 개념부터 X·인스타그램·구글 독스·넷플릭스 사례 학습과 면접 대비까지 | Sinha, Dhirendra | 서울 : 길벗, 2025 | 005.12 S617sK양 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37323/2/cover200/k352031857_1.jpg) | 디테일 러닝 : 호흡과 자세로 완성하는 러닝 퍼포먼스 | 구현경 | 서울 : piper press : 파이퍼 프레스, 2025 | 796.42 구94디 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37276/65/cover200/k072031325_1.jpg) | 나는 이 빌어먹을 지구를 살려보기로 했다 : 지구의 마지막 세대가 아니라 최초의 지속 가능한 세대가 되기 위해 | Ritchie, Hannah | 서울 : 부키, 2025 | 363.7 R599nK연 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37209/70/cover200/8993178410_1.jpg) | 상품이 되어버린 우리들의 집값에 대하여 : 왜 전 세계의 집값은 유독 21세기에 더 폭등하는가 | Ryan-Collins, Josh | 서울 : 사이, 2025 | 333.338 R989wK윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37242/35/cover200/8925573105_1.jpg) | 나는 왜 생각만 하고 그대로일까 : 실패의 굴레에서 벗어나 실행을 만드는 무의식 사용법 | Tracy, Courtney | 서울 : 알에이치코리아, 2025 | 153 T761yK문 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37433/95/cover200/k602032092_1.jpg) | 시체는 거짓말하지 않는다 : 살아 있는 당신에게 들려주는 법의학자의 생존 교양 지식 | 유성호 | 서울 : 위즈덤하우스, 2025 | 614.1 유54시 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37255/9/cover200/k122031121_1.jpg) | 넥스트 씽킹 : 노벨물리학상 수상자의 사고 대전환 프로젝트 | Perlmutter, Saul | 서울 : 위즈덤하우스, 2025 | 153.42 P451tK노 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37244/69/cover200/k412031922_1.jpg) | (모두를 위한) 한국미술사 : 교양과 상식으로서 우리 문화유산의 역사 | 유홍준 | 서울 : 눌와, 2025 | 709.51 유95한교 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37231/24/cover200/k562031802_1.jpg) | 동인도회사, 제국이 된 기업 : 탐욕과 혼돈의 아수라 | Dalrymple, William | 서울 : 생각의힘, 2025 | 954.031 D151aK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37256/78/cover200/k282031125_1.jpg) | 어른의 품위 : 진짜 어른이 되기 위해 지켜야 할 삶의 태도 | 최서영 | [대구] : 북로망스 : 책읽어주는남자, 2025 | 811.87 최54어 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37301/34/cover200/8932044627_1.jpg) | 작약과 공터 : 허연 시집 | 허연 | 서울 : 문학과지성사, 2025 | 811.17 허64작 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37425/80/cover200/k242032998_2.jpg) | 아무도 오지 않는 곳에서 : 천선란 연작소설 | 천선란 | 서울 : 허블, 2025 | 811.37 천54아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37271/4/cover200/8932925372_1.jpg) | 걷다 | 김유담 | 파주 : 열린책들, 2025 | 811.3708 걷22김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37208/87/cover200/k572031590_2.jpg) | 처음 만나는 양자의 세계 : 양자 역학부터 양자컴퓨터까지 | 채은미 | [파주] : 북플레저 : 책읽어주는남자, 2025 | 530.12 채67처 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37199/86/cover200/k762031498_1.jpg) | 감각의 설계자들 : 미식부터 도시개발까지, 유럽에서 발견한 미래 소비 비즈니스 | 김양아 | 서울 : 북스톤, 2025 | 658.8 김63감 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37148/22/cover200/k202031474_1.jpg) | 라이프 트렌드 2026 : 인간증명 + 경험사치 | 김용섭 | 서울 : 부키, 2025 | 303.49 김65라 2026 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37306/97/cover200/k732031647_1.jpg) | (몸이 보내는) 마지막 신호들 30 : 중년 이후, 10년 더 건강하게 사는 확실한 방법 | 최석재 | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 613.0434 최54마 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Droit des contrats administratifs | Richer, Laurent | Paris : LGDJ, 2024 | 342.06 R529d13 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36129/99/cover200/k842038374_1.jpg) | 공생과 회복 : 1990년대 이후 한국 현대시의 타자, 소수자와 원형 이미지 | 변선우 | 서울 : 역락, 2025 | 811.1709 변54공 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (과학잡지) 에피 | 이음 | 서울 : 이음, 2023 | 502 이67에 v.24~25 | 중앙도서관 |
@@ -20,35 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36786/80/cover200/k472030698_2.jpg) | 가공범 | 동야규오 | 파주 : 북다 : 교보문고, 2025 | 813.37 동63가K김북 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37433/71/cover200/k072032091_1.jpg) | 기획의 감각 : 국내 1세대 A&R 프로듀서 정병기가 써내려간 기획의 세계 | 정병기 | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 338.47791 정44기 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/11013/20/cover200/k802531977_1.jpg) | 애착 중심 가족치료 : 애착과 상호주관성, PACE 기법을 이용한 가족치료 워크북 | Hughes, Daniel A | 남양주 : 눈, 2017 | 616.89156 H893aK노2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24880/25/cover200/8999721523_1.jpg) | 청소년 자해상담 : 이론과 실제 | 서미 | 서울 : 학지사, 2020 | 616.8582 청55서 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 동역학 | Bedford, Anthony | 서울 : 한빛아카데미, 2024 | 620.104 B411e6K권 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35313/62/cover200/k682035371_1.jpg) | 비영리법인 회계와 세무 실무 | 삼일회계법인 | 서울 : Samil : 삼일인포마인, 2024 | 657.98 삼68비9 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37083/34/cover200/893632666x_1.jpg) | (Belch&Belch) IMC 광고론 : 통합 마케팅 커뮤니케이션(IMC) 관점의 광고와 프로모션 | Belch, George E | 파주 : 교문사, 2025 | 659.1 B427a12K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37086/70/cover200/k902030159_1.jpg) | AI와 문화 기술 | 김돈정 | 서울 : 커뮤니케이션북, 2025 | 700.105 김25a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22587/87/cover200/k102636938_1.jpg) | 인간의 우주적 초라함과 삶의 부조리에 대하여 : 삶의 의미, 부조리, 반대신론(Anti-theism)의 철학 | 최성호 | 서울 : 필로소픽, 2019 | 128 최54인 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Rethinking writing education in the age of generative AI | Wang, Chaoran | New York : Routledge, 2025. | 428.0078563 W246r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Satellite communications | Roddy, Dennis | New York : McGraw Hill, 2024. | 621.3825 R686s5 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Technology and market structure : theory and history | Sutton, John | Cambridge, Mass : MIT Press, 2001. | 338.064 S967t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Productize : the ultimate guide to turning professional services into scalable products | Tierney Armstrong, Eisha | [Cincinnati, OH] : Vecteris, 2021. | 658.5 T564p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Econometrics | Hansen, Bruce E | Princeton : Princeton University Press, 2022. | 330.015195 H249e | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Principles of translational science in medicine : from bench to bedside | Wehling, Martin | London : Academic Press, An imprint of Elsevier, 2021. | 610.285 W413p3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | SketchUpベストテクニック120 : SketchUpを使いこなすための基本・応用テクニック! | 山形雄次郎 | 東京 : エクスナレッジ, 2021 | 720.2840285 산94s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Medicine as culture : illness, disease, and the body | Lupton, Deborah | London : SAGE, 2012. | 306.461 L966m3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A morbid taste for bones : the first chronicle of Brother Cadfael of the Benedictine Abbey of Saint Peter and Saint Paul, at Shrewsbury | Peters, Ellis | New York : MysteriousPress : Open Road Media, 2014. | 823.912 P481m | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Quantal density functional theory | Sahni, Viraht | Berlin : Springer, 2016. | 530.12 S131q2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Density functional theory : an advanced course | Engel, Eberhard | Berlin | 541.28 E57d | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The let them theory : a life-changing tool that millions of people can't stop talking about | Robbins, Mel | Carlsbad, California : Hay House LLC, 2024. | 158.1 R635L | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37297/52/cover200/k822031543_1.jpg) | 코리안 디아스포라 | 강태욱 | 인천 : 평화누리 : 평화누리협동조합, 2025 | 325.251 강883코 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35408/7/cover200/k042035329_1.jpg) | 안부 | 이지연 | 서울 : 파도, 2024 | 811.1708 안46이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33625/83/cover200/k912939211_1.jpg) | 다정 | 김태우 | 서울 : 파도, 2024 | 811.1708 다74김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36487/3/cover200/k242039015_1.jpg) | 여름으로 지어진 곳 | 소운 | [서울] : 여름섬, 2025 | 811.37 소66여2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37307/54/cover200/k402031759_1.jpg) | 모두를 위한 디자인은 : 5년간 9개국 300명의 사람들을 인터뷰하며 깨달은 차별 없는 디자인 사고법 | 김병수 | 서울 : 휴머니스트출판그룹, 2025 | 745.4 김44모 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34351/87/cover200/8960884634_1.jpg) | 구글 애널리틱스 4를 활용한 디지털 마케팅 with 챗GPT : AI를 활용한 퍼포먼스 마케팅 | 이태열 | 서울 : 디지털북스, 2024 | 658.872 이883구 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36763/79/cover200/k632030396_1.jpg) | 전광훈 현상의 기원 : 한국 개신교 극우주의에 관하여 | 배덕만 | [인천] : 뜰힘, 2025 | 261.7 배24전 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37189/2/cover200/k022031294_1.jpg) | 우리는 무엇을 타고나는가 : 유전과 환경, 그리고 경험이 우리에게 미치는 영향 | Mitchell, Kevin J | 군산 : 오픈도어북스 : 하움, 2025 | 612.82 M681iK이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 투자디톡스 : 본성에 휘둘리지 않고 불안에서 벗어나기 | 문홍철 | 서울 : 연합인포맥스북스, 2025 | 332.6322 문95투 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36170/15/cover200/k022038193_1.jpg) | 인공지능과 영화 교육 | 이아람찬 | 서울 : 커뮤니케이션북스, 2025 | 791.4307 이62인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37336/49/cover200/k922032662_1.jpg) | AI 인류혁명 : AI 문명대변혁과 한국형 소버린 AI의 길 “인간다움의 길을 열다” | 안종배 | 서울 : 박영사, 2025 | 303.483 안75a2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/873/3/cover200/8957974652_1.jpg) | (빠른 독해의 지름길) 문맥 순해 | 김영로 | 서울 : 넥서스, 2011(2025 20쇄) | 428.4 김64문2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37110/77/cover200/k162030350_1.jpg) | 끝까지 나를 사랑하는 마음 | 홍성남 | 파주 : 김영사, 2025 | 158.3 홍54끝 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37299/36/cover200/k432031547_1.jpg) | 쓰는 몸으로 살기 : 나를 다듬고 타자와 공명하는 어른의 글쓰기 | 김진해 | 서울 : 한겨레엔, 2025 | 808 김78쓰 | 중앙도서관 |
