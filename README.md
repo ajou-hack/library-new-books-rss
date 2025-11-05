@@ -2,6 +2,27 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36416/77/cover200/k282039995_1.jpg) | 왜 아버지는 자살하셨을까? | Joiner, Thomas E | [서울] : 황소자리, 2025 | 616.858445 J74wK김2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36859/85/cover200/k762030405_2.jpg) | 제조혁신 전문가 | 심창섭 | 파주 : 가람, 2025 | 658.5 심82제2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37496/69/cover200/k982032616_1.jpg) | 차별하지 않는다는 착각 : 차별은 어떻게 생겨나고 왜 반복되는가 | 홍성수 | 서울 : 어크로스 : 어크로스출판그룹, 2025 | 305 홍54차 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36425/65/cover200/899973403x_1.jpg) | 자기결정교수학습모델(SDLMI) : 자기결정 학습을 위한 교수모델 실행 가이드 | Shogren, Karrie Ann | 서울 : 학지사, 2025 | 371.90973 S559sK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37194/76/cover200/8999735052_1.jpg) | (모든 학생을 위한) 통합교육의 이해와 실제 | 이숙향 | 서울 : 학지사, 2025 | 371.9 통92이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37310/56/cover200/k582031858_1.jpg) | 달리는 엄마는 흔들리지 않는다 : 엄마의 삶은 물론 여자의 자존감까지 다시 찾게 해준 요물 달리기!! | 임자영 | 서울 : 빈티지하우스, 2025 | 796.42 임72달 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37400/16/cover200/k182032893_1.jpg) | 감정시계 : 몸의 리듬이 감정을 만든다 | 강도형 | 서울 : 쌤앤파커스, 2025 | 152.4 강25감 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37297/74/cover200/k752031544_1.jpg) | 엄마는 시코쿠 : 소녀 같은 엄마와 다 큰 아들의 일본 시코쿠 불교 순례기 | 원대한 | 파주 : 황금시간, 2025 | 915.304 원23엄 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37067/39/cover200/k762030431_1.jpg) | 조선의 빅데이터, 송남잡지를 찾아서 : 현대적으로 재해석한 조선의 마지막 백과전서 | 최원재 | 괴산 : 문화잇다, 2025 | 951.5 최66조현 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36984/75/cover200/k442030024_2.jpg) | K-팝 현대사 : 한국 대중음악의 탄생에서 Z세대까지 | 산본정방 | 세종 : 마르코폴로, 2025 | 781.630951 산45kK산 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26366/82/cover200/k682738127_1.jpg) | 슬기로운 뉴스 읽기 : 진짜 기자도 속아버린 가짜뉴스 이야기 | 강병철 | 파주 : 푸른들녘 ; 들녘, 2021 | 070.43 강44슬 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34712/81/cover200/k462933114_1.jpg) | 왜 우리는 가짜 뉴스에 더 끌릴까 : 뉴미디어 세대를 위한 자유와 권리, 소통의 철학 이야기 | Bernardy, Jörg | 서울 : 시금치, 2024 | 070.43 B523iK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37507/93/cover200/k382032820_1.jpg) | 관점을 파는 일 : 콘텐츠로 먹고사는 이들을 위한 지속 가능한 뉴스레터 탐구 | 차우진 | 파주 : 유유, 2025 | 658.872 차66관 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36307/3/cover200/k612038444_1.jpg) | (남도 답사 0번지) 영암 | 송일준 | 서울 : 스타북스, 2025 | 915.1988 송68영 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37488/22/cover200/k012032114_1.jpg) | Mill에게 진리를 묻다 : 의견 표현과 인식의 자유 | 이호규 | 서울 : 지금, 2025 | 323.44 M645이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37277/17/cover200/k322031327_1.jpg) | 관계와 삶을 바꾸는 기질 심리학 | 조연주 | 서울 : 북스고, 2025 | 155.26 조64관 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37283/6/cover200/k152031945_1.jpg) | 마음을 움직이는 단 하나의 질문 : 뇌과학과 심리학으로 풀어낸 실전 소통법 | 이수경 | 고양 : 지니의서재, 2025 | 302.346 이56마 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37487/78/cover200/k522032111_1.jpg) | 빛을 먹는 존재들 : 온몸으로 경험하고 세상에 파고드는 식물지능의 경이로운 세계 | Schlanger, Zoë | 서울 : 생각의힘, 2025 | 571.2 S338LK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25449/92/cover200/k092633515_1.jpg) | 살면서 한 번은 짠테크 : 스물일곱 김짠부의 행복한 재테크 이야기 | 김짠부 | 서울 : 북스톤, 2020 | 332.024 김72살 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35377/5/cover200/k122035602_1.jpg) | 도쿄는 어떻게 도시의 미래를 만드는가 : 마케터와 떠나는 도쿄 임장기 | 서울프라퍼티인사이트 | 서울 : 시티폴리오 : 서울프라퍼티인사이트, 2024 | 307.760953 서66도 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37460/85/cover200/8966264948_1.jpg) | 대규모 언어 모델, 핵심만 빠르게! | Burkov, Andriy | 서울 : 인사이트, 2025 | 006.3 B959hK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37480/49/cover200/k332032917_1.jpg) | 해양환경의 재질 선정과 적용 | 이진희 | 파주 : 21세기사, 2025 | 623.817 해63이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37329/89/cover200/k182031054_1.jpg) | 포르투갈 황제 : 셀마 라겔뢰프 소설 | Lagerlöf, Selma | 서울 : 다반, 2025 | 839.7372 L174kK안 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37481/49/cover200/k012032012_1.jpg) | 노벨문학상 모두 읽기 : 51명의 노벨문학상 수상 작가의 대표작을 선정해 핵심을 정리한 안내서 | 안치용 | [고양] : 마인드큐브, 2025 | 809 안86노 | 중앙도서관 |
@@ -20,35 +41,14 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Modern computer vsion with PyTorch : a practical roadmap from deep learning fundamentals to advanced applications and Generative AI | Ayyadevara, V. Kishore | Birmingham, UK : Packt, 2024 | 006.37 A989m2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Plays.1 | Ravenhill, Mark | London : Bloomsbury Academic, 2007(2023 Reprinting) | 822.914 R253p v.1 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36298/63/cover200/8949968541_1.jpg) | 임원배상책임보험의 법적문제 | 양희석 | 파주 : 경인문화사, 2025 | 346.086 양97임 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/37225/30/cover200/k522031708_1.jpg) | 주식투자 단기 트레이딩의 정석 : 25년 투자 고수가 전하는 매일 수익 내는 단타 매매의 기술 | 강창권 | 서울 : 길벗, 2025 | 332.6322 강82주 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35936/7/cover200/k272037700_1.jpg) | (한 권으로 끝내는) 만만한 자소서 : 1,000명 이상의 합격자를 배출한 취업 준비 로드맵! | 취업왕 이쌤 | 서울 : 한빛미디어, 2025 | 650.142 취64만 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36182/0/cover200/k842038394_1.jpg) | 상위 2% 자소서의 15가지 조건 | 김다빛 | 서울 : 바른북스, 2025 | 650.142 김22상 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37426/26/cover200/k292032990_1.jpg) | (실무로 통하는) LLM 애플리케이션 설계 | Pai, Suhas | 서울 : 한빛미디어, 2025 | 006.3 P142dK박 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 파생상품의 평가와 헤징전략 | Hull, John | 서울 : 퍼스트북, 2023 | 332.645 H913f9K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36853/50/cover200/k072030409_2.jpg) | 야구선수 김원중 : 그저 롯데 자이언츠 | 김원중 | 서울 : 브레인스토어, 2025 | 798.357092 김66야 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37172/4/cover200/8965404223_1.jpg) | (기본 이론에서 실무 예제까지, HANA 기반) easy ABAP 3.0 | 김성준 | 부천 : 프리렉, 2025 | 005.133 E13김 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37207/95/cover200/k752031598_1.jpg) | (쏙쏙 들어오는) 자료구조 : 그림과 코드로 재미있게 배우는 파이썬 자료구조 | Rocca, Marcello La | 파주 : 제이펍, 2025 | 005.73 R671gK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37243/15/cover200/k472031929_1.jpg) | 디지털 마케팅 용어 도감 : 일러스트로 이해하는 필수 키워드 256 | 죽내철야 | 서울 : 정보문화사, 2025 | 658.872 죽193디K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37248/87/cover200/k722031028_1.jpg) | (Do it!) 커서로 시작하는 AI 코딩 입문 : AI와 함께 웹 개발의 모든 과정을 경험한다! | 고경희 | 서울 : 이지스퍼블리싱, 2025 | 006.3 고14커 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37227/24/cover200/k182031704_1.jpg) | 밑바닥부터 만들면서 배우는 LLM : GPT를 내 손으로 직접 단계별로 만들어보면서 대규모 언어 모델의 기본기를 탄탄히 채우기 | Raschka, Sebastian | 서울 : 길벗, 2025 | 006.3 R223bK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37249/49/cover200/898222808x_1.jpg) | 컴퓨터 게임과 미래 기술 : 21세기의 놀이하는 인간 | 서덕영 | 서울 : 경희대학교출판문화원, 2025 | 794.8 서24컴 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37309/20/cover200/k262031754_1.jpg) | AI 프로덕트 기획과 운영 : 데이터 전략부터 에이전틱 AI, 생성형 AI 활용법까지 | Nika, Marily | 서울 : 한빛미디어, 2025 | 006.3 N692bK오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37284/54/cover200/k992031245_1.jpg) | (할루시네이션을 줄여주는) 프롬프트 엔지니어링 : 랭체인, RAG, 에이전트로 신뢰성 있는 LLM 활용 | 한성민 | 서울 : 한빛미디어, 2025 | 006.3 한54프 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37225/96/cover200/k072031701_1.jpg) | (크리핵티브의 한 권으로 끝내는) 웹 해킹 바이블 : SQL 인젝션부터 시큐어 코딩까지 이론과 실습으로 익히는 완벽 웹 해킹 가이드 | 하동민 | 서울 : 한빛미디어, 2025 | 005.8 하25웹 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37309/4/cover200/k472031753_1.jpg) | 플러터 엔지니어링 : 핵심 원리부터 개발 패러다임, 설계 패턴까지 실무 역량을 키우는 올인원 가이드 | Hajian, Majid | 서울 : 한빛미디어, 2025 | 005.268 H154fK한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37207/77/cover200/k212031598_1.jpg) | 웹 개발자를 위한 API 디자인 패턴 : 사용자 친화적이고 유지보수 가능한 웹 API 만들기 | Geewax, J. J | 서울 : 에이콘, 2025 | 006.76 G298aK전 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37245/44/cover200/k702031924_1.jpg) | 퀀트 UX 리서치 : 정량 데이터로 사용자를 이해하고 제품을 혁신하는 법 | Chapman, Chris | 서울 : 에이콘, 2025 | 005.437 C466qK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37284/13/cover200/k472031244_1.jpg) | (코딩 자율학습) 네트워크 입문 : 새내기 개발자와 IT 엔지니어를 위한 친절한 네트워크 자습서 | 크래프트맨 멘탈리티 | 서울 : 길벗, 2025 | 004.65 크293네 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37178/83/cover200/k532031788_1.jpg) | 자동차에 관한 거의 모든 이야기 : 벤츠에서 테슬라까지, 150년 역사에 담긴 흥미진진 자동차 문화사전 | Meo, Luca De | 서울 : 미래의창, 2025 | 629.222 M551dK유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37231/14/cover200/8964374908_1.jpg) | 정의와 자연법 : 정치철학 선집 | Leibniz, Gottfried Wilhelm | 서울 : 후마니타스, 2025 | 320.01 L525sK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37297/60/cover200/k312031544_1.jpg) | 한국어의 투쟁 : 우리는 한국어 교육 노동자다 | 이창용 | 서울 : 빨간소금, 2025 | 371.1 이82한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37113/84/cover200/k572030357_1.jpg) | 기후 붕괴 대한민국 : 변해버린 지구에서 어떻게 살아가야 하는가 | 황덕현 | 서울 : 빌리버튼, 2025 | 363.73874 황24기 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37289/3/cover200/k482031340_1.jpg) | 서울대의 이슈 : 혹은 우리의 문제 | 김유민 | [서울] : 편않, 2025 | 070.4 서66김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37297/61/cover200/k462031544_1.jpg) | 질서 없음 : 격동의 세계를 이해하는 세 가지 프레임 | Thompson, Helen | 서울 : 윌북, 2025 | 909.831 T472dK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37230/90/cover200/k032031801_1.jpg) | (참는 인생은 이제 그만) 60부터는 오직 나를 위해서만! | 화전수수 | 서울 : 센시오, 2025 | 646.79 화74육K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37235/52/cover200/k262031410_1.jpg) | (인생을 바꾸는) 기적의 목소리 수업 : ‘말하기’를 나의 무기로 만드는 4주 완성 목소리 트레이닝 | 안대성 | 서울 : 더퀘스트 : 길벗, 2025 | 808.5 안23기 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37277/14/cover200/8901297388_1.jpg) | 디스턴싱 : 자아의 한계를 깨고 질문을 뒤집는 능력 | Marquet, L. David | 파주 : 갤리온 : 웅진씽크빅, 2025 | 658.403 M357dK고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37306/60/cover200/k002031647_1.jpg) | (꿈을 이루어주는) 만다라 차트 | 마쓰다 미히로 | 서울 : 두드림미디어, 2025 | 650.1 마57몽K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37228/47/cover200/k782031706_1.jpg) | (악마의 속삭임에도 흔들리지 않는) 멘탈디자인 : 자신을 향한 부정적인 메시지에서 벗어나는 최적의 방법 | 임주리 | [서울] : 나비의활주로, 2025 | 158.12 임76멘 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37271/15/cover200/k152031226_1.jpg) | 그 사람은 왜 자꾸 내 말을 끊을까 | Bolton, Robert | 서울 : 트로이목마, 2025 | 302.34 B694pK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37153/70/cover200/8984012718_1.jpg) | 오해를 기회로 바꾸는 대화법 : 뱉고 나서 후회한 말 다시 주워 담는 기술 | 산본의내자 | 서울 : 영림카디널 : 와이엘씨, 2025 | 808.5 산45언K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37297/20/cover200/k452031542_1.jpg) | 우리는 철학에 대해 어느 정도 알고 있다고 생각한다 : 모르진 않지만, 잘 아는 것도 아닌 것들에 대한 철학 개념 쌓기 | 홍준성 | 대전 : 북엔드, 2025 | 100 홍76우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37207/13/cover200/k232031496_1.jpg) | 철학자의 말하기 수업 : 말과 글을 무기로 바꾸는 18가지 철학 도구들 | 김원 | 서울 : 나무의철학 : 토네이도미디어그룹, 2025 | 808.5 김66철 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37288/77/cover200/k112031349_1.jpg) | 우주(宇宙)를 짓다 : 건축가와 건축주가 함께 쌓아올린 삶과 공간의 드라마 | 윤주연 | 성남 : 헤이북스, 2025 | 728.37 윤76우 | 중앙도서관 |
