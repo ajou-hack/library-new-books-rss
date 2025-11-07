@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/4210/49/cover200/8992533659_2.jpg) | 엄마는 산티아고 : 소녀 같은 엄마와 다 큰 아들의 산티아고 순례기 | 원대한 | 파주 : 황금시간, 2014(2019 3쇄) | 914.61104 원23엄 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인공지능 기술의 사회적 책임 | 강경란 | 수원 : 아주대학교 출판부, 2025 | 006.3 강14인아 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36416/77/cover200/k282039995_1.jpg) | 왜 아버지는 자살하셨을까? | Joiner, Thomas E | [서울] : 황소자리, 2025 | 616.858445 J74wK김2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36859/85/cover200/k762030405_2.jpg) | 제조혁신 전문가 | 심창섭 | 파주 : 가람, 2025 | 658.5 심82제2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37496/69/cover200/k982032616_1.jpg) | 차별하지 않는다는 착각 : 차별은 어떻게 생겨나고 왜 반복되는가 | 홍성수 | 서울 : 어크로스 : 어크로스출판그룹, 2025 | 305 홍54차 | 중앙도서관 |
@@ -46,9 +48,7 @@
 | ![](https://image.aladin.co.kr/product/36182/0/cover200/k842038394_1.jpg) | 상위 2% 자소서의 15가지 조건 | 김다빛 | 서울 : 바른북스, 2025 | 650.142 김22상 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37426/26/cover200/k292032990_1.jpg) | (실무로 통하는) LLM 애플리케이션 설계 | Pai, Suhas | 서울 : 한빛미디어, 2025 | 006.3 P142dK박 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 파생상품의 평가와 헤징전략 | Hull, John | 서울 : 퍼스트북, 2023 | 332.645 H913f9K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36853/50/cover200/k072030409_2.jpg) | 야구선수 김원중 : 그저 롯데 자이언츠 | 김원중 | 서울 : 브레인스토어, 2025 | 798.357092 김66야 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36853/50/cover200/k072030409_2.jpg) | 야구선수 김원중 : 그저 롯데 자이언츠 | 김원중 | 서울 : 브레인스토어, 2025 | 796.357092 김66야 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37172/4/cover200/8965404223_1.jpg) | (기본 이론에서 실무 예제까지, HANA 기반) easy ABAP 3.0 | 김성준 | 부천 : 프리렉, 2025 | 005.133 E13김 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37207/95/cover200/k752031598_1.jpg) | (쏙쏙 들어오는) 자료구조 : 그림과 코드로 재미있게 배우는 파이썬 자료구조 | Rocca, Marcello La | 파주 : 제이펍, 2025 | 005.73 R671gK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37243/15/cover200/k472031929_1.jpg) | 디지털 마케팅 용어 도감 : 일러스트로 이해하는 필수 키워드 256 | 죽내철야 | 서울 : 정보문화사, 2025 | 658.872 죽193디K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37248/87/cover200/k722031028_1.jpg) | (Do it!) 커서로 시작하는 AI 코딩 입문 : AI와 함께 웹 개발의 모든 과정을 경험한다! | 고경희 | 서울 : 이지스퍼블리싱, 2025 | 006.3 고14커 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37227/24/cover200/k182031704_1.jpg) | 밑바닥부터 만들면서 배우는 LLM : GPT를 내 손으로 직접 단계별로 만들어보면서 대규모 언어 모델의 기본기를 탄탄히 채우기 | Raschka, Sebastian | 서울 : 길벗, 2025 | 006.3 R223bK박 | 중앙도서관 |
