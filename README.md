@@ -2,6 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/30296/14/cover200/k752839929_1.jpg) | (핵심) 의약품분석학 | 한국약학교육협의회 | 서울 : 신일서적, 2022 | 615.19 한16의6 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/666/95/cover200/8964060636_1.jpg) | 뉴스의 역사 | Stephens, Mitchell | 서울 : 커뮤니케이션북스, 2010 | 070.9 S834h3K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34807/98/cover200/k162933330_2.jpg) | 누가 진실을 전복하려 하는가 : 역정보와 가짜뉴스, 프로파간다로부터 민주주의 지키키 | McIntyre, Lee C | 서울 : 두리반, 2024 | 320.973014 M152oK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/4210/49/cover200/8992533659_2.jpg) | 엄마는 산티아고 : 소녀 같은 엄마와 다 큰 아들의 산티아고 순례기 | 원대한 | 파주 : 황금시간, 2014(2019 3쇄) | 914.61104 원23엄 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인공지능 기술의 사회적 책임 | 강경란 | 수원 : 아주대학교 출판부, 2025 | 006.3 강14인아 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36416/77/cover200/k282039995_1.jpg) | 왜 아버지는 자살하셨을까? | Joiner, Thomas E | [서울] : 황소자리, 2025 | 616.858445 J74wK김2 | 중앙도서관 |
@@ -40,7 +43,7 @@
 | ![](https://image.aladin.co.kr/product/34093/23/cover200/k332931189_1.jpg) | 도시, 디지털 트윈을 만나다 | 김동욱 | 서울 : 윤성사, 2024 | 352.16 도58김윤 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37199/3/cover200/k892031395_1.jpg) | 비트코인 없는 미래는 없다 : 세계 최초 화폐철학과의 비밀노트 | 오태민 | 서울 : 거인의 정원, 2025 | 332.40285 오883비세 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Campbell biology in focus | Urry, Lisa A | Hoboken, NJ : Pearson, 2024 | 570 C187u4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Modern computer vsion with PyTorch : a practical roadmap from deep learning fundamentals to advanced applications and Generative AI | Ayyadevara, V. Kishore | Birmingham, UK : Packt, 2024 | 006.37 A989m2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Modern computer vision with PyTorch : a practical roadmap from deep learning fundamentals to advanced applications and Generative AI | Ayyadevara, V. Kishore | Birmingham, UK : Packt, 2024 | 006.37 A989m2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Plays.1 | Ravenhill, Mark | London : Bloomsbury Academic, 2007(2023 Reprinting) | 822.914 R253p v.1 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36298/63/cover200/8949968541_1.jpg) | 임원배상책임보험의 법적문제 | 양희석 | 파주 : 경인문화사, 2025 | 346.086 양97임 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37225/30/cover200/k522031708_1.jpg) | 주식투자 단기 트레이딩의 정석 : 25년 투자 고수가 전하는 매일 수익 내는 단타 매매의 기술 | 강창권 | 서울 : 길벗, 2025 | 332.6322 강82주 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/37426/26/cover200/k292032990_1.jpg) | (실무로 통하는) LLM 애플리케이션 설계 | Pai, Suhas | 서울 : 한빛미디어, 2025 | 006.3 P142dK박 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 파생상품의 평가와 헤징전략 | Hull, John | 서울 : 퍼스트북, 2023 | 332.645 H913f9K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36853/50/cover200/k072030409_2.jpg) | 야구선수 김원중 : 그저 롯데 자이언츠 | 김원중 | 서울 : 브레인스토어, 2025 | 796.357092 김66야 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37172/4/cover200/8965404223_1.jpg) | (기본 이론에서 실무 예제까지, HANA 기반) easy ABAP 3.0 | 김성준 | 부천 : 프리렉, 2025 | 005.133 E13김 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37207/95/cover200/k752031598_1.jpg) | (쏙쏙 들어오는) 자료구조 : 그림과 코드로 재미있게 배우는 파이썬 자료구조 | Rocca, Marcello La | 파주 : 제이펍, 2025 | 005.73 R671gK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37243/15/cover200/k472031929_1.jpg) | 디지털 마케팅 용어 도감 : 일러스트로 이해하는 필수 키워드 256 | 죽내철야 | 서울 : 정보문화사, 2025 | 658.872 죽193디K김 | 중앙도서관 |
