@@ -2,6 +2,44 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/37499/84/cover200/k682032721_1.jpg) | 리더십 인사이드 아웃 : AI 시대는 진정한 리더를 기다린다 | 조영호 | 서울 : 해피프린트, 2025 | 658.4092 조64리 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A digital signal processing primer : with applications to digital audio and computer music | Steiglitz, Kenneth | Mineola, New York : Dover Publications, Inc., 2020. | 621.3822 S818d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | How migration really works : the facts about the most divisive issue in politics | Haas, Hein de | New York : Basic Books, 2023. | 304.8 H112h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Lin-Manuel Miranda : the education of an artist | Pollack-Pelzner, Daniel | New York : Simon ＆ Schuster, 2025. | 792.642 M672p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The cartoon introduction to climate change | Klein, Grady | Washington, DC : Island Press, 2022. | 363.73874 K64c2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The cartoon introduction to calculus | Klein, Grady | New York : Hill and Wang, A division of Farrar, Straus, and Giroux, 2019. | 515 K64c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Statistics for chemical engineers : from data to models to decisions | Zavala, Victor M | Cambridge, UK : Cambridge University Press, 2026. | 660.015195 Z39s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The psychoanalysis of artificial intelligence | Millar, Isabel | Cham : Palgrave Macmillan, 2021. | 150.195 M645p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Thermosyphons and heat pipes : theory and applications | Mantelli, Marcia Barbosa Henriques | Cham : Springer, 2021. | 621.4022 M292t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Aerial Manipulation | Orsag, Matko | Cham : Springer, 2018. | 629.8 A252o | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37496/23/cover200/k662032614_1.jpg) | 미중 관계 레볼루션 : 기술 패권 시대, 변화하는 질서와 한국의 생존 전략 | 이희옥 | 서울 : 한겨레엔, 2025 | 327.73052 미76이기 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36659/19/cover200/k432030086_1.jpg) | 아티스트 웨이 | Cameron, Julia | 서울 : 위즈덤하우스, 2025 | 153.35 C182aK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37495/99/cover200/8965967570_1.jpg) | 도파민 가족 : 각자의 알고리즘에 갇힌 가족을 다시 연결하는 법 | 이은경 | 서울 : 흐름, 2025 | 306.874 이67도 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37437/86/cover200/k032032808_1.jpg) | 노년이란 무엇인가 : 늙음을 혐오하는 사회에 맞서다 | 박홍규 | 파주 : 들녘, 2025 | 305.26 박95노 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37571/59/cover200/8932044600_1.jpg) | 미학 이론 | Adorno, Theodor W | 서울 : 문학과지성사, 2025 | 701 A241aK홍3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/21537/65/cover200/8952241525_1.jpg) | (하리하라의) 사이언스 인사이드 : 과학으로 세상 보기, 세상에서 과학 보기 | 이은희 | 파주 : 살림Friends : 살림, 2019 | 502 이67사과 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37561/82/cover200/k422032426_1.jpg) | 그림으로 이해하는 챗GPT 구조와 기술 | 중곡수양 | 서울 : 길벗, 2025 | 006.3 중15cK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37434/55/cover200/8967442998_2.jpg) | 포즈랑의 투자 이야기 : 수익은 시장이 주고 손실은 내가 낸다 | 포즈랑 | 서울 : 에디터, 2025 | 332.6322 포77포 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30138/54/cover200/8972917818_1.jpg) | 부서진 우울의 말들 : 그리고 기록들 | Meijer, Eva | 서울 : 까치 : 까치글방, 2022 | 839.3147 M512gK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37345/35/cover200/k522032878_1.jpg) | 배우의 힘 : 처벅 테크닉 | Chubbuck, Ivana | 고양 : 퍼스트북, 2025 | 792.028 C559p2K문 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37539/80/cover200/k042032121_1.jpg) | 젊은 남성은 왜 분노하는가? : 상처 입은 남성과 극우의 탄생 | Copland, Simon James | 서울 : 바다, 2025 | 305.31 C784mK송 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26399/29/cover200/k712738320_1.jpg) | Kreyszig 공업수학 : 문제풀이 해설 | Kreyszig, Erwin | 서울 : 텍스트북스, 2021 | 510.2462 K92a10K텍 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36731/60/cover200/k242030994_1.jpg) | 잠보의 사랑 : 이미상 소설 | 이미상 | 파주 : 북다 : 교보문고, 2025 | 811.37 이38잠 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36759/26/cover200/k472030296_1.jpg) | 스타트라인 : 작가들의 빛나는 시작 | 김기태 | 파주 : 문학동네, 2025 | 811.3708 스882김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37488/60/cover200/k262032115_1.jpg) | 셀붕이의 도 | 이미상 | 서울 : 위즈덤하우스, 2025 | 811.37 이38셀 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35794/81/cover200/k822036356_1.jpg) | 12가지 성격 DNA : 내 성격의 문을 열다 | Cash, Larry M | 서울 : 인코칭, 2025 | 155.23 C338pK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18754/45/cover200/k522635176_2.jpg) | 회복탄력성 : 시련을 행운으로 바꾸는 마음 근력의 힘 | 김주환 | 고양 : 위즈덤하우스, 2019(2025 30쇄) | 158.1 김76회2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36292/76/cover200/8967442920_1.jpg) | 코칭이 심리학을 만났을 때 : 코칭 역량을 한 단계 높여주는 질문의 비결 | 김종명 | 서울 : 에디터, 2025 | 658.3124 김75코 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37337/0/cover200/8951121836_1.jpg) | 마가복음 전남 방언 | 임의진 | 서울 : 대한기독교서회, 2025 | 226.3 마12임 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37445/76/cover200/k982032506_1.jpg) | 달러 이후의 질서 : 트럼프 경제 패권의 미래 | Rogoff, Kenneth S | 서울 : 윌북, 2025 | 332.46 R735oK노 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/92/82/cover200/8952206487_1.jpg) | 아도르노 : 고통의 해석학 | 이종하 | 파주 : 살림, 2007(2021 5쇄) | 193 A241이고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37544/71/cover200/k872032229_1.jpg) | 마르크스주의 입문 : 우리를 둘러싼 세계를 바꾸기 위해 | 이찬용 | 파주 : 오월의봄, 2025 | 335.4 M392이우 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34113/89/cover200/8998043300_1.jpg) | 유리 예고로프의 이탈리아 일기 1976 | Haan, Wim de | [부산] : 안목, 2024 | 786.2092 E31hK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37542/41/cover200/8931481071_1.jpg) | 김경일의 다시 만난 심리학 | 김경일 | 서울 : 영진닷컴, 2025 | 150 김14김영 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37231/29/cover200/k792031802_1.jpg) | 돌로레스 클레이본 | King, Stephen | 서울 : 황금가지, 2025 | 823.914 K54dK김2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37254/98/cover200/k752031120_1.jpg) | 예술가로 살아가기 | Craig-Martin, Michael | 서울 : 아트북프레스, 2025 | 709.2 C886oK조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26700/54/cover200/k002730986_1.jpg) | 법의간호사를 간직하다 | 최보은 | [서울] : 드림널스, 2021 | 610.73069 최45법 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37452/39/cover200/k562032715_1.jpg) | 처음부터 끝까지 고백 | 주또 | [천안] : 시선과 단상, 2025 | 811.87 주25처 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31273/29/cover200/k592832565_1.jpg) | 파쇄 | 구병모 | 서울 : 위즈덤하우스, 2023 | 811.37 구44파위 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37436/7/cover200/8947502030_1.jpg) | 알고리즘 포비아 : AI는 어떻게 인간을 지배하는가 | Elliott, Anthony | 서울 : 한국경제신문, 2025 | 303.4834 E46aK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37445/44/cover200/k752032504_1.jpg) | 돌보다, 고치다, 지키다 : 학교를 지탱하는 노동의 흔적 | 희정 | 서울 : 북트리거 : 지학사, 2025 | 331.1 희74돌 | 중앙도서관 |
@@ -14,41 +52,3 @@
 | ![](https://image.aladin.co.kr/product/37497/52/cover200/k422032616_1.jpg) | 마음의 문제 : 예를 들어 불안 같은 것 | 한수희 | [서울] : 터틀넥프레스, 2025 | 811.87 한56마 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37445/36/cover200/8946423153_1.jpg) | 예술은 죽었다 | 박원재 | 서울 : 샘터 : 샘터사, 2025 | 700.1 박66예 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37448/73/cover200/k512032607_1.jpg) | 노 피플 존 : 정이현 소설 | 정이현 | 파주 : 문학동네, 2025 | 811.37 정68노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37461/41/cover200/k422032910_1.jpg) | (2025) 김승옥문학상 수상작품집 | 최은미 | 파주 : 문학동네, 2025 | 811.308 김57문 2025 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37428/63/cover200/k932032996_2.jpg) | 서울의 어느 집 | 박찬용 | 서울 : 에이치비 프레스 : 어떤책, 2025 | 645 박82서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37433/48/cover200/k652032099_1.jpg) | 디코딩 유어 도그 : 과학으로 반려견을 해석하다 | American College of Veterinary Behaviorists | 서울 : 페티앙북스, 2025 | 636.70887 A512dK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37426/37/cover200/8965183499_1.jpg) | 채용 트렌드 2026 : 당신이 놓쳤던 취업 & 채용 트렌드 국내 및 세계 전망 | 윤영돈 | 서울 : 경향미디어, 2025 | 658.311 윤64채 2026 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37429/76/cover200/k122032098_1.jpg) | 정서적 연봉 : 월급쟁이에게 돈보다 중요한 것 | 신재용 | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 658.3 신73정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37427/76/cover200/k562032994_1.jpg) | (멈춰버린 몸과 마음을 다시 일으키는) 호르몬 혁명 | Vuorisalmi, Emilia | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 612.405 V994hK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37307/97/cover200/k202031751_1.jpg) | AI법과 아이피 이슈 | 정윤경 | 서울 : 커뮤니케이션북스, 2025 | 343.0999 정66a | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37270/91/cover200/k882031224_1.jpg) | 공화, 돌봄, 녹색 : 새 공화국과 헌법의 기본 가치에 관하여 | 김영준 | 서울 : 산현글방, 2025 | 342.02 공95김 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37337/1/cover200/8949968797_1.jpg) | 국제난민법 | Goodwin-Gill, Guy S | 서울 : 홍진기법률연구재단[편찬] | 341.486 G657r4K이 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/30296/14/cover200/k752839929_1.jpg) | (핵심) 의약품분석학 | 한국약학교육협의회 | 서울 : 신일서적, 2022 | 615.19 한16의6 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/666/95/cover200/8964060636_1.jpg) | 뉴스의 역사 | Stephens, Mitchell | 서울 : 커뮤니케이션북스, 2010 | 070.9 S834h3K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34807/98/cover200/k162933330_2.jpg) | 누가 진실을 전복하려 하는가 : 역정보와 가짜뉴스, 프로파간다로부터 민주주의 지키키 | McIntyre, Lee C | 서울 : 두리반, 2024 | 320.973014 M152oK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28/10/cover/8918021747_1.gif) | 行政權과 經濟 | 유훈 | 서울 : 法文社, 2001 | 350.1 유96행개 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37244/45/cover200/8918916337_1.jpg) | 신용협동조합법 해설 | 이태영 | 파주 : 法文社, 2025 | 346.082 신65이 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/4210/49/cover200/8992533659_2.jpg) | 엄마는 산티아고 : 소녀 같은 엄마와 다 큰 아들의 산티아고 순례기 | 원대한 | 파주 : 황금시간, 2014(2019 3쇄) | 914.61104 원23엄 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/15b17542-4aaa-4eba-a625-842e8a8eff8c) | 양철북.1 | Grass, Gunter | 서울 : 민음사, 1999(2008 30쇄) | 808.8 세148민 v.32 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 중소기업관련통계 | 한국 | 서울 : 중소기업청, 1998 | R 338.642021 한16중 2000,3/2000,9/2001,9/2002/2003/2004/2004,12/2005,12/2005,3/2005,9/2006,12/2006,4/2006,7/2006,9/2008,1/2008,11/2008,4/2010,4/2010,8/2012,12/`98,7/`99,6 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인공지능 기술의 사회적 책임 | 강경란 | 수원 : 아주대학교 출판부, 2025 | 006.3 강14인아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36416/77/cover200/k282039995_1.jpg) | 왜 아버지는 자살하셨을까? | Joiner, Thomas E | [서울] : 황소자리, 2025 | 616.858445 J74wK김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36859/85/cover200/k762030405_2.jpg) | 제조혁신 전문가 | 심창섭 | 파주 : 가람, 2025 | 658.5 심82제2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37496/69/cover200/k982032616_1.jpg) | 차별하지 않는다는 착각 : 차별은 어떻게 생겨나고 왜 반복되는가 | 홍성수 | 서울 : 어크로스 : 어크로스출판그룹, 2025 | 305 홍54차 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36425/65/cover200/899973403x_1.jpg) | 자기결정교수학습모델(SDLMI) : 자기결정 학습을 위한 교수모델 실행 가이드 | Shogren, Karrie Ann | 서울 : 학지사, 2025 | 371.90973 S559sK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37194/76/cover200/8999735052_1.jpg) | (모든 학생을 위한) 통합교육의 이해와 실제 | 이숙향 | 서울 : 학지사, 2025 | 371.9 통92이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37310/56/cover200/k582031858_1.jpg) | 달리는 엄마는 흔들리지 않는다 : 엄마의 삶은 물론 여자의 자존감까지 다시 찾게 해준 요물 달리기!! | 임자영 | 서울 : 빈티지하우스, 2025 | 796.42 임72달 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37400/16/cover200/k182032893_1.jpg) | 감정시계 : 몸의 리듬이 감정을 만든다 | 강도형 | 서울 : 쌤앤파커스, 2025 | 152.4 강25감 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37297/74/cover200/k752031544_1.jpg) | 엄마는 시코쿠 : 소녀 같은 엄마와 다 큰 아들의 일본 시코쿠 불교 순례기 | 원대한 | 파주 : 황금시간, 2025 | 915.304 원23엄 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37067/39/cover200/k762030431_1.jpg) | 조선의 빅데이터, 송남잡지를 찾아서 : 현대적으로 재해석한 조선의 마지막 백과전서 | 최원재 | 괴산 : 문화잇다, 2025 | 951.5 최66조현 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36984/75/cover200/k442030024_2.jpg) | K-팝 현대사 : 한국 대중음악의 탄생에서 Z세대까지 | 산본정방 | 세종 : 마르코폴로, 2025 | 781.630951 산45kK산 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26366/82/cover200/k682738127_1.jpg) | 슬기로운 뉴스 읽기 : 진짜 기자도 속아버린 가짜뉴스 이야기 | 강병철 | 파주 : 푸른들녘 ; 들녘, 2021 | 070.43 강44슬 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34712/81/cover200/k462933114_1.jpg) | 왜 우리는 가짜 뉴스에 더 끌릴까 : 뉴미디어 세대를 위한 자유와 권리, 소통의 철학 이야기 | Bernardy, Jörg | 서울 : 시금치, 2024 | 070.43 B523iK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37507/93/cover200/k382032820_1.jpg) | 관점을 파는 일 : 콘텐츠로 먹고사는 이들을 위한 지속 가능한 뉴스레터 탐구 | 차우진 | 파주 : 유유, 2025 | 658.872 차66관 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36307/3/cover200/k612038444_1.jpg) | (남도 답사 0번지) 영암 | 송일준 | 서울 : 스타북스, 2025 | 915.1988 송68영 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37488/22/cover200/k012032114_1.jpg) | Mill에게 진리를 묻다 : 의견 표현과 인식의 자유 | 이호규 | 서울 : 지금, 2025 | 323.44 M645이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37277/17/cover200/k322031327_1.jpg) | 관계와 삶을 바꾸는 기질 심리학 | 조연주 | 서울 : 북스고, 2025 | 155.26 조64관 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37283/6/cover200/k152031945_1.jpg) | 마음을 움직이는 단 하나의 질문 : 뇌과학과 심리학으로 풀어낸 실전 소통법 | 이수경 | 고양 : 지니의서재, 2025 | 302.346 이56마 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37487/78/cover200/k522032111_1.jpg) | 빛을 먹는 존재들 : 온몸으로 경험하고 세상에 파고드는 식물지능의 경이로운 세계 | Schlanger, Zoë | 서울 : 생각의힘, 2025 | 571.2 S338LK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25449/92/cover200/k092633515_1.jpg) | 살면서 한 번은 짠테크 : 스물일곱 김짠부의 행복한 재테크 이야기 | 김짠부 | 서울 : 북스톤, 2020 | 332.024 김72살 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35377/5/cover200/k122035602_1.jpg) | 도쿄는 어떻게 도시의 미래를 만드는가 : 마케터와 떠나는 도쿄 임장기 | 서울프라퍼티인사이트 | 서울 : 시티폴리오 : 서울프라퍼티인사이트, 2024 | 307.760953 서66도 | 중앙도서관 |
