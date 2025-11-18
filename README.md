@@ -2,6 +2,13 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/28061/52/cover200/8949949830_1.jpg) | 당률각론. 1-2 | 김택민 | 파주 : 경인문화사, 2021 | 340.0952 김883당 v.1~2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/28418/55/cover200/k932835211_1.jpg) | 가족관계 등록에 관한 실무 | 김현선 | 서울 : 법률지식, 2022 | 346.015 김94가2 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Energierecht : Kommentar : Gesetzestexte. Band 1-5&Textband 1-2 | Theobald, Christian | München : C.H.Beck, 2025. | 343.092 T385e128 v.1~8 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/35173/12/cover200/k502934126_2.jpg) | TSMC : 세계 1위의 비밀 | 림굉문 | 서울 : 생각의힘, 2024 | 338.47621381 림15정K허 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33062/45/cover/8932042411_1.jpg) | 헤테로토피아 | Foucault, Michel | 서울 : 문학과지성사, 2023 | 194 F762cK이2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/8715/79/cover/8954641547_1.jpg) | 너무 시끄러운 고독 : 보후밀 흐라발 장편 소설 | Hrabal, Bohumil | 파주 : 문학동네, 2016(2025 41쇄) | 891.8635 H873pK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/314/80/cover/8935703087_1.jpg) | 리얼리티 트랜서핑 | Zeland, Vadim | 서울 : 정신세계사, 2009(2025 32쇄) | 152 Z49tK박 v.1~3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32967/8/cover200/k662936257_2.jpg) | 비참조적 건축 | Olgiati, Valerio | 서울 : Hoi, 2023 | 724.6 O45nK강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37507/82/cover200/k152032820_1.jpg) | 데이비드 스톤 마틴의 멋진 세계 | 촌상춘수 | 파주 : 문학동네, 2025 | 781.65 촌52데K홍 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33403/70/cover200/8972918237_3.jpg) | 물질문명과 자본주의 | Braudel, Fernand | 서울 : 까치 : 까치글방, 2024 | 330.122 B825cK주2 v.1~3 | 중앙도서관 |
@@ -22,7 +29,7 @@
 | ![](https://image.aladin.co.kr/product/33492/87/cover200/899973059x_1.jpg) | R을 활용한 양적연구방법과 통계분석 | 유진은 | 서울 : 학지사, 2024 | 519.50285 유78r | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37571/71/cover200/8937477378_1.jpg) | 저편에서 이리가 : 윤강은 장편소설 | 윤강은 | 서울 : 민음사, 2025 | 811.37 윤12저 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37445/68/cover200/k752032505_1.jpg) | 달빛이 머문 순간 | Wharton, Edith | 서울 : 해밀누리, 2025 | 823.912 W553gK마 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 복잡성의 고리를 끊어라 : 고속성장의 후유증을 이겨낸 기업들의 생존전략 | 지용구 | 서울 : 미래의창, 2025 | 658.4012 지65복고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37551/95/cover200/k652032329_1.jpg) | 복잡성의 고리를 끊어라 : 고속성장의 후유증을 이겨낸 기업들의 생존전략 | 지용구 | 서울 : 미래의창, 2025 | 658.4012 지65복고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37425/80/cover200/k242032998_2.jpg) | 아무도 오지 않는 곳에서 : 천선란 연작소설 | 천선란 | 서울 : 허블, 2025 | 811.37 천54아 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37092/22/cover200/k302030153_1.jpg) | 시대예보 : 경량문명의 탄생 | 송길영 | 파주 : 교보문고, 2025 | 303.49 송18시경 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37117/86/cover200/8925573229_1.jpg) | 저소비 생활 : 돈도 마음도 낭비 없이 나만의 행복을 버는 | 가제노타미 | 서울 : 알에이치코리아, 2025 | 640.4 가74저K정 | 중앙도서관 |
@@ -41,14 +48,7 @@
 | ![](https://image.aladin.co.kr/product/27143/76/cover/k502732328_1.jpg) | 밤에 찾아오는 구원자 : 천선란 장편소설 | 천선란 | 서울 : 안전가옥, 2021 | 811.37 천54밤 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26296/86/cover/8989566827_1.jpg) | 각자도생의 세계와 지정학 | Zeihan, Peter | 서울 :김앤김북스, 2021 | 327 Z46dK홍 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/cff15d42-0b84-4f8f-9f11-56102ec5a118) | 사탄탱고 | Krasznahorkai, László | 서울 : 알마, 2018(2025 8쇄) | 894.511334 K89sK조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37498/20/cover200/8968509174_1.jpg) | 리스트의 헝가리 : 19세기 민족주의와 세계주의의 상호작용 | 김현주 | 서울 : 연세대학교 출판문화원, 2025 | 780.92 L774김십 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37459/25/cover200/8936425234_1.jpg) | 식당 칸은 없다 : 장철문 시집 | 장철문 | 파주 : 창비, 2025 | 811.17 장83식 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37495/16/cover200/k042032612_1.jpg) | 물리적 지식의 목표와 방법 | Reichenbach, Hans | 서울 : 지식을만드는지식, 2025 | 530 R351hK강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37499/84/cover200/k682032721_1.jpg) | 리더십 인사이드 아웃 : AI 시대는 진정한 리더를 기다린다 | 조영호 | 서울 : 해피프린트, 2025 | 658.4092 조64리 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A digital signal processing primer : with applications to digital audio and computer music | Steiglitz, Kenneth | Mineola, New York : Dover Publications, Inc., 2020. | 621.3822 S818d | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | How migration really works : the facts about the most divisive issue in politics | Haas, Hein de | New York : Basic Books, 2023. | 304.8 H112h | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Lin-Manuel Miranda : the education of an artist | Pollack-Pelzner, Daniel | New York : Simon ＆ Schuster, 2025. | 792.642 M672p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The cartoon introduction to climate change | Klein, Grady | Washington, DC : Island Press, 2022. | 363.73874 K64c2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The cartoon introduction to calculus | Klein, Grady | New York : Hill and Wang, A division of Farrar, Straus, and Giroux, 2019. | 515 K64c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Statistics for chemical engineers : from data to models to decisions | Zavala, Victor M | Cambridge, UK : Cambridge University Press, 2026. | 660.015195 Z39s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The psychoanalysis of artificial intelligence | Millar, Isabel | Cham : Palgrave Macmillan, 2021. | 150.195 M645p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Thermosyphons and heat pipes : theory and applications | Mantelli, Marcia Barbosa Henriques | Cham : Springer, 2021. | 621.4022 M292t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Aerial Manipulation | Orsag, Matko | Cham : Springer, 2018. | 629.8 A252o | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37496/23/cover200/k662032614_1.jpg) | 미중 관계 레볼루션 : 기술 패권 시대, 변화하는 질서와 한국의 생존 전략 | 이희옥 | 서울 : 한겨레엔, 2025 | 327.73052 미76이기 | 중앙도서관 |
