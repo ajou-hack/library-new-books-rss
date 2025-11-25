@@ -2,7 +2,14 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/0e606ca4-40d1-40d5-99a0-3458453a3b37) | (벤담과 밀의) 공리주의 | Bentham, Jeremy | 고양 :좁쌀한알,2018 | 171.5 B476iK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36176/34/cover200/8999733629_1.jpg) | 전화상담의 이론과 실제 : 사랑과 공감의 전화 카운슬링 | 이광자 | 서울 : 학지사, 2025 | 158.3 전95이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36990/56/cover200/k302030127_1.jpg) | AI디지털 교육의 윤리적 실천 | 우정길 | 서울 : 박영story : 피와이메이트, 2025 | 371.334 우74a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Normal accidents : living with high-risk technologies | Perrow, Charles | Princeton, N.J. : Princeton University Press, 1999 | 363.1 P461n | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hamilton : the revolution : being the complete libretto of the Broadway musical, with a true account of its creation, and concise remarks on hip-hop, the power of stories, and the new America | Miranda, Lin-Manuel | London : Little, Brown : Melcher Media, 2016 | 782.140268 M672h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Picks and shovels | Doctorow, Cory | New York : Tor Publishing Group, 2025 | 823.92 D637p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Wissenschaftliches Schreiben mit KI | Buck, Isabella | Tübingen : UVK Verlag, 2025 | 808.066 B922w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/0e606ca4-40d1-40d5-99a0-3458453a3b37) | (벤담과 밀의) 공리주의 | Bentham, Jeremy | 고양 : 좁쌀한알, 2018(2024 2쇄) | 171.5 B476iK정 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/82b73cf2-0e27-4c1d-ade0-573f3997af8b) | 평등 | 선우현 | 서울 : 책세상, 2012(2020 3쇄) | 323.42 선66평 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | So long : poems | 김선향 | Richardson, TX : Mundus Artium Press, 2025 | 811.17 김54안Ek2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33814/71/cover200/k732930682_1.jpg) | 멀티미디어 시대의 리터러시 교육 : 모든 학습자를 위한 교수 모형과 틀 | Lisenbee, Peggy S | 하남 : 박이정, 2024 | 372.60285 L769iK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33816/6/cover200/k202930686_1.jpg) | 해석 가능한 AI : 설명 가능한 머신러닝 시스템 구축 | Thampi, Ajay | 서울 : 에이콘, 2024 | 006.3 T366iK최 | 중앙도서관 |
@@ -45,10 +52,3 @@
 | ![](https://image.aladin.co.kr/product/33993/88/cover200/8936325396_1.jpg) | (인간과 자연의 지속가능한 미래를 위한) 신·재생에너지공학 | 한국신·재생에너지학회 | 파주 : 교문사, 2024 | 621.042 한16신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37172/41/cover200/k792031678_1.jpg) | (생성형 AI를 활용한) 스포츠 빅데이터 분석 | 백현기 | 고양 : 지식터, 2024 | 796.0285 스895백 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35842/4/cover200/k112037969_1.jpg) | (건강한 삶을 위한) 식품과 영양 | 윤진아 | 파주 : 백산, 2025 | 613.2 식896윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34613/33/cover200/k692933885_1.jpg) | 힘과 규칙 : 국제질서에 대한 두 가지 관점 | 박종희 | 서울 : 사회평론아카데미, 2024 | 327 박75힘 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35197/39/cover200/8968508941_1.jpg) | 형법 적용 범위론 : 형법의 탈지역화를 위한 형법의 시간적·공간적 적용범위에 관한 연구 | 전지연 | 서울 : 연세대학교 출판문화원, 2024 | 345 전78형 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/33365/89/cover200/k282938002_1.jpg) | 행정조직행태론 | 김판석 | 서울 : 윤성사, 2024 | 352.2 행74김윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34433/50/cover200/k372932123_1.jpg) | 한일국교정상화 교섭의 정치사 | 김은정 | 서울 : 선인, 2024 | 327.51053 김67한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35551/60/cover200/k002036373_2.jpg) | 한나 아렌트와 교육 : 우리의 세계에 새로움을 더하다 | Gordon, Mordechai | 서울 : 살림터, 2025 | 370.1 G664hK조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34193/78/cover200/8979406606_1.jpg) | 한나 아렌트·카를 야스퍼스 서간집 : 1926-1969년 | Kohler, Lotte | 서울 : 신서원, 2024 | 320.5092 K79hK홍 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34037/36/cover200/s862030717_1.jpg) | 한국의 코로나19 팬데믹 : 일반인의 시각 | 박종민 | 서울 : 박영사, 2024 | 303.485 박75한 | 중앙도서관 |
