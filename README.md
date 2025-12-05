@@ -2,6 +2,34 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/37605/59/cover200/k872032835_1.jpg) | 인류세란 무엇인가 : 유럽에서의 철학적 논쟁 | Hamilton, Clive | 서울 : 모시는사람들, 2025 | 304.2 H217aK조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33329/49/cover200/k402938496_1.jpg) | 투게더 : 공동체 의식에 대한 조금 색다른 접근 | Schnabel, Ulrich | 서울 : 디 이니셔티브, 2024 | 302.3 S357zK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35538/39/cover200/k352036174_1.jpg) | 하루의 가능성 : 삶은 슬프지만 우리를 슬프게 하지는 않는다 | 김병규 | 서울 : 북스톤, 2025 | 811.87 김44하 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37788/87/cover200/k552033669_1.jpg) | 신 로지컬 씽킹 : 압도적 성과를 만드는 새로운 논리적 사고의 교과서 | 망월안적 | 서울 : 비즈니스북스, 2025 | 658.403 망66신K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36093/20/cover200/k882038861_1.jpg) | 음악과 생명 | 판본룡일 | 서울 : 은행나무, 2025 | 780.2 판45음K황 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37569/81/cover200/k212032621_1.jpg) | AI agent : 관찰·사고·행동의 모든 것 | 김유신 | 고양 : 생각나눔, 2025 | 006.3 김66a관 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37880/73/cover200/k782033904_1.jpg) | 비범한 평범 : 매거진 <B>조수용의 브랜드 이야기 | 조수용 | 서울 : REFERENCE BY B : B미디어컴퍼니, 2025 | 658.827 조56비 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34243/84/cover200/8982227768_1.jpg) | 집단정서의 재발견 : 사회과학, 철학, 심리학, 신경과학까지 사회학 감정의 메타연구 | Scheve, Christian von | 서울 : 경희대학교 출판문화원, 2024 | 152.4 S328cK강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37322/87/cover200/899973532x_1.jpg) | 문화심리학 | 한민 | 서울 : 학지사, 2025 | 155.8 문95한2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32043/57/cover200/k212834003_1.jpg) | 불안이 많은 아이 : 아이 스스로 일어서는 힘을 길러주는 방법 | 이다랑 | 서울 : 한빛라이프, 2023 | 649.1 이22불 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36547/67/cover200/8946083786_1.jpg) | 어그러진 도시 : 무엇이 우리의 출퇴근을 힘들게 하나 | 김지수 | 파주 : 한울 : 한울엠플러스, 2025 | 388.4 김78어 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37506/52/cover200/k432032828_1.jpg) | 프롬프트 텔링 : 격차를 만드는 AI 소통 능력 | 로사장 | 서울 : 필름, 2025 | 006.3 로52프 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36812/91/cover200/k012030108_1.jpg) | (사계절 한입。) 화과자 | 서지현 | 서울 : 비타북스 : 헬스조선, 2025 | 641.8654 서78화 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37538/70/cover200/8939231791_1.jpg) | 두 소녀 : 요코와 나의 이야기 | 이순원 | 남양주 : 실천문학, 2025 | 811.37 이56두 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37609/82/cover200/k812032743_2.jpg) | 읽는 여행, 스위스 : feat. 니체, 바그너, 실러, 헤세 | 안인희 | 서울 : H : 휴머니스트출판그룹, 2025 | 914.9404 안68읽 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34384/45/cover200/k292932403_1.jpg) | 범죄와 도덕적 가치 : 형벌과 사회적 수용성 사이의 딜레마 | 허경미 | 서울 : 박영사, 2024 | 364 허14범 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37565/40/cover200/k132032525_1.jpg) | 블러드문 : 요 네스뵈 장편소설 | Nesbø, Jo | 파주 : 비채 : 김영사, 2025 | 839.8238 N458bK남 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18/96/cover200/897527120x_1.jpg) | (한권으로 읽는) 동의보감 | 신동원 | 서울 : 들녘, 1999(2025 29쇄) | 610.951 신25동한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37701/18/cover200/k382033063_1.jpg) | 나로 살 결심 : 개인주의자 문유석의 두번째 선택 | 문유석 | 파주 : 문학동네, 2025 | 811.87 문66나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34074/95/cover200/k632931475_1.jpg) | 생명력 전개 : 임승유 시집 | 임승유 | 파주 : 문학동네, 2024 | 811.17 임57생 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37685/57/cover200/k702032449_1.jpg) | 내일을 위한 역사 : 과거의 세계가 미래를 구할 수 있을까? | Krznaric, Roman | 서울 : 더퀘스트 : 길벗, 2025 | 909 K94hK조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37489/63/cover200/k162032218_1.jpg) | 네가 있다는 생각을 자주 해 | 박연준 | [서울] : 시절, 2025 | 811.8708 네12박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37683/94/cover200/k112032347_1.jpg) | (멍청해지기 전에 읽는) 뇌과학 : 지치지 않고 계속 나아가는 뇌를 만드는 결정적 습관 | 이인아 | 서울 : 오리지널스 : kr 밀리의서재, 2025 | 612.82 이68뇌 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37271/3/cover200/k562031225_1.jpg) | 요즘 당근 AI개발 : AI가 만든 파도 위에서 과감히 서핑하는 법 | 당근 팀 | 서울 : 골든래빗, 2025 | 006.3 당17요 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36453/52/cover200/k262039705_1.jpg) | 데이터로 측정하는 UX 리서치 : 성공하는 UX 실무자를 위한 데이터 기반 측정법 | Albert, Bill | 서울 : 에이콘, 2025 | 005.437 A333m3K송 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37725/96/cover200/k112033166_1.jpg) | 애도하는 음악 : 음악이 역사를 기억하는 방법 | Eichler, Jeremy | 서울 : 뮤진트리, 2025 | 780.89924 E34tK장 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36812/53/cover200/8970928502_1.jpg) | 대한민국 교육의 불편한 진실 : 이제는 그 실체를 말한다 | 양영유 | 용인 : 단국대학교출판부, 2025 | 370.951 양64대 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35571/16/cover200/k462036477_1.jpg) | 외국인 유학생을 위한 대학 글쓰기 | 이은영 | 서울 : 한국문화사, 2025 | 411.8 이67대2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37684/10/cover200/k622032347_1.jpg) | 하루 15분 호르몬 혁명 : 우리 몸의 관제탑, 호르몬 관리로 10년 젊어지는 루틴 | 안철우 | 서울 : 한스미디어 : 한즈미디어, 2025 | 612.405 안83하 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/10946/39/cover200/k452531463_1.jpg) | (제대 후가 막막한 당신을 위한) 전역 군인 생존 바이블 : 뼛속까지 군인이었던 한 전역자의 성공 사례를 소개한다! | 황연태 | 서울 : 북랩, 2017 | 650.1 황64전 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/24294/41/cover200/k112630786_1.jpg) | (한 손에 바로 잡히는) 전직지원 2030년 | 표성일 | 서울 : 생각나눔, 2020 | 331.702 표54전 | 중앙도서관 |
@@ -24,31 +52,3 @@
 | ![](https://image.aladin.co.kr/product/8023/2/cover200/k512434533_1.jpg) | 창의 노동과 미디어 산업 | Hesmondhalgh, David | 서울 : 커뮤니케이션북스, 2016 | 331.79 H585cK안 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37174/60/cover200/8999734951_1.jpg) | 트라우마 상담과 치유 : 외상 심리학 | 강진령 | 서울 : 학지사, 2025 | 616.8521 강78트 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37716/63/cover200/k522033165_2.jpg) | 마일리지 아워 : 삶의 격을 높이는 인생 설계의 기술 | 최유나 | [대구] : 북로망스 : 책 읽어주는 남자, 2025 | 658.4093 최66마 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37593/12/cover200/k972032730_1.jpg) | 프로이트의 감정수업 : 보이지 않는 무의식의 세계와 마주하기 | 강이안 | 서울 : 필로틱 : 라이프해킹, 2025 | 150.1952 F889강 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Rethinking urban parks : public space ＆ cultural diversity | Low, Setha M | Austin : University of Texas Press, 2005. | 307.76 L912r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Uzbekistan's international relations | Madiyev, Oybek | Abingdon, Oxon : Routledge, 2022 | 327.587 M182u | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Neoliberalism and race | Cornelissen, Lars | Stanford, California : Stanford University Press, 2025. | 305.8001 C814n | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The age of data : embracing algorithms in art ＆ design | Grünberger, Christoph | Salenstein : Niggli, imprint of Braun Publishing AG, 2022. | 700.411 G888a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | On the postcolony | Mbembe, Achille | Berkeley : University of California Press, 2001. | 302.3096 M478nEu | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 국제형사재판소(ICC) 판례 연구 | 법원행정처 | 서울 : 사법발전재단, 2025 | 345 법66국 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36702/48/cover200/k022030683_1.jpg) | 상법총칙·상행위법 | 오성근 | 서울 : 박영사, 2025 | 346.07 오54상2 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 司法年鑑 | 한국, 대법원 법원행정처 | 서울 : 法院行政處, 1991- | R 340.0202 한16사 2019, R 340.0202 한16사 2020, R 340.0202 한16사 2021, R 340.0202 한16사 2022, R 340.0202 한16사 2025, R 340.0202 한16사 2000~2018/2024`99 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37429/45/cover200/k532032997_1.jpg) | 밤과 나침반 : 목표는 크게, 실행은 작게 | 하와이 대저택 | 서울 : 논픽션, 2025 | 650.1 하65밤 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The law of capitalism and how to transform it | Pistor, Katharina | New Haven : Yale University Press, 2025 | 340.11 P679L | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Taking back control? : states and state systems after globalism | Streeck, Wolfgang | Brooklyn : Verso, 2024 | 320.51 S914zEf | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Evidence that demands a verdict : life-changing truth for a skeptical world | McDowell, Josh | Nashville, Tennessee : Thomas Nelson, 2017 | 220.601 M138e | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Evidentials and modals | Lee, Chungmin | Leiden | 405 L477e | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36485/20/cover200/k592039019_1.jpg) | 오닉스 스톰 | Yarros, Rebecca | 서울 : 북폴리오 : 미래엔, 2025 | 823.92 Y29oK이 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37515/89/cover200/8966264964_1.jpg) | 시스템 성능 엔지니어링 : 시스템 성능 분석과 문제 해결을 위해 알아야 할 거의 모든 것 | Gregg, Brendan | 서울 : 인사이트, 2025 | 004.6782 G819s2K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37444/90/cover200/k592032501_1.jpg) | AI와 인간의 인터레이싱 : 인공지능이 이끄는 인류 진화의 다음 단계 | Uria-Recio, Pedro | 서울 : 에이콘 : 에이콘온, 2025 | 006.3 U76hK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37563/76/cover200/k012032522_1.jpg) | 레트로 게임 만들기 with 파이썬 : 핑퐁, 벽돌 깨기, FPS 10개 슈팅 게임으로 마스터하는 파이썬 & Pygame | 조수현 | 부천 : 루비페이퍼, 2025 | 005.133 레887조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37571/30/cover200/k282032624_1.jpg) | 기획에서 출시까지 FastAPI 개발 백서 | 차경묵 | 서울 : 길벗, 2025 | 005.133 차14기 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37497/72/cover200/k402032617_1.jpg) | 이것이 UX/UI 디자인이다 : 실무 디자인 방법론으로서의 UX/UI 디자인 | 조성봉 | 파주 : 위키북스, 2025 | 005.437 조54이2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37452/30/cover200/k052032715_1.jpg) | 라마인덱스로 배우는 데이터 기반 AI 애플리케이션 | Gheorghiu, Andrei | 파주 : 제이펍, 2025 | 006.3 G412bK동 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37565/30/cover200/k002032525_1.jpg) | MCP 실전 활용 & 서버 개발 핵심 가이드 : MCP 기초와 서버 활용버부터 데이터 분석, AI 비서, 주식 거래를 위한 MCP 서버 구축까지 | AI튜터랩 | 파주 : 위키북스, 2025 | 006.3 A311m | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37515/62/cover200/k932032826_1.jpg) | 스마트 C 언어 | 안기수 | 파주 : 생능, 2025 | 005.133 안18스 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37555/18/cover200/k692032327_1.jpg) | (그림과 실습으로 배우는) 쿠버네티스 입문 | 고교아오이 | 서울 : 길벗, 2025 | 005.1 고15쿠K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37516/43/cover200/8964947703_1.jpg) | 프로그램은 어떻게 작동하는가 : 문과생도 쉽게 배우는 컴퓨터 프로그램 작동 메커니즘 | 시택구웅 | 서울 : 보누스, 2025 | 005.1 시883프K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37497/92/cover200/k842032617_1.jpg) | UX/UI 디자인 워크숍 with AI : ChatGPT·Claude·NotebookLM 등 21가지 AI 도구로 완성하는 리서치·아이데이션·프로토타이핑 워크플로 | 윤하린 | 파주 : 위키북스, 2025 | 005.437 윤92u | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37460/79/cover200/896626493x_1.jpg) | 머신러닝, 핵심만 빠르게! | Burkov, Andriy | 서울 : 인사이트, 2025 | 006.31 B959hK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37452/21/cover200/k582032714_1.jpg) | 수의사는 고양이를 이렇게 키운다 | 이나영 | 서울 : 시대인, 2025 | 636.8 이192수 | 중앙도서관 |
