@@ -2,30 +2,33 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (0세부터 시작하는) 감정조절 아기훈육법 | 김수연 | 서울 : 시공사, 2024 | 649.1 김56감 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 냉동 집밥 대백과 : 집밥이 편해지는 기적의 밀키트 | 요오리 | [파주] : 용감한까치, 2025 | 641.5 요65냉 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (직무별 현직자가 말하는) 제약바이오 직무 바이블 | 다온 | [서울] : 렛유인북스, 2023 | 658.306 제63강 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 탐정, 수정 | 배연우 | 파주 : 엘릭시르 : 문학동네, 2025 | 811.37 배64탐 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 비밀 속의 비밀 | Brown, Dan | 파주 : 문학수첩, 2025 | 823.914 B877sK공 v.1~2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 붓다와의 마음수업 | 정준영 | 서울 : 웨일북, 2025 | 294.344 정76붓 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 강릉의 동족(同族)마을 | 박도식 | 서울 : 채륜, 2013 | 951.966 박25강 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 강릉의 12향현 | 박도식 | 서울 : 채륜, 2018 | 951.966 박25강채 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 강릉을 담은 역사와 문화 | 박도식 | 파주 : 태학사, 2017 | 951.966 박25강태 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 사물을 보는 방식 : 온정 산문집 | 온정 | [대구] : 마누스, 2025 | 811.47 온74사 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 힘내라, 도서관! : 위대한 도서관 서사와 도서관 시민 | 우석훈 | 서울 : 오픈하우스, 2025 | 027.4 우54힘 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 한번 시작하면 잠들 수 없는 세계사 | 김도형 | 서울 : 빅피시, 2025 | 909 김25한 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 화이트칼라 : 현대 중간계급의 초상 | Mills, C. Wright | 파주 : 돌베개, 2025 | 305.550973 M657wK조 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 구마 겐고의 도쿄 토크 : 작고 느슨한 방식으로 도시 만들기 | 외연오 | 서울 : 인벨로프, 2025 | 720.953 외64변K민 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이렇게 즐거운 도쿄라니 | 박재한 | [파주] : 용감한 까치, 2025 | 915.304 박73이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 달콤하게, 도쿄의 킷사텐 : 오래된 커피집에서 맛보는 행복한 디저트의 시간 | 난파리내 | 서울 : 검정프레스, 2025 | 647.9553 난892순K서 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 어디가 좋은지 몰라서 다 가 보기로 했다 : 버드모이의 2500일, 100개국 세계여행 | 버드모이 | [서울] : 포르체, 2025 | 811.67 버27어 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34526/60/cover200/k622932853_2.jpg) | 고전이 답했다 : 마땅히 살아야 할 삶에 대하여 | 고명환 | 서울 : 라곰, 2024 | 179.9 고34고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33955/39/cover200/k342930433_1.jpg) | (0세부터 시작하는) 감정조절 아기훈육법 | 김수연 | 서울 : 시공사, 2024 | 649.1 김56감 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37593/30/cover200/k862032730_1.jpg) | 냉동 집밥 대백과 : 집밥이 편해지는 기적의 밀키트 | 요오리 | [파주] : 용감한까치, 2025 | 641.5 요65냉 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30860/44/cover200/k692831477_1.jpg) | (직무별 현직자가 말하는) 제약바이오 직무 바이블 | 강동훈 | [서울] : 렛유인북스, 2023 | 658.306 제63강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37542/54/cover200/k542032124_1.jpg) | 탐정, 수정 | 배연우 | 파주 : 엘릭시르 : 문학동네, 2025 | 811.37 배64탐 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37715/47/cover200/k212033164_1.jpg) | 비밀 속의 비밀 | Brown, Dan | 파주 : 문학수첩, 2025 | 823.914 B877sK공 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37593/63/cover200/k122032732_1.jpg) | 붓다와의 마음수업 | 정준영 | 서울 : 웨일북, 2025 | 294.344 정76붓 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3087/4/cover200/8993799768_1.jpg) | 강릉의 동족(同族)마을 | 박도식 | 서울 : 채륜, 2013 | 951.966 박25강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/17745/10/cover200/k432534126_1.jpg) | 강릉의 12향현 | 박도식 | 서울 : 채륜, 2018 | 951.966 박25강채 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/12597/93/cover200/8959668885_1.jpg) | 강릉을 담은 역사와 문화 | 박도식 | 파주 : 태학사, 2017 | 951.966 박25강태 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36724/2/cover200/k622030891_1.jpg) | 사물을 보는 방식 : 온정 산문집 | 온정 | [대구] : 마누스, 2025 | 811.47 온74사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37518/58/cover200/k842032922_1.jpg) | 힘내라, 도서관! : 위대한 도서관 서사와 도서관 시민 | 우석훈 | 서울 : 오픈하우스, 2025 | 027.4 우54힘 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37900/55/cover200/k052033731_2.jpg) | 한번 시작하면 잠들 수 없는 세계사 | 김도형 | 서울 : 빅피시, 2025 | 909 김25한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36974/75/cover200/k092030920_1.jpg) | 화이트칼라 : 현대 중간계급의 초상 | Mills, C. Wright | 파주 : 돌베개, 2025 | 305.550973 M657wK조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37900/24/cover200/k882033739_1.jpg) | 구마 겐고의 도쿄 토크 : 작고 느슨한 방식으로 도시 만들기 | 외연오 | 서울 : 인벨로프, 2025 | 720.953 외64변K민 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36129/94/cover200/k682038374_1.jpg) | 이렇게 즐거운 도쿄라니 | 박재한 | [파주] : 용감한 까치, 2025 | 915.304 박73이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36568/95/cover200/k552039246_1.jpg) | 달콤하게, 도쿄의 킷사텐 : 오래된 커피집에서 맛보는 행복한 디저트의 시간 | 난파리내 | 서울 : 검정프레스, 2025 | 647.9553 난892순K서 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37676/14/cover200/k362032348_1.jpg) | 어디가 좋은지 몰라서 다 가 보기로 했다 : 버드모이의 2500일, 100개국 세계여행 | 버드모이 | [서울] : 포르체, 2025 | 811.67 버27어 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37890/50/cover200/k832033524_1.jpg) | 자유민주주의와 시장경제 | 김인철 | 서울 : 성균관대학교출판부, 2025 | 330.122 김68자 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 공폐 : 조선후기 공물 제도 운영의 병폐 | 조영준 | 파주 : 아카넷, 2019 | 951.57 공894비 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 태도는 카피가 안 된다 : AI시대, 당신만의 진짜 경쟁력 | 김을호 | 서울 : 힘찬북스, 2025 | 650.1 김67태 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 나나 올리브에게 | 루리 | 파주 : 문학동네, 2025 | 811.37 루298나 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 김형석, 백 년의 유산 : 106세 철학자가 길어 올린 최후의 인간학 | 김형석 | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 102 김94김백 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | AI와 인간관계의 변화 | 나은영 | 서울 : 커뮤니케이션북스, 2025 | 006.3 나67a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 비정성시 : 각본집 | 주천문 | 파주 : 글항아리, 2024 | 912.27 주83비K홍 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/22352/60/cover200/895733663x_1.jpg) | 공폐 : 조선후기 공물 제도 운영의 병폐 | 조영준 | 파주 : 아카넷, 2019 | 951.57 공894비 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37733/8/cover200/k022033361_1.jpg) | 태도는 카피가 안 된다 : AI시대, 당신만의 진짜 경쟁력 | 김을호 | 서울 : 힘찬북스, 2025 | 650.1 김67태 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37789/25/cover200/k392033660_1.jpg) | 나나 올리브에게 | 루리 | 파주 : 문학동네, 2025 | 811.37 루298나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37684/38/cover200/k112032448_1.jpg) | 김형석, 백 년의 유산 : 106세 철학자가 길어 올린 최후의 인간학 | 김형석 | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 102 김94김백 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36214/28/cover200/k582038402_1.jpg) | AI와 인간관계의 변화 | 나은영 | 서울 : 커뮤니케이션북스, 2025 | 006.3 나67a | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33288/29/cover200/k822938087_2.jpg) | 비정성시 : 각본집 | 주천문 | 파주 : 글항아리, 2024 | 812.27 주83비K홍 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Chaplin's war trilogy : an evolving lens in three dark comedies, 1918-1947 | Gehring, Wes D | Jefferson, North Carolina : McFarland ＆ Company, Inc., Publishers, 2014. | 791.43028092 G311c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Japanizing Japanese families : regional diversity and the emergence of a national family model through the eyes of historical demography | Ochiai, Emiko | Leiden | 306.850953 O16j | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37772/87/cover200/k352033561_1.jpg) | (최박사의) 운동 혁명 : 운동과 함께 건강한 삶을 사는 법 | 최문기 | 성남 : 상상스퀘어, 2025 | 613.71 최36운 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37713/70/cover200/k842033161_2.jpg) | 중독을 파는 의사들 : 의료시스템은 어떻게 우리를 약물 의존으로 내모는가 | Lembke, Anna | 파주 : 오월의봄, 2025 | 615.783 L549dK중 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37595/42/cover200/8962626780_1.jpg) | 두려움이란 말 따위 : 딸을 빼앗긴 엄마의 마약 카르텔 추적기 | Ahmed, Azam | 서울 : 동아시아, 2025 | 364.15230972 A286fK정 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/2881/59/cover200/8957332987_1.jpg) | 시폐 : 조선후기 서울 상인의 소통과 변통 | 비변사 | 서울 : 아카넷, 2013 | 951.57 비44시 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/17618/97/cover200/k532534016_1.jpg) | 규방철학 : 『쥐스틴』을 지은 작가의 유고작 | Sade, Donatien Alphonse François de | 서울 : b, 2018 | 843.6 S125pK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37306/50/cover200/k462031646_1.jpg) | 민법주해9, 채권 (1) 제373조 ~ 제386조 | 양창수 | 서울 : 박영사, 2025 | 346 양82민채2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37519/78/cover200/k552032925_1.jpg) | 탑다운 퀄리티 투자 : 세상의 변화를 미리 읽고 1%에 집중하는 힘 | FundEasy | [고양] : 지음미디어, 2025 | 332.6322 F981탑 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37563/7/cover200/k642032521_1.jpg) | 부자 아빠 투자 불변의 법칙 : 500억 자산가가 남긴 마지막 유산 | 타짱 | 서울 : 큰숲 : 오팬하우스, 2025 | 332.6322 타72오K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37684/67/cover200/8972735388_1.jpg) | Confucianism·nation·uniqueness : diverging discourses on Chosn history between Korean and global scholarship | 계승범 | Seoul : Sogang University Press, 2025 | 951.5 계57c | 중앙도서관 |
