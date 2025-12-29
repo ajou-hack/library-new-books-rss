@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 온실가스 배출권의 할당 및 거래에 관한 법률 : (약칭 : 배출권거래법) : 법령 시행령 | 해광 | 부산 : 해광, 2023 | 344.046 해15온 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37896/48/cover200/k232033622_2.jpg) | AI 버블이 온다 : 우리는 진짜 인공지능을 보고 있는가 | Narayanan, Arvind | 서울 : 윌북, 2025 | 006.3 N218aK강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37919/28/cover200/k012033936_1.jpg) | 제인 오스틴을 처방해드립니다 : 제인 오스틴 다시 읽기는 어떻게 내 삶을 구했는가 | Wilson, Ruth | 서울 : 북하우스 : 북하우스 퍼블리셔스, 2025 | 823.709 W752jK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37953/61/cover200/k882033654_1.jpg) | 미시마 유키오 : 죽음의 충동과 허무의 미학 | 정상륭사 | 서울 : 교양인, 2025 | 813.09 삼25정K정 | 중앙도서관 |
@@ -28,27 +29,26 @@
 | ![](https://image.aladin.co.kr/product/37876/42/cover200/k332033805_1.jpg) | 비커밍 트레이더 조 : 압도적 매출, 독보적 팬덤, 대체 불가능한 브랜드의 탄생 | Coulombe, Joe | 서울 : 더퀘스트 : 길벗, 2025 | 658.40092 C855bK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37726/24/cover200/k052033167_1.jpg) | 인피니트 마켓 : 하버드가 분석한 1조 달러 우주 시장의 비밀 | Weinzierl, Matthew | 서울 : page2 : 페이지2북스, 2025 | 338.0919 W424sK고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37822/94/cover200/k572033591_1.jpg) | 치유의 걷기 : 몸과 마음을 살리는 걷기는 따로 있다 | Streets, Annabel | 서울 : 동양북스, 2025 | 613.7176 S915wK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 얽힘 설킴 | Fontane, Theodor | 서울 : 부북스, 2017 | 833.8 F679iK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11409/38/cover200/k072531800_1.jpg) | 얽힘 설킴 | Fontane, Theodor | 서울 : 부북스, 2017 | 833.8 F679iK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29058/13/cover200/k452836458_1.jpg) | 마틸데 뫼링 | Fontane, Theodor | 서울 : 부북스, 2022 | 833.8 F679mK진 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 심리도식치료의 체계적 훈련 : 사례를 중심으로 | Behary, Wendy T | 서울 : 학지사, 2025 | 153 D353bK송 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37538/46/cover200/8999735591_1.jpg) | 심리도식치료의 체계적 훈련 : 사례를 중심으로 | Behary, Wendy T | 서울 : 학지사, 2025 | 153 D353bK송 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33247/2/cover200/k942938466_1.jpg) | ABA 조기개입 커리큘럼 : 자폐증의 가장 효과적인 개입 방법 | 정경미 | 서울 : 한국ABA행동발달연구소, 2019 | 371.94 A121정 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 자폐증인가요 | Henderson, Donna A | 서울 : 학지사, 2025 | 616.85882 H496iK신 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37594/83/cover200/8999735648_1.jpg) | 자폐증인가요 | Henderson, Donna A | 서울 : 학지사, 2025 | 616.85882 H496iK신 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37595/22/cover200/899973563x_1.jpg) | 성격강점과 장애 안에 잠재된 능력 : 장애와 문제를 넘어, 인간의 잠재력을 이끌어 내는 강점 연구와 실제 | Niemiec, Ryan M | 서울 : 학지사, 2025 | 155.916 N672cK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37921/56/cover200/k992033032_1.jpg) | 한국은 해킹되었습니다 : 침묵 속에 은폐된 재난의 실체 | 심나영 | 서울 : 사이드웨이, 2025 | 364.168 심192한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37770/63/cover200/k642033465_1.jpg) | 세상을 통찰하는 책들 : 읽을수록 인생이 깊어지는 지혜의 지도 | 김병완 | 서울 : 플랫폼연구소, 2025 | 028.1 김44세2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 戰略産業에 對한 國家 政策과 役割의 變化 : 韓國 半導體産業의 發展過程을 中心으로 한 硏究 | 김광동 | 파주 : 한국학술정보, 2006 | 338.47621381 김15전 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대한민국 국가발전전략 : 선진화의 길 | 한국선진화포럼 | 서울 : PMB : 페이지미디어브릿지, 2025 | 301.0951 한16대 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/67/20/cover200/8953452066_1.jpg) | 戰略産業에 對한 國家 政策과 役割의 變化 : 韓國 半導體産業의 發展過程을 中心으로 한 硏究 | 김광동 | 파주 : 한국학술정보, 2006 | 338.47621381 김15전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37175/87/cover200/k662031675_1.jpg) | 대한민국 국가발전전략 : 선진화의 길 | 한국선진화포럼 | 서울 : PMB : 페이지미디어브릿지, 2025 | 301.0951 한16대 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33024/58/cover200/k972937075_1.jpg) | MSO 온톨로지 : "병원 경영을 ‘jump up’ 시키는 MSO는 무엇이 다른가?" | 유하린 | 서울 : RAON BOOK : 라온아시아, 2023 | 362.11068 유92m | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36428/98/cover200/k132039297_1.jpg) | 느린 학습자 이야기 : 느리게, 천천히 함께 걷기 | 신건철 | 파주 : 이담북스 : 한국학술정보, 2025 | 371.9 신14느 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (경계선 지능 아동·청소년을 위한) 느린 학습자 증거 기반 훈련 프로그램 : 인지, 학습, 사회정서, 적응행동 | 김동일 | 서울 : 학지사, 2026 | 371.926 김25느 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (배워서 바로 실천하는 교실 속,) 긍정적 행동지원 : 어려운 행동을 위한 교사들의 좌충우돌 에피소드 | 정명철 | 파주 : 교육과학사, 2023 | 371.9 긍74정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37685/10/cover200/8999735710_1.jpg) | (경계선 지능 아동·청소년을 위한) 느린 학습자 증거 기반 훈련 프로그램 : 인지, 학습, 사회정서, 적응행동 | 김동일 | 서울 : 학지사, 2026 | 371.926 김25느 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31105/2/cover200/8925417642_1.jpg) | (배워서 바로 실천하는 교실 속,) 긍정적 행동지원 : 어려운 행동을 위한 교사들의 좌충우돌 에피소드 | 정명철 | 파주 : 교육과학사, 2023 | 371.9 긍74정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36746/21/cover200/8999734544_1.jpg) | (즐거운 학교생활을 위한) 개별 차원의 긍정적 행동지원 : 서식 가이드 | 이유정 | 서울 : 학지사, 2025 | 370.15 이66개 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 학습장애 학생 교육 | 허유성 | 서울 : 북앤정, 2026 | 371.9 허66학 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37692/28/cover200/k602033962_1.jpg) | 나도 내 마음을 모를 때, 불교심리학 : 생각과 감정에 더 이상 속지 않는 보만 스님의 마음 사용법 | 보만 | 서울 : 불광, 2025 | 294.3019 보32나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27024/60/cover200/8934986948_1.jpg) | 식물학자의 노트 : 식물이 내게 들려준 이야기 | 신혜우 | 파주 : 김영사, 2021 | 580.2 신94식 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 반려동물 창업 길라잡이 | 백종일 | 서울 : 박영story : 피와이메이트, 2025 | 636.0887 백75반 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36990/54/cover200/k902030127_1.jpg) | 반려동물 창업 길라잡이 | 백종일 | 서울 : 박영story : 피와이메이트, 2025 | 636.0887 백75반 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37821/84/cover200/k342033599_1.jpg) | 기술창업의 정석 | 백종일 | 서울 : 박영사, 2025 | 658.11 백75기 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37678/2/cover200/k892032340_1.jpg) | 당신의 가능성에 대하여 : 인생의 위기와 기회를 바라보는 12가지 창조적 사고법 | Zander, Benjamin | 서울 : page2 : 페이지2북스, 2025 | 158.1 Z27aK강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26430/73/cover200/k252738629_2.jpg) | 봉준호의 영화 언어 | 이상용 | 파주 : 난다, 2021 | 791.430233092 봉76이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37902/32/cover200/8997724428_1.jpg) | 역량교육, 이렇게 한다 : 전 세계 1200개 학교에서 실행한 글로벌 역량교육의 실제 | Fullan, Michael | 서울 : 교육을바꾸는사람들, 2025 | 371.207 F965dK이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 다문화 사회와 한국어 교육 | 조항록 | 서울 : 한글파크, 2017 | 411.07 조92다 | 중앙도서관 |
