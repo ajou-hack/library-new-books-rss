@@ -2,6 +2,20 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/35652/74/cover200/k752036810_1.jpg) | 파이썬으로 웹 크롤러 만들기 : 자동화된 나만의 웹 크롤러로 원하는 데이터 끌어오기 | Mitchell, Ryan | 서울 : 한빛미디어, 2025 | 005.133 M682w3K최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38204/15/cover200/k852034818_1.jpg) | ADHD 뇌는 처음이라서 | Boseley, Matilda | 서울 : 신사책방, 2026 | 616.8589 B743yK고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37727/99/cover200/8999735761_1.jpg) | 성인 ADHD를 위한 마음챙김 : 임상가 지침서 | Zylowska, Lidia | 서울 : 학지사, 2026 | 616.8589 Z99mK서 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32447/36/cover200/k732935295_1.jpg) | 베스트셀러, 세계문학, 비교문학 : 문화교류와 번역 수용 | 이행선 | 서울 : 소명, 2023 | 809 이93베 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34158/25/cover200/k972931593_1.jpg) | 심리치료사를 위한 신경과학 가이드북 | Cozolino, Louis J | 서울 : 하나醫學社, 2024 | 612.8233 C882pK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37634/3/cover200/k252032248_2.jpg) | 트라우마 치료 전문가가 알아야 할 10가지 근거중심 치료법 | Schnyder, Ulrich | 파주 : 군자, 2025 | 616.8521 S362e2K방 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23535/67/cover200/k442638920_2.jpg) | 우주 대도감 : 태양계부터 우주의 끝까지, 우주의 핵심을 설명한다 | 일본 Newton Press | 서울 : 아이뉴턴, 2020 (2025 6쇄) | 523.1 일45태K강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37925/97/cover200/k532033033_1.jpg) | 들뢰즈&과타리 『카프카』 수업 : 문학, 언어, 욕망 | 성기현 | 서울 : 그린비, 2025 | 833.912 K11성 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28550/20/cover200/k462835049_1.jpg) | (ABA전문가와 함께하는) 조금 다른 성장일기 | 김숙희 | 고양 : 에이스북, 2021 | 618.9285882 김56조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/19154/78/cover200/k652635598_1.jpg) | (그림으로 배우는) ABA실천 매뉴얼 : 발달장애아동의 동기를 끌어내는 행동치료 | 등판룡사 | 고양 : 에이스북, 2019 | 618.9285882 등892이K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/710/65/cover200/8992214847_1.jpg) | 근대어의 탄생과 한문 : 한문맥과 근대 일본 | 재등희사 | 서울 : 현실문화연구, 2010 | 413.2 재27한K황 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34093/38/cover200/k082931180_1.jpg) | 여러분이 그렇다면 그런 거죠 | Pirandello, Luigi | 서울 : 지만지드라마, 2024 | 852.912 P667cK장 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32384/9/cover200/k802935786_1.jpg) | 萬海 韓龍雲 漢詩集 | 한용운 | 서울 : 明文堂, 2023 | 811.16 한65만 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/19971/58/cover200/k442635948_1.jpg) | 운전 배우기 | Vogel, Paula | 서울 : 지만지드라마, 2019 | 822.914 V879hK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28981/58/cover200/k192836021_2.jpg) | 구조역학 : 연습문제 풀이집 : SI단위 병용 | 양창현 | 서울 : 맑은글, 2022 | 624.171 양82구5맑연 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37907/70/cover200/k332033938_1.jpg) | (자본주의 시대에서 살아남기 위한) 최소한의 경제 공부 | 백억남 | [서울] : Highest : 하이스트그로우, 2025 | 332.024 백64최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38009/58/cover200/k442034881_1.jpg) | ADHD 교사엄마가 ADHD 아이에게 전하는 학교생활백서 | 채나영 | 서울 : 에듀니티교육연구소, 2025 | 618.928589 채192a | 중앙도서관 |
@@ -38,17 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31737/65/cover200/k712833705_1.jpg) | 온실가스 배출권의 할당 및 거래에 관한 법률 : (약칭 : 배출권거래법) : 법령 시행령 | 해광 | 부산 : 해광, 2023 | 344.046 해15온 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37771/8/cover200/8947502170_3.jpg) | (이코노미스트) 2026 세계대전망 | Economist Newspaper Limited | 서울 : 한국경제신문 : 한경BP, 2025 | 330.905 E19wK현 2026 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Planung und Genehmigung von Windenergieanlagen | Blessing, Matthias | Stuttgart : Kohlhammer, 2024. | 346.045 B647p2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/32530/20/cover200/896195329x_1.jpg) | #가속하라 : 가속주의자 독본 | Mackay, Robin | 서울 : 갈무리, 2023 | 330.122 M153aK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37920/81/cover200/k762033030_1.jpg) | (세상에서 가장 재미있는) 61가지 심리실험 : 인간관계편 | 지곡유이 | 파주 : 사람과나무사이, 2025 | 612.82 지15뇌K서2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27920/48/cover200/8950996723_1.jpg) | 또 올게요, 오래가게 : 기꺼이 단골이 되고 싶은 다정하고 주름진 노포 이야기 | 서진영 | 파주 : arte : 북이십일 아르테, 2021 | 811.87 서78또 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37111/92/cover200/k112030353_1.jpg) | 게임이론 : 전략과 정보의 경제학 | 김영세 | 서울 : 박영사, 2025 | 330.015193 김64게11 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38008/65/cover200/k522034889_1.jpg) | 우리 밝은 쪽으로 걷자 | 윤두열 | [파주] : 일레븐, 2025 | 811.87 윤26우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27507/95/cover200/8936514342_1.jpg) | 오독 : 문학 비평의 실험 | Lewis, C. S | 서울 : 홍성사, 2021 | 801.95 L673eK홍 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/708/46/cover200/8976827368_1.jpg) | 대지의 저주받은 사람들 | Fanon, Frantz | 서울 : 그린비, 2010(2024 6쇄) | 303.4 F214dK남2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28529/99/cover200/8930041027_1.jpg) | 유리는 깨질 때 더 빛난다 : 우리가 함께 그려 온 이야기 | 한국여성기자협회 | 파주 : 나남, 2021 | 070.43 한16유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34646/17/cover200/k782933687_1.jpg) | 자살일기 | 파블로다니엘 | [서귀포] : 파블로다니엘, 2024 | 811.17 파47자 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26724/49/cover200/k402730182_1.jpg) | 우리는 밤마다 이야기가 되겠지 | 구달 | [서울] : 이후진프레스, 2021 | 811.87 우298구 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/5677/5/cover200/6000840412_1.jpg) | 양의 미래 | 황정은 | 서울 : 아시아, 2015 | 811.37 황74양 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26007/35/cover200/8931021518_1.jpg) | 구토 | Sartre, Jean-Paul | 서울 : 문예, 2020 | 843.914 S251nK임 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27145/23/cover200/8976826582_1.jpg) | 상당한 위험 : 글쓰기에 대하여 | Foucault, Michel | 서울 : 그린비, 2021 | 194 F762bK허 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34071/78/cover200/k242931472_2.jpg) | 오늘은 파도가 높습니다 | 황수영 | 서울 : 이불섬, 2023 | 811.87 황56오 | 중앙도서관 |
