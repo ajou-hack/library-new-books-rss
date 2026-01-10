@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/37515/84/cover200/8964453042_1.jpg) | 제자들이 본 쇼팽 | Eigeldinger, Jean-Jacques | 서울 : 길, 2025 | 786.2092 C549eK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35652/74/cover200/k752036810_1.jpg) | 파이썬으로 웹 크롤러 만들기 : 자동화된 나만의 웹 크롤러로 원하는 데이터 끌어오기 | Mitchell, Ryan | 서울 : 한빛미디어, 2025 | 005.133 M682w3K최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38204/15/cover200/k852034818_1.jpg) | ADHD 뇌는 처음이라서 | Boseley, Matilda | 서울 : 신사책방, 2026 | 616.8589 B743yK고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37727/99/cover200/8999735761_1.jpg) | 성인 ADHD를 위한 마음챙김 : 임상가 지침서 | Zylowska, Lidia | 서울 : 학지사, 2026 | 616.8589 Z99mK서 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대한민국 조약집 : 양자조약 | 외교통상부 조약국 조약과 | 서울 : 외교통상부, 2005- | 341.026451 외15대 v.28/v.29-1/v.29-2/v.30/v.31/v.32/v.33-1/v.33-2/v.34/v.35/v.36/v.37/v.38/v.39/v.40/v.41/v.43/v.44/v.46/v.47 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31737/65/cover200/k712833705_1.jpg) | 온실가스 배출권의 할당 및 거래에 관한 법률 : (약칭 : 배출권거래법) : 법령 시행령 | 해광 | 부산 : 해광, 2023 | 344.046 해15온 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37771/8/cover200/8947502170_3.jpg) | (이코노미스트) 2026 세계대전망 | Economist Newspaper Limited | 서울 : 한국경제신문 : 한경BP, 2025 | 330.905 E19wK현 2026 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Planung und Genehmigung von Windenergieanlagen | Blessing, Matthias | Stuttgart : Kohlhammer, 2024. | 346.045 B647p2 | 법학도서관 |
