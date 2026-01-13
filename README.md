@@ -2,6 +2,22 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/37840/6/cover200/8935214981_1.jpg) | 그립 : 내 인생을 주도하는 시간 설계의 기술 | Pastoor, Rick | 서울 : 청림, 2025 | 650.11 P292gK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38103/58/cover200/k042034182_1.jpg) | 모든 것들의 민영화 : 사라진 공공, 가난해진 국가, 그리고 시민 주권의 붕괴 | Cohen, Donald | 하남 : 북인어박스, 2025 | 338.925 C678pK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37967/61/cover200/k882034764_1.jpg) | 동기의 해부 : 이상한 자들의 이유 | Douglas, John E | 파주 : 글항아리, 2025 | 364.3 D734aK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37975/58/cover200/k802034969_1.jpg) | 직감의 힘 : 촉은 거짓말을 하지 않는다 | Huang, Laura | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 153.44 H874yK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38009/72/cover200/k782034881_1.jpg) | 우리를 인간답게 만드는 것들 : 혐오와 고립의 시대, 우리를 연결하는 가치는 무엇인가 | Bakewell, Sarah | 파주 : 다산초당 : 다산북스, 2025 | 171.2 B168hK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37971/95/cover200/k522034865_1.jpg) | 인간 본성의 역습 : 인간 본성은 우리의 세상을 어떻게 형성했고, 구원할 수 있는가 | Whitehouse, Harvey | 서울 : 위즈덤하우스, 2025 | 303.4 W593iK강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37926/66/cover200/k492033036_1.jpg) | 혼자는 외롭고 함께는 괴로운 당신에게 : 외로움과 우정, 사이의 철학 | 엄성우 | 파주 : 21세기북스 : 북이십일 21세기북스, 2025 | 158.2 엄54혼 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37972/0/cover200/k862034865_1.jpg) | 라흐마니노프, 피아노의 빛을 따라 | Maddocks, Fiona | 서울 : 위즈덤하우스, 2025 | 780.92 R119gK장 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38150/85/cover200/k692034302_1.jpg) | 미식가의 메뉴판 : 한 장의 메뉴에 담긴 시대의 취향, 계층, 문화 이야기 | Cooke, Nathalie | 파주 : 교보문고, 2025 | 394.12 C773tK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37967/60/cover200/k672034764_1.jpg) | 지리는 운명이다 : 영국과 세계, 그 1만 년의 역사 | Morris, Ian | 파주 : 글항아리, 2025 | 909 M876gK임 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37928/7/cover200/k072033130_1.jpg) | 완벽하지 않아도 참 괜찮은 어른 | 이서원 | [세종] : 마이디어북스, 2025 | 811.87 이54완 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37945/85/cover200/8984375152_1.jpg) | 차일드 호더 : 프리다 맥파든 장편소설 | McFadden, Freida | 파주 : 밝은세상, 2025 | 823.92 M143iK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37710/61/cover200/k402033169_3.jpg) | 기차의 꿈 : 데니스 존슨 소설 | Johnson, Denis | 파주 : 다산책방 : 다산북스, 2025 | 823.92 J66tK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37896/79/cover200/k632033623_1.jpg) | 미술관에 간 뇌과학자 : 화가의 뇌가 그린 내면의 풍경들 | 송주현 | 서울 : 어바웃어북, 2025 | 750.118 송76미 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37939/86/cover200/k752033356_2.jpg) | 부자의 조건 : 자수성가 백만장자가 알려주는 언제 어디서나 통하는 부의 기본기 | Tracy, Brian | 서울 : 현대지성, 2025 | 332.024 T761gK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37967/73/cover200/8901299119_1.jpg) | 의사에게 죽지 않는 법 : 잘못된 의학은 어떻게 우리를 병들게 하는가 | Makary, Marty | 파주 : 웅진지식하우스 : 웅진씽크빅, 2025 | 362.1 M235bK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37515/84/cover200/8964453042_1.jpg) | 제자들이 본 쇼팽 | Eigeldinger, Jean-Jacques | 서울 : 길, 2025 | 786.2092 C549eK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35652/74/cover200/k752036810_1.jpg) | 파이썬으로 웹 크롤러 만들기 : 자동화된 나만의 웹 크롤러로 원하는 데이터 끌어오기 | Mitchell, Ryan | 서울 : 한빛미디어, 2025 | 005.133 M682w3K최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38204/15/cover200/k852034818_1.jpg) | ADHD 뇌는 처음이라서 | Boseley, Matilda | 서울 : 신사책방, 2026 | 616.8589 B743yK고 | 중앙도서관 |
@@ -36,19 +52,3 @@
 | ![](https://image.aladin.co.kr/product/37840/18/cover200/k512033705_1.jpg) | 일 잘하는 엔지니어의 생각 기법 : 시스템 성능 개선과 최적화, 문제 해결의 속도를 높이는 사고의 기술 | Millsap, Cary V | 안양 : 책만, 2025 | 005.42 M657hK장 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38158/9/cover200/k112034406_1.jpg) | (요즘 교사를 위한) 에듀테크 5대장 : 캔바·패들렛·북크리에이터·노션·챗GPT·제미나이 | 안익재 | 파주 : 앤써북, 2025 | 371.334 안68에 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36868/43/cover200/k632030507_1.jpg) | 인생의 짧음에 대하여 : Lucius Annaei Senecae opera | Seneca, Lucius Annaeus | 서울 : 현대지성, 2025 | 188 S475LK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36158/30/cover200/k222038783_1.jpg) | 엥케이리디온 : 단검처럼 빛나는 스토아의 지혜 | Epictetus | 서울 : 그린비, 2025 | 188 E64eK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37633/95/cover200/k962032248_2.jpg) | 해석에 반하여 | Sontag, Susan | 서울 : 윌북, 2025 | 824.914 S699gK홍 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38031/33/cover200/k422034981_1.jpg) | 아주 작은 건강 습관의 기술 : 당신의 수면·운동·식사를 바꾸는 17가지 건강 자동화 시스템 | Imber, Amantha | 서울 : 현대지성, 2025 | 613 I32hK장 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37226/85/cover200/k332031702_1.jpg) | 다크심리학 | 다크 인사이트 | [서울] : 다크 인사이트 스튜디오, 2025 | 150 다877심 v.1~3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37906/73/cover200/k632033836_1.jpg) | 마음챙김의 뇌과학 : 스트레스, 불안, 우울을 다스리는 가장 과학적인 마음챙김의 기술 | Rodski, Stan | 서울 : 현대지성, 2025 | 158.12 R696nK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37433/58/cover200/k262032090_1.jpg) | 회사 다니며 순수익 월 5천 찍는 김 대리 이야기 : 절대 퇴사하지 마세요. 회사 다니면서 스몰 스타트 하세요 | 김관장 | 서울 : 센시오, 2025 | 658.11 김15회 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38034/43/cover200/8937448718_1.jpg) | 이런 것도 즐겁다고 생각합니다 : 김은한 에세이 | 김은한 | 서울 : 민음사, 2025 | 811.47 김67이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37926/68/cover200/k402033036_1.jpg) | 일 잘하는 사람은 이렇게 챗GPT를 씁니다 : 일잘러 장피엠의 AI 실무, 자동화, 노코드, GPTs, Make 활용 강의 | 장피엠 | 서울 : 한빛미디어, 2025 | 006.3 장898일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1438/39/cover200/8954616933_1.jpg) | 페레이라가 주장하다 : 안토니오 타부키 장편소설 | Tabucchi, Antonio | 파주 : 문학동네, 2011 | 853.914 T114sK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30632/27/cover200/k252830928_1.jpg) | 항상 조금 추운 극장 : 김승일 시집 | 김승일 | 서울 : 현대문학, 2022 | 811.17 김57항 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37114/19/cover200/k272030458_1.jpg) | 공공을 보는 눈 : 영화로 시작하는 행정학 | 이철주 | 서울 : 박영사, 2025 | 351 이83공 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27958/39/cover200/k212734211_1.jpg) | 먼지의 말 : 없지 않은 존재들의 목소리 | 채효정 | 옥천군 : 포도밭, 2021 | 301.0951 채95먼 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대한민국조약집 : 다자조약 | 외교통상부 | 서울 : 외교통상부, 2014 | 341.026451 외15대다 v.22~28 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대한민국 조약집 : 양자조약 | 외교통상부 조약국 조약과 | 서울 : 외교통상부, 2005- | 341.026451 외15대 v.28/v.29-1/v.29-2/v.30/v.31/v.32/v.33-1/v.33-2/v.34/v.35/v.36/v.37/v.38/v.39/v.40/v.41/v.43/v.44/v.46/v.47 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/31737/65/cover200/k712833705_1.jpg) | 온실가스 배출권의 할당 및 거래에 관한 법률 : (약칭 : 배출권거래법) : 법령 시행령 | 해광 | 부산 : 해광, 2023 | 344.046 해15온 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37771/8/cover200/8947502170_3.jpg) | (이코노미스트) 2026 세계대전망 | Economist Newspaper Limited | 서울 : 한국경제신문 : 한경BP, 2025 | 330.905 E19wK현 2026 | 중앙도서관 |
