@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Bioreactors in Biotechnology : a practical approach | Scragg, A. H | New York : Ellis Horwood, 1991 | 660.6 S433ba | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 글쓰기와 삶 | 국어교육위원회 | 서울 : 연세대학교 출판부, 1992(2001 9쇄) | 808 국64글 1992 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36639/72/cover200/k262030989_1.jpg) | 20세기 창극의 문화사 : 무대와 무대 너머 | 송소라 | 서울 : 소명 , 2025 | 792 송55이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36638/78/cover200/k992030883_1.jpg) | 염상섭 문학과 대안근대성 | 이종호 | 서울 : 소명, 2025 | 811.309 염52이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34239/21/cover200/k242931337_1.jpg) | 해양의 고리 : 지구적 자원 해양의 종합관 | Borgese, Elisabeth Mann | 성남 : 귀거래사, 2024 | 551.46 B732oK김 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/37805/61/cover200/k382033498_1.jpg) | (Do it!) HTML+CSS 웹 표준의 정석 : 탄탄한 웹 기본기를 위한 교과서 | 고경희 | 서울 : 이지스, 2025 | 006.74 고14h이4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/1182/27/cover200/8954614841_1.jpg) | 더버빌가의 테스 : 토머스 하디 장편소설 | Hardy, Thomas | 파주 : 문학동네, 2011(2023 8쇄) | 823.8 H272tK유 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36348/53/cover200/k292039966_1.jpg) | 싯다르타 : 인도의 시문학 : 헤르만 헤세 장편소설 | Hesse, Hermann | 파주 : 문학동네, 2018(2025 14쇄) | 833.912 H587sK권 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38158/69/cover200/k342034508_1.jpg) | 프라이즈 : 무라야마 유카 장편소설 | 촌산유가 | 서울 : 위즈덤하우스, 2025 | 813.37 촌52프K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37616/38/cover200/k152032849_1.jpg) | (한 권으로 끝내는) 의대 수업의 모든 것 : 화학과 생물에서 해부와 임상까지, 의대 과목 길잡이 | 연세대학교 | 서울 : 플루토, 2025 | 610.7 연54의 | 중앙도서관 |
