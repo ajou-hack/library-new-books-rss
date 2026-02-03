@@ -2,6 +2,28 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38103/30/cover200/8999735842_2.jpg) | 심리치료를 위한 공감의 기술 | Clark, Arthur J | 서울 : 학지사, 2026 | 158.3 C592eK신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38414/2/cover200/8994242953_2.jpg) | 한국의 양치식물 : 한국산 양치식물 348분류군의 생태와 분류 | 이창숙 | 서울 : 지오북, 2025 | 587 이82한3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34374/31/cover200/8955594291_1.jpg) | '좌파'의 '우울' : 21세기적 진보는 어떻게 가능한가? | Traverso, Enzo | 서울 : 새물결, 2024 | 335.4 T781LK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/4796/25/cover200/1185877029_1.jpg) | 서사학과 텍스트 이론 : 토도로프에서 데리다까지 | 박진 | 서울 : 소명, 2014(2023 3쇄) | 808 박78서2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The study-book of mediæval architecture and art : being a series of working drawings of the principal monuments of the middle ages | King, Thomas H | [S.l] : [Abacus Press], 2021 | 720.9 K54s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The invention of infinite growth : how economists came to believe a dangerous delusion | Jones, Christopher F | Chicago : University of Chicago, 2025. | 338.9 J76i | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38333/33/cover200/k832034447_2.jpg) | 쥬디 할머니 : 박완서 소설 | 박완서 | 파주 : 문학동네, 2026 | 811.37 박65쥬 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Inversions | Banks, Iain | New York : Gallery Books, 2023. | 823.92 B218i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Emotion and motivation | Shiota, Michelle N | New York, NY : Oxford University Press, 2023. | 152.4 S556e4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook on sport and migration | Maguire, Joseph | Cheltenham, UK : Edward Elgar Publishing, 2024. | 796.08 M213h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Self+culture+writing : autoethnography for/as writing studies | Jackson, Becky | Logan, UT : Utah State University Press, [2020] | 808.06692 J12s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The ethnographi.1 : a methodological novel about autoethnography | Ellis, Carolyn | Walnut Creek, CA : AltaMira Press, 2004. | 305.8 E47e v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Routledge international handbook of sensory ethnography | Vannini, Phillip | Abindon, Oxon : Routledge, 2024. | 306.01 V269r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Measuring culture | Mohr, John W | New York : Columbia University, 2020. | 306 M699m | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The culture map : breaking through the invisible boundaries of global business | Meyer, Erin | New York : PublicAffairs, 2014. | 658.049 M612c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Clinical storytelling, art and the problems of being : the analyst's necessary vertigo | McGleughlin, Jade | Abingdon, Oxon | 616.8917 M145c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Smart hybrid AC/DC microgrids : power management, energy management, and power quality control | Li, Yunwei Ryan | Chichester, West Sussex : Wiley : IEEE Press, 2022. | 621.312 L693s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Advanced introduction to digital society | Castells, Manuel | Cheltenham, UK : Edward Elgar Publishing, 2024. | 303.4833 C348a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The science of wine : from vine to glass | Goode, Jamie | Oakland, California : University of California Press | 663.2 G647s3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 考えごとしたい旅 : フィンランドとシナモンロール | 익전미리 | 東京 : 幻冬舎, 2020 | 813.67 익74고 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Race, class, and gentrification in Brooklyn : a view from the street | Krase, Jerome | Lanham : Lexington Books, 2016. | 307.34160973 K89r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Putnam and beyond | Gelca, Răzvan | Cham : Springer, 2017. | 510 G314p2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Bioreactors in Biotechnology : a practical approach | Scragg, A. H | New York : Ellis Horwood, 1991 | 660.6 S433ba | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 글쓰기와 삶 | 국어교육위원회 | 서울 : 연세대학교 출판부, 1992(2001 9쇄) | 808 국64글 1992 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36639/72/cover200/k262030989_1.jpg) | 20세기 창극의 문화사 : 무대와 무대 너머 | 송소라 | 서울 : 소명 , 2025 | 792 송55이 | 중앙도서관 |
@@ -30,25 +52,3 @@
 | ![](https://image.aladin.co.kr/product/29950/55/cover200/k242838042_1.jpg) | (배창호의) 영화의 길 | 배창호 | 서울 : 작가, 2022 | 791.4302 배82영 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37199/41/cover200/8999735117_1.jpg) | (셀프 수퍼비전을 통한) 상담기술 훈련 : 초보상담자를 대상으로 | 이수현 | 서울 : 학지사, 2025 | 158.3 이56상2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/24396/32/cover200/8920037426_1.jpg) | 미래 직업 감상하기 : 영화와 드라마로 체험하는 미래 사회의 일과 삶 | 나윤빈 | 서울 : 지식의날개 : 한국방송통신대학교출판문화원, 2020 | 331.7 나66미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37945/34/cover200/k322033457_2.jpg) | 슬라보예 지젝 | Butler, Rex | 서울 : 책세상, 2025 | 199.4973 Z82bK강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38264/91/cover200/896347660x_1.jpg) | 횡단하는 비교영화 : 전후 생명정치성과 한·일의 동시대성 | 안민화 | 과천 : 진인진, 2025 | 791.430951 안38횡 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 변화적응력과 회복탄력성 : 불확실성 시대의 인간·조직·사회의 진화 전략 | 고종문 | 서울 : 퍼플, 2025 | 650.1 고75변 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37944/55/cover200/k832033452_1.jpg) | 안도 다다오 작품집: 빛과 공간 | Ando, Tadao | 서울 : 유엑스리뷰, 2025 | 720.92 A552tK유빛 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38220/59/cover200/k342034420_2.jpg) | 스피노자 편람 : 스피노자에 대한 거의 모든 것 | Bunge, Wiep van | 서울 : 그린비, 2025 | 199.492 S758bK이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sport for peace and development : perspectives of the united nations (UN).volume 1, United Nations involvement, decisions and initiatives | Ubaidulloec, Zubaidullo | [S.l] : Institute of Global Medical and Sports Science Japan (GMSS), 2022 | 796.06 U12s v.1 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Luminescence spectroscopy of semiconductors | Pelant, Ivan | Oxford | 543.56 P381L | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Essentials of autoethnography | Poulos, Christopher N | Washington, DC : American Psychological Association, 2021. | 808.06692 P875e | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Teaching with AI for success : step-by-step guide to artificial intelligence tools, practical teaching strategies ＆ ethical considerations for future-ready classrooms | Times Square Publications | [S.l] : Times Square Publications, 2025. | 371.334 T583t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A history of rock music in 500 songs | Hickey, Andrew | [United Kingdom] : [Andrew Hickey], 2019. | 781.6609 H628h v.1~2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Riding the waves of culture : understanding diversity in global business | Trompenaars, Alfons | New York : McGraw-Hill, 2020. | 658.4 T851r4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The paradox of choice : why more is less | Schwartz, Barry | New York : HarperCollins : Ecco, 2005. | 153.83 S399p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Privacy is power : why and how you should take back control of your data | Véliz, Carissa | Brooklyn, NY : Melville House Publishing, 2021. | 005.8 V437p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Bion's vertices : on truth and lies | Fortuna, Tomasz | London : Karnac Books, 2025. | 177.3 F745b | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Inside the American couple : new thinking/new challenges | Yalom, Marilyn | Berkeley : University of California Press, 2002. | 306.7 Y19i | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook of the psychology of aging | Schaie, K. Warner | London, England : Academic Press, 2021. | 155.67 S296h9 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cézanne and the post-Bionian field : an exploration and a meditation | Snell, Robert | Abingdon, Oxon | 150.195 S671c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Raumordnungsgesetz : mit Landesplanungsrecht | Kment, Martin | Baden-Baden : Nomos, 2026. | 346.045 R246k2 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Windenergieanlagen : ein Rechtshandbuch | Maslaton, Martin | München : C.H. Beck, 2026. | 343.092 M397w3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37805/61/cover200/k382033498_1.jpg) | (Do it!) HTML+CSS 웹 표준의 정석 : 탄탄한 웹 기본기를 위한 교과서 | 고경희 | 서울 : 이지스, 2025 | 006.74 고14h이4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1182/27/cover200/8954614841_1.jpg) | 더버빌가의 테스 : 토머스 하디 장편소설 | Hardy, Thomas | 파주 : 문학동네, 2011(2023 8쇄) | 823.8 H272tK유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36348/53/cover200/k292039966_1.jpg) | 싯다르타 : 인도의 시문학 : 헤르만 헤세 장편소설 | Hesse, Hermann | 파주 : 문학동네, 2018(2025 14쇄) | 833.912 H587sK권 | 중앙도서관 |
