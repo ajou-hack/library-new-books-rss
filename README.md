@@ -2,27 +2,43 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 마음 예보 : 정신건강 위기의 시대, 아홉 명 전문의가 전하는 마음 사용법 | 글 쓰는 정신건강의학과 의사회 | 서울 : 흐름, 2026 | 616.8914 글57마 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이별은 사랑이다 : 최문희 장편소설 | 최문희 | 서울 : 도화, 2025 | 811.37 최36이도 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 마음의 장소 | 나희덕 | 파주 : 달, 2026 | 811.47 나97한2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38327/41/cover200/k462034344_1.jpg) | 21세기 지정학 : 5000년 문명사를 통해 보는 세계질서의 대전환 | Acharya, Amitav | 파주 : 21세기북스 : 북이십일 21세기북스, 2026 | 909.83 A1762oK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37562/34/cover200/k882034982_2.jpg) | 성매매 뿌리 뽑기 : 세계의 현장에서 발견한 변화의 전략들 | 인등몽내 | [서울] : 봄알람, 2025 | 306.74 성33인 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38204/58/cover200/8901299232_1.jpg) | 다시, 사람을 배웁니다 : 잘 익어가는 인생을 위한 강원국의 관계 공부 | 강원국 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2025 | 158.2 강66다 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37967/15/cover200/k752034762_1.jpg) | 뇌는 왜 친구를 원하는가 : 우리 삶에 사랑과 연결 그리고 관계가 필요한 뇌과학적 이유 | Rein, Ben | 서울 : 더퀘스트 : 길벗, 2025 | 302 R364wK고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38240/72/cover200/k362034628_1.jpg) | 누군가를 사랑할 때 내가 사랑하는 그는 누구인가? | Bensaid, Catherine | 파주 : 열림원, 2025 | 152.41 B474qK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38240/3/cover200/8901299178_1.jpg) | 인구는 거짓말하지 않는다 : 세상의 모든 변화를 결정하는 인구의 경제학 | Spears, Dean E | 파주 : 웅진지식하우스 : 웅진씽크빅, 2025 | 304.6 S741aK노 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37945/47/cover200/k962033558_2.jpg) | 세상 끝의 기록 | Berger, John | 서울 : 더퀘스트 : 길벗, 2026 | 778.936 B496aK민 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38239/60/cover200/8962633302_1.jpg) | 떠오르는 세계 : 고대의 지구사 | Schulz, Raimund | 서울 : 에코리브르, 2025 | 930 S389wK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38079/92/cover200/8937409577_1.jpg) | 아무도 미워하지 않고 한 계절이 지나갔다 : 김이듬 시집 | 김이듬 | 서울 : 민음사, 2025 | 811.17 김68아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38195/3/cover200/8937464691_1.jpg) | 악수도 없이 헤어졌다 | 피천득 | 서울 : 민음사, 2025 | 811.47 피83악 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38196/48/cover200/8954473369_1.jpg) | 마니아, 평등에 미친 시대 : 라이오넬 슈라이버 장편소설 | Shriver, Lionel | 파주 : 자음과모음, 2025 | 813.914 S561mK유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38325/96/cover200/8962626845_1.jpg) | 네트워크, 세상을 움직이는 5가지 연결 | 김일룡 | 서울 : 동아시아, 2026 | 502 김68네 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38342/85/cover200/k022135067_1.jpg) | 바다와 숲의 영혼 : 자연과 인간을 다시 잇는 여정 | Foster, Craig | 성남 : 상상스퀘어, 2026 | 508 F754aK석 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38135/48/cover200/8947502235_1.jpg) | (한 권으로 끝내는) 미국 ETF 투자 : 처음부터 제대로 배우는 미국 ETF 투자 공식 | 이을수 | 서울 : 한국경제신문 : 한경BP, 2025 | 332.6322 이67미 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38193/88/cover200/8901299100_1.jpg) | 재설계하라 : 최소한의 힘으로 극적인 변화를 이끌어내는 법 | Heath, Dan | 파주 : 웅진지식하우스 : 웅진씽크빅, 2025 | 658.406 H437rK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38009/64/cover200/k502034881_1.jpg) | 간이 살아야 내가 산다 : 지방이 쌓이지 않는 몸을 만들어 건강하게 오래 사는 법 | 률원의 | [서울] : 링크북스, 2025 | 616.362 률66간K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38361/52/cover200/8965967929_1.jpg) | 마음 예보 : 정신건강 위기의 시대, 아홉 명 전문의가 전하는 마음 사용법 | 글 쓰는 정신건강의학과 의사회 | 서울 : 흐름, 2026 | 616.8914 글57마 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38192/45/cover200/k492034603_1.jpg) | 이별은 사랑이다 : 최문희 장편소설 | 최문희 | 서울 : 도화, 2025 | 811.37 최36이도 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38277/4/cover200/k072034046_1.jpg) | 마음의 장소 | 나희덕 | 파주 : 달, 2026 | 811.47 나97한2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38304/94/cover200/k892034247_2.jpg) | 갈등하는 눈동자 : 이슬아 에세이 | 이슬아 | 파주 : 먼곳 : 먼곳프레스, 2026 | 811.87 이57갈 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | AI 시대, 강력한 개인이 온다 : 언러닝부터 감식안까지, 인공지능 시대의 새로운 문해력 | 구본권 | 파주 : 김영사, 2026 | 303.483 구45a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 렘브란트 : 예술철학적 시론 | Simmel, Georg | 서울 : 길, 2016 | 759.9492 R385sK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 기록시스템 1800·1900 | Kittler, Friedrich A | 파주 : 문학동네, 2015(2020 3쇄) | 830.9 K62aK윤 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 후회하지마 : 박중훈 에세이 | 박중훈 | 서울 : 사유와공감 : 이츠북스, 2025 | 811.47 박76후 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (정신 의학의 눈으로 본) 성경의 인물들 : 나와 공동체를 위한 성경인물 정신 건강 탐구 보고서 | 유덕진 | 서울 : 세움북스, 2025 | 220.8 유24성 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 감정의 기원 : 우리의 뇌는 어떻게 감정을 만들어내는가 | Deisseroth, Karl | 서울 : 북라이프, 2026 | 616.8914 D325pK최 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 행복한 개인이 되자 : 내향인의 번아웃 해결책 : 진민영 에세이 | 진민영 | 서울 : 책읽는고양이 : 리수, 2025 | 811.47 진38행 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 구약의 사람들 : 신과 인간의 서사를 만든 첫째성경 인물 열전 | 주원준 | 고양 : EBS BOOKS : 한국교육방송공사(EBS), 2023 | 221.92 주66구 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대한항공 오디세이아 : 세계 항공업계를 선도하는 글로벌 항공사 | 백인호 | 서울 : 정음서원, 2025 | 387.7 조76백 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 너무 일찍 온 미래의 음악 : 김성현의 현대음악 에세이 | 김성현 | 서울 : 풍월당, 2025 | 780.15 김54너 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 범죄학과 사회이론 | Garland, David | 성남 : 두번째테제, 2021 | 364 C929gK추 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 여성은 순종적으로 태어나지 않는다 | Garcia, Manon | 서울 : 에코리브르, 2022 | 305.42 G216oK양 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 연애 결핍 시대의 증언 : 이 시대 청춘의 사랑은 불황기의 구직과 닮았다 | 나호선 | 파주 : 여문책, 2022 | 811.87 나95연 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 성서, 퀴어를 옹호하다 : 성서학자가 들려주는 기독교와 성소수자 이야기 | 박경미 | 대구 : 한티재, 2020 | 241.66 박14성 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 머더봇 다이어리 : 로그 프로토콜 | Wells, Martha | 서울 : 알마, 2020(2025 2쇄) | 823.92 W455rK고 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 은의 혀 | 박지선 | 서울 : 국립극단 : 걷는사람, 2024 | 811.27 박78은 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 경제를 궁리한 조선의 선비들 : 청빈과 이익 사이, 조선 선비들의 머니 스토리 | 곽재식 | 서울 : 믹스커피, 2025 | 330.951 곽73경 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38336/92/cover200/k722135064_1.jpg) | AI 시대, 강력한 개인이 온다 : 언러닝부터 감식안까지, 인공지능 시대의 새로운 문해력 | 구본권 | 파주 : 김영사, 2026 | 303.483 구45a | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/8077/18/cover200/k832434237_1.jpg) | 렘브란트 : 예술철학적 시론 | Simmel, Georg | 서울 : 길, 2016 | 759.9492 R385sK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6382/25/cover200/8954638678_1.jpg) | 기록시스템 1800·1900 | Kittler, Friedrich A | 파주 : 문학동네, 2015(2020 3쇄) | 830.9 K62aK윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37490/81/cover200/k942032316_1.jpg) | 후회하지마 : 박중훈 에세이 | 박중훈 | 서울 : 사유와공감 : 이츠북스, 2025 | 811.47 박76후 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37062/6/cover200/k252030339_1.jpg) | (정신 의학의 눈으로 본) 성경의 인물들 : 나와 공동체를 위한 성경인물 정신 건강 탐구 보고서 | 유덕진 | 서울 : 세움북스, 2025 | 220.8 유24성 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38300/84/cover200/k162034240_1.jpg) | 감정의 기원 : 우리의 뇌는 어떻게 감정을 만들어내는가 | Deisseroth, Karl | 서울 : 북라이프, 2026 | 616.8914 D325pK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37900/87/cover200/k562033732_1.jpg) | 행복한 개인이 되자 : 내향인의 번아웃 해결책 : 진민영 에세이 | 진민영 | 서울 : 책읽는고양이 : 리수, 2025 | 811.47 진38행 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31443/31/cover200/8954773338_1.jpg) | 구약의 사람들 : 신과 인간의 서사를 만든 첫째성경 인물 열전 | 주원준 | 고양 : EBS BOOKS : 한국교육방송공사(EBS), 2023 | 221.92 주66구 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36079/35/cover200/k492037246_1.jpg) | 대한항공 오디세이아 : 세계 항공업계를 선도하는 글로벌 항공사 | 백인호 | 서울 : 정음서원, 2025 | 387.7 조76백 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37604/96/cover200/k172032833_1.jpg) | 너무 일찍 온 미래의 음악 : 김성현의 현대음악 에세이 | 김성현 | 서울 : 풍월당, 2025 | 780.15 김54너 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25967/86/cover200/k312730190_1.jpg) | 범죄학과 사회이론 | Garland, David | 성남 : 두번째테제, 2021 | 364 C929gK추 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29106/80/cover200/8962632365_1.jpg) | 여성은 순종적으로 태어나지 않는다 | Garcia, Manon | 서울 : 에코리브르, 2022 | 305.42 G216oK양 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29065/34/cover200/k132836550_2.jpg) | 연애 결핍 시대의 증언 : 이 시대 청춘의 사랑은 불황기의 구직과 닮았다 | 나호선 | 파주 : 여문책, 2022 | 811.87 나95연 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24790/60/cover200/k042632957_1.jpg) | 성서, 퀴어를 옹호하다 : 성서학자가 들려주는 기독교와 성소수자 이야기 | 박경미 | 대구 : 한티재, 2020 | 241.66 박14성 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25694/27/cover200/k482736560_1.jpg) | 머더봇 다이어리 : 로그 프로토콜 | Wells, Martha | 서울 : 알마, 2020(2025 2쇄) | 823.92 W455rK고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34406/44/cover200/k652932728_2.jpg) | 은의 혀 | 박지선 | 서울 : 국립극단 : 걷는사람, 2024 | 811.27 박78은 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38193/18/cover200/k612034606_1.jpg) | 경제를 궁리한 조선의 선비들 : 청빈과 이익 사이, 조선 선비들의 머니 스토리 | 곽재식 | 서울 : 믹스커피, 2025 | 330.951 곽73경 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38103/30/cover200/8999735842_2.jpg) | 심리치료를 위한 공감의 기술 | Clark, Arthur J | 서울 : 학지사, 2026 | 158.3 C592eK신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38414/2/cover200/8994242953_2.jpg) | 한국의 양치식물 : 한국산 양치식물 348분류군의 생태와 분류 | 이창숙 | 서울 : 지오북, 2025 | 587 이82한3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34374/31/cover200/8955594291_1.jpg) | '좌파'의 '우울' : 21세기적 진보는 어떻게 가능한가? | Traverso, Enzo | 서울 : 새물결, 2024 | 335.4 T781LK김 | 중앙도서관 |
@@ -36,19 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Self+culture+writing : autoethnography for/as writing studies | Jackson, Becky | Logan, UT : Utah State University Press, [2020] | 808.06692 J12s | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The ethnographi.1 : a methodological novel about autoethnography | Ellis, Carolyn | Walnut Creek, CA : AltaMira Press, 2004. | 305.8 E47e v.1 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Routledge international handbook of sensory ethnography | Vannini, Phillip | Abindon, Oxon : Routledge, 2024. | 306.01 V269r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Measuring culture | Mohr, John W | New York : Columbia University, 2020. | 306 M699m | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The culture map : breaking through the invisible boundaries of global business | Meyer, Erin | New York : PublicAffairs, 2014. | 658.049 M612c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Clinical storytelling, art and the problems of being : the analyst's necessary vertigo | McGleughlin, Jade | Abingdon, Oxon | 616.8917 M145c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Smart hybrid AC/DC microgrids : power management, energy management, and power quality control | Li, Yunwei Ryan | Chichester, West Sussex : Wiley : IEEE Press, 2022. | 621.312 L693s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Advanced introduction to digital society | Castells, Manuel | Cheltenham, UK : Edward Elgar Publishing, 2024. | 303.4833 C348a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The science of wine : from vine to glass | Goode, Jamie | Oakland, California : University of California Press | 663.2 G647s3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 考えごとしたい旅 : フィンランドとシナモンロール | 익전미리 | 東京 : 幻冬舎, 2020 | 813.67 익74고 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Race, class, and gentrification in Brooklyn : a view from the street | Krase, Jerome | Lanham : Lexington Books, 2016. | 307.34160973 K89r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Putnam and beyond | Gelca, Răzvan | Cham : Springer, 2017. | 510 G314p2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Bioreactors in Biotechnology : a practical approach | Scragg, A. H | New York : Ellis Horwood, 1991 | 660.6 S433ba | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 글쓰기와 삶 | 국어교육위원회 | 서울 : 연세대학교 출판부, 1992(2001 9쇄) | 808 국64글 1992 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36639/72/cover200/k262030989_1.jpg) | 20세기 창극의 문화사 : 무대와 무대 너머 | 송소라 | 서울 : 소명 , 2025 | 792 송55이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36638/78/cover200/k992030883_1.jpg) | 염상섭 문학과 대안근대성 | 이종호 | 서울 : 소명, 2025 | 811.309 염52이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34239/21/cover200/k242931337_1.jpg) | 해양의 고리 : 지구적 자원 해양의 종합관 | Borgese, Elisabeth Mann | 성남 : 귀거래사, 2024 | 551.46 B732oK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36304/86/cover200/k922038440_1.jpg) | 목소리의 표정: 심리상담사의 나답게 말하기, 삶을 바꾸는 대화 마인드셋 | 임려원 | 파주 : 크루 ; 2025 | 158.3 임294목 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38343/22/cover200/k922135169_1.jpg) | 기부트렌드 2026 : AI 시대의 인간다움 : 기부의 재발견 | 박미희 | 서울 : 사랑의열매 사회복지공동모금회 나눔문화연구소 : 이소노미아, 2026 | 361.37 기46박 2026 | 중앙도서관 |
