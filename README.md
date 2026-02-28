@@ -2,6 +2,39 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38082/18/cover200/k312034085_1.jpg) | 스트랭 선형대수학 | Strang, Gilbert | 서울 : 한빛아카데미, 2025 | 512.5 S897i6K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37271/65/cover200/k092031329_2.jpg) | 지각의 현상학 | Merleau-Ponty, Maurice | 서울 : 세창, 2025 | 142.7 M564pK주 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36786/15/cover200/893158606x_1.jpg) | 스포츠, AI와 동행하다 : 인간 본능과 기계 지능이 만나는 미래 스포츠 | Brady, Christopher | 서울 : BM성안당, 2025 | 796.021 B812aK박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (Campbell) 생명과학 : 개념과 현상의 이해 | Taylor, Martha R | [파주] : Pearson : 교문사, 2025 | 570 C192t10K김개 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35890/0/cover200/s402030493_1.jpg) | 민사집행법 | 이시윤 | 서울 : 博英社, 2025 | 347.077 이58신 2025 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/37013/6/cover200/k272030328_1.jpg) | 민사소송법 | 이시윤 | 서울 : 博英社, 2025 | 347.05 이58신 2025 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/37014/71/cover200/8977707749_2.jpg) | 특별형법 | 이주원 | 서울 : 弘文社, 2025 | 345 이76특11 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/33572/22/cover200/k672939291_1.jpg) | VC 스타트업 : 투자자의 노트부터 창업가의 고민까지 | 김기영 | [고양] : 지음미디어, 2024 | 658.11 김18v | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18193/10/cover/8952128745_1.jpg) | 사랑해요 한국어 : student's book | 서울대학교 | 서울 : 서울대학교출판문화원, 2019 | 411.8 서66사 v.1~4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28664/20/cover/k212836764_1.jpg) | 자동화와 노동의 미래 : 탈희소성 사회는 어떻게 실현되는가? | Benanav, Aaron | 서울 : 책세상, 2022 | 338.064 B456aK윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35873/83/cover200/k622037781_1.jpg) | 신국제통상론 | 김형욱 | 서울 : 두남, 2025 | 382 김94신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38266/8/cover200/k612034737_1.jpg) | 재정학 | 이준구 | 고양 : 문우사, 2026 | 336 이76재7 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36597/46/cover200/k202030765_1.jpg) | (사례로 배우는) ESG 경영전략 | 권순환 | 서울 : 청람, 2025 | 658.408 권56e | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38266/31/cover200/k512034838_1.jpg) | (리더를 위한) 인적자원관리 | 박우성 | 서울 : 창민사, 2026 | 658.3 유16인4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25919/90/cover200/k892737696_1.jpg) | 도시맥락의 구축.2, 서울지도연구 및 도시건축계획 | Carones, Maurizio | [고양] : ESA Design, 2020 | 711.4 C842cK최 v.2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37596/24/cover200/k442032838_1.jpg) | 파이썬 for beginner : 쉽고 빠르게 익히는 프로그래밍의 기본 원리 | 우재남 | 서울 : 한빛아카데미, 2025 | 005.133 우73파한4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36654/75/cover200/k752030088_1.jpg) | 창업이 막막할 때 필요한 책 : 하루 10분 액션 플랜으로 시작하는 창업 교과서 | 이건호 | 서울 : 한빛미디어, 2025 | 658.11 이14창 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31443/17/cover200/k792832317_1.jpg) | 토질시험 : 원리와 방법 | 이상덕 | 서울 : 씨아이알, 2023 | 624.1514 이52토3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37684/61/cover200/k562032448_1.jpg) | 스타트업 바이블 : 전세계 스타트업 지도를 바꾼 MIT 창업 수업 | Aulet, Bill | 서울 : 비즈니스북스, 2025 | 658.11 A924dK백3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37806/48/cover200/k262033490_1.jpg) | (지속가능성을 위한) 화학 이야기 | 이익모 | 파주 : 자유아카데미, 2025 | 540 이68화 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36485/39/cover200/k592039011_1.jpg) | (국내 전동자동차 분야 전문가가 집필한) 그린전동자동차기사 : 필기 | 함성훈 | 서울 : SD에듀 : 시대고시기획, 2025 | 629.2076 그298함12 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35780/74/cover200/k202036048_1.jpg) | 기초정수론 | Burton, David M | 서울 : 맥그로힐에듀케이션코리아 : 경문사 , 2025 | 512.7 B974e7K이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 경영정보시스템 | Laudon, Kenneth C | [서울] : 경문사, 2025 | 658.4038 L372m18K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 거시경제학 | Blanchard, Olivier | [서울] : 한빛아카데미, 2026 | 339 B639m9K최 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 조선후기 학계와 지식인 | 유봉학 | 성남 : 신구문화사, 1998(2014 3쇄) | 951.5 유45조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36937/14/cover200/8968445389_1.jpg) | (뉴) 글로벌 시대의 국제 경영 | Hill, Charles W. L | 서울 : 한경사, 2025 | 658.049 H645g13K박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/833/24/cover200/8963302970_1.jpg) | 학습상담 | 김동일 | 서울 : 학지사, 2011(2024 9쇄) | 371.422 학57김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35907/22/cover200/8962185717_1.jpg) | 맨큐의 핵심경제학 | Mankiw, N. Gregory | [서울] : 센게이지러닝코리아, 2025 | 330 M278e10K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/10004/84/cover200/8947281360_1.jpg) | (최신) 경제성공학 : 투자사업의 한국형 경제적 타당성 분석 | 유일근 | 파주 : 형설, 2017(2023 3쇄) | 658.15 유68경4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36276/78/cover200/8930041957_1.jpg) | 탈형이상학적 사고 | Habermas, Jürgen | 파주 : 나남, 2025 | 193 H114nK홍 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35393/62/cover200/k252035817_1.jpg) | (예비교원과 현직교원의 성공적 교직활동을 위한) 교직실무의 이론과 실제 | 문진철 | 고양 : 어가, 2025 | 371.1 문78교 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/12985/30/cover200/8998521652_1.jpg) | 동기와 정서의 이해 | Reeve, Johnmarshall | 서울 : 박학사, 2018 | 153.8 R331u6K정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/8688/90/cover200/894604019x_1.jpg) | 과학기술과 문화가 만날 때 : 과학기술문화론 탐구 | 송성수 | 파주 : 한울, 2009 | 306.45 송54과 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35654/59/cover200/k862036815_1.jpg) | 경제학원론 | 이준구 | 고양 : 문우사, 2025 | 330 이76경7 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36949/95/cover200/k182030610_1.jpg) | 플랫폼 한류 : 로컬 플랫폼의 글로벌 변화 | 이성민 | 서울 : 컬처룩, 2025 | 302.23 플293이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36451/4/cover200/8999731693_1.jpg) | 성인·노인심리학 | 정옥분 | 서울 : 학지사, 2024 | 155.6 정65성학4 | 중앙도서관 |
@@ -19,36 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31338/20/cover/894607440x_1.jpg) | 문화코드, 어떻게 읽을 것인가? : 문화연구의 이론과 실제 | Longhurst, Brian | 파주 : 한울아카데미 : 한울엠플러스, 2023-2024 | 306 I61b3K조 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30657/54/cover/k082830938_1.jpg) | (데이터 과학을 위한) 파이썬 프로그래밍 | 최성철 | 서울 : 한빛아카데미, 2023 | 005.133 최54파2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30586/44/cover/k232830812_1.jpg) | AI 지도책 : 세계의 부와 권력을 재편하는 인공지능의 실체 | Crawford, Kate | 서울 : 소소의책, 2022 | 006.3 C899aK노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29128/49/cover/k542837460_1.jpg) | 한 권으로 끝내는 서평과 논문 : 대학생 실전 글쓰기의 모든 것 | 김남규 | 서울 : 헤겔의 휴일, 2022 | 808.066 김192한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/8282/91/cover/8976445538_1.jpg) | 과학기술정책론 : 거버넌스적 이해 | 홍형득 | 서울 : 대영문화사, 2016 | 352.745 홍94과 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26419/2/cover/8946068434_1.jpg) | 한류 :역사, 이론, 사례 | Yoon, Tae-Jin | 파주 :한울아카데미 :한울엠플러스, 2019 | 302.230951 Y59kK나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23308/58/cover/8936486519_1.jpg) | 에코페미니즘 | Mies, Maria | 파주 :창비, 2020 | 304.2 M632eK손2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/500383bd-af4d-4785-924e-7a608af9dfbf) | 기계 학습 | 오일석 | 서울 : 한빛아카데미, 2017(2024 7쇄) | 006.31 오68기 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/c8f8cd3c-d099-4edc-bcfc-830692c72f19) | 이용자를 왕처럼 모시진 않겠습니다 : 도서관, 시민이 탄생하는 제3의 공간 | 박영숙 | 서울 : 알마, 2014(2019 5쇄) | 027.4 박64이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/963df944-03c1-4ae6-9d3f-d38db6ca49d2) | (유학생을 위한)한국어 대학 글쓰기 | 김성수 | 서울 : 박이정, 2013(2023 6쇄) | 411.8 한16김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/dd94caa3-6c44-427c-b8ec-43f085f90a91) | (대학 강의 수강을 위한) 한국어 읽기 : 중급1, 중급2, 고급 | 연세대학교 | 서울 : 연세대학교 출판문화원, 2012(2013 2쇄)(2023 9쇄) | 411.8 연54한읽 v.2-1/v.2-2/v.3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36322/28/cover200/8918916019_1.jpg) | 家族法硏究.6 | 김상용 | 파주 : 法文社, 2025 | 346.015 김52가 v.6 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36099/81/cover200/8977707714_1.jpg) | 디지털 대전환 시대의 규제와 법정책 | 이원우 | 서울 : 弘文社, 2025 | 340.1 이66디 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/35951/22/cover200/8968509077_1.jpg) | 좋은 특허, 나쁜 특허, 좋은 지적재산권, 나쁜 지적재산권 : 자유주의적 개인주의와 공리주의의 지적재산권 | 나종갑 | 서울 : 연세대학교 출판문화원, 2025 | 346.048 나75좋 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/34385/77/cover200/k822932407_1.jpg) | 국제거래 계약의 이해와 기술 : 영어로 계약서 쓰기 | 조대환 | 서울 : 유원북스, 2024 | 346.02 조23국 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/35771/0/cover200/k492036844_1.jpg) | 로미오와 줄리엣 | Shakespeare, William | 서울 : 더스토리: 미르북컴퍼니, 2025 | 822.33 S527rK한2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36746/66/cover200/k442030092_1.jpg) | 정책학 | 정해일 | 서울 : 윤성사, 2025 | 352.34 정93정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38476/58/cover200/k512135118_1.jpg) | 비평 이론의 모든 것 : 신비평부터 퀴어비평까지 | Tyson, Lois | 서울 : 앨피, 2026 | 801.95 T994c4K윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34215/86/cover200/k712931139_1.jpg) | AI 시대의 이산수학 with 파이썬 | 박두순 | 서울 : 한빛아카데미, 2024 | 511.1 박26a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34527/10/cover200/k212932855_1.jpg) | (한 권으로 끝내는) 블렌더 교과서 | 김영일 | 서울 : 길벗캠퍼스 : 길벗, 2024 | 006.693 김64블 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2921/96/cover200/8940804546_1.jpg) | 꼭 읽어야 할 예술이론과 비평 40선 | Preziosi, Donald | 서울 : 미진사, 2019(2026 3쇄) | 701.18 P944a2K정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37126/83/cover200/8930319769_1.jpg) | 한국어 문법 총론.1, 개관, 음운, 형태, 통사 | 구본관 | 서울 : 집문당, 2025 | 411.5 한16구집2 v.1 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37231/18/cover200/8901297450_2.jpg) | 나는 메트로폴리탄 미술관의 경비원입니다 : 가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 | Bringley, Patrick | 파주 : 웅진지식하우스 : 웅진씽크빅, 2025 | 708.1471 B858aK김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36912/41/cover200/k322030113_1.jpg) | 한국 정치제도와 개헌 : 어떻게 작동하며 무엇을 바꾸어야 하는가? | 문우진 | 서울 : 박영사, 2025 | 320.951 문66한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37921/94/cover200/8931481489_1.jpg) | 파이썬으로 배우는 데이터 과학 | Lau, Sam | 서울 : 영진닷컴, 2025 | 006.312 L366LK권 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37906/73/cover200/k632033836_1.jpg) | 마음챙김의 뇌과학 : 스트레스, 불안, 우울을 다스리는 가장 과학적인 마음챙김의 기술 | Rodski, Stan | 서울 : 현대지성, 2025 | 158.12 R696nK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37821/84/cover200/k342033599_1.jpg) | 기술창업의 정석 | 백종일 | 서울 : 박영사, 2025 | 658.11 백75기 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36974/75/cover200/k092030920_1.jpg) | 화이트칼라 : 현대 중간계급의 초상 | Mills, C. Wright | 파주 : 돌베개, 2025 | 305.550973 M657wK조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37337/40/cover200/k852032665_2.jpg) | AI는 인간을 꿈꾸는가 : 인간과 비인간, 그 경계를 묻다 | Boyle, James | 서울 : 미래의창, 2025 | 303.483 B792LK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36951/4/cover200/k562030611_1.jpg) | 딥러닝 제대로 이해하기 | Prince, Simon J. D | 파주 : Jpub : 제이펍, 2025 | 006.31 P957uK고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26666/69/cover200/8947547034_1.jpg) | 하드씽 : 경영의 난제를 푸는 최선의 한 수 | Horowitz, Ben | 서울 : 한국경제신문 : 한경BP, 2021(2026 16쇄) | 658.421 H816hK안경 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33861/6/cover200/8963244113_1.jpg) | 한류 : 문화자본과 문화내셔널리즘의 형성 | 김성윤 | 서울 : 한국예술종합학교 전통예술원, 2023 | 306.40951 한296김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36401/86/cover200/k762039783_1.jpg) | 도시의 마음 : 도시는 어떻게 시민을 환대할 수 있는가 | 김승수 | 파주 : 다산북스, 2025 | 711.4 김57도 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36198/24/cover200/k112038698_1.jpg) | 나는 왜 마음 놓고 쉬지 못할까 : 마음의 기초체력을 올리는 진짜 휴식의 기술 | 김은영 | 서울 : 심심 : 푸른숲, 2025 | 158.1 김67나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34179/37/cover200/k462931213_2.jpg) | 자유론 새번역 : 당신을 더 나은 인간으로 만들어주는 책 | Mill, John Stuart | 서울 : 이소노미아, 2024 | 323.44 M645oK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33062/45/cover/8932042411_1.jpg) | 헤테로토피아 | Foucault, Michel | 서울 : 문학과지성사, 2023 | 194 F762cK이2 | 중앙도서관 |
