@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/35540/10/cover200/k722036271_1.jpg) | 세계숲 : 나와 지구를 살리는 경이로운 나무들의 이야기 | Beresford-Kroeger, Diana | 파주 : 아를, 2025 | 398.242 B491gK노 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/fe69ab2a-cfe4-4d69-86b9-5fbd082e8091) | 모순 : 양귀자 소설 | 양귀자 | 서울 : 쓰다, 2013(2026 264쇄) | 811.37 양16모2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38647/66/cover200/k922136510_1.jpg) | 비인간: 사물, 생명, 기계, 행성과 함께 사유하기 | 김성우 | 고양 : 사월의책, 2025 | 128 비68김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38033/94/cover200/k752034983_1.jpg) | 시스템엔지니어링과 프로젝트관리 : SE-PM 통합 프로세스 구축과 실무 가이드 | 최영길 | 서울: GS인터비전, 2025 | 620 최64시프 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38554/57/cover200/k682135854_1.jpg) | 행정법 강론 | 김남철 | 고양 : 정독, 2026 | 342.06 김192행박12 | 법학도서관 |
@@ -22,6 +24,12 @@
 | ![](https://image.aladin.co.kr/product/38583/11/cover200/k242135252_1.jpg) | 현대 행정법 | 김유환 | 서울 : 박영사, 2026 | 342.06 김66현박11 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38457/74/cover200/k122135715_1.jpg) | 행정법론.상 | 박균성 | 서울 : 박영사, 2026 | 342.06 박16행법25 v.1 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38469/2/cover200/8977707803_1.jpg) | 民法講義 | 지원림 | 서울 : 弘文社, 2026 | 346 지66민23 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/37227/58/cover200/k962031705_1.jpg) | 화학물질관리학 개론 | 이권섭 | 광주 : 전남대학교출판문화원, 2025 | 660.2804 이16화 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36134/41/cover200/k942038477_1.jpg) | AI, 공정과 편향 | 박규동 | 서울 : 커뮤니케이션북스, 2025 | 006.3 박16a | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30955/63/cover200/k502831002_1.jpg) | 발명과 특허 쫌 아는 10대 : 나도 지식재산권을 가질 수 있을까? | 김상준 | 서울 : 풀빛, 2023 | 608 김52발 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/1322/28/cover200/8980600364_1.jpg) | 국어학개설 | 이익섭 | 서울 : 학연사, 2011(2025 13쇄) | 411.01 이68국학3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37926/40/cover200/8924167251_1.jpg) | 디지털 신호 처리 언해 2025 : 학부 강의용 | 이진우 | 서울 : 퍼플, 2025 | 621.38223 이78디 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/7717/72/cover200/k972434921_1.jpg) | 미디어스포츠 사회학 | 김원제 | 서울 : 커뮤니케이션북스, 2016 | 070.449796 김66미2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38082/18/cover200/k312034085_1.jpg) | 스트랭 선형대수학 | Strang, Gilbert | 서울 : 한빛아카데미, 2025 | 512.5 S897i6K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37271/65/cover200/k092031329_2.jpg) | 지각의 현상학 | Merleau-Ponty, Maurice | 서울 : 세창, 2025 | 142.7 M564pK주 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36786/15/cover200/893158606x_1.jpg) | 스포츠, AI와 동행하다 : 인간 본능과 기계 지능이 만나는 미래 스포츠 | Brady, Christopher | 서울 : BM성안당, 2025 | 796.021 B812aK박 | 중앙도서관 |
@@ -44,11 +52,3 @@
 | ![](https://image.aladin.co.kr/product/37684/61/cover200/k562032448_1.jpg) | 스타트업 바이블 : 전세계 스타트업 지도를 바꾼 MIT 창업 수업 | Aulet, Bill | 서울 : 비즈니스북스, 2025 | 658.11 A924dK백3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37806/48/cover200/k262033490_1.jpg) | (지속가능성을 위한) 화학 이야기 | 이익모 | 파주 : 자유아카데미, 2025 | 540 이68화 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36485/39/cover200/k592039011_1.jpg) | (국내 전동자동차 분야 전문가가 집필한) 그린전동자동차기사 : 필기 | 함성훈 | 서울 : SD에듀 : 시대고시기획, 2025 | 629.2076 그298함12 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35780/74/cover200/k202036048_1.jpg) | 기초정수론 | Burton, David M | 서울 : 맥그로힐에듀케이션코리아 : 경문사 , 2025 | 512.7 B974e7K이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 경영정보시스템 | Laudon, Kenneth C | [서울] : 경문사, 2025 | 658.4038 L372m18K김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 거시경제학 | Blanchard, Olivier | [서울] : 한빛아카데미, 2026 | 339 B639m9K최 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 조선후기 학계와 지식인 | 유봉학 | 성남 : 신구문화사, 1998(2014 3쇄) | 951.5 유45조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36937/14/cover200/8968445389_1.jpg) | (뉴) 글로벌 시대의 국제 경영 | Hill, Charles W. L | 서울 : 한경사, 2025 | 658.049 H645g13K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/833/24/cover200/8963302970_1.jpg) | 학습상담 | 김동일 | 서울 : 학지사, 2011(2024 9쇄) | 371.422 학57김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35907/22/cover200/8962185717_1.jpg) | 맨큐의 핵심경제학 | Mankiw, N. Gregory | [서울] : 센게이지러닝코리아, 2025 | 330 M278e10K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/10004/84/cover200/8947281360_1.jpg) | (최신) 경제성공학 : 투자사업의 한국형 경제적 타당성 분석 | 유일근 | 파주 : 형설, 2017(2023 3쇄) | 658.15 유68경4 | 중앙도서관 |
