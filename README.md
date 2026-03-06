@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/4114/78/cover200/8926862194_1.jpg) | 한국사회 위험특성과 한국인의 위험인식 스펙트럼 | 송해룡 | 파주 : 한국학술정보, 2014 | 303.48 송93한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38348/26/cover200/k582135167_1.jpg) | 돈 | 슈카 | 서울 : 슈카친구들, 2026 | 332.024 슈872돈 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35540/10/cover200/k722036271_1.jpg) | 세계숲 : 나와 지구를 살리는 경이로운 나무들의 이야기 | Beresford-Kroeger, Diana | 파주 : 아를, 2025 | 398.242 B491gK노 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/fe69ab2a-cfe4-4d69-86b9-5fbd082e8091) | 모순 : 양귀자 소설 | 양귀자 | 서울 : 쓰다, 2013(2026 264쇄) | 811.37 양16모2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38647/66/cover200/k922136510_1.jpg) | 비인간: 사물, 생명, 기계, 행성과 함께 사유하기 | 김성우 | 고양 : 사월의책, 2025 | 128 비68김 | 중앙도서관 |
@@ -41,6 +43,7 @@
 | ![](https://image.aladin.co.kr/product/31216/62/cover/8999413446_1.jpg) | 학교폭력예방 및 학생의 이해 | 조형정 | 파주 : 양서원, 2023 | 371.782 조94학2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/18193/10/cover/8952128745_1.jpg) | 사랑해요 한국어 : student's book | 서울대학교 | 서울 : 서울대학교출판문화원, 2019 | 411.8 서66사 v.1~4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/28664/20/cover/k212836764_1.jpg) | 자동화와 노동의 미래 : 탈희소성 사회는 어떻게 실현되는가? | Benanav, Aaron | 서울 : 책세상, 2022 | 338.064 B456aK윤 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (Halliday & Resnick) 일반물리학 | Walker, Jearl | 서울 : 텍스트북스, 2025 | 530 W181h12K물 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35873/83/cover200/k622037781_1.jpg) | 신국제통상론 | 김형욱 | 서울 : 두남, 2025 | 382 김94신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38266/8/cover200/k612034737_1.jpg) | 재정학 | 이준구 | 고양 : 문우사, 2026 | 336 이76재7 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36597/46/cover200/k202030765_1.jpg) | (사례로 배우는) ESG 경영전략 | 권순환 | 서울 : 청람, 2025 | 658.408 권56e | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/37596/24/cover200/k442032838_1.jpg) | 파이썬 for beginner : 쉽고 빠르게 익히는 프로그래밍의 기본 원리 | 우재남 | 서울 : 한빛아카데미, 2025 | 005.133 우73파한4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36654/75/cover200/k752030088_1.jpg) | 창업이 막막할 때 필요한 책 : 하루 10분 액션 플랜으로 시작하는 창업 교과서 | 이건호 | 서울 : 한빛미디어, 2025 | 658.11 이14창 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31443/17/cover200/k792832317_1.jpg) | 토질시험 : 원리와 방법 | 이상덕 | 서울 : 씨아이알, 2023 | 624.1514 이52토3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37684/61/cover200/k562032448_1.jpg) | 스타트업 바이블 : 전세계 스타트업 지도를 바꾼 MIT 창업 수업 | Aulet, Bill | 서울 : 비즈니스북스, 2025 | 658.11 A924dK백3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37806/48/cover200/k262033490_1.jpg) | (지속가능성을 위한) 화학 이야기 | 이익모 | 파주 : 자유아카데미, 2025 | 540 이68화 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36485/39/cover200/k592039011_1.jpg) | (국내 전동자동차 분야 전문가가 집필한) 그린전동자동차기사 : 필기 | 함성훈 | 서울 : SD에듀 : 시대고시기획, 2025 | 629.2076 그298함12 | 중앙도서관 |
