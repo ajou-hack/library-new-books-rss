@@ -2,8 +2,19 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Optimal control | Lewis, Frank L | Hoboken, NJ : Wiley, 2012. | 629.8312 L673o3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Options, futures, and other derivatives | Hull, John | Harlow, England : Pearson, c2022. | 332.645 H913o11 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Neuroscience : exploring the brain | Bear, Mark F | Burlington, MA : Jones & Barlett Learning, [2025]. | 612.8 B368n5 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Linear algebra and its applications | Lay, David C | Harlow : Pearson, 2022. | 512.5 L426L6 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fundamentals of thermodynamics | Borgnakke, C | Hoboken, New Jersey : Wiley, c2025. | 621.4021 B733f11 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Essentials of management information systems | Laudon, Kenneth C | Harlow, Essex, UK : Pearson, c2024. | 658.4038 L372e15 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Electrochemical methods : fundamentals and applications | Bard, Allen J | Hoboken, NJ : Wiley, 2022. | 541.37 B245e3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Critical care pharmocotherapy | Erstad, Brian | Lenexa, KS : American College of Clinical Pharmacy, 2022. | 615.58 E73c2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Academic encounters : the natural world : reading, writing level 2 | Williams, Jessica | Cambridge | 428.24 W724a2 v.2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Bonjour et bienvenue! : méthode de français : niveau A1.2 | Bertaux, Lucile | Paris : Didier Français Langue Etrangère, 2023. | 448.24 B715b v.1-2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Public value : theory and practice | Benington, John | New York, N.Y. : Palgrave Macmillan, 2011. | 351 B467p | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The counseling singularity : empathy ＆ artificial intelligence in the art of healing | Gainer, Seneka R | Alexandra, Virginia : American Counseling Association, 2025. | 158.3 G142c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Diagnostic and statistical manual of mental disorders : DSM-5-TR | American Psychiatric Association | Washington, DC : American Psychiatric Association Publishing, 2022. | 616.89 A512d5t | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/4114/78/cover200/8926862194_1.jpg) | 한국사회 위험특성과 한국인의 위험인식 스펙트럼 | 송해룡 | 파주 : 한국학술정보, 2014 | 303.48 송93한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38348/26/cover200/k582135167_1.jpg) | 돈 | 슈카 | 서울 : 슈카친구들, 2026 | 332.024 슈872돈 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35540/10/cover200/k722036271_1.jpg) | 세계숲 : 나와 지구를 살리는 경이로운 나무들의 이야기 | Beresford-Kroeger, Diana | 파주 : 아를, 2025 | 398.242 B491gK노 | 중앙도서관 |
@@ -41,14 +52,3 @@
 | ![](https://image.aladin.co.kr/product/35890/0/cover200/s402030493_1.jpg) | 민사집행법 | 이시윤 | 서울 : 博英社, 2025 | 347.077 이58신 2025 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37013/6/cover200/k272030328_1.jpg) | 민사소송법 | 이시윤 | 서울 : 博英社, 2025 | 347.05 이58신 2025 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37014/71/cover200/8977707749_2.jpg) | 특별형법 | 이주원 | 서울 : 弘文社, 2025 | 345 이76특11 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/33572/22/cover200/k672939291_1.jpg) | VC 스타트업 : 투자자의 노트부터 창업가의 고민까지 | 김기영 | [고양] : 지음미디어, 2024 | 658.11 김18v | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31216/62/cover/8999413446_1.jpg) | 학교폭력예방 및 학생의 이해 | 조형정 | 파주 : 양서원, 2023 | 371.782 조94학2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/18193/10/cover/8952128745_1.jpg) | 사랑해요 한국어 : student's book | 서울대학교 | 서울 : 서울대학교출판문화원, 2019 | 411.8 서66사 v.1~4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28664/20/cover/k212836764_1.jpg) | 자동화와 노동의 미래 : 탈희소성 사회는 어떻게 실현되는가? | Benanav, Aaron | 서울 : 책세상, 2022 | 338.064 B456aK윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35655/53/cover200/k472036817_1.jpg) | (Halliday & Resnick) 일반물리학 | Walker, Jearl | 서울 : 텍스트북스, 2025 | 530 W181h12K물 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35873/83/cover200/k622037781_1.jpg) | 신국제통상론 | 김형욱 | 서울 : 두남, 2025 | 382 김94신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38266/8/cover200/k612034737_1.jpg) | 재정학 | 이준구 | 고양 : 문우사, 2026 | 336 이76재7 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36597/46/cover200/k202030765_1.jpg) | (사례로 배우는) ESG 경영전략 | 권순환 | 서울 : 청람, 2025 | 658.408 권56e | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38266/31/cover200/k512034838_1.jpg) | (리더를 위한) 인적자원관리 | 박우성 | 서울 : 창민사, 2026 | 658.3 유16인4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25919/90/cover200/k892737696_1.jpg) | 도시맥락의 구축.2, 서울지도연구 및 도시건축계획 | Carones, Maurizio | [고양] : ESA Design, 2020 | 711.4 C842cK최 v.2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37596/24/cover200/k442032838_1.jpg) | 파이썬 for beginner : 쉽고 빠르게 익히는 프로그래밍의 기본 원리 | 우재남 | 서울 : 한빛아카데미, 2025 | 005.133 우73파한4 | 중앙도서관 |
