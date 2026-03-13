@@ -2,6 +2,10 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/34110/0/cover200/k162931389_1.jpg) | 박경리 세금은 처음이지? 가르쳐줘 세법개론 | 손원준 | [서울] : 지식만들기, 2024 | 343.04 손66박 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38706/13/cover200/k112136924_1.jpg) | 법인세법 사례와 실무 | 박성욱 | 서울 : Samil : 삼일인포마인 : 삼일피더블유씨솔루션, 2026 | 343.067 박54법5 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/37971/76/cover200/k102034864_1.jpg) | 김변호사의 스마트한 AI 활용법.2, 개업 변호사를 위한 업무 혁신 가이드 | 김변호사 팀 | 서울 : 박영사, 2026 | 340.0285 김44김 v.2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38402/63/cover200/k572135183_1.jpg) | 형법각칙.4, 국가 | 이주원 | 서울 : 박영사, 2026 | 345 이76형박 v.4 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Optimal control | Lewis, Frank L | Hoboken, NJ : Wiley, 2012. | 629.8312 L673o3 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Options, futures, and other derivatives | Hull, John | Harlow, England : Pearson, c2022. | 332.645 H913o11 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Neuroscience : exploring the brain | Bear, Mark F | Burlington, MA : Jones & Barlett Learning, [2025]. | 612.8 B368n5 | 중앙도서관 |
@@ -14,6 +18,12 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Bonjour et bienvenue! : méthode de français : niveau A1.2 | Bertaux, Lucile | Paris : Didier Français Langue Etrangère, 2023. | 448.24 B715b v.1-2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Public value : theory and practice | Benington, John | New York, N.Y. : Palgrave Macmillan, 2011. | 351 B467p | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The counseling singularity : empathy ＆ artificial intelligence in the art of healing | Gainer, Seneka R | Alexandra, Virginia : American Counseling Association, 2025. | 158.3 G142c | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36746/71/cover200/k632030092_2.jpg) | 꽃이 환하니 서러운 일은 잊어요 : 문태준 시인의 초록문장 자연일기 | 문태준 | 서울 : 마음의숲, 2025 | 811.47 문883꽃 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36544/31/cover200/k632039042_1.jpg) | 메리골드 마음 식물원 : 윤정은 장편소설 | 윤정은 | [파주] : 북로망스 : 책읽어주는남자, 2025 | 811.37 윤74메책 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35918/62/cover200/8932043507_1.jpg) | 봄밤의 모든 것 : 백수린 소설집 | 백수린 | 서울 : 문학과지성사, 2025 | 811.37 백56봄 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35627/3/cover200/8932924929_1.jpg) | 그해 봄의 불확실성 : 시그리드 누네즈 장편소설 | Nunez, Sigrid | 파주 : 열린책들, 2025 | 823.914 N972vK민 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33489/7/cover200/k772938352_3.jpg) | 꽃길이 따로 있나, 내 삶이 꽃인 것을 | 오평선 | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2024 | 811.87 오894꽃 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30955/63/cover/k752831002_1.jpg) | 모든 꽃이 봄에 피지는 않는다 : 이다지 이야기 "너의 빛나는 앞날을 응원하며" | 이다지 | 서울 : 서삼독, 2023 | 158.1 이22모 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Diagnostic and statistical manual of mental disorders : DSM-5-TR | American Psychiatric Association | Washington, DC : American Psychiatric Association Publishing, 2022. | 616.89 A512d5t | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/4114/78/cover200/8926862194_1.jpg) | 한국사회 위험특성과 한국인의 위험인식 스펙트럼 | 송해룡 | 파주 : 한국학술정보, 2014 | 303.48 송93한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38348/26/cover200/k582135167_1.jpg) | 돈 | 슈카 | 서울 : 슈카친구들, 2026 | 332.024 슈872돈 | 중앙도서관 |
@@ -42,13 +52,3 @@
 | ![](https://image.aladin.co.kr/product/37227/58/cover200/k962031705_1.jpg) | 화학물질관리학 개론 | 이권섭 | 광주 : 전남대학교출판문화원, 2025 | 660.2804 이16화 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36134/41/cover200/k942038477_1.jpg) | AI, 공정과 편향 | 박규동 | 서울 : 커뮤니케이션북스, 2025 | 006.3 박16a | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30955/63/cover200/k502831002_1.jpg) | 발명과 특허 쫌 아는 10대 : 나도 지식재산권을 가질 수 있을까? | 김상준 | 서울 : 풀빛, 2023 | 608 김52발 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1322/28/cover200/8980600364_1.jpg) | 국어학개설 | 이익섭 | 서울 : 학연사, 2011(2025 13쇄) | 411.01 이68국학3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37926/40/cover200/8924167251_1.jpg) | 디지털 신호 처리 언해 2025 : 학부 강의용 | 이진우 | 서울 : 퍼플, 2025 | 621.38223 이78디 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7717/72/cover200/k972434921_1.jpg) | 미디어스포츠 사회학 | 김원제 | 서울 : 커뮤니케이션북스, 2016 | 070.449796 김66미2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38082/18/cover200/k312034085_1.jpg) | 스트랭 선형대수학 | Strang, Gilbert | 서울 : 한빛아카데미, 2025 | 512.5 S897i6K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37271/65/cover200/k092031329_2.jpg) | 지각의 현상학 | Merleau-Ponty, Maurice | 서울 : 세창, 2025 | 142.7 M564pK주 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36786/15/cover200/893158606x_1.jpg) | 스포츠, AI와 동행하다 : 인간 본능과 기계 지능이 만나는 미래 스포츠 | Brady, Christopher | 서울 : BM성안당, 2025 | 796.021 B812aK박 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (Campbell) 생명과학 : 개념과 현상의 이해 | Taylor, Martha R | [파주] : Pearson : 교문사, 2025 | 570 C192t10K김개 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35890/0/cover200/s402030493_1.jpg) | 민사집행법 | 이시윤 | 서울 : 博英社, 2025 | 347.077 이58신 2025 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37013/6/cover200/k272030328_1.jpg) | 민사소송법 | 이시윤 | 서울 : 博英社, 2025 | 347.05 이58신 2025 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37014/71/cover200/8977707749_2.jpg) | 특별형법 | 이주원 | 서울 : 弘文社, 2025 | 345 이76특11 | 법학도서관 |
