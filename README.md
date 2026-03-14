@@ -2,10 +2,27 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38791/45/cover200/k482137261_1.jpg) | (2026년도) 법학전문대학원 민사재판실무.3 : 수습기록 | 사법연수원 | 서울 : 사법발전재단 : 교육발전연구센터, 2026 | 347.07 사44민수 2026 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (2026년도) 법학전문대학원 민사재판실무.2 : 강의노트 | 사법연수원 | 서울 : 사법발전재단 : 교육발전연구센터, 2026 | 347.07 사44민강 2026 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (2026년도) 법학전문대학원 민사재판실무.1 | 사법연수원 | 서울 : 사법발전재단 : 교육발전연구센터, 2026 | 347.07 사44민 2026 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 프랑스 회사법 | 한국 | 과천 : 법무부, 2025 | 346.066 프292cK원2 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 裁判과 判例.제34집 | 대구판례연구회 | 대구 : 대구판례연구회, 2026 | 348.04 재892대 v.34 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 인공지능법 실무연구 | 법원도서관 | 고양 : 법원도서관, 2026 | 340.04 법66법 v.150 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/28590/79/cover200/k212835647_1.jpg) | 조세법상 경정청구 | 윤병각 | 서울 : 박영사, 2021 | 343.04 윤44조2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/37336/82/cover200/8949968789_1.jpg) | 국제난민법 | Goodwin-Gill, Guy S | 파주 : 경인문화사, 2025 | 341.486 G657r4K이경 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38326/9/cover200/8949969025_1.jpg) | 프랑스 채권법 연구 | 여하윤 | 파주 : 경인문화사, 2025 | 346.02 여92프 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38204/53/cover200/8949968983_1.jpg) | 플랫폼과 공정거래 | 박세환 | 파주 : 경인문화사, 2025 | 343.07 박54플 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/37345/28/cover200/8949968800_1.jpg) | 부당한 공동행위 억지를 위한 사적집행 강화방안 | 박경미 | 파주 : 경인문화사, 2025 | 343.072 박14부 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38581/19/cover200/k502135258_1.jpg) | 이토록 인간적인 능력 : 경험 빈곤의 시대, 삶의 주도권을 지키는 12가지 힘 | Lee, Graham | 서울 : 더퀘스트 : 길벗, 2026 | 158.1 L478hK안 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (正しくニュ-スを理解するために) 今さら聞けない日本政治の超基本 | 조일신문사 | 東京 : 朝日新聞出版, 2025 | 320.953 조68금 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 47 都道府県・日本一百科 | 국지준부 | 東京 : 丸善出版, 2024 | 915.3 국78사 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34110/0/cover200/k162931389_1.jpg) | 박경리 세금은 처음이지? 가르쳐줘 세법개론 | 손원준 | [서울] : 지식만들기, 2024 | 343.04 손66박 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38706/13/cover200/k112136924_1.jpg) | 법인세법 사례와 실무 | 박성욱 | 서울 : Samil : 삼일인포마인 : 삼일피더블유씨솔루션, 2026 | 343.067 박54법5 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37971/76/cover200/k102034864_1.jpg) | 김변호사의 스마트한 AI 활용법.2, 개업 변호사를 위한 업무 혁신 가이드 | 김변호사 팀 | 서울 : 박영사, 2026 | 340.0285 김44김 v.2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38402/63/cover200/k572135183_1.jpg) | 형법각칙.4, 국가 | 이주원 | 서울 : 박영사, 2026 | 345 이76형박 v.4 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Essentials of discrete mathematics | Hunter, David James | Burlington, MA : Jones ＆ Bartlett Learning, 2022. | 004.015113 H945e4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Understanding and using English grammar | Azar, Betty Schrampfer | Hoboken, NJ : Pearson Education, 2017. | 428.24 A992u5 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Principles of fluorescence spectroscopy | Lakowicz, Joseph R | New York : Springer, 2006 | 574.19285 L192p3 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Optimal control | Lewis, Frank L | Hoboken, NJ : Wiley, 2012. | 629.8312 L673o3 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Options, futures, and other derivatives | Hull, John | Harlow, England : Pearson, c2022. | 332.645 H913o11 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Neuroscience : exploring the brain | Bear, Mark F | Burlington, MA : Jones & Barlett Learning, [2025]. | 612.8 B368n5 | 중앙도서관 |
@@ -35,20 +52,3 @@
 | ![](https://image.aladin.co.kr/product/37900/18/cover200/k982033739_1.jpg) | (新) 민법강의 | 송덕수 | 서울 : 박영사, 2026 | 346 송24민박19 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36899/5/cover200/k592030917_1.jpg) | 형사소송법 | 이창현 | 고양 : 정독, 2025 | 345.05 이82형정11 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38466/61/cover200/k122135919_1.jpg) | 행정법 기본강의 | 박균성 | 서울 : 박영사, 2026 | 342.06 박16행박18 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38268/82/cover200/8918916558_1.jpg) | 행정법개론 | 정하중 | 파주 : 法文社, 2026 | 342.06 정92행법20 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38457/21/cover200/k572135713_1.jpg) | 행정법강의 | 박균성 | 서울 : 박영사, 2026 | 342.06 박16행23 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37117/73/cover200/8918916167_1.jpg) | 상법판례 백선 | 강대섭 | 파주 : 法文社, 2025 | 346.07 상44강10 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37876/71/cover200/891891637x_1.jpg) | 민법강의 : 이론·사례·판례 | 김준호 | 파주 : 法文社, 2026 | 346 김76민법 2026 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/34611/10/cover200/k412933785_1.jpg) | (처음 배우는) 민법 총칙 | 서을오 | 서울 : 이화여자대학교출판문화원, 2024 | 346 서67민이 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38557/98/cover200/k562135857_1.jpg) | 경제법 | 정호열 | 서울 : 박영사, 2026 | 343.07 정95경8 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37880/81/cover200/k102033905_1.jpg) | 친족상속법 | 송덕수 | 서울 : 박영사, 2026 | 346.015 송24친8 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38600/13/cover200/k762136479_1.jpg) | 형사소송법 | 이주원 | 서울 : 박영사, 2026 | 345.05 이76형7 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37061/48/cover200/k202030235_1.jpg) | 민사집행법 | 김홍엽 | 서울 : 박영사, 2025 | 347.077 김95민9 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38563/69/cover200/k552135059_1.jpg) | 쟁점 행정법특강 | 김병기 | 서울 : 박영사, 2026 | 342.06 김44쟁3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38506/74/cover200/k142135930_1.jpg) | 행정쟁송법 | 하명호 | 서울 : 박영사, 2026 | 342.066 하34행8 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38583/11/cover200/k242135252_1.jpg) | 현대 행정법 | 김유환 | 서울 : 박영사, 2026 | 342.06 김66현박11 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38457/74/cover200/k122135715_1.jpg) | 행정법론.상 | 박균성 | 서울 : 박영사, 2026 | 342.06 박16행법25 v.1 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38469/2/cover200/8977707803_1.jpg) | 民法講義 | 지원림 | 서울 : 弘文社, 2026 | 346 지66민23 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37227/58/cover200/k962031705_1.jpg) | 화학물질관리학 개론 | 이권섭 | 광주 : 전남대학교출판문화원, 2025 | 660.2804 이16화 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36134/41/cover200/k942038477_1.jpg) | AI, 공정과 편향 | 박규동 | 서울 : 커뮤니케이션북스, 2025 | 006.3 박16a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30955/63/cover200/k502831002_1.jpg) | 발명과 특허 쫌 아는 10대 : 나도 지식재산권을 가질 수 있을까? | 김상준 | 서울 : 풀빛, 2023 | 608 김52발 | 중앙도서관 |
