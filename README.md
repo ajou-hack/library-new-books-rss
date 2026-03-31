@@ -2,6 +2,15 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 디지털 신호처리 : 원리, 알고리즘, 응용 | Proakis, John G | [서울] : 프로텍미디어, 2024 | 621.3822 P962d5K백 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3280/79/cover200/8932024618_1.jpg) | 나치즘과 동성애 : 독일의 동성애 담론과 문화 | 김학이 | 서울 : 문학과지성사, 2013 | 306.7660943 김92나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11395/1/cover200/8999713032_1.jpg) | 학교에서 무엇을 가르쳐야 하는가 : F.Bobbitt의 교육과정 이야기 | Bobbitt, Franklin | 서울 : 학지사, 2017 | 371.2 B663cK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31217/80/cover200/8955028962_1.jpg) | 박막재료공학 | 이문희 | 서울 : 글로벌 : 필통, 2023 | 621.38152 이36박글 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26744/97/cover200/8936478656_1.jpg) | 네 눈동자 안의 지옥 : 모성과 광기에 대하여 | Cho, Cahterine | 파주 : 창비, 2021 | 618.760092 C545iK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38831/22/cover200/k682137282_1.jpg) | 서울리뷰오브북스 | 서울리뷰 | 서울 : 알렙 , 2026 | 028.1 서66서 v.21 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36144/54/cover200/k442038675_1.jpg) | Growth 성과관리 : 위기를 극복하는 팀장의 성과혁신전략 | 김성완 | 파주 : 이담북스 : 한국학술정보, 2025 | 658.402 김54g | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38730/80/cover200/k502136949_2.jpg) | 오픈클로 with GPT, 제미나이, 클로드 : 누구나 프로처럼 실전AI | 강민혁 | 서울 : 한빛미디어, 2026 | 006.3 강38오 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/2218ef26-56c8-45a7-bbf1-5683056ded41) | 구체 수학 | Graham, Ronald L | 서울 : 인사이트, 2018 | 510 G741c2K류 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38795/22/cover200/k122137361_1.jpg) | 제미나이로 구글·이미지·영상·자동화 진짜 잘함 : 구글 AI 생태계의 끝판왕, 제미나이 with 나노바나나 2, 비오 3.1, 노트북LM | 이호정 | 고양 : 리코멘드, 2026 | 006.3 이95제 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38802/50/cover200/k692137787_1.jpg) | 서양 국제정치사상 : 고대와 근대의 대화 | 박성우 | 파주 : 아카넷, 2026 | 327.101 박54서 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38705/91/cover200/k432136923_1.jpg) | 미라클 모닝 after 50 | Elrod, Hal | 서울 : 필름, 2026 | 158.1 E48mK윤 | 중앙도서관 |
@@ -43,12 +52,3 @@
 | ![](https://image.aladin.co.kr/product/38805/49/cover200/8966265243_1.jpg) | LLM 미세 튜닝, 핵심만 빠르게! : 미세 튜닝의 성패를 좌우하는 핵심 조정과 설정 | Voigt Godoy, Daniel | 서울 : 인사이트, 2026 | 006.3 V894hK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35989/80/cover200/8931583788_1.jpg) | (3D 모델링 작업과 생성형 AI 활용을 위한) 블렌더 3D&AI | 오창근 | 서울 : BM 성안당, 2025 | 006.696 오82블 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38723/17/cover200/k812136744_1.jpg) | 안티그래비티 바이브 코딩 입문 : 10일간의 탄탄한 기능 구현과 4일 만에 마스터하는 프로의 기획과 설계 전략 | 박규하 | 서울 : 로드북, 2026 | 005.11 박16안 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38645/61/cover200/k452136414_2.jpg) | (소음을 화음으로 바꾸는) 지휘자의 소통법 | 김진수 | 서울 : 매일경제신문사 : 매경, 2026 | 658.4022 김78지 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37552/12/cover200/k322032320_1.jpg) | '적대적 두 국가'의 스포츠 교류와 평화 : 남북, 적대에서 평화협력으로 | 이조영 | 서울 : 선인, 2025 | 327.519 이75적 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32806/70/cover200/k932936706_1.jpg) | 거부전략 : 강대국 분쟁시대 미국의 국방 | Colby, Elbridge | 서울 : 박영사, 2023 | 355.033573 C686sK오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/20648/69/cover200/k052636226_2.jpg) | 아무도 없는 바다 | 최유수 | [서울] : 도어스프레스, 2019 | 811.87 최66아2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22374/3/cover200/k202636226_1.jpg) | 무엇인지 무엇이었는지 무엇일 수 있는지 | 최유수 | [서울] : doors, 2019(2025 8쇄) | 811.47 최66무2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29541/24/cover200/k332837957_1.jpg) | 한때 내게 삶이었던 : Rita's garten | 안리타 | [서울] : 홀로씨의 테이블, 2022 | 811.87 안298한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31915/18/cover200/k372833948_1.jpg) | 리타의 일기 : Rita's Tagebuch | 안리타 | [서울] : 홀로씨의 테이블, 2023 | 811.87 안298리일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34200/40/cover200/k592931512_1.jpg) | 마음이 부는 곳 : Lied meines Seele | 안리타 | [서울] : 홀로씨의 테이블, 2024 | 811.87 안298마 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36241/21/cover200/k772038717_1.jpg) | 리타의 산책 : Rita's garten | 안리타 | [서울] : 홀로씨의 테이블, 2025 | 811.87 안298리산 | 중앙도서관 |
