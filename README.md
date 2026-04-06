@@ -2,6 +2,17 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38136/85/cover200/8949969017_1.jpg) | (건설공사) 중대재해처벌법 | 김진권 | 파주 : 경인문화사, 2025 | 344.0465 김78중 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38267/92/cover200/k932034830_1.jpg) | 미국 헌법 쟁점론 : 美 연방 수정헌법 제2조 총기 권리 | 안경환 | 서울 : 박영사, 2026 | 342 미16안 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38402/62/cover200/k352135183_1.jpg) | 국가 영토 주권론 | 최재목 | 서울 : 박영사, 2026 | 341.42 국12최 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38703/78/cover200/k092136824_1.jpg) | 정보법 판례백선.3 | 한국정보법학회 | 서울 : 박영사, 2026 | 343.099 한16정박 v.3 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38765/62/cover200/8991691374_1.jpg) | 출판인을 위한 저작권법 : 창작자, 편집자, 번역자, 사서를 위해 쓴 꼭 알아야 할 저작권 필수 상식 | 정지우 | 서울 : sbi : 한국출판인회의, 2026 | 346.0482 정78출 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38262/45/cover200/k432034626_1.jpg) | 디지털 증거법 | 이관희 | 서울 : 박영사, 2026 | 345.06 이15디2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38758/6/cover200/k182137768_1.jpg) | 민사소송법 강의 | 박재완 | 서울 : 박영사, 2026 | 347.05 박73민6 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38713/38/cover200/8918916620_1.jpg) | (간추린) 신형사소송법 | 신동운 | 파주 : 法文社, 2026 | 345.05 신25신18 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38555/86/cover200/k012135856_1.jpg) | 민법 첫걸음 | 김봉수 | 고양 : 자운, 2026 | 346 김45민자 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38591/79/cover200/k072136661_1.jpg) | 로스쿨 국제법 | 강병근 | 고양 : 정독, 2026 | 341 강44로 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38750/92/cover200/k432136049_1.jpg) | 형법총론 | 오영근 | 서울 : 박영사, 2026 | 345 오64형총8 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38832/23/cover200/k072137286_1.jpg) | (2026) 세법개론.1, 조세법총론·법인세·국제조세 | 이철재 | 서울 : 리즈북스, 2026 | 343.04 이83세리2 v.1 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38756/52/cover200/k952136656_1.jpg) | (2026) 건축법·조례 해설 | 윤혁경 | 서울 : 기문당, 2026 | R 343.078692 윤94건개 2026 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38847/3/cover200/k202137701_1.jpg) | (된다!) 제미나이, 클로드, 챗GPT AI 챗봇 만들기 : AI 전문 인플루언서의 특별한 AI 활용법 | 이재윤 | 서울 : 이지스, 2026 | 006.3 이73제 | 중앙도서관 |
@@ -41,14 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introduction to the Social economy : Commons, Cooperation and Sustainability | Bloom, Peter | Berlin : De Gruyter, 2025 | 330.126 B655i | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Principles of AI governance and model risk management : master the techniques for ethical and transparent AI systems | Sayles, James | New York : Apress, 2024. | 006.3 S275p | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Hard pivot : embrace change, find purpose, show up fully | Ohno, Apolo Anton | Boulder, Colorado : Sounds True, 2022. | 158.1 O38h | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | War and the soul : healing our nation's veterans from post-traumatic stress disorder | Tick, Edward | Wheaton, Ill. : Quest Books, 2005. | 616.85212 T556w | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Murderbot diaries | Wells, Martha | New York : Tordotcom, Tor Publishing Group, 2021-2025. | 823.92 W455m v.1~3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 디지털 신호처리 : 원리, 알고리즘, 응용 | Proakis, John G | [서울] : 프로텍미디어, 2024 | 621.3822 P962d5K백 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/3280/79/cover200/8932024618_1.jpg) | 나치즘과 동성애 : 독일의 동성애 담론과 문화 | 김학이 | 서울 : 문학과지성사, 2013 | 306.7660943 김92나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/11395/1/cover200/8999713032_1.jpg) | 학교에서 무엇을 가르쳐야 하는가 : F.Bobbitt의 교육과정 이야기 | Bobbitt, Franklin | 서울 : 학지사, 2017 | 371.2 B663cK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31217/80/cover200/8955028962_1.jpg) | 박막재료공학 | 이문희 | 서울 : 글로벌 : 필통, 2023 | 621.38152 이36박글 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26744/97/cover200/8936478656_1.jpg) | 네 눈동자 안의 지옥 : 모성과 광기에 대하여 | Cho, Cahterine | 파주 : 창비, 2021 | 618.760092 C545iK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38831/22/cover200/k682137282_1.jpg) | 서울리뷰오브북스 | 서울리뷰 | 서울 : 알렙 , 2026 | 028.1 서66서 v.21 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36144/54/cover200/k442038675_1.jpg) | Growth 성과관리 : 위기를 극복하는 팀장의 성과혁신전략 | 김성완 | 파주 : 이담북스 : 한국학술정보, 2025 | 658.402 김54g | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38730/80/cover200/k502136949_2.jpg) | 오픈클로 with GPT, 제미나이, 클로드 : 누구나 프로처럼 실전AI | 강민혁 | 서울 : 한빛미디어, 2026 | 006.3 강38오 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/2218ef26-56c8-45a7-bbf1-5683056ded41) | 구체 수학 | Graham, Ronald L | 서울 : 인사이트, 2018 | 510 G741c2K류 | 중앙도서관 |
