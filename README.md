@@ -2,6 +2,24 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/1932/12/cover200/8989966531_1.jpg) | (빠알리대장경/쿳다까니까야) 이띠붓따까-여시어경 | 전재성 | 서울 : 한국빠알리성전협회, 2012 | 294.382 이28전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/406/29/cover200/8989966523_1.jpg) | (빠알리대장경/쿳다까니까야) 우다나 : 감흥어린 시구 | 전재성 | 서울 : 한국빠알리성전협회, 2009 | 294.382 우22전 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Computer animation : algorithms and techniques | Parent, Rick | Amsterdam : Morgan Kaufmann : Elsevier, 2026. | 006.696 P228c4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Aristotle's revenge : the metaphysical foundations of physical and biological science | Feser, Edward | Neunkirchen-Seelscheid, Germany : Editiones Scholasticae, 2019. | 113 F413a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Scholastic metaphysics : a contemporary introduction | Feser, Edward | Heusenstamm : Editions Scholasticae, 2014. | 110 F413s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Conversations on rational choice | Herfeld, Catherine | Cambridge, United Kingdom : Cambridge University Press, 2025. | 330.01 H544c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Artificial intelligence in cultural production : critical perspectives on digital platforms | 진달용 | Abingdon, Oxon | 302.231 진22a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Political economy from pufendorf to Marx : culture, needs and property rights | Hont, Istvan | Cambridge : Cambridge University Press, 2026. | 335.4 H775p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Psychoanalysis and narrative medicine | Rudnytsky, Peter L | Albany : State University of New York Press, 2008. | 616.8917 R916p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Countermobilization : policy feedback and backlash in a polarized age | Patashnik, Eric M | Chicago : University of Chicago Press, 2023. | 328.3 P294c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Enquête sur les modes d'existence : une anthropologie des modernes | Latour, Bruno | Paris : Découverte, 2012. | 128 L359e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Nous n'avons jamais été modernes : essai d'anthropologie symétrique | Latour, Bruno | Paris : La Découverte, 2022 | 303.483 L359n | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Data mining and machine learning : fundamental concepts and algorithms | Zaki, Mohammed J | Cambridge, United Kingdom | 006.312 Z21d | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | LiDAR principles, processing and applications in forest ecology | Guo, Qinghua | London, United Kingdom : Academic Press, An imprint of Elsevier, 2023. | 577.3 G977L | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The new empire of AI : the future of global inequality | Adams, Rachel | Cambridge, UK | 303.4834 A216n | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Theory and applications of colloidal suspension rheology | Wagner, Norman J | Cambridge, United Kingdom : Cambridge University Press, 2021. | 531.1134 W134t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Activity--based travel demand models | Second Strategic Highway Research Program (U.S.) | Washington, D.C. : Transportation Research Board of the National Academies, 2015. | 388.107 N277ts2 v.46-1C | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Travel demand forecasting : parameters and techniques | Bhat, Chandra R | Washington, D.C. : Transportation Research Board, 2012. | 388.072 T772tc v.716 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38239/18/cover200/k772034523_1.jpg) | 인공지능 대전환(AX)과 법 | 이성엽 | 서울 : 박영사, 2026 | 343.0999 이54인 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38270/93/cover200/k482034938_1.jpg) | 일본 행정법 | 고교자 | 서울 : 좋은땅, 2025 | 342.06 고15행K김 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38495/58/cover200/8961206265_1.jpg) | (실무자를 위한) 저작권법 | 임원선 | 진주 : 한국저작권위원회, [2025] | 346.0482 임66저8 | 법학도서관 |
@@ -19,11 +37,14 @@
 | ![](https://image.aladin.co.kr/product/38729/52/cover200/k232136845_1.jpg) | 아이의 친구 관계 : 뇌과학이 알려 주는 사회성 발달의 황금 법칙 | 김붕년 | 서울 : 카시오페아, 2026 | 649.6 김46아 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38830/25/cover200/8932476047_1.jpg) | 도시는 무엇으로 사는가 | 유현준 | 서울 : 을유문화사, 2026 | 307.76 유94도2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38845/47/cover200/8999736725_1.jpg) | 서쪽 마을의 사회복지 : 서해랑길(해남 땅끝~강화도)을 걸으며 | 권중돈 | 서울 : 학지사, 2026 | 361 권76서 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36748/2/cover200/k352030096_1.jpg) | 퀴어한 장례와 애도 : 왜 어떤 죽음은 애도가 불가능한가 | 김순남 | 부산 : 산지니, 2025 | 306.766 퀴64김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38894/7/cover200/893648124x_1.jpg) | AI가 나보다 일을 잘할 때 | 김대식 | 파주 : 창비, 2026 | 303.483 김23a창 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37605/84/cover200/k172032837_1.jpg) | 여/성 이론가들 | 여성문화이론연구소 | 서울 : 여이연 : 여성문화이론연구소, 2025 | 305.4201 여54여 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33579/28/cover200/k392939397_1.jpg) | 채만식 소설어사전 | 임무출 | 서울 : 아로파, 2024 | 811.3603 임36채 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38830/6/cover200/k882137288_1.jpg) | 아이의 천재성은 어떻게 사라지는가 : ADHD 낙제생이 하버드대 교수가 되기까지 | Rose, Todd | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2026 | 371.9 R797sK윤 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38879/16/cover200/k012137204_1.jpg) | 인생은 행복으로 완성되지 않는다 : 우리 삶에 우여곡절이 필요하다는 과학적 증명 | Oishi, Shigehiro | 서울 : 위즈덤하우스, 2026 | 152.42 O39LK신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/12248/20/cover200/8993461414_1.jpg) | 커핑 노하우 : 최고의 커피를 찾기 위한 커핑 로드맵 | 아이비라 | 서울 : 아이비라인, 2017(2022 5쇄) | 641.3373 아68커 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36334/62/cover200/8999733947_1.jpg) | (15분이면 충분한) 사례개념화의 실제 : 패턴 중심 접근법 | Sperry, Len | 서울 : 학지사, 2025 | 616.8914 S751fK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38103/10/cover200/k942034180_1.jpg) | 가족상담 및 가족치료 | 최규련 | 고양 : 공동체, 2025 | 616.89156 최16가 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/26192/97/cover200/899972283x_1.jpg) | 정서의 이해 | Keltner, Dacher | 서울 : 학지사, 2021 | 152.4 K29u3K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36037/43/cover200/8974259486_1.jpg) | 과자, 내 아이를 해치는 달콤한 유혹 : 건강파괴자 식품첨가물과 병을 부르는 가공식품 고발서 | 안병수 | 파주 : 국일미디어, 2025 | 649.3 안44과3 | 중앙도서관 |
@@ -31,24 +52,3 @@
 | ![](https://image.aladin.co.kr/product/38788/7/cover200/8997134817_1.jpg) | 알고 싶은 한국사 | 주진오 | 서울 : 공앤박, 2026 | 951 주78알 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33815/99/cover200/k102930686_1.jpg) | 조선시대 제주와 제주문화 | 김학수 | 성남 : 한국학중앙연구원출판부, 2023 | 951.5 조54김한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38496/2/cover200/k882135311_1.jpg) | 한 치 앞의 어둠 : 사와무라 이치 초단편 괴담집 | 택촌이지 | 서울 : 폴라북스, 2026 | 813.37 택84일K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38491/24/cover200/k802135117_1.jpg) | 2026 한국에 투자하라 : 코스피 1만, 새로운 부의 법칙 | 허, 나탈리 | 서울 : 쌤앤파커스, 2026 | 332.6322 허942이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38606/61/cover200/8946076240_1.jpg) | 감각사회학 : 자아, 사회, 문화에서의 감각 | Vannini, Phillip | 파주 : 한울아카데미 : 한울엠플러스, 2026 | 306.4 V269sK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34239/44/cover200/k882931438_1.jpg) | 행동력 수업 : 생각을 행동으로, 행동을 습관으로 만드는 힘 | 오현호 | [서울] : Skymind, 2024 | 650.1 오94행 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26821/76/cover200/8932818231_1.jpg) | 1세기 기독교와 도시 문화 : 바울 공동체의 사회 문화 환경 | Meeks, Wayne A | 서울 : Ivp : 한국기독학생회출판부, 2021 | 270.1 M494f2K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32881/66/cover200/8993461635_1.jpg) | 로스팅 바이블 : 세상의 모든 로스터를 위한 로스팅 지식 총집합체 | 김길진 | 서울 : 아이비라인, 2023 | 641.3373 김18로 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38829/70/cover200/k732137187_1.jpg) | 약속의 세대 : 백온유 소설 | 백온유 | 파주 : 문학동네, 2026 | 811.37 백65약 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38832/77/cover200/8935679208_1.jpg) | 돈의 열두 가지 얼굴 : 당신의 행복을 위한 돈의 인문학 | 류상철 | 파주 : 한길사, 2026 | 332.4 류52돈 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38136/85/cover200/8949969017_1.jpg) | (건설공사) 중대재해처벌법 | 김진권 | 파주 : 경인문화사, 2025 | 344.0465 김78중 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38267/92/cover200/k932034830_1.jpg) | 미국 헌법 쟁점론 : 美 연방 수정헌법 제2조 총기 권리 | 안경환 | 서울 : 박영사, 2026 | 342 미16안 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38402/62/cover200/k352135183_1.jpg) | 국가 영토 주권론 | 최재목 | 서울 : 박영사, 2026 | 341.42 국12최 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38703/78/cover200/k092136824_1.jpg) | 정보법 판례백선.3 | 한국정보법학회 | 서울 : 박영사, 2026 | 343.099 한16정박 v.3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38765/62/cover200/8991691374_1.jpg) | 출판인을 위한 저작권법 : 창작자, 편집자, 번역자, 사서를 위해 쓴 꼭 알아야 할 저작권 필수 상식 | 정지우 | 서울 : sbi : 한국출판인회의, 2026 | 346.0482 정78출 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38262/45/cover200/k432034626_1.jpg) | 디지털 증거법 | 이관희 | 서울 : 박영사, 2026 | 345.06 이15디2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38758/6/cover200/k182137768_1.jpg) | 민사소송법 강의 | 박재완 | 서울 : 박영사, 2026 | 347.05 박73민6 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38713/38/cover200/8918916620_1.jpg) | (간추린) 신형사소송법 | 신동운 | 파주 : 法文社, 2026 | 345.05 신25신18 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38555/86/cover200/k012135856_1.jpg) | 민법 첫걸음 | 김봉수 | 고양 : 자운, 2026 | 346 김45민자 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38591/79/cover200/k072136661_1.jpg) | 로스쿨 국제법 | 강병근 | 고양 : 정독, 2026 | 341 강44로 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38750/92/cover200/k432136049_1.jpg) | 형법총론 | 오영근 | 서울 : 박영사, 2026 | 345 오64형총8 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38886/0/cover200/8932925658_1.jpg) | 슬픈 호랑이 | Sinno, Neige | 파주 : 열린책들, 2026 | 843.92 S617tK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38850/53/cover200/k122137808_1.jpg) | AI비즈니스 정복하기 : AI 시대의 비즈니스 성공 교과서 | 오석현 | 서울 : 고북이, 2026 | 658.401 오54a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/725/64/cover200/8992801149_1.jpg) | 카발라 : 유대교 신비주의 | Dan, Joseph | 파주 : 안티쿠스, 2010 | 296.16 D167kK이 | 중앙도서관 |
