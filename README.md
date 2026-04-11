@@ -2,6 +2,17 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38814/96/cover200/k592137188_1.jpg) | 근현대 놀이의 역사와 철학 : 디오니소스의 귀환 | Spariosu, Mihai | 고양 : 연암서가, 2026 | 128 S736dK윤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35871/55/cover200/k972037788_1.jpg) | IT 개발자, 코드로 세상을 바꾸는 사람들 | 윤석용 | 파주 : 크루 : 한국학술정보, 2025 | 004.023 윤54i | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38850/97/cover200/k992137800_2.jpg) | 사랑이 있으니 살아집디다 : 강순희 말하고 유시민 듣다 | 유시민 | 서울 : 은빛, 2026 | 951.74092 강56유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32135/92/cover200/k782834306_1.jpg) | 누구를 위한 도시인가 : 현대 비판 도시 이론과 도시 사회운동 | Schmid, Christian | [서울] : 이매진, 2023 | 307.121601 C581bK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38764/83/cover200/k952137865_1.jpg) | 학술 커뮤니케이션 : 지식 생산과 공유 | 정경희 | 서울 : 이화여자대학교출판문화원, 2026 | 001.4 정14학 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33107/39/cover200/k122937828_1.jpg) | 릴리 슈슈의 모든 것 | 암정준이 | 성남 : 아오키서점, 2023 | 813.37 암74리K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38758/70/cover200/k822137762_1.jpg) | AI 시대와 대학 글쓰기 | 김수정 | 대구 : 소소담담, 2026 | 808.02 A311김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/17335/52/cover200/k682534395_1.jpg) | 심리치료의 기초 : 이론과 실제 | Wampold, Bruce E | 서울 : 박영스토리 : 피와이메이트, 2018 | 616.8914 W243bK안 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34687/97/cover200/k432933814_1.jpg) | 임도의 과학적 근거 : 숲으로 가는 길 | 권형근 | [서울] : 지을, 2024 | 634.93 임25권 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34285/87/cover200/8989966582_1.jpg) | (빠알리대장경/쿳다까니까야) 밀린다팡하 : 밀린다왕문경 | 전재성 | 서울 : 한국빠알리성전협회, 2024 | 294.382 밀298전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29825/13/cover/8946073853_1.jpg) | 세계화와 사회변동 | 백승욱 | 파주 : 한울아카데미 : 한울엠플러스, 2022 | 303.4 세14백 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/1932/12/cover200/8989966531_1.jpg) | (빠알리대장경/쿳다까니까야) 이띠붓따까-여시어경 | 전재성 | 서울 : 한국빠알리성전협회, 2012 | 294.382 이28전 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/406/29/cover200/8989966523_1.jpg) | (빠알리대장경/쿳다까니까야) 우다나 : 감흥어린 시구 | 전재성 | 서울 : 한국빠알리성전협회, 2009 | 294.382 우22전 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Computer animation : algorithms and techniques | Parent, Rick | Amsterdam : Morgan Kaufmann : Elsevier, 2026. | 006.696 P228c4 | 중앙도서관 |
@@ -41,14 +52,3 @@
 | ![](https://image.aladin.co.kr/product/38894/7/cover200/893648124x_1.jpg) | AI가 나보다 일을 잘할 때 | 김대식 | 파주 : 창비, 2026 | 303.483 김23a창 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37605/84/cover200/k172032837_1.jpg) | 여/성 이론가들 | 여성문화이론연구소 | 서울 : 여이연 : 여성문화이론연구소, 2025 | 305.4201 여54여 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33579/28/cover200/k392939397_1.jpg) | 채만식 소설어사전 | 임무출 | 서울 : 아로파, 2024 | 811.3603 임36채 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38830/6/cover200/k882137288_1.jpg) | 아이의 천재성은 어떻게 사라지는가 : ADHD 낙제생이 하버드대 교수가 되기까지 | Rose, Todd | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2026 | 371.9 R797sK윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38879/16/cover200/k012137204_1.jpg) | 인생은 행복으로 완성되지 않는다 : 우리 삶에 우여곡절이 필요하다는 과학적 증명 | Oishi, Shigehiro | 서울 : 위즈덤하우스, 2026 | 152.42 O39LK신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/12248/20/cover200/8993461414_1.jpg) | 커핑 노하우 : 최고의 커피를 찾기 위한 커핑 로드맵 | 아이비라 | 서울 : 아이비라인, 2017(2022 5쇄) | 641.3373 아68커 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36334/62/cover200/8999733947_1.jpg) | (15분이면 충분한) 사례개념화의 실제 : 패턴 중심 접근법 | Sperry, Len | 서울 : 학지사, 2025 | 616.8914 S751fK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38103/10/cover200/k942034180_1.jpg) | 가족상담 및 가족치료 | 최규련 | 고양 : 공동체, 2025 | 616.89156 최16가 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26192/97/cover200/899972283x_1.jpg) | 정서의 이해 | Keltner, Dacher | 서울 : 학지사, 2021 | 152.4 K29u3K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36037/43/cover200/8974259486_1.jpg) | 과자, 내 아이를 해치는 달콤한 유혹 : 건강파괴자 식품첨가물과 병을 부르는 가공식품 고발서 | 안병수 | 파주 : 국일미디어, 2025 | 649.3 안44과3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37297/83/cover200/8986022990_1.jpg) | 모든 주식을 소유하라 | Bogle, John C | 파주 : 비즈니스맵 : 한올엠앤씨, 2025 | 332.6327 B675L2K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38788/7/cover200/8997134817_1.jpg) | 알고 싶은 한국사 | 주진오 | 서울 : 공앤박, 2026 | 951 주78알 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33815/99/cover200/k102930686_1.jpg) | 조선시대 제주와 제주문화 | 김학수 | 성남 : 한국학중앙연구원출판부, 2023 | 951.5 조54김한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38496/2/cover200/k882135311_1.jpg) | 한 치 앞의 어둠 : 사와무라 이치 초단편 괴담집 | 택촌이지 | 서울 : 폴라북스, 2026 | 813.37 택84일K김 | 중앙도서관 |
