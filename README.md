@@ -2,6 +2,25 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38559/40/cover200/k122135952_1.jpg) | 구원에게 : 정영욱 산문 | 정영욱 | [서울] : 부크럼, 2026 | 811.87 정64구 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38466/75/cover200/k842135919_1.jpg) | 필연적 혼자의 시대 | 김수영 | 파주 : 다산초당 : 다산북스, 2026 | 306.815 김56필 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38384/33/cover200/k572135461_1.jpg) | 일본 광고 카피 도감 : 모든 마음은 카피할 수 있다 | 오하림 | [서울] : 서교책방, 2026 | 659.10953 오92일 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38496/16/cover200/k622135312_1.jpg) | (2026 제49회) 이상문학상 작품집 : 눈과 돌멩이 외 5편 | 위수정 | 파주 : 다산책방 : 다산북스, 2026 | 811.308 이52문 2026 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38357/53/cover200/k952135368_1.jpg) | 나의 완벽한 장례식 : 조현선 장편소설 | 조현선 | [파주] : 북로망스 : 책읽어주는남자, 2026 | 811.37 조94나조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38195/3/cover200/8937464691_1.jpg) | 악수도 없이 헤어졌다 | 피천득 | 서울 : 민음사, 2025 | 811.47 피83악 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37926/0/cover200/k902033034_1.jpg) | 혼자 공부하는 바이브 코딩 with 클로드 코드 | 조태호 | 서울 : 한빛미디어, 2025 | 006.3 조883혼 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37907/70/cover200/k332033938_1.jpg) | (자본주의 시대에서 살아남기 위한) 최소한의 경제 공부 | 백억남 | [서울] : Highest : 하이스트그로우, 2025 | 332.024 백64최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37966/51/cover200/893643988x_1.jpg) | 할매 : 황석영 장편소설 | 황석영 | 파주 : 창비, 2025 | 811.37 황54할 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37458/46/cover200/k472032813_1.jpg) | 나노 바나나 : 매일매일 쓰는 제미나이 AI | 문수민 | 파주 : 생능북스 : 생능, 2025 | 006.3 문56나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37773/21/cover200/k002033562_2.jpg) | 최소한의 삼국지 : 최태성의 삼국지 고전 특강 | 최태성 | 파주 : 프런트페이지, 2025 | 952.33 최883최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37676/59/cover200/k212032349_2.jpg) | 괴테는 모든 것을 말했다 | 령목결생 | 서울 : 리프 : 콘텐츠그룹 포레스트, 2025 | 813.37 령35괴K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37399/76/cover200/k272032892_1.jpg) | 미술관 여행자를 위한 도슨트 북 : 모든 걸작에는 다 계획이 있다 : 딱 한 장이면 나도 도슨트처럼 본다 | Jouneaux, Camille | 서울 : 윌북, 2025 | 759 J86LK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37015/28/cover200/k262030327_1.jpg) | 말뚝들 : 김홍 장편소설 | 김홍 | 서울 : 한겨레 : 한겨레엔, 2025 | 811.37 김95말 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36254/72/cover200/k322038527_1.jpg) | 연매장 : 팡팡 장편소설 | 방방 | 파주 : 문학동네, 2025 | 812.37 방42연K문 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fundamentals of plant physiology | Taiz, Lincoln | New York : Oxford University Press, 2025. | 571.2 F981t2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35627/60/cover200/k492036297_1.jpg) | 생각의 도약 : 평범함을 뛰어넘는 초효율 사고법 | 외산자비고 | 서울 : page2 : 페이지2북스, 2025 | 153.42 외52사2K전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34002/54/cover200/k462930652_1.jpg) | 입속 지느러미 : 조예은 장편소설 | 조예은 | 서울 : 한겨레엔 : 한겨레, 2024 | 811.37 조64입 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26665/87/cover/8999723518_1.jpg) | 교육평가의 이론과 실제 | 김석우 | 서울 : 학지사, 2021 | 371.26 교66김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38814/96/cover200/k592137188_1.jpg) | 근현대 놀이의 역사와 철학 : 디오니소스의 귀환 | Spariosu, Mihai | 고양 : 연암서가, 2026 | 128 S736dK윤 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35871/55/cover200/k972037788_1.jpg) | IT 개발자, 코드로 세상을 바꾸는 사람들 | 윤석용 | 파주 : 크루 : 한국학술정보, 2025 | 004.023 윤54i | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38850/97/cover200/k992137800_2.jpg) | 사랑이 있으니 살아집디다 : 강순희 말하고 유시민 듣다 | 유시민 | 서울 : 은빛, 2026 | 951.74092 강56유 | 중앙도서관 |
@@ -33,22 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Travel demand forecasting : parameters and techniques | Bhat, Chandra R | Washington, D.C. : Transportation Research Board, 2012. | 388.072 T772tc v.716 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38239/18/cover200/k772034523_1.jpg) | 인공지능 대전환(AX)과 법 | 이성엽 | 서울 : 박영사, 2026 | 343.0999 이54인 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38270/93/cover200/k482034938_1.jpg) | 일본 행정법 | 고교자 | 서울 : 좋은땅, 2025 | 342.06 고15행K김 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38495/58/cover200/8961206265_1.jpg) | (실무자를 위한) 저작권법 | 임원선 | 진주 : 한국저작권위원회, [2025] | 346.0482 임66저8 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38698/48/cover200/k282136820_1.jpg) | 공정거래법의 이론과 실제 : 실무와 판례로 완성하는 공정거래법 | 김형배 | 서울 : 솔숲, 2026 | 343.072 김94공3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38771/47/cover200/8918916639_1.jpg) | 독점규제법 : 이론과 실무 | 권오승 | 파주 : 法文社, 2026 | 343.0721 권65독7 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38283/76/cover200/k362034142_1.jpg) | 민사소송법 | 강현중 | 서울 : 박영사, 2026 | 347.05 강94민박 2026 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38284/10/cover200/k242034143_1.jpg) | 민사소송법 | 전현철 | 서울 : 박영사, 2026 | 347.05 전94민2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38276/26/cover200/k032034045_1.jpg) | 공법기록형 공법소송실무 | 정형근 | 고양 : 정독, 2026 | 342.066 정94공11 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38722/36/cover200/k362136742_1.jpg) | 형법사용설명서 | 임동민 | 서울 : 박영사, 2026 | 345 임25형5 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38418/39/cover200/k702135582_1.jpg) | (완역) 삼국지 | 나관중 | [파주] : 북플레저 : 책 읽어주는 남자, 2025 | 812.3 나15삼K백 v.1~4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38879/10/cover200/k772137203_1.jpg) | 나의 한반도 석기시대 순례기 : 선사 박물관과 유적지에서 찾는 인간적 삶 | 오선민 | 서울 : 북드라망, 2026 | 951.2 오54나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38881/56/cover200/k662137301_1.jpg) | 메리 스튜어트 | Zweig, Stefan | 서울 : 이화북스, 2026 | 941.105092 M393zK육 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22111/41/cover200/8918910576_1.jpg) | 도시지리학개론 | 한국도시지리학회 | 파주 : 法文社, 2020(2025 5쇄) | 307.76 한16도지 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38875/21/cover200/k392137105_1.jpg) | (나도 모르게 나를 망치고 성장시키는) 문제적 사랑 | 김지용 | 파주 : 디플롯, 2026 | 152.41 김78문 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38729/52/cover200/k232136845_1.jpg) | 아이의 친구 관계 : 뇌과학이 알려 주는 사회성 발달의 황금 법칙 | 김붕년 | 서울 : 카시오페아, 2026 | 649.6 김46아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38830/25/cover200/8932476047_1.jpg) | 도시는 무엇으로 사는가 | 유현준 | 서울 : 을유문화사, 2026 | 307.76 유94도2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38845/47/cover200/8999736725_1.jpg) | 서쪽 마을의 사회복지 : 서해랑길(해남 땅끝~강화도)을 걸으며 | 권중돈 | 서울 : 학지사, 2026 | 361 권76서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36748/2/cover200/k352030096_1.jpg) | 퀴어한 장례와 애도 : 왜 어떤 죽음은 애도가 불가능한가 | 김순남 | 부산 : 산지니, 2025 | 306.766 퀴64김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38894/7/cover200/893648124x_1.jpg) | AI가 나보다 일을 잘할 때 | 김대식 | 파주 : 창비, 2026 | 303.483 김23a창 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37605/84/cover200/k172032837_1.jpg) | 여/성 이론가들 | 여성문화이론연구소 | 서울 : 여이연 : 여성문화이론연구소, 2025 | 305.4201 여54여 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33579/28/cover200/k392939397_1.jpg) | 채만식 소설어사전 | 임무출 | 서울 : 아로파, 2024 | 811.3603 임36채 | 중앙도서관 |
