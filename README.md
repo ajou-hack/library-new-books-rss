@@ -2,6 +2,13 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36747/55/cover200/8999734501_1.jpg) | 현대 심리치료와 상담 이론 : 마음의 치유와 성장으로 가는 길 | 권석만 | 서울 : 학지사, 2025 | 616.8914 권54현2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36072/76/cover200/8932924988_1.jpg) | 그녀를 지키다 : 장바티스트 앙드레아 장편소설 | Andrea, Jean-Baptiste | 파주 : 열린책들, 2025 | 843.92 A556vK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35791/27/cover200/k712036359_1.jpg) | (쉽게 배우는) DSM-5-TR : 임상가를 위한 진단지침 | Morrison, James R | 서울 : 시그마프레스, 2025 | 616.89075 M879dK신임 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33673/18/cover200/k222939836_1.jpg) | 미시경제학 : 수학노트와 연습문제 해답 | 이준구 | 고양 : 문우사, 2024 | 338.5 이76미8수 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29825/13/cover/8946073853_1.jpg) | 세계화와 사회변동 | 백승욱 | 파주 : 한울아카데미 : 한울엠플러스, 2022 | 303.4 세14백 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 감정의 문화정치 : 감정은 세계를 바꿀 수 있을까 | Ahmed, Sara | 파주 : 오월의봄, 2023 | 152.4 A286cK시 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/aa442079-6940-4b42-a4d1-3d2c024452e1) | (Neamen의) 반도체 물성과 소자 | Neamen, Donald A | 서울 : 한국맥그로힐, 2012(2024 13쇄) | 537.622 N348s4K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37506/64/cover200/k822032828_1.jpg) | AI 신약개발 첫걸음 : 이론부터 응용까지 | 김우연 | 서울 : 시공사, 2025 | 615.19 김66a | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38558/48/cover200/k192135959_1.jpg) | 1일 1페이지 짧고 깊은 지식수업 365 : 통찰력 편 | 김옥림 | 고양 : 미래북, 2026 | 001.3 김65일2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38158/44/cover200/k862034407_2.jpg) | 영어 프리토킹 100일의 기적 with AI : AI로 여는 새로운 영어회화 시대 | 에스텔 | 파주 : 넥서스, 2026 | 428 에57영 | 중앙도서관 |
@@ -45,10 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Plant physiological ecology | Lambers, H | Cham, Switzerland : Springer, c2019. | 571.2 L221p3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38195/3/cover200/8937464691_1.jpg) | 악수도 없이 헤어졌다 | 피천득 | 서울 : 민음사, 2025 | 811.47 피83악 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37926/0/cover200/k902033034_1.jpg) | 혼자 공부하는 바이브 코딩 with 클로드 코드 | 조태호 | 서울 : 한빛미디어, 2025 | 006.3 조883혼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37907/70/cover200/k332033938_1.jpg) | (자본주의 시대에서 살아남기 위한) 최소한의 경제 공부 | 백억남 | [서울] : Highest : 하이스트그로우, 2025 | 332.024 백64최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37966/51/cover200/893643988x_1.jpg) | 할매 : 황석영 장편소설 | 황석영 | 파주 : 창비, 2025 | 811.37 황54할 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37458/46/cover200/k472032813_1.jpg) | 나노 바나나 : 매일매일 쓰는 제미나이 AI | 문수민 | 파주 : 생능북스 : 생능, 2025 | 006.3 문56나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37773/21/cover200/k002033562_2.jpg) | 최소한의 삼국지 : 최태성의 삼국지 고전 특강 | 최태성 | 파주 : 프런트페이지, 2025 | 952.33 최883최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37676/59/cover200/k212032349_2.jpg) | 괴테는 모든 것을 말했다 | 령목결생 | 서울 : 리프 : 콘텐츠그룹 포레스트, 2025 | 813.37 령35괴K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37399/76/cover200/k272032892_1.jpg) | 미술관 여행자를 위한 도슨트 북 : 모든 걸작에는 다 계획이 있다 : 딱 한 장이면 나도 도슨트처럼 본다 | Jouneaux, Camille | 서울 : 윌북, 2025 | 759 J86LK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37015/28/cover200/k262030327_1.jpg) | 말뚝들 : 김홍 장편소설 | 김홍 | 서울 : 한겨레 : 한겨레엔, 2025 | 811.37 김95말 | 중앙도서관 |
