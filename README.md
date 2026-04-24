@@ -2,6 +2,13 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36987/78/cover200/k632030123_1.jpg) | 요건사실과 주장증명책임 : 주요 조문별·판례중심 | 최진수 | 서울 : 진원북스, 2025 | 347 최78요14 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/34650/1/cover200/k192933793_1.jpg) | 노동법의 쟁점과 사례 | 박귀천 | 서울 : 박영사, 2024 | 344.01 박16노쟁2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/35547/22/cover200/k722036275_1.jpg) | 민법강의 : 채권총론 | 권재문 | 서울 : 박영사, 2025 | 346.02 권73민 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/34198/14/cover200/k022931415_1.jpg) | 민법강의 : 민법총칙·물권 | 권재문 | 서울 : 박영사, 2024 | 346 권73민 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/37908/49/cover200/8949968878_1.jpg) | 도급에서의 수급인의 책임 | 이상헌 | 파주 : 경인문화사, 2025 | 346.022 이52도 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38931/96/cover200/k242137816_1.jpg) | 법학방법론 | Larenz, Karl | 서울 : 박영사, 2026 | 340.1 L321m3K이 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38722/40/cover200/k692136742_1.jpg) | 디지털금융법 | 금융연구포럼 | 서울 : 박영사, 2026 | 346.082 금66디 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The limits to capital | Harvey, David | London : Verso, 2018. | 335.4 H341L | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A history of Korea : an episodic narrative | Hwang, Kyung Moon | London : Red Globe Press, 2021. | 951 H991h3 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The cultural intermediaries reader | Maguire, Jennifer Smith | Los Angeles, California : SAGE, 2014. | 306.07 M213c | 중앙도서관 |
@@ -45,10 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32003/47/cover200/k162834662_1.jpg) | 확률과 통계 입문 | 이재원 | 서울 : 한빛아카데미, 2023 | 519.2 이73확2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38816/12/cover200/8931500386_1.jpg) | 글쓰기는 프롬프트다 : AI 협업 글쓰기 실전 가이드 | 오창근 | 서울 : BM 성안당, 2026 | 006.3 오82글 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38799/2/cover200/k342137789_1.jpg) | 옵시디언 프로페셔널 노트 : 플러그인과 AI로 확장하는 지식 관리 워크플로 | 구요한 | 고양 : 리코멘드, 2026 | 005.57 구65옵 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38802/43/cover200/k172137787_1.jpg) | PostgreSQL Wait Interface : 내부 동작 메커니즘으로 이해하는 대기 이벤트 | 김민서 | 서울 : 엑셈, 2026 | 005.7585 김38p | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38798/63/cover200/k342137788_1.jpg) | 문제 해결의 언어, 파이선 : 생각 - 구현 - 전략 | 한옥영 | 서울 : 성균관대학교출판부, 2026 | 005.133 한65문 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38808/8/cover200/k802137981_1.jpg) | A2A × MCP 멀티에이전트 오케스트레이션 실전 : 현직 AI Specialist에게 배우는 A2A! A2A x MCP 시스템을 설계, 구축, 운영하며 멀티 에이전트의 기본을 경험한다! | 서지영 | 서울 : 길벗, 2026 | 006.3 서78a현 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38813/76/cover200/k982137084_1.jpg) | (GPT-5와 ChatGPT로 시작하는) 멀티모달 AI 프로그래밍 실전 입문 : OpenAI API부터 멀티모달, AI 에이전트, 파인튜닝까지 한권으로 끝내기 | 포류천영일 | 파주 : 위키북스, 2026 | 006.35 포296oK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38695/73/cover200/k012136725_1.jpg) | 캔바 AI : 매일매일 쓰는 모두의 AI | 신승희 | 파주 : 생능북스 : 생능, 2026 | 006.686 신57캔 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38835/96/cover200/k622137385_1.jpg) | 우크라이나 전쟁, 그리고 한·러 관계 | 박병환 | 서울 : 뿌쉬낀하우스, 2026 | 327.51047 박44우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38875/4/cover200/k832137104_1.jpg) | 슬픈 살인 : 지성과 광기의 경계에서 낳은 비극 | Rosen, Jonathan | 파주 : 문학동네, 2026 | 616.8980092 R813bK박 | 중앙도서관 |
