@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/31728/46/cover200/k932833896_1.jpg) | 民事判例硏究 | 민사판례연구회 | 서울 : 博英社, 1979- | 346.00264 민52민사 v.1/v.10/v.11/v.12/v.13/v.14/v.15/v.16/v.17/v.18/v.19/v.2/v.20/v.21/v.22/v.23/v.24/v.25/v.26/v.27/v.28/v.29/v.3/v.30/v.31/v.32/v.33-1/v.33-2/v.34/v.35/v.36/v.37/v.38/v.39/v.4/v.40/v.41/v.42/v.43/v.44/v.45/v.46/v.47/v.5/v.6/v.7/v.8/v.9 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/27562/96/cover/8963276414_1.jpg) | 한국 스포츠 미디어 담론구조의 변화 | 김창금 | 서울 : 글누림, 2021 | 306.483 김82한 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 行政判例硏究 | 한국행정판례연구회 | 서울 : 博英社, 2002- | 342.060264 한16행 v.10/v.11/v.14/v.15-1/v.15-2/v.16-1/v.16-2/v.17-1/v.17-2/v.18-1/v.18-2/v.19-1/v.19-2/v.20-1/v.20-2/v.21-1/v.21-2/v.22-1/v.22-2-1/v.22-2-2/v.23-1/v.23-2/v.24-1/v.24-2/v.25-1/v.25-2/v.26-1/v.26-2/v.27-1/v.27-2/v.28-1/v.28-2/v.29-1/v.29-2/v.30-1/v.7/v.8/v.9 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 韩国大法院判例选编 | 법원도서관 | 고양 : 法院图书馆, 2009- | 348.044 한16대도 v.1~17 | 법학도서관 |
@@ -51,4 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The story of capital : what everyone should know about how capital works | Harvey, David | London, England : Verso, 2026. | 330.122 H341s | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38418/39/cover200/k702135582_1.jpg) | (완역) 삼국지 | 나관중 | [파주] : 북플레저 : 책 읽어주는 남자, 2025 | 812.3 나15삼K백 v.1~6 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The sinthome : the seminar of Jacques Lacan, Book XXIII | Lacan, Jacques | Cambridge, UK : Polity Press, 2018. | 150.195 L129sEp | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | ... or worse : the seminar of Jacques Lacan, Book XIX | Lacan, Jacques | Cambridge, UK | 150.195 L129oEp | 중앙도서관 |
