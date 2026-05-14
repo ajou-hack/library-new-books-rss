@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/36034/52/cover200/k072037632_1.jpg) | 인공지능과 경쟁법 | 최승재 | 서울 : 커뮤니케이션북스, 2025 | 343.07 최57인 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38507/42/cover200/8994512489_1.jpg) | 피지컬AI와 가상자산법 | 전북대학교 | 전주 : 인포피아, 2025 | 343.0999 전46피 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/193/45/cover200/8976823079_2.jpg) | 천사들의 전설 | Serres, Michel | 서울 : 그린비, 2008 | 194 S488LK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/4771/17/cover200/8958812346_1.jpg) | 신경과학 | Purves, Dale | 서울 : 월드사이언스, 2014 | 612.8 N494p5K오 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39001/85/cover200/k362137222_1.jpg) | AI에 대한 인권의 역습 : 큰글자책 | 노호창 | 서울 : 커뮤니케이션북스, 2026 | 303.483 노95a큰 | 중앙도서관 |
@@ -26,6 +28,7 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The socialist calculation debate : theory, history, and contemporary relevance | Boettke, Peter J | Cambridge, UK : Cambridge University Press, 2024. | 335 B673s | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34577/71/cover200/k842933468_1.jpg) | 은밀하고 난처한 미술 전시회 | 산전오랑 | 용인 : 유나, 2024-2026 | 750.2 산74산K권 v.1 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Energierecht | Kühling, Jürgen | Baden-Baden : Nomos, 2026. | 343.092 K96e6 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/19292/56/cover/8955924127_1.jpg) | 점진적 구현, 건축 | CMYK Studio | 서울 : Spacetime : 시공문화사, 2019-2026 | 692.1 C649점 v.1/v.2-1/v.2-2/v.2-3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31728/46/cover200/k932833896_1.jpg) | 民事判例硏究 | 민사판례연구회 | 서울 : 博英社, 1979- | 346.00264 민52민사 v.1/v.10/v.11/v.12/v.13/v.14/v.15/v.16/v.17/v.18/v.19/v.2/v.20/v.21/v.22/v.23/v.24/v.25/v.26/v.27/v.28/v.29/v.3/v.30/v.31/v.32/v.33-1/v.33-2/v.34/v.35/v.36/v.37/v.38/v.39/v.4/v.40/v.41/v.42/v.43/v.44/v.45/v.46/v.47/v.48/v.5/v.6/v.7/v.8/v.9 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38841/41/cover200/8931504950_1.jpg) | 내 인생의 가우디 : 흔들리는 나를 위로해 주는 건축 수업 | 유승준 | 서울 : BM성안당, 2026 | 720.92 G267유 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39146/11/cover200/8936481274_1.jpg) | 가짜 환자 : 환자 만들어내는 사회에서 지혜롭게 건강 지키는 법 | 김현아 | 파주 : 창비, 2026 | 306.461 김94가 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36972/90/cover200/k802030822_1.jpg) | 얼룩진 여름 : 전경린 장편소설 | 전경린 | 파주 : 다산책방 : 다산북스, 2025 | 811.37 전14유3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39117/52/cover200/k762137351_1.jpg) | (비밀을 알고 싶니?) 사랑을 담아, 엄마가 | Xander, Iliana | 서울 : READbie : 디앤씨미디어, 2026 | 823.92 X2LK안 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37632/72/cover200/k012032146_1.jpg) | 로봇 시대, 인간의 일 : 인공지능 시대를 살아가야 할 이들을 위한 안내서 | 구본권 | 서울 : 어크로스, 2025 | 303.4834 구45로3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31199/5/cover200/897297076x_1.jpg) | 생명의료윤리 | 구영모 | 파주 : 동녘, 2023 | 174.2 구64생4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39130/17/cover200/k732137550_1.jpg) | 내일 날씨는 맑음 : 날씨의 장기 예측을 가능케 한 어느 기후학자 이야기 | Shukla, J | 서울 : 반비, 2026 | 551.5092 S562bK노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39164/99/cover200/k812138964_1.jpg) | (이게 되네?) 나노바나나 2 AI 비포&애프터 : 미친 활용법 82제 | 쌩초 | 서울 : 골든래빗, 2026 | 006.6 쌩84나 | 중앙도서관 |
