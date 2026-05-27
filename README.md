@@ -2,6 +2,22 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/39061/33/cover200/k852137647_1.jpg) | 손절사회 : 손익계산이 되어버린 인간관계, 연결 불가능성의 시대에 관한 탐구 | 이승연 | 서울 : 어크로스, 2026 | 302.3 이57손 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39001/22/cover200/k172137220_1.jpg) | 착함 중독 : 남을 기쁘게 하느라 인생을 낭비하지 마라 | Magee, Hailey | 서울 : 비즈니스북스, 2026 | 158.1 M191sK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38902/23/cover200/k442137718_1.jpg) | 권력중독 : 그들은 왜 지배할수록 괴물이 되는가 | Schermuly, Carsten C | 서울 : 미래의창, 2026 | 303.3 S326pK권 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39078/89/cover200/k942137951_1.jpg) | 우월한 열등감 : 비교와 불안의 시대, 단단한 사람으로 성장하는 자존감 교육 | Adler, Alfred | 파주 : 저녁달, 2026 | 150.1953 A237eK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39118/23/cover200/k812137353_1.jpg) | 나와 당신은 왜 분노하는가 : 우리가 서로를 적이라 믿게 만드는 마음의 함정 | Gray, Kurt James | 파주 : 김영사, 2026 | 152.47 G779oK제 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39170/27/cover200/k062138164_1.jpg) | AI 시대의 사진 : 사진의 오래된 미래 | 김경훈 | 파주 : 북다 : 교보문고, 2026 | 770.2 김14a | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39135/94/cover200/k672137653_1.jpg) | 문명의 뼈대 : 인류 문명을 지탱해 온 수학의 역사 | 송용진 | 파주 : 다산초당 : 다산북스, 2026 | 510.9 송65문 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39029/73/cover200/k162137745_1.jpg) | 다마스쿠스인 미흐야르의 노래 | Adūnīs | 서울 : 은행나무, 2026 | 892.716 A244aK황 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39169/52/cover200/k292138160_2.jpg) | 오독의 발견 : 김민철 독서 에세이 | 김민철 | 파주 : 김영사, 2026 | 028.9 김38오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39197/69/cover200/k232138787_1.jpg) | 재미까지 바라는 건 욕심이겠지만 | 강보라 | 파주 : 문학동네, 2026 | 811.3708 재38강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39170/45/cover200/k262138164_1.jpg) | 여러 개의 북을 두드리며 | Tokarczuk, Olga | 서울 : 은행나무, 2026 | 891.8537 T646gK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39118/23/cover200/k882137353_1.jpg) | 강물이 멈춘 날 | Lamb, Wally | 서울 : 리프 : 콘텐츠그룹 포레스트, 2026 | 823 L218rK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38960/53/cover200/8965968100_1.jpg) | 코스모스를 넘어 : 칼 세이건 이후 우주와 인간의 새로운 이야기 | Malik, Sarah Alam | 서울 : 흐름, 2026 | 523.1 M251bK고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39165/14/cover200/892556940x_1.jpg) | AI 이후 일의 미래 : 생성형 AI가 바꾸는 비즈니스 미래 지도 | 시전직수 | 서울 : 알에이치코리아, 2026 | 658.0563 시74aK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39100/0/cover200/8901299704_1.jpg) | 1929 : 번영과 낙관은 어떻게 파국으로 치달았는가 | Sorkin, Andrew Ross | 파주 : 웅진지식하우스, 2026 | 338.540973 S714nK조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39137/32/cover200/8901299771_1.jpg) | 착한 염증 나쁜 염증 : 면역, 질병, 노화를 좌우하는 우리 몸의 조용한 지배자 | 이승훈 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2026 | 616.0473 이57착 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32252/51/cover200/k452834747_1.jpg) | 인간종에 대한 음모 : 공포라는 발명품 | Ligotti, Thomas | 서울 : 필로소픽, 2023 | 809.9164 L726cK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37461/40/cover200/k492032910_1.jpg) | 나이 들고 싶은 동네 | 유여원 | 서울 : 반비, 2025 | 362.6 유64나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36817/56/cover200/k452030103_1.jpg) | 쉽게 배우는 운영체제 : 비유와 사례로 이해하는 운영체제의 핵심 원리 | 조성호 | 서울 : 한빛아카데미, 2025 | 005.43 조54쉽3 | 중앙도서관 |
@@ -36,19 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Working nature : a history of the energy economy | Russ, Daniela | London : Verso, 2026. | 333.7909 R958w | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The cultural Marxism conspiracy : why the right blames the Frankfurt school for the decline of the west | Woods, A. J. A | New York : Verso, 2026. | 320.52 W894c | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sorting out the mixed economy : the rise and fall of welfare and developmental states in the Americas | Offner, Amy C | Princeton | 330.98 O32s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Flights | Tokarczuk, Olga | New York : Riverhead Books, 2019. | 891.8538 T646bEc | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Once again for Thucydides | Handke, Peter | New York : New Directions, 1998. | 833.914 M277nEL | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Moravian night : a story | Handke, Peter | New York : Farrar, Straus and Giroux, 2016. | 833.914 H236mEw | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The left-handed woman | Handke, Peter | London : Penguin Classics, 2020. | 833.914 M277LEm | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The Goalkeeper's Anxiety at the Penalty Kick | Handke, Peter | Great Britain : Penguin Books, 2020. | 833.914 H236dEr | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The seven ages | Glück, Louise | New York : Ecco Press, 2002. | 821.914 G567s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Vita Nova | Glück, Louise | Hopewell, NJ : Ecco Press, 2001. | 821.914 G567v | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Averno | Glück, Louise | New York : Farrar, Straus and Giroux, 2007. | 821.914 G567a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The years | Ernaux, Annie | London : Fitzcarraldo Editions, 2020. | 843.914 E71aEL | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Shame | Ernaux, Annie | London : Fitzcarraldo Editions, 2023 | 848.914 E71hEL | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A woman's story | Ernaux, Annie | London : Fitzcarraldo Editions, 2025. | 843.914 E71fEL | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A girl's story | Ernaux, Annie | London : Fitzcarraldo Editions, 2024. | 843.914 E71mEs5 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Aliss at the fire | Fosse, Jon | London : Fitzcarraldo Editions, 2023. | 839.8238 F752dEs | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Melancholy I-II | Fosse, Jon | London : Fitzcarraldo Editions, 2024. | 839.8238 F752mEs | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Septology | Fosse, Jon | London : Fitzcarraldo Editions, 2023. | 839.8238 F752sEs | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Vaim | Fosse, Jon | Berkeley, CA : Transit Books, 2025. | 839.8238 F752vEs | 중앙도서관 |
