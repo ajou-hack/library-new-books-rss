@@ -2,6 +2,30 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/60/74/cover200/8970135472_1.jpg) | 은하수를 여행하는 히치하이커를 위한 안내서 | Adams, Douglas | 서울 : 책세상, 2024 | 823 A211hK김책 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24310/7/cover/8984077933_1.jpg) | 턴어라운드 : 맡기는 리더십으로 꼴찌에서 1등이 된 미 핵잠수함 산타페의 감동 실화 | Marquet, L. David | 서울 : 세종서적, 2020(2025 9쇄) | 658.4092 M357tK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/169/72/cover/8960900273_1.jpg) | 마음사전 | 김소연 | 서울 : 마음산책, 2008(2026 61쇄) | 811.87 김55마 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38903/2/cover200/k822137719_2.jpg) | (다모다란의) 가치평가 바이블 : 주식부터 신종 자산까지 모든 자산의 가치평가 전략 | Damodaran, Aswath | 서울 : 에프엔미디어, 2026 | 658.15 D163i4K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31440/0/cover/k932832311_1.jpg) | 사진의 별자리들 | 채승우 | 서울 : 보스토크프레스, 2023-2026 | 770.2 채57사 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39173/22/cover200/k422138778_1.jpg) | 코스피 1만 투자 지도 : 예측 적중률 95.8% 효라클의 12개 핵심 산업 분석 | 효라클 | 서울 : 유노북스 : 유노콘텐츠그룹, 2026 | 332.6322 효292코 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39170/27/cover200/k052138164_1.jpg) | 누가 검은 돈을 움직이는가 : 자금세탁, 아는 만큼 막는다 | 박정훈 | 서울 : 법률신문사, 2026 | 345.0268 누12박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32444/10/cover200/k052935299_3.jpg) | 오뒷세이아 | Homeros | 파주 : 아카넷, 2023 | 883.01 H766hK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39137/30/cover200/k502137655_1.jpg) | 나는 왜 결정이 두려운가 : 선택과 불안을 다루는 감각의 심리학 | 이동귀 | 서울 : 땡스B : 메가스터디, 2026 | 152.46 이25나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/250/43/cover200/8990618959_2.jpg) | 행정과 지방자치 : 이익·제도·이데올로기 시각에서 | 추월겸오 | 서울 : 논형, 2008 | 352.140953 추66행K하 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39194/29/cover200/k802138780_1.jpg) | 삶이 허기질 때 나는 교양을 읽는다 : 지식 브런치 마스터 에디션(master edition) | 지식 브런치 | 서울 : 서스테인, 2026 | 001.3 지58삶마 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39195/32/cover200/k302138783_1.jpg) | 세상에서 가장 따듯한 초록 : 제주 이시돌 목장 이야기 | 김태훈 | [통영] : 남해의봄날, 2026 | 282.092 임898김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/5702/77/cover200/8928507294_1.jpg) | 국역 무오일기 | 청량산박물관 | 서울 : 민속원, 2015 | 951.5 청293국 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35634/36/cover200/k522036494_1.jpg) | 박태순 중단편 소설전집 | 박태순 | 용인 : 걷는사람, 2024 | 811.37 박883박 v.2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6511/98/cover200/8988060342_1.jpg) | 피아스코 컴패니언 | Morningstar, Jason | 서울 : 초여명, 2015 | 793.93 M866fK초 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/5376/10/cover200/8988060261_1.jpg) | 피아스코 | Morningstar, Jason | 서울 : 초여명, 2015 | 793.93 M866fK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38943/32/cover200/k382137013_1.jpg) | 까마귀학으로의 초대 : 인간 곁에서 살아온 가장 영리한 새, 과학으로 읽다 | 삼전소영 | 서울 : 책공장더불어, 2026 | 598.864 삼74카K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37539/83/cover200/k172032121_1.jpg) | 우리 신, 우리 괴물 | 김혜정 | [서울] : 페이퍼타이거, 2025 | 398.410951 우298김 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38835/72/cover200/k402137384_1.jpg) | 우리 안에 불꽃이 있어 : 장아미 단편 소설집 | 장아미 | 서울 : 황금가지, 2026 | 811.37 장62우 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30382/30/cover200/k922830861_1.jpg) | 토끼와 해파리 : 전삼혜 소설집 | 전삼혜 | 서울 : 아작, 2022 | 811.37 전52토 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34611/57/cover200/k062933888_1.jpg) | 최면술사의 시대 : 이석용 장편소설 | 이석용 | 서울 : 팩토리나인, 2024 | 811.37 이54최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27210/19/cover200/k332732194_1.jpg) | 넘버 | Churchill, Caryl | 서울 : 지만지드라마, 2021 | 822.914 C563nK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/20004/75/cover200/k982635046_1.jpg) | 보이체크 | Büchner, Georg | 서울 : 지만지드라마, 2019 | 832.7 B919sK임 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31084/38/cover200/k212831736_1.jpg) | 선시로 보는 무문관 | 석지현 | 서울 : 민족사, 2023 | 294.3927 석78선 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39061/33/cover200/k852137647_1.jpg) | 손절사회 : 손익계산이 되어버린 인간관계, 연결 불가능성의 시대에 관한 탐구 | 이승연 | 서울 : 어크로스, 2026 | 302.3 이57손 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39001/22/cover200/k172137220_1.jpg) | 착함 중독 : 남을 기쁘게 하느라 인생을 낭비하지 마라 | Magee, Hailey | 서울 : 비즈니스북스, 2026 | 158.1 M191sK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38902/23/cover200/k442137718_1.jpg) | 권력중독 : 그들은 왜 지배할수록 괴물이 되는가 | Schermuly, Carsten C | 서울 : 미래의창, 2026 | 303.3 S326pK권 | 중앙도서관 |
@@ -18,37 +42,13 @@
 | ![](https://image.aladin.co.kr/product/39165/14/cover200/892556940x_1.jpg) | AI 이후 일의 미래 : 생성형 AI가 바꾸는 비즈니스 미래 지도 | 시전직수 | 서울 : 알에이치코리아, 2026 | 658.0563 시74aK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39100/0/cover200/8901299704_1.jpg) | 1929 : 번영과 낙관은 어떻게 파국으로 치달았는가 | Sorkin, Andrew Ross | 파주 : 웅진지식하우스, 2026 | 338.540973 S714nK조 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39137/32/cover200/8901299771_1.jpg) | 착한 염증 나쁜 염증 : 면역, 질병, 노화를 좌우하는 우리 몸의 조용한 지배자 | 이승훈 | 파주 : 웅진지식하우스 : 웅진씽크빅, 2026 | 616.0473 이57착 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32252/51/cover200/k452834747_1.jpg) | 인간종에 대한 음모 : 공포라는 발명품 | Ligotti, Thomas | 서울 : 필로소픽, 2023 | 809.9164 L726cK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37461/40/cover200/k492032910_1.jpg) | 나이 들고 싶은 동네 | 유여원 | 서울 : 반비, 2025 | 362.6 유64나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36817/56/cover200/k452030103_1.jpg) | 쉽게 배우는 운영체제 : 비유와 사례로 이해하는 운영체제의 핵심 원리 | 조성호 | 서울 : 한빛아카데미, 2025 | 005.43 조54쉽3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24834/44/cover200/k222631252_1.jpg) | 괴이한 미스터리 | 괴이학회 | 서울 : 나비클럽, 2020 | 811.3708 괴68나 v.2/4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29245/67/cover200/k462837295_1.jpg) | 죽음의 집 | 윤영선 | 서울 : 책공장 이안재, 2022 | 811.27 윤64죽2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39152/84/cover200/k702138866_2.jpg) | (승자독식 시대의 위너를 만드는) AI 버블, 반도체 실전 투자법 | 이형수 | [화성] : 지베르니, 2026 | 332.6322 이94a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26212/58/cover200/8974798867_1.jpg) | 나는 어제 개운하게 참 잘 죽었다 | 장웅연 | 서울 : 불광, 2021 | 294.3927 장66나 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39182/60/cover200/k702138679_1.jpg) | 말하지 않고 말하기 : 마음을 움직이는 소통의 심리학 | 김정운 | 파주 : 21세기북스 : 북이십일 21세기북스, 2026 | 158.2 김74말 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37794/24/cover200/s692135115_2.jpg) | 죽은 왕녀를 위한 파반느 : 박민규 장편소설 | 박민규 | 서울 : 위즈덤하우스, 2025 | 811.37 박38죽2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39058/30/cover200/k402137644_1.jpg) | 반우울 : 우울감 이상·우울증 미만 | 평광원 | [서울] : 서교책방, 2026 | 616.8527 평15반K곽 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38934/1/cover200/8925569574_1.jpg) | 부의 사다리에 올라타라 : 당신의 자산을 확실하게 늘리는 6가지 방법 | Maggiulli, Nick | 서울 : 알에이치코리아, 2026 | 332.024 M193wK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38793/3/cover200/k292137262_1.jpg) | 이향인 : 세상 밖에서 세상의 중심이 되는 사람들 | Kaminski, Rami | 파주 : 21세기북스 : 북이십일 21세기북스, 2026 | 155.232 K15gK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38857/7/cover200/k152137906_1.jpg) | 바다에서 온 소년 : 개럿 카 소설 | Carr, Garrett | [파주] : 북파머스 : 책읽어주는남자, 2026 | 823.92 C311bK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38989/43/cover200/k232137415_1.jpg) | 젊은작가상 수상작품집제17회(2026) | 김채원 | 파주 : 문학동네, 2026 | 811.3708 젊67문 v.17 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38418/39/cover200/k702135582_1.jpg) | (완역) 삼국지 | 나관중 | [파주] : 북플레저 : 책 읽어주는 남자, 2025 | 812.3 나15삼K백 v.1~6/9~10 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38694/70/cover200/k612136721_2.jpg) | 완벽한 원시인 : 10만 년을 되돌려 되찾는 뇌 설계도 | 자청 | 서울 : 필로틱 : 라이프해킹, 2026 | 612.82 자83완 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38816/95/cover200/k382137182_1.jpg) | 무례한 세상에서 나를 지키는 법 : the art of distance | Gracián y Morales, Baltasar | 서울 : 논픽션, 2026 | 179.9 G731oK하 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38537/5/cover200/k732135332_1.jpg) | 부처님 말씀대로 살아보니 : 인생이 가벼워지는 15가지 불교 수업 | Fernando, Tony | [서울] : 윌마, 2026 | 158.1 F363LK강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37770/94/cover200/k792033466_1.jpg) | 고기능 우울증 : 겉은 멀쩡하지만 속은 고장 나 버린 사람들 | Joseph, Judith | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2025 | 616.8527 J83hK문 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36540/92/cover200/k742039945_1.jpg) | (진짜 하루만에 이해하는) 해운·조선 산업 | 김성훈 | 서울 : 티더블유아이지, 2025 | 387.5 김54해 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33496/65/cover/k982938455_1.jpg) | (진짜 하루만에 이해하는) 정유·석유화학 산업 | 배진영 | 서울 : 티더블유아이지, 2024 | 338.476655 배78정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30927/39/cover/k912831297_2.jpg) | (진짜 하루만에 이해하는) 반도체 산업 : 원데이클래스 | 박진성 | 서울 : 티더블유아이지, 2023 | 621.38152 박78반 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/20329/93/cover/8931011628_1.jpg) | 사랑의 기술 | Fromm, Erich | 서울 : 문예, 2019(2025 24쇄) | 152.4 F932aK황5 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22453/14/cover/k302636420_1.jpg) | 증언들 | Atwood, Margaret | 서울 : 황금가지, 2020 | 823.914 A887tK김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/92791016-deaa-4df2-a622-132266816697) | 바깥은 여름 : 김애란 소설 | 김애란 | 파주 : 문학동네, 2017(2025 50쇄) | 811.37 김63바 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/d5f1ae2a-8c65-469c-b10e-73193436ffa6) | 종의 기원 : 정유정 장편소설 | 정유정 | 서울 : 은행나무, 2016(2026 79쇄) | 811.37 정66종 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/83deddef-a776-44f7-8ecc-26e675ae5eeb) | 안티프래질 : 불확실성과 충격을 성장으로 이끄는 힘 | Taleb, Nassim Nicholas | 서울 : 와이즈베리 : 미래엔, 2013(2026 19쇄) | 155.24 T143aK안 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38/90/cover/893746070x_3.jpg) | 체호프 단편선 | Chekhov, A. P | 서울 : 민음사, 2002(2026 72쇄) | 808.8 세148민 v.70, 808.8 세148민v.70 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The louvre and versailles : the evolution of the proto-typical palace in the age of absolutism | Tadgell, Christopher | London : Routledge, 2020. | 728.82 T121L | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38873/2/cover200/k282137108_1.jpg) | 클라우드 애플리케이션 아키텍처 패턴 : 레거시 현대화와 클라우드 네이티브 전환을 위한 70가지 실무 전략 | Brown, Kyle | 서울 : 한빛미디어, 2026 | 004.6782 B878cK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38992/45/cover200/k012137124_1.jpg) | 마오타이 | 오효파 | 파주 : 싱긋 : 교유당, 2026 | 338.476635 오95모K홍 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Working nature : a history of the energy economy | Russ, Daniela | London : Verso, 2026. | 333.7909 R958w | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The cultural Marxism conspiracy : why the right blames the Frankfurt school for the decline of the west | Woods, A. J. A | New York : Verso, 2026. | 320.52 W894c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sorting out the mixed economy : the rise and fall of welfare and developmental states in the Americas | Offner, Amy C | Princeton | 330.98 O32s | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39164/96/cover200/k162138964_2.jpg) | 심리학은 어떻게 삶의 무기가 되는가 : 나를 지키고 원하는 것을 얻는 마음의 법칙 84 | 한소원 | 서울 : 스몰빅라이프 : 스몰빅미디어, 2026 | 150.1 한55심 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Shared wisdom : cultural evolution in the age of AI | Pentland, Alex | Cambridge, Massachusetts : The MIT Press, 2025. | 303.4834 P419s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Unwitting street | Krzhizhanovskiĭ, Sigizmund | New York : New York Review Books, 2020. | 891.7342 K94nEt | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Memories of the future | Krzhizhanovskiĭ, Sigizmund | New York : New York Review Books, 2009. | 891.7342 K94vEtn | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The return of Munchausen | Krzhizhanovskiĭ, Sigizmund | New York : New York Review Books, 2017. | 891.7342 K94vEt | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Autobiography of a corpse | Krzhizhanovskiĭ, Sigizmund | New York : New York Review Books, 2013. | 891.734 K94aEt | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Outline of a Theory of Practice | Bourdieu, Pierre | Cambridge : Cambridge University Press, 1977. | 306.01 B769o | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Doing gender in media, art, and culture : a contemporary guide to gender studies | Buikema, Rosemarie | London : Routledge, 2026. | 305.4201 B932d3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The cultural study of music : a critical introduction | Clayton, Martin | New York : Routledge2012. | 306.4842 C622c2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Spanische Geschichte : vom 15. Jahrhundert bis zur Gegenwart | Bernecker, Walther L | München : C.H. Beck, 2020 | 946 B525s | 중앙도서관 |
