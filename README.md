@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 歌曲源流 : 異本 七種 | 박효관 | 서울 : 학자원, 2017 | 811.15 박95가 v.1~3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26681/83/cover200/k852730989_1.jpg) | 조선후기 가곡원류 계열 가집의 전개 | 강경호 | 파주 : 보고사, 2021 | 811.1509 강14조 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Compassion in the court : life-changing stories from America's nicest judge | Caprio, Frank | Dallas : BenBella Books, Inc., 2025. | 340.02 C253c | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38560/95/cover200/k482135955_1.jpg) | 심플하게 산다 | Loreau, Dominique | 서울 : 바다, 2026 | 179.7 L868aK김3 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35275/64/cover200/8999732738_1.jpg) | 통합적 성(性)과 커플 치료 : 근거중심 기반 다학제적 커플 성치료 | Nelson, Tammy | 서울 : 학지사, 2024 | 616.891562 N431iK최 | 중앙도서관 |
@@ -24,6 +26,7 @@
 | ![](https://image.aladin.co.kr/product/39033/15/cover200/k992137042_1.jpg) | AI 교양 수업 : 비전공자, 직장인, 개발자 모두가 알아야 할 AI 리터러시 | 최윤철 | 파주 : 생능북스 : 생능, 2026 | 006.3 최66a | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38548/19/cover200/8940650557_1.jpg) | 한번보고 만드는 AI가 코딩해주는 파이썬 | 류태선 | 서울 : IMK : 크라운, 2026 | 005.133 한44류 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39028/27/cover200/k352137742_1.jpg) | (돈이 되네? 수익과 성장이 동시에 터지는) 네이버 블로그 : 왕초보도 따라만 하면 월급 외 수익이 통장에 꽂힌다! | 정소희 | 서울 : 골든래빗, 2026 | 658.872 정55네 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39128/60/cover200/k552137457_1.jpg) | 애플, 파괴적 혁신의 시작 : 세상을 뒤바꾼 개인용 컴퓨터와 소프트웨어 혁명, 그 뜻밖의 순간들 | Nooney, Laine | 안양 : 책만, 2026 | 005.265 N817aK오 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39063/59/cover200/k842137750_1.jpg) | 그림으로 이해하는 AWS 구조와 기술 | 소립원종고 | 서울 : 길벗, 2026 | 006.78 소298a2K성 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39090/77/cover200/k722137052_1.jpg) | (커서 X 클로드 코드 실전) 외주 돈 벌기 : 인공지능 코딩, 부업, 수익화, 파이프 라인, 파이썬, 매크로, 엑셀 자동화, 깃허브, 웹 크롤링, API 연동, 커서 룰, CLAUDE.md, 크몽 생존 전략, 견적 산정, 고객 응대 기술 누적 수익 5천! 비전공자 40대 차장의 AI 외주 개발 진짜 노하우 | 불혹코딩 | 서울 : 골든래빗, 2026 | 006.3 불95외 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38993/5/cover200/k902137125_1.jpg) | n8n이 다 해줌 : 뉴스 요약부터 투자 리포트까지 코드 없이 만드는 AI 자동화 워크플로우 | 이인영 | 서울 : 한빛미디어, 2026 | 006.3 이68n | 중앙도서관 |
@@ -31,24 +34,21 @@
 | ![](https://image.aladin.co.kr/product/39063/63/cover200/k902137751_1.jpg) | (된다!) AI 디자인 2026 : 이미지 생성부터 AI 그림, 영상까지! | 김희재 | 서울 : 이지스, 2026 | 006.3 김97a | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39063/74/cover200/k312137751_1.jpg) | 소프트웨어 설계의 결합 균형 : 균형 잡힌 커플링으로 복잡한 시스템을 견고하게 만드는 모듈형 설계 원칙 | Khononov, Vladik | 파주 : 제이펍, 2026 | 005.12 K45bK장 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39066/67/cover200/k342137757_1.jpg) | 그림으로 배우는 생성형 AI : 생성형 AI의 구조와 동작 방식 이해부터 애플리케이션 설계와 에이전트까지 | Vergadia, Priyanka | 서울 : 한빛미디어, 2026 | 006.3 V493vK류 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39128/88/cover200/k052137559_1.jpg) | 백엔드 개발자 온보딩 가이드 : 취업 준비부터 첫 실무 설계까지, 신입 백엔드 개발자의 현실 적응 매뉴얼 | 이준형 | 서울 : 한빛미디어, 2026 | 005.1 이76백 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 클로드 코드 마스터 : 기획·개발·운영이 한 번에 끝나는 AI 에이전틱 코딩 워크플로 | 이남희 | 서울 : 한빛미디어, 2026 | 006.3 이192클 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38941/64/cover200/k482137019_1.jpg) | 클로드와 함께하는 LLM 프로젝트 | 이승우 | 파주 : 제이펍, 2026 | 006.3 이57클 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39118/14/cover200/k682137353_1.jpg) | 에이전트 시대의 AI 시스템 설계 : RAG, 최적화, 가드레일로 완성하는 32가지 프로덕션 패턴 | Lakshmanan, Valliappa | 서울 : 한빛미디어, 2026 | 006.3 L192gK류 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39291/82/cover200/k812138601_1.jpg) | 한 여성 살인범의 초상 : 그녀는 어떻게 어머니, 시어머니, 그리고 남편을 살해했는가 | 호모정 | 파주 : 글항아리, 2026 | 364.1523092 호35일K김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 지구의 질문 : 기후 위기 과학을 넘어 삶의 문제로 | 공우석 | 서울 : 드레북스, 2026 | 363.7 공66지 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38993/60/cover200/k282137126_1.jpg) | 로마법, 인류 문명의 위대한 유산 : 법학의 뿌리를 찾는 서울대 로스쿨 핵심 강의 | 이상훈 | 파주 : 21세기북스 : 북이십일 21세기북스, 2026 | 340.54 이52로 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 조란 맘다니 | Hamm, Theodore | 고양 : 예미, 2026 | 328.73092 H224mK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 백슬라이더 : 민주주의를 훼손하는 정치 지도자들 | Stokes, Susan Carol | 서울 : 에코리브르, 2026 | 321.8 S874bK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38788/61/cover200/8946076364_1.jpg) | 지체된 혁명 : 일, 가족, 조직에서의 젠더 불평등 | 김수한 | 파주 : 한울아카데미 : 한울엠플러스, 2026 | 305.4 김56지 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 리셋 마인드셋 : 흔들리는 순간, 다시 선택하는 힘 | Zenker, Penny | 파주 : 베누스, 2026 | 650.1 Z54rK안 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39065/87/cover200/k402137753_1.jpg) | (대화가 서툰) 어른을 위한 말하기 수업 | 보이스무드 | 서울 : 비즈니스북스, 2026 | 808.56 보68어 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39135/91/cover200/k662137653_1.jpg) | 질문의 밀도 : 대화가 깊어지고 관계가 단단해지는 소통의 기술 7 | 김윤나 | 파주 : 21세기북스 : 북이십일 21세기북스, 2026 | 808.56 김66질 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39068/78/cover200/k582137851_1.jpg) | 문제 해결의 전략, 알고리즘 | 한옥영 | 서울 : 성균관대학교 출판부, 2026 | 005.1 한65문 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39093/55/cover200/k282137153_1.jpg) | 독자 되는 법 : 안 읽는 사람에서 읽는 사람으로 | 한소범 | 파주 : 유유, 2026 | 028.9 한55독 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (단번에 개념이 잡히고 한눈에 흐름이 보이는) 최소한의 서양철학사 | Kleinman, Paul | 서울 : 현대지성, 2026 | 100 K64pK이3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39128/59/cover200/893247611x_1.jpg) | 러셀의 인생 수업 : 세기의 지성이 건네는 24가지 지혜 | 성기철 | 서울 : 을유문화사, 2026 | 190 R961성 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39118/93/cover200/k452137355_1.jpg) | 인생의 오후에는 잃어야 얻는다 : 흔들리는 영혼을 위한 카를 융의 말 | Jung, C. G | 서울 : 더퀘스트 : 길벗, 2026 | 150.1954 J95인K변 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39036/94/cover200/k352137140_1.jpg) | AI시대, 스토리텔링의 재탄생 : 호모 프롬프트의 시대, 스토리텔링의 문법이 바뀐다! | 김태원 | 파주 : 파람북, 2026 | 808.543 김883a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39120/34/cover200/8999735087_2.jpg) | (심리상담에서의) 주기적 결과 모니터링과 피드백 | De Jong, Kim | 서울 : 학지사, 2026 | 616.8914 D327rK연 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39128/73/cover200/k512137558_1.jpg) | 중독을 통제할 수 있다는 착각 : 숏폼, 데이팅 앱, 초가공식품은 나의 뇌를 어떻게 점령했는가 | Brendborg, Nicklas | 서울 : 위즈덤하우스, 2026 | 616.86 B837vK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38963/62/cover200/k712137410_1.jpg) | 뇌 속의 사회 | 최진영 | 서울 : 사회평론아카데미, 2026 | 155.67 뇌55최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39244/75/cover200/k782138107_2.jpg) | (품격 있는 대화를 위한) 지식 브리핑 | 김진 | [서울] : 북플레저 : 책 읽어주는 남자, 2026 | 001.3 김78지북 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39170/88/cover200/8932045275_1.jpg) | 숭고의 주름 : 우찬제 비평집 | 우찬제 | 서울 : 문학과지성사, 2026 | 811.09 우82숭 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39058/22/cover200/k232137644_1.jpg) | 폭력 : 6가지 우회적 성찰 | Žižek, Slavoj | 서울 : 21세기문화원, 2026 | 303.6 Z82vK이2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38989/61/cover200/k732137415_1.jpg) | 커피 철학과 과학 | 굴구준영 | [서울] : 황소자리, 2026 | 641.3373 굴16가K윤황 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38989/57/cover200/8940807057_1.jpg) | 진정성 있는 도슨트 스피치 : 미술관·박물관 전시해설 전달과 대화법 | 박은주 | 서울 : 미진사, 2026 | 808.5 박67진 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39092/14/cover200/8967215819_1.jpg) | 귀 열어, 클래식 들어간다 | 서영재 | 서울 : 삼호ETM, 2026 | 780.15 서64귀 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39023/54/cover200/k992137637_1.jpg) | 로고 디자인의 원칙 : 가장 완벽한 아이덴티티 디자인 가이드 | Bokhua, George | 서울 : 유엑스리뷰, 2026 | 741.6 B686pK현 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39065/93/cover200/k972137754_1.jpg) | 나만의 목소리로 sing : 세계적인 보컬 코치가 전하는 브로드웨이 보컬 레슨 10 | Setrakian, Mary | 서울 : 센시오, 2026 | 783.043 S495sK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39067/97/cover200/8959068292_1.jpg) | 한국 현대사 산책 : 1970년대편 | 강준만 | 서울 : 인물과사상사, 2026 | 951.7 강76한2 1970 v.1~3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39077/27/cover200/k322137856_1.jpg) | 일제강점기 질병과 치료 : 생활일기를 중심으로 | 손경희 | 서울 : 선인, 2026 | 614.40951 손14일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39104/31/cover200/k032137256_1.jpg) | 토머스 제퍼슨 : 미국 민주주의의 토대를 세운 건국의 아버지 | Meacham, Jon | 파주 : 21세기북스 : 북이십일 21세기북스, 2026 | 973.46092 M479tK원 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39104/55/cover200/k782137256_1.jpg) | 이별이 올 때 봄도 오는 겁니다 : 이원하 시집 | 이원하 | 파주 : 문학동네, 2026 | 811.17 이66이 | 중앙도서관 |
