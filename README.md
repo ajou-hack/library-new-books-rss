@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38793/27/cover200/8995776269_1.jpg) | 주석중재법 | 이호원 | 서울 : 대한상사중재원 : 한국중재학회, 2025 | 347.09 이95주2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37111/87/cover200/k902030353_1.jpg) | 민법학원론 | 명순구 | 서울 : 박영사, 2025 | 346 명56민박5 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35871/97/cover200/8944505934_1.jpg) | 대외무역법의 이해와 적용 | 이지수 | 서울 : 三英社, 2025 | 343.087 이78대2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35983/74/cover200/891891590x_1.jpg) | 형법총론 | 이형국 | 파주 : 法文社, 2025 | 345 이94형8 | 법학도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/39352/28/cover200/k262138534_2.jpg) | AI격차 : 같은 도구로 다른 결과를 내는 사람들의 비밀 | 강협 | 서울 : 도서담, 2026 | 650.1 A311강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39243/83/cover200/k902138105_1.jpg) | 국가론 | Cicero, Marcus Tullius | 파주 : 아카넷, 2026 | 320.01 C568rK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38802/56/cover200/k192137888_1.jpg) | 물리 이론의 목적과 구조 | Duhem, Pierre Maurice Marie | 파주 : 아카넷, 2026 | 530.1 D871t2K이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39028/42/cover200/k652137742_1.jpg) | 경전의 탄생 : 신의 목소리와 인간의 응답 | Armstrong, Karen | 서울 : 교양인, 2026 | 208.2 A736LK정 | 중앙도서관 |
