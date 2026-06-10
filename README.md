@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38956/31/cover200/897012957x_3.jpg) | DMZ 콜로니 | Choi, Don Mee | 서울 : 문학사상, 2026 | 821.92 C545dK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38793/27/cover200/8995776269_1.jpg) | 주석중재법 | 이호원 | 서울 : 대한상사중재원 : 한국중재학회, 2025 | 347.09 이95주2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37111/87/cover200/k902030353_1.jpg) | 민법학원론 | 명순구 | 서울 : 박영사, 2025 | 346 명56민박5 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35871/97/cover200/8944505934_1.jpg) | 대외무역법의 이해와 적용 | 이지수 | 서울 : 三英社, 2025 | 343.087 이78대2 | 법학도서관 |
@@ -18,6 +19,21 @@
 | ![](https://image.aladin.co.kr/product/38534/87/cover200/k142135236_1.jpg) | 보험업법 | 한기정 | 서울 : 박영사, 2026 | 346.086 한18보업2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37324/7/cover200/k902031951_1.jpg) | 차세대 전자소송 한방에 정리하기 | 문건일 | 서울 : 법률신문사, 2025 | 347.05 문14차 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35979/20/cover200/k222037906_1.jpg) | 민사법실무강의 | 이계정 | 서울 : 박영사, 2025 | 346 이14민 2025 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/39301/83/cover200/8925572842_1.jpg) | 권력과 통치 : 누가 세계 경제를 지배하는가 | Daunton, M. J | 서울 : 알에이치코리아, 2026 | 330.904 D242eK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39351/90/cover200/k682138533_1.jpg) | 엄마의 마음 : 사랑해서 더 미안했던 날들 | 김종원 | [파주] : 퍼스트펭귄, 2026 | 158.1 김75엄 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31008/24/cover200/k652831318_1.jpg) | 암캐 | Quintana, Pilar | 서울 : goat, 2023 | 863.7 Q7pK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39299/78/cover200/k242138719_1.jpg) | 마이클 잭슨의 말 | 최훈 | 용인 : 유나, 2026 | 782.42166092 J13마 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39378/16/cover200/k812139774_1.jpg) | AI 이해력 : 우리가 질문하면 AI는 어떻게 답을 하는가? | 박민경 | 서울 : 로드북, 2026 | 006.3 박38a | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2480/82/cover200/8966805159_2.jpg) | 마르크스주의와 문학 | Williams, Raymond | 서울 : 지식을만드는지식 : 커뮤니케이션북스, 2013 | 335.43 W726mK박지 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39153/34/cover200/k062138867_1.jpg) | 인간을 인간답게 만드는 불완전함에 대하여 | Harford, Tim | [서울] : 윌마, 2026 | 153.35 H278mK윤윌 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33493/85/cover200/k552938450_1.jpg) | (한 권으로 끝내는) 이미지 생성 AI : with 미드저니 | 헤더림 | 서울 : 한빛미디어, 2024 | 006.3 헤24이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35093/36/cover200/k452934599_1.jpg) | AI 영화 제작 : 제작비 부담 no, 3일 만에 완성! 광고, 게임부터 3D 애니메이션까지 | 민지영 | 서울 : 길벗, 2024 | 791.430285 A311민 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35311/60/cover200/k492035274_1.jpg) | (7가지 생성 AI로) 영상 제작&편집하기 : with 챗GPT&미드저니&런웨이 | 홍순성 | 서울 : 한빛미디어, 2024 | 006.3 홍56영 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38648/65/cover200/k162136513_1.jpg) | 목란언니 : 김은성 희곡집 | 김은성 | 서울 : 연극과인간, 2012(2019 5쇄) | 811.27 김67목 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26964/45/cover200/k252730414_1.jpg) | 액트리스원 : 국민로봇배우 1호 | 정진새 | 서울 : 이음, 2021 | 811.27 정78액 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25429/74/cover200/k402633410_1.jpg) | 왕서개 이야기 | 김도영 | 서울 : 이음, 2020 | 811.27 김25왕 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36260/55/cover200/k662038738_1.jpg) | 붉은 낙엽 | Cook, Thomas H | 서울 : 김호준, 2025 | 822.914 C771붉2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/20516/44/cover200/k732635551_1.jpg) | 미친 극 | 최치언 | 서울 : 지만지드라마, 2019 | 811.27 최86미 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37772/35/cover200/k862033569_1.jpg) | 민법개론 | 김준호 | 고양 : 자운, 2026 | 346 김76민자3 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38770/66/cover200/k202137965_1.jpg) | 민법총칙 | 이재열 | 서울 : 집현재, 2026 | 346 이73민4 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38849/75/cover200/8928522226_1.jpg) | 영장주의의 중국 도입에 관한 연구 : 인신구속을 중심으로 | 조설연 | 서울 : 민속원, 2026 | 340.05 조54영 | 법학도서관 |
@@ -36,19 +52,3 @@
 | ![](https://image.aladin.co.kr/product/38788/6/cover200/k862137169_1.jpg) | 로스쿨 국제법 : 이론과 사례 | 김성원 | 서울 : 박영사, 2026 | 341.076 국74김 2026 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38578/34/cover200/k892135159_1.jpg) | M&A 계약의 해부 : 주식매매계약서 및 주주간계약서의 작성 방법과 유의사항 | 김성민 | 서울 : 박영사, 2026 | 658.16 김54m2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35364/46/cover200/8918915721_1.jpg) | 특허의 이해 | 윤선희 | 파주 : 法文社, 2025 | 346.0486 윤54특법6 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38655/96/cover200/8949969165_1.jpg) | 난민의 사회경제적 권리에 관한 연구 | 송수정 | 파주 : 경인문화사, 2026 | 325.21 송56난 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38385/21/cover200/k632135465_1.jpg) | 전기통신사업법과 전파법 | 신종철 | 서울 : 박영사, 2026 | 343.0994 신75전 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37538/38/cover200/k102032027_1.jpg) | (성범죄변호사의) 억울하거나 과한 처벌, 막는 법 | 김현태 | 서울 : 바른북스, 2025 | 345.0253 김94억 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37901/33/cover200/k962033735_1.jpg) | (교통사고변호사의) 억울하거나 과한 처벌, 막는 법 | 김현태 | 서울 : 바른북스, 2025 | 346.0322 김94억 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38832/23/cover200/k072137286_1.jpg) | (2026) 세법개론 | 이철재 | 서울 : 리즈북스, 2026 | 343.04 이83세리2 v.1~2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/7116/49/cover200/8958643153_1.jpg) | 상소와 비답 : 신하가 묻고 왕이 답하다 | 윤재환 | 고양 : 이가서, 2015 | 951.5 윤73상 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39376/13/cover200/k932139770_2.jpg) | 모네, 빛의 순간들 : 100개의 대표작으로 만나는 클로드 모네의 모든 것 | 박송이 | 서울 : 빅피시, 2026 | 759.4 M742박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/3034/82/cover200/8999701662_1.jpg) | (채박사의) 중독 따라잡기 | 채규만 | 서울 : 학지사, 2013(2019 2쇄) | 616.86 중25채 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/14071/68/cover200/8999714098_1.jpg) | 성행동 심리학 | 채규만 | 서울 : 학지사, 2018(2025 4쇄) | 155.3 채16성2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38895/53/cover200/k602137608_1.jpg) | 내면 근력 : 결국 멘탈 게임이다 | Murphy, Jim | 서울 : 윌북, 2026 | 650.1 M978iK지 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33798/98/cover200/k302930578_1.jpg) | 얼굴이 바뀌면 좋은 운이 온다 : 부와 성공을 부르는 얼굴의 비밀 | 김승호 | 서울 : 쌤앤파커스, 2024 | 138 김57얼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36891/92/cover200/k492030813_1.jpg) | 과학이 주목하는 죽음 이후의 일들 : 사후 세계와 윤회에 대한 물리학적 고찰 | 김성구 | 서울 : 불광, 2025 | 294.34 김54과 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38952/34/cover200/8957469168_1.jpg) | (상대성이론과 양자역학으로 풀어본) 반야심경 : 현대과학을 통해 본 공과 중도 | 김성구 | 서울 : 운주사, 2026 | 294.382 김54반 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39352/28/cover200/k262138534_2.jpg) | AI격차 : 같은 도구로 다른 결과를 내는 사람들의 비밀 | 강협 | 서울 : 도서담, 2026 | 650.1 A311강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39243/83/cover200/k902138105_1.jpg) | 국가론 | Cicero, Marcus Tullius | 파주 : 아카넷, 2026 | 320.01 C568rK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38802/56/cover200/k192137888_1.jpg) | 물리 이론의 목적과 구조 | Duhem, Pierre Maurice Marie | 파주 : 아카넷, 2026 | 530.1 D871t2K이 | 중앙도서관 |
