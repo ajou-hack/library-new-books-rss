@@ -2,7 +2,29 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/39420/99/cover200/k722139295_1.jpg) | 나를 살린 청춘 고전 | 정지우 | [서울] : 해결책, 2026 | 028.1 정78고2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3498/69/cover200/8960177768_1.jpg) | 오리엔트 특급 살인 : 애거서 크리스티 장편소설 | Christie, Agatha | 서울 : 황금가지, 2013(2025 30쇄) | 823.912 C555mK신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3498/79/cover200/8960177849_1.jpg) | ABC 살인 사건 : 애거서 크리스티 장편소설 | Christie, Agatha | 서울 : 황금가지, 2013(2025 19쇄) | 823.912 C555aK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39311/18/cover200/8925569345_1.jpg) | 나에게 가장 엄격한 사람 : 증명하려 애쓰는 삶에서, 나를 믿는 삶으로 | Morton, Kati | 서울 : 알에이치코리아, 2026 | 158.1 M889wK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27767/62/cover200/8936811835_1.jpg) | 동네 철공소, 벤츠에 납품하다 : 자동차 부품 기업 센트랄의 70년 성장 스토리 | 김태훈 | 파주 : 청아, 2021 | 338.76292 김883동 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36045/72/cover200/k492037949_1.jpg) | (우리가 사랑한 빵집) 성심당 | 김태훈 | 통영 : 남해의봄날, 2025 | 664.752068 김883성2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/9183/94/cover200/8983926252_1.jpg) | 인페르노 : 스페셜 일러스트 에디션 | Brown, Dan | 파주 : 문학수첩, 2016 | 823.914 B877iK안스 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38660/9/cover200/8932638810_1.jpg) | Disney Jazz : original ver | 지민도로시 | 파주 : 삼호뮤직, 2026 | 786.2 지38d | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38565/63/cover200/k342135054_1.jpg) | 오리진 | Brown, Dan | 파주 : 문학수첩, 2026 | 813.54 B877oK안2 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39223/38/cover200/k502138985_1.jpg) | 부서진 마음들의 마을 : 우리는 각자의 지옥을 품고, 서로의 구원을 꿈꾼다 | Ryan, Donal | 서울 : 필름, 2026 | 823.92 R988hK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39165/38/cover200/k372138069_1.jpg) | 연월일 | 염연과 | 파주 : 북다 : 교보문고, 2026 | 812.37 염64연K김북 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36731/58/cover200/8972995851_1.jpg) | 엄마가 절대 모르는 아들의 사춘기 : 아들은 소년에서 남자로 성장하는 과정! | 박형란 | 고양 : 미래문화사, 2025 | 649.132 박94엄2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32656/68/cover200/k672936869_2.jpg) | 좋은 문화행정이란 무엇인가 : 예술인·기획인·행정인 부족의 가치충돌 | 장석류 | 서울 : 사과나무미디어, 2023 | 353.7 장54좋 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24627/92/cover200/k032631684_1.jpg) | 마이클 잭슨 : 그의 인생과 음악 | Lecocq, Richard | 서울 : 북피엔스, 2020 | 782.42166092 J13mK유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39266/29/cover200/k592138503_2.jpg) | Moonwalk | Jackson, Michael | 서울 : 미르북컴퍼니, 2026 | 782.42166092 J13mK공 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/12851/68/cover200/8932473684_1.jpg) | (2018) 해외 한국학 백서 | 한국국제교류재단 | 서울 : 을유문화사, 2018 | 951 한16해 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28414/48/cover200/k502835113_1.jpg) | 시작하세요! Final Cut Pro 10.6 : 빠르크의 3분 강좌와 함께하는 파이널 컷 프로 유튜브 영상 제작 | 박경인 | 파주 : 위키북스, 2021 | 778.593 박14시 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2573/33/cover200/8957864520_1.jpg) | 1동 28번지, 차숙이네 : 최진아 희곡집 | 최진아 | 서울 : 연극과인간, 2013 | 811.27 최781 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38956/31/cover200/897012957x_3.jpg) | DMZ 콜로니 | Choi, Don Mee | 서울 : 문학사상, 2026 | 821.92 C545dK정 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Safety risk management for medical devices | Ilāhī, Bīzhan | London : Academic Press, 2022. | 610.28 I27s2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 고대 중국의 과학기술과 사상 | 전흥신 | 성남 : 수천명미디어, 2023 | 509.52 전97고 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 공업열역학 | 전흥신 | 서울 : 수천명미디어, 2026 | 621.4021 전97공 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 자동차 공학 | 전흥신 | 성남 : 수천명미디어 ; 2012 | 629.2 전97자 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38793/27/cover200/8995776269_1.jpg) | 주석중재법 | 이호원 | 서울 : 대한상사중재원 : 한국중재학회, 2025 | 347.09 이95주2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37111/87/cover200/k902030353_1.jpg) | 민법학원론 | 명순구 | 서울 : 박영사, 2025 | 346 명56민박5 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/35871/97/cover200/8944505934_1.jpg) | 대외무역법의 이해와 적용 | 이지수 | 서울 : 三英社, 2025 | 343.087 이78대2 | 법학도서관 |
@@ -30,25 +52,3 @@
 | ![](https://image.aladin.co.kr/product/35093/36/cover200/k452934599_1.jpg) | AI 영화 제작 : 제작비 부담 no, 3일 만에 완성! 광고, 게임부터 3D 애니메이션까지 | 민지영 | 서울 : 길벗, 2024 | 791.430285 A311민 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35311/60/cover200/k492035274_1.jpg) | (7가지 생성 AI로) 영상 제작&편집하기 : with 챗GPT&미드저니&런웨이 | 홍순성 | 서울 : 한빛미디어, 2024 | 006.3 홍56영 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38648/65/cover200/k162136513_1.jpg) | 목란언니 : 김은성 희곡집 | 김은성 | 서울 : 연극과인간, 2012(2019 5쇄) | 811.27 김67목 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26964/45/cover200/k252730414_1.jpg) | 액트리스원 : 국민로봇배우 1호 | 정진새 | 서울 : 이음, 2021 | 811.27 정78액 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25429/74/cover200/k402633410_1.jpg) | 왕서개 이야기 | 김도영 | 서울 : 이음, 2020 | 811.27 김25왕 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36260/55/cover200/k662038738_1.jpg) | 붉은 낙엽 | Cook, Thomas H | 서울 : 김호준, 2025 | 822.914 C771붉2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/20516/44/cover200/k732635551_1.jpg) | 미친 극 | 최치언 | 서울 : 지만지드라마, 2019 | 811.27 최86미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37772/35/cover200/k862033569_1.jpg) | 민법개론 | 김준호 | 고양 : 자운, 2026 | 346 김76민자3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38770/66/cover200/k202137965_1.jpg) | 민법총칙 | 이재열 | 서울 : 집현재, 2026 | 346 이73민4 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38849/75/cover200/8928522226_1.jpg) | 영장주의의 중국 도입에 관한 연구 : 인신구속을 중심으로 | 조설연 | 서울 : 민속원, 2026 | 340.05 조54영 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37087/56/cover200/8918916191_1.jpg) | 刑法總論 | 임웅 | 파주 : 法文社, 2025 | 345 임66형총18 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37138/6/cover200/k972031374_1.jpg) | 형법총론 | 김성돈 | 서울 : 박영사, 2025 | 345 김54형총10 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38695/7/cover200/k532136722_1.jpg) | (법령과 판례를 통해 읽는) 교양 헌법 | 홍완식 | 고양 : 피앤씨미디어, 2026 | 342 홍65교2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/35567/55/cover200/k052036376_1.jpg) | (대한민국) 헌법강의 | 이효원 | 서울 : 박영사, 2025 | 342 이95헌강2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/35868/94/cover200/k812037672_1.jpg) | 헌법 교과서 | 조재현 | 서울 : 새흐름, 2025 | 342 조73헌 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38388/66/cover200/k122135562_1.jpg) | (민사·형사) 소송 119 : 누구든지 할 수 있는 소송의 길잡이 | 한병호 | 서울 : 중앙법률사무교육원, 2026 | 347 한44소15 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38361/5/cover200/k732135360_1.jpg) | (로스쿨 준비를 위한) 흥미로운 공법판례 | 김성수 | 서울 : 박영사, 2026 | 342 김54흥 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37835/63/cover200/k622033696_1.jpg) | 항공보안법 : 항공보안감독관이 집필한 21세기 항공보안 전문가를 위한 필독서 | 박만희 | 고양 : 정독, 2026 | 343.097 박32항 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38596/51/cover200/k902136371_1.jpg) | 거의 모든 법 : 시민들을 위한 법 안내서 | Wesel, Uwe | 서울 : 푸블리우스, 2026 | 349.43 W511f10K이 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36466/43/cover200/k932039817_1.jpg) | 수용자를 위한 감옥법령집 | 4·9통일평화재단 | 서울 : 경계, 2025 | 344.0356 수65천3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37172/31/cover200/k482031678_1.jpg) | (로스쿨) 새로운 형법총론 | 손동권 | 고양 : 피앤씨미디어, 2025 | 345 손25새 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36867/76/cover200/k872030505_1.jpg) | (The 깊게 읽는,) 법으로 읽는 유럽사 : 법을 통해 읽는 서양사, 그동안 놓쳤던 중요한 설명의 고리들을 찾아내다 | 한동일 | 서울 : 박영사, 2025 | 340.094 한25법2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38788/6/cover200/k862137169_1.jpg) | 로스쿨 국제법 : 이론과 사례 | 김성원 | 서울 : 박영사, 2026 | 341.076 국74김 2026 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38578/34/cover200/k892135159_1.jpg) | M&A 계약의 해부 : 주식매매계약서 및 주주간계약서의 작성 방법과 유의사항 | 김성민 | 서울 : 박영사, 2026 | 658.16 김54m2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35364/46/cover200/8918915721_1.jpg) | 특허의 이해 | 윤선희 | 파주 : 法文社, 2025 | 346.0486 윤54특법6 | 법학도서관 |
