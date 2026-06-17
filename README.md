@@ -2,6 +2,18 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38343/76/cover200/8999735893_1.jpg) | 남성심리학 : 남성, 남성성, 젠더에 대한 심리학 연구 | Addis, Michael E | 서울 : 학지사, 2026 | 155.332 A224pK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3905/49/cover200/6000717015_1.jpg) | 스토리텔링의 이론, 영화와 디지털을 만나다 | Ryan, Marie-Laure | 파주 : 한울아카데미 : 한울, 2014 | 808.543 N234rK조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39332/65/cover200/8936481304_1.jpg) | 우리가 지금까지 나눈 대화를 분석해줘 | 청예 | 파주 : 창비, 2026 | 811.8708 우298김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37144/63/cover200/899973501x_1.jpg) | 진로상담의 이론과 실제 | 김봉환 | 서울 : 학지사, 2025 | 371.425 김45진2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38733/37/cover200/k702136944_1.jpg) | 진로진학상담 기법의 이론과 실제 | 임은미 | 서울 : 사회평론아카데미, 2026 | 371.425 진295임2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38733/44/cover200/k812136944_1.jpg) | 직업세계와 직업정보 탐색 | 김영빈 | 서울 : 사회평론아카데미, 2026 | 371.425 직64김사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38834/99/cover200/8999736431_1.jpg) | 진로 및 직업상담 | 김경은 | 서울 : 학지사, 2026 | 331.702 진295김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38874/21/cover200/8999736911_1.jpg) | 상담 및 임상 현장에서 바로 쓰는 147가지 실천 활동 | Schroeder, Wilma | 서울 : 학지사, 2026 | 616.8914 S381cK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/21011/66/cover200/8999719456_1.jpg) | (Smart map) 부모역할 훈련 프로그램 | 천성문 | 서울 : 학지사, 2019 | 649.1 부35천 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35948/21/cover200/8999733319_1.jpg) | 부모교육 | 정옥분 | 서울 : 학지사, 2025 | 649.1 정65부4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2631/1/cover200/8999701255_1.jpg) | (교사를 위한) 학부모상담 길잡이 | 김혜숙 | 서울 : 학지사, 2013(2022 5쇄) | 371.103 김94학 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36281/19/cover200/k552038038_1.jpg) | 국제통상법 : WTO규범·FTA원산지규정·관세통관법규 | 김용태 | 서울 : 두남, 2025 | 343.087 김65국 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/39355/36/cover200/k122138631_1.jpg) | 부동산 펀드매니저인데 집은 없고요 주식으로 파이어했습니다 : 월급으로 주식, ETF, 배당주 사 모아 눈덩이 굴리기 | 애플사랑 | 파주 : 사피엔테스, 2026 | 332.6322 애897부 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37539/55/cover200/k392032120_1.jpg) | 니체의 초월자(Übermensch) | Nietzsche, Friedrich Wilhelm | [서울] : 히읏, 2025 | 193 N677uK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37147/5/cover200/k832031472_1.jpg) | 도구라 마구라 : 유메노 규사쿠 장편소설 | 몽야구작 | 서울 : 해밀누리, 2025 | 813.36 몽63도K마 v.1~2 | 중앙도서관 |
@@ -36,19 +48,7 @@
 | ![](https://image.aladin.co.kr/product/29949/98/cover200/k172838040_1.jpg) | 미식 잡학 사전 프랑스 | François-Régis Gaudry & SES amis | 파주 : 시트롱마카롱, 2022 | 641.5944 F825oK강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34827/78/cover200/8928520223_1.jpg) | 조선후기 친족질서 연구 : 大邱 月村 지역을 중심으로 | 주매 | 서울 : 민속원, 2024 | 951.57 주33조 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/48/4/cover200/897327337x_1.gif) | 조선양반의 생활세계 | 문옥표 | 서울 : 백산서당, 2004 | 951.5 조54문 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/776/97/cover200/8991237541_1.jpg) | 태권도(跆拳道) 현대사와 새로운 논쟁들 | 이창후 | 서울 : 상아기획, 2010 | 796.8153 이82태2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35993/52/cover200/k172037613_1.jpg) | 좋은 조직문화란 무엇인가 : 춘천x영도문화도시 인사이트 | 장석류 | 서울 : 사과나무미디어, 2025 | 658.402 장54좋 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39420/99/cover200/k722139295_1.jpg) | 나를 살린 청춘 고전 | 정지우 | [서울] : 해결책, 2026 | 028.1 정78고2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/3498/69/cover200/8960177768_1.jpg) | 오리엔트 특급 살인 : 애거서 크리스티 장편소설 | Christie, Agatha | 서울 : 황금가지, 2013(2025 30쇄) | 823.912 C555mK신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/3498/79/cover200/8960177849_1.jpg) | ABC 살인 사건 : 애거서 크리스티 장편소설 | Christie, Agatha | 서울 : 황금가지, 2013(2025 19쇄) | 823.912 C555aK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39311/18/cover200/8925569345_1.jpg) | 나에게 가장 엄격한 사람 : 증명하려 애쓰는 삶에서, 나를 믿는 삶으로 | Morton, Kati | 서울 : 알에이치코리아, 2026 | 158.1 M889wK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27767/62/cover200/8936811835_1.jpg) | 동네 철공소, 벤츠에 납품하다 : 자동차 부품 기업 센트랄의 70년 성장 스토리 | 김태훈 | 파주 : 청아, 2021 | 338.76292 김883동 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36045/72/cover200/k492037949_1.jpg) | (우리가 사랑한 빵집) 성심당 | 김태훈 | 통영 : 남해의봄날, 2025 | 664.752068 김883성2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/9183/94/cover200/8983926252_1.jpg) | 인페르노 : 스페셜 일러스트 에디션 | Brown, Dan | 파주 : 문학수첩, 2016 | 823.914 B877iK안스 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38660/9/cover200/8932638810_1.jpg) | Disney Jazz : original ver | 지민도로시 | 파주 : 삼호뮤직, 2026 | 786.2 지38d | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38565/63/cover200/k342135054_1.jpg) | 오리진 | Brown, Dan | 파주 : 문학수첩, 2026 | 813.54 B877oK안2 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39223/38/cover200/k502138985_1.jpg) | 부서진 마음들의 마을 : 우리는 각자의 지옥을 품고, 서로의 구원을 꿈꾼다 | Ryan, Donal | 서울 : 필름, 2026 | 823.92 R988hK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39165/38/cover200/k372138069_1.jpg) | 연월일 | 염연과 | 파주 : 북다 : 교보문고, 2026 | 812.37 염64연K김북 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39401/83/cover200/k262139972_1.jpg) | 은둔하는 청년들 : '풍요로운 고립의 시대'에 홀로 남겨진 이들에 관하여 | 강지윤 | 서울 : 은행나무, 2026 | 305.242 강78은 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39375/85/cover200/k542139778_1.jpg) | 왜 여성은 일할수록 불리해질까? : 직장에서 반복되는 네 가지 편견 | Williams, Joan | 파주 : 이콘, 2026 | 650.13082 W724wK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39183/95/cover200/k792138671_1.jpg) | 쪼개기 법칙 : 삶이 가벼워질수록 나는 단단해진다 | 허규형 | 서울 : ORIGINALS : kt 밀리의서재, 2026 | 158.1 허16쪼 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39294/42/cover200/8966265375_1.jpg) | 함수형 설계, 객체 지향과 만나다 : 다르면서 통하는 두 패러다임의 공명 | Martin, Robert C | 서울 : 인사이트, 2026 | 005.114 M382fK장 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39291/82/cover200/k802138601_1.jpg) | (코딩 자율학습) FastAPI 파이썬 백엔드 개발 입문 : 따라 하면서 배우는 친절한 파이썬 웹 개발 | 신동현 | 서울 : 길벗, 2026 | 005.133 신25f | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39117/23/cover200/k202137351_1.jpg) | (이게 되네?) 캔바 AI 미친 활용법 47제 | 이지쌤 | 서울 : 골든래빗, 2026 | 006.686 이78캔 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39225/89/cover200/k902138082_1.jpg) | 매출을 만드는 데이터 분석 with 챗GPT : 복잡한 코딩 없이 AI와 함께하는 실전 데이터 분석 | 조선미 | 서울 : 길벗, 2026 | 006.312 조54매 | 중앙도서관 |
