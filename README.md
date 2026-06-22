@@ -2,6 +2,12 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | PowerScore LSAT reading comprehension bible | Killoran, David M | Dallas, TX : PowerScore LLC, 2026. | 340.076 K48p 2026 v.2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38588/77/cover200/k192136963_1.jpg) | 헌법의 기본원리 | 허완중 | 광주 : 전남대학교출판문화원, 2026 | 342 허65헌전 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Law and geopolitics : global disequilibrium | Ojumu, Femi D | London : Guardian Commercial Press, 2026. | 341.26 O39L | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Abuse, neglect, dependency, and termination of parental rights proceedings in North Carolina | DePasquale, Sara | [Chapel Hill, North Carolina] : UNC School of Government, 2026. | 346.017 D419a 2025 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | What is a family? : law and regulation in a transdisciplinary context | Margaria, Alice | Bristol : Bristol University Press, 2026. | 346.015 M327w | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | PowerScore LSAT logical reasoning bible | Killoran, David M | Dallas, TX : PowerScore LLC, 2026. | 340.076 K48p 2026 v.1 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/39019/26/cover200/k292137639_1.jpg) | AI 시대의 법적 쟁점 | 전병주 | 서울 : 커뮤니케이션북스, 2026 | 343.0999 전44a | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38959/79/cover200/k022137314_1.jpg) | AI와 국제법 | 이주형 | 서울 : 커뮤니케이션북스, 2026 | 341 이76a | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37338/32/cover200/8970323341_1.jpg) | 상법개론 | 정찬형 | 서울 : 법영사, 2025 | 346.07 정82상개19 | 법학도서관 |
@@ -46,9 +52,3 @@
 | ![](https://image.aladin.co.kr/product/2631/1/cover200/8999701255_1.jpg) | (교사를 위한) 학부모상담 길잡이 | 김혜숙 | 서울 : 학지사, 2013(2022 5쇄) | 371.103 김94학 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대법원판례해설 | 대법원 법원행정처 | 서울 : 대법원 법원행정처/법원도서관, 1988- | 348.044 한16대해 v.127/v.128/v.129/v.130/v.131/v.132/v.133/v.134/v.135/v.136/v.137/v.138/v.139/v.140/v.141/v.142/v.143/v.144/v.145/v.146/v.1/v.10/v.100/v.101/v.102/v.103/v.104/v.105/v.106/v.107/v.108/v.109/v.11/v.110/v.111/v.112/v.113/v.114/v.115/v.116/v.117/v.118/v.119/v.12/v.120/v.121/v.122/v.123/v.124/v.125/v.126/v.13/v.14/v.15/v.16/v.17/v.18/v.19-1/v.19-2/v.2/v.20/v.21/v.22/v.23/v.24/v.25/v.26/v.27/v.28/v.29/v.3/v.30/v.31/v.32/v.33/v.34/v.35/v.36/v.37/v.38/v.39/v.4/v.40/v.41/v.42/v.43/v.44/v.45/v.46/v.47/v.48/v.49/v.5/v.50/v.51/v.52/v.53/v.54/v.55/v.56/v.57/v.58/v.59/v.6/v.60/v.61/v.62/v.63/v.64/v.65/v.66/v.67/v.68/v.69/v.7/v.70/v.71/v.72/v.73/v.74/v.75/v.76/v.77/v.78/v.79/v.8/v.80/v.81/v.82/v.83/v.84/v.85/v.86/v.87/v.88/v.89/v.9/v.90/v.91/v.92/v.93/v.94/v.95/v.97/v.98/v.99 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36281/19/cover200/k552038038_1.jpg) | 국제통상법 : WTO규범·FTA원산지규정·관세통관법규 | 김용태 | 서울 : 두남, 2025 | 343.087 김65국 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39355/36/cover200/k122138631_1.jpg) | 부동산 펀드매니저인데 집은 없고요 주식으로 파이어했습니다 : 월급으로 주식, ETF, 배당주 사 모아 눈덩이 굴리기 | 애플사랑 | 파주 : 사피엔테스, 2026 | 332.6322 애897부 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37539/55/cover200/k392032120_1.jpg) | 니체의 초월자(Übermensch) | Nietzsche, Friedrich Wilhelm | [서울] : 히읏, 2025 | 193 N677uK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37147/5/cover200/k832031472_1.jpg) | 도구라 마구라 : 유메노 규사쿠 장편소설 | 몽야구작 | 서울 : 해밀누리, 2025 | 813.36 몽63도K마 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2155/35/cover200/s512636989_1.jpg) | 관객모독 | Handke, Peter | 서울 : 민음사, 2012(2026 17쇄) | 832.914 H236pK윤 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28934/72/cover200/8937444704_1.jpg) | 솔라리스 | Lem, Stanisław | 서울 : 민음사, 2022 | 891.8537 L544sK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35983/64/cover200/k292037412_1.jpg) | 과정 기반 인지행동치료 : 심리치료는 어떻게 작동하는가 | Hayes, Steven C | 파주 : 삶과지식, 2019(2025 2쇄) | 616.891425 H418pK곽 | 중앙도서관 |
