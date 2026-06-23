@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/39375/28/cover200/k002139666_1.jpg) | 발끝으로 인생의 중심을 잡는 법 : 발레를 배우며 발견한 삶의 균형 감각 | 전수진 | 서울 : 북라이프, 2026 | 811.47 전56발 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | PowerScore LSAT reading comprehension bible | Killoran, David M | Dallas, TX : PowerScore LLC, 2026. | 340.076 K48p 2026 v.2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38588/77/cover200/k192136963_1.jpg) | 헌법의 기본원리 | 허완중 | 광주 : 전남대학교출판문화원, 2026 | 342 허65헌전 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Law and geopolitics : global disequilibrium | Ojumu, Femi D | London : Guardian Commercial Press, 2026. | 341.26 O39L | 법학도서관 |
@@ -11,19 +12,33 @@
 | ![](https://image.aladin.co.kr/product/39019/26/cover200/k292137639_1.jpg) | AI 시대의 법적 쟁점 | 전병주 | 서울 : 커뮤니케이션북스, 2026 | 343.0999 전44a | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38959/79/cover200/k022137314_1.jpg) | AI와 국제법 | 이주형 | 서울 : 커뮤니케이션북스, 2026 | 341 이76a | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/37338/32/cover200/8970323341_1.jpg) | 상법개론 | 정찬형 | 서울 : 법영사, 2025 | 346.07 정82상개19 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/39381/73/cover200/k892139872_1.jpg) | 안토니 가우디, 삶과 일 | Puig i Tàrrech, Armand | 서울 : 한스미디어 : 한즈미디어, 2026 | 720.92 G267pK송 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31522/53/cover200/k762832635_1.jpg) | (원서발췌) 꿈의 해석 : 10% 원서발췌 | Freud, Sigmund | 서울 : 지식을만드는지식, 2023 | 150.1952 F889tK강3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37068/27/cover200/8936812602_1.jpg) | (빅터 프랭클의) 죽음의 수용소에서 | Frankl, Viktor E | 파주 : 청아, 2025 | 150.195 F831pK이3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36489/60/cover200/8961095536_1.jpg) | 오늘부터 좋은 사람이 되기로 했다 : 원인과 결과의 법칙 실천편 | Allen, James | 서울 : 지식여행, 2025 | 158.128 A427이K조 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33652/95/cover200/8961095331_1.jpg) | 원인과 결과의 법칙 | Allen, James | 서울 : 지식여행, 2024 | 158.128 A427aK조2 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34558/80/cover200/k732933167_1.jpg) | (제임스 앨런) 원인과 결과의 법칙 : 사람은 생각하는 대로 살게 된다 | Allen, James | 파주 : 21세기북스 : 북이십일 21세기북스, 2024 | 158.128 A427aK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39420/85/cover200/k542139295_1.jpg) | 다시 만난 세계 : 무질서 시대, 신질서의 설계자들 | 김희교 | 서울 : 푸른숲, 2026 | 327.51 김97다 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39117/22/cover200/k272137351_1.jpg) | 주식투자를 잘한다는 것 : 39세 파이어 육과장, 시장의 변동성을 압도적 수익으로 바꾼 투자 기록 | 육과장 | 서울 : 노티스, 2026 | 332.6322 육15주 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39377/87/cover200/k032139774_1.jpg) | 오늘도 행복을 굽습니다 | 석민진 | 서울 : W미디어, 2026 | 811.47 석38오 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39244/45/cover200/k222138107_1.jpg) | 의사는 수술받지 않는다 : 현직 정형외과 전문의가 들려주는 유쾌 상쾌 통쾌한 촌철살인 의료 사용 가이드 | 김현정 | 서울 : 부키, 2026 | 610.2 김94의2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/93/15/cover200/8960900141_2.jpg) | 수달 | 향전방자 | 서울 : 마음산책, 2007 | 813.36 향74사K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39373/55/cover200/k322139664_1.jpg) | AI시대에 인문학은 무엇인가 | 김형석 | 서울 : 위더북, 2026 | 001.3 김94a | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39243/86/cover200/k182138105_1.jpg) | (바로 배워 바로 쓰는!) 바로바로 클로드 : with 코워크, 스킬, 클로드 코드, 디자인 | 차진우 | 서울 : 골든래빗, 2026 | 006.3 차78바 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39035/79/cover200/k102137148_1.jpg) | 법정으로 간 DNA : 첨단 의생명과학기술의 법과 규제 | 이원복 | 서울 : 이화여자대학교출판문화원, 2026 | 344.04 이66법 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36085/38/cover200/k992037652_1.jpg) | 민법총론 | 백경일 | 서울 : 고래시대, 2025 | 346 백14민총 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36672/75/cover200/k522030386_1.jpg) | 민법총칙 | 김대정 | 서울 : 경연, 2025 | 346 김23민2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/36839/75/cover200/8918916132_1.jpg) | 도산법 | 전대규 | 파주 : 法文社, 2025 | 346.078 전23도법 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/39247/36/cover200/k342138201_1.jpg) | 학문예술론 | Rousseau, Jean Jacques | 서울 : 지식을만드는지식, 2026 | 194 R864dK문 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38436/38/cover200/k912135899_1.jpg) | 오십부터는 단순하게 사는 게 좋다 : 90세 정신과 전문의가 깨달은 늙지 않는 마음의 비밀 | 이근후 | 파주 : 21세기북스 : 북이십일 21세기북스, 2026 | 179.9 이17오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11980/12/cover200/8999713555_1.jpg) | 해결중심상담 슈퍼비전 사례집 | 한국단기가족치료연구소 | 서울 : 학지사, 2017(2025 6쇄) | 616.89156 한16해 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26330/87/cover200/8999723089_1.jpg) | 해결중심 단기치료 : 100개의 핵심 포인트 | Ratner, Harvey | 서울 : 학지사, 2021 | 616.8914 R236sK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36985/73/cover200/8999734692_1.jpg) | 학교 진로진학상담의 이론과 실제 | 김성현 | 서울 : 학지사, 2025 | 371.425 학15김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/34003/38/cover200/k642930657_1.jpg) | 교사 상처 : 오늘도 희망과 절망 사이를 오가는 선생님들을 위한 위로와 치유의 심리학 | 김현수 | 서울 : 미류책방 : 교학사, 2024 | 370.15 김94교고2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35230/50/cover200/8999732681_1.jpg) | 진로상담 실전 가이드 : 상담 도구, 질문·면담 기법 A to Z | 문은미 | 서울 : 학지사, 2024 | 331.702 문67진 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35580/43/cover200/k382036793_1.jpg) | (인공지능 시대,) 사례로 배우는 진로 및 직업상담의 실제 | 신재한 | 고양 : 지식터, 2025 | 331.702 신73사 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 스포주의 : 결말부터 정하는 전공설계 | 노들 | 서울 : 부크크, 2026 | 378.19425 노27스 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/20420/10/cover200/8999718786_1.jpg) | 창의적으로 해결중심상담하기 | Milner, Judith | 서울 : 학지사, 2019(2024 2쇄) | 616.8915 M659cK어 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/24990/90/cover/k252632707_1.jpg) | 한국 사람 만들기 | 함재봉 | 광주 : H프레스, 2020-2025 | 951 함73한2 v.1~5 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38343/76/cover200/8999735893_1.jpg) | 남성심리학 : 남성, 남성성, 젠더에 대한 심리학 연구 | Addis, Michael E | 서울 : 학지사, 2026 | 155.332 A224pK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/3905/49/cover200/6000717015_1.jpg) | 스토리텔링의 이론, 영화와 디지털을 만나다 | Ryan, Marie-Laure | 파주 : 한울아카데미 : 한울, 2014 | 808.543 N234rK조 | 중앙도서관 |
@@ -37,18 +52,3 @@
 | ![](https://image.aladin.co.kr/product/39001/12/cover200/k752137229_1.jpg) | 기술보호 실전 ‘법률’ 매뉴얼 : 경영자가 반드시 알아야 할 기술유출 대응 시나리오 | 여현동 | 서울 : 원너스미디어 : 더스토리정글, 2026 | 343.072 기56여 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38991/60/cover200/k482137123_1.jpg) | 물권변동론 | 김상용 | 고양 : 피앤씨미디어, 2026 | 346.04 김52물피 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/39420/90/cover200/8962043270_1.jpg) | 식품표시광고법 해설 | 권영심 | [청주] : 하랑 법률사무소, 2025 | 344.04232 권64식 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37308/77/cover200/k662031752_1.jpg) | 데스노트에 이름을 쓰면 살인죄일까? : 대중문화 속 법률을 바라보는 어느 오타쿠의 시선 | 김지룡 | 서울 : 애플북스 : 비전피엔피, 2025 | 340.0202 김78데3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36664/71/cover200/k762030187_1.jpg) | 하도급법 | 오승돈 | 서울 : 지식과감성#, 2025 | 346.022 오57하3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/35728/25/cover200/k862036432_1.jpg) | 한국헌법론 | 전광석 | 서울 : 집현재, 2025 | 342 전15한18 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36095/33/cover200/8985155806_2.jpg) | 대화문화아카데미 2025 새헌법안 : 대권에서 분권으로 | 박은정 | 서울 : 여해와 함께, 2025 | 342.02 김36대 2025 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39332/65/cover200/8936481304_1.jpg) | 우리가 지금까지 나눈 대화를 분석해줘 | 청예 | 파주 : 창비, 2026 | 811.8708 우298김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37144/63/cover200/899973501x_1.jpg) | 진로상담의 이론과 실제 | 김봉환 | 서울 : 학지사, 2025 | 371.425 김45진2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38733/37/cover200/k702136944_1.jpg) | 진로진학상담 기법의 이론과 실제 | 임은미 | 서울 : 사회평론아카데미, 2026 | 371.425 진295임2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38733/44/cover200/k812136944_1.jpg) | 직업세계와 직업정보 탐색 | 김영빈 | 서울 : 사회평론아카데미, 2026 | 371.425 직64김사 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38834/99/cover200/8999736431_1.jpg) | 진로 및 직업상담 | 김경은 | 서울 : 학지사, 2026 | 331.702 진295김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38874/21/cover200/8999736911_1.jpg) | 상담 및 임상 현장에서 바로 쓰는 147가지 실천 활동 | Schroeder, Wilma | 서울 : 학지사, 2026 | 616.8914 S381cK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/21011/66/cover200/8999719456_1.jpg) | (Smart map) 부모역할 훈련 프로그램 | 천성문 | 서울 : 학지사, 2019 | 649.1 부35천 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35948/21/cover200/8999733319_1.jpg) | 부모교육 | 정옥분 | 서울 : 학지사, 2025 | 649.1 정65부4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2631/1/cover200/8999701255_1.jpg) | (교사를 위한) 학부모상담 길잡이 | 김혜숙 | 서울 : 학지사, 2013(2022 5쇄) | 371.103 김94학 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 대법원판례해설 | 대법원 법원행정처 | 서울 : 대법원 법원행정처/법원도서관, 1988- | 348.044 한16대해 v.127/v.128/v.129/v.130/v.131/v.132/v.133/v.134/v.135/v.136/v.137/v.138/v.139/v.140/v.141/v.142/v.143/v.144/v.145/v.146/v.1/v.10/v.100/v.101/v.102/v.103/v.104/v.105/v.106/v.107/v.108/v.109/v.11/v.110/v.111/v.112/v.113/v.114/v.115/v.116/v.117/v.118/v.119/v.12/v.120/v.121/v.122/v.123/v.124/v.125/v.126/v.13/v.14/v.15/v.16/v.17/v.18/v.19-1/v.19-2/v.2/v.20/v.21/v.22/v.23/v.24/v.25/v.26/v.27/v.28/v.29/v.3/v.30/v.31/v.32/v.33/v.34/v.35/v.36/v.37/v.38/v.39/v.4/v.40/v.41/v.42/v.43/v.44/v.45/v.46/v.47/v.48/v.49/v.5/v.50/v.51/v.52/v.53/v.54/v.55/v.56/v.57/v.58/v.59/v.6/v.60/v.61/v.62/v.63/v.64/v.65/v.66/v.67/v.68/v.69/v.7/v.70/v.71/v.72/v.73/v.74/v.75/v.76/v.77/v.78/v.79/v.8/v.80/v.81/v.82/v.83/v.84/v.85/v.86/v.87/v.88/v.89/v.9/v.90/v.91/v.92/v.93/v.94/v.95/v.97/v.98/v.99 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36281/19/cover200/k552038038_1.jpg) | 국제통상법 : WTO규범·FTA원산지규정·관세통관법규 | 김용태 | 서울 : 두남, 2025 | 343.087 김65국 | 법학도서관 |
