@@ -2,7 +2,15 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/37551/92/cover200/k362032329_1.jpg) | 나의 젠더법학 모험 | 양현아 | 서울 : 박영사, 2025 | 342.0878 양94나 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/39375/28/cover200/k002139666_1.jpg) | 발끝으로 인생의 중심을 잡는 법 : 발레를 배우며 발견한 삶의 균형 감각 | 전수진 | 서울 : 북라이프, 2026 | 811.47 전56발 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34128/84/cover200/k932931197_1.jpg) | 지식재산법개론 | 김창화 | 서울 : 박영사, 2024 | 346.048 김82지 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/32327/31/cover200/8999729567_1.jpg) | 사회복지법제와 실천 | 김수정 | 서울 : 학지사, 2023 | 344.03 김56사2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/35904/59/cover200/897432976x_1.jpg) | 산업안전보건법 : 해설 | 조흠학 | 파주 : 신광문화사, 2025 | 344.0465 조97산2 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38535/58/cover200/8970188185_1.jpg) | 과학기술과 법 : 사례와 이론 중심 | 오승한 | 파주 : 기한재, 2025 | 344.095 오57과 2025 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/32342/74/cover/k602935363_1.jpg) | (쉽게 풀어 쓴) 지식재산 입문 | 특허청 | 서울 : 박문각, 2023 | 346.048 특94지입 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/31740/25/cover/k232833801_1.jpg) | (상위 1%의 커리어 비밀노트) 특허 빅데이터 : 거대한 기술의 흐름을 비즈니스로 풀어내는 단 하나의 방법 | 송완감 | 서울 : 비제이퍼블릭, 2023 | 346.0486 송65특 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/3996/58/cover/8960781770_1.jpg) | 지식재산을 경영하라 :고 박사의 창조경제 이야기 | 고충곤 | 서울 :휴먼앤북스, 2014 | 346.048 고85지 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | PowerScore LSAT reading comprehension bible | Killoran, David M | Dallas, TX : PowerScore LLC, 2026. | 340.076 K48p 2026 v.2 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/38588/77/cover200/k192136963_1.jpg) | 헌법의 기본원리 | 허완중 | 광주 : 전남대학교출판문화원, 2026 | 342 허65헌전 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Law and geopolitics : global disequilibrium | Ojumu, Femi D | London : Guardian Commercial Press, 2026. | 341.26 O39L | 법학도서관 |
@@ -44,11 +52,3 @@
 | ![](https://image.aladin.co.kr/product/3905/49/cover200/6000717015_1.jpg) | 스토리텔링의 이론, 영화와 디지털을 만나다 | Ryan, Marie-Laure | 파주 : 한울아카데미 : 한울, 2014 | 808.543 N234rK조 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39058/0/cover200/k532137643_1.jpg) | 국민을 위한 형사사법 개혁이란 무엇인가? : 한국 형사법학계의 개혁론 | 형사법학회 | 서울 : 박영사, 2025 | 345 국38형 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/39035/41/cover200/k342137046_1.jpg) | 파기 환송은 없다 : 이재명 변호인의 민주공화국을 위한 변론 | 위대훈 | 파주 : 김영사, 2026 | 320.951 위23파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39031/35/cover200/k512137848_1.jpg) | 지극히 개인적인 입법일기 : 현장에서 기록한 가장 현실적인 정치 이야기 | 이호준 | 서울 : 북랩, 2026 | 328 이95지 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39022/3/cover200/k582137634_1.jpg) | (아파트·빌라·주택·대지에 대한) 토지거래허가제도 실무 해설 | 강두원 | 서울 : 케이 스페이스, 2026 | 346.043 강26토 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38829/59/cover200/k302137186_1.jpg) | 개인정보보호법 | 최경진 | 서울 : 박영사, 2026 | 342.0858 최14개2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39002/34/cover200/8949969238_1.jpg) | 도로법의 이원적 체계에 관한 연구 : '도시 내 도로'와 '도시 간 도로'의 구별을 중심으로 | 이종준 | 파주 : 경인문화사, 2026 | 343.094 이75도 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39002/38/cover200/k682137223_1.jpg) | 법치와 그 지역자원 | 소력 | 서울 : 세창, 2026 | 349.52 소294법4K방 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39001/12/cover200/k752137229_1.jpg) | 기술보호 실전 ‘법률’ 매뉴얼 : 경영자가 반드시 알아야 할 기술유출 대응 시나리오 | 여현동 | 서울 : 원너스미디어 : 더스토리정글, 2026 | 343.072 기56여 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38991/60/cover200/k482137123_1.jpg) | 물권변동론 | 김상용 | 고양 : 피앤씨미디어, 2026 | 346.04 김52물피 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39420/90/cover200/8962043270_1.jpg) | 식품표시광고법 해설 | 권영심 | [청주] : 하랑 법률사무소, 2025 | 344.04232 권64식 | 법학도서관 |
