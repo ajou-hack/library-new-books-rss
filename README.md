@@ -2,7 +2,25 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://image.aladin.co.kr/product/38771/28/cover200/8932045143_1.jpg) | 소설 보다 : 2026 | 김채원 | 서울 : 문학과지성사, 2026 | 811.3708 소54문 2026 v.1 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Digital media law : rights, rules, and regulations in the age of AI | Jones, Michael E | New York : Bloomsbury Academic, 2026. | 343.099 J78d | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The secret life of copyright : intellectual property and inequality in the age of AI | Tehranian, John | Cambridge, United Kingdom | 346.0482 T261s | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | EU external relations law : text, cases and materials | Wessel, Ramses A | Oxford | 341.2422 W515e3 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Der Vorbehalt der Verfassung | Pitzen, Stefan | Baden-Baden : Nomos, 2013. | 340.094 N799n v.790 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/39243/84/cover200/k922138105_1.jpg) | 바로바로 제미나이 X 구글 AI : 구글 웍스, 노트북LM, 딥 리서치, 플로우, 구글 AI 스튜디오, 나노 바나나2, 스티치, 오팔 바로 배우고 바로 써먹는 AI 입문서 | 공냥이 | 서울 : 골든래빗, 2026 | 006.3 공193바 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39408/30/cover200/k362139099_1.jpg) | 청년 파산 : 성실하게 망해버린 사람들 | 박기태 | 서울 : 메디치 : 메디치미디어, 2026 | 332.743 박18청 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39373/80/cover200/k172139665_1.jpg) | 감정 수업 : 예일대 감정 과학자 마크 브래킷 교수의 마음 관리법 | Brackett, Marc A | 서울 : 비즈니스북스, 2026 | 152.4 B797dK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39039/99/cover200/k982138710_2.jpg) | 영화에 관하여 | Sontag, Susan | 서울 : 윌북, 2026 | 791.4302 S699oK홍 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39402/74/cover200/k682139976_2.jpg) | 단어의 쓸모 : 평범한 대화를 더 근사하게 만드는 어휘의 힘 | 차민진 | 파주 : 21세기북스 : 북이십일 21세기북스, 2026 | 411.4 차38단 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39371/82/cover200/k242139661_1.jpg) | 우리는 왜 그냥 즐기지 못할까 : 성취 중독 사회, 이유 없이 즐거운 삶은 어떻게 가능한가 | 국분공일랑 | 파주 : 유유, 2026 | 128 국46수K박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39253/62/cover200/8947502650_1.jpg) | 명화의 완성 그때 그 사람 | 성수영 | 서울 : 한경arte : 한국경제신문 : 한경BP, 2026 | 750.2 성56명완 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39302/22/cover200/k152138714_1.jpg) | 세대X한국사 : 혐오를 멈추고 시대를 읽는 현대사 수업 | 김재원 | [고양] : Knowledge : 비욘드날리지, 2026 | 951.7 김73세 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39349/55/cover200/k942138530_1.jpg) | 이름 없는 감정들의 사전 : 삶을 풍요롭게 만드는 200가지 마음의 단어 | Melio, Iacopo | [서울] : 서교책방, 2026 | 152.403 M522tK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39448/62/cover200/k762139598_1.jpg) | 상상 속의 삶 : 앤드루 포터 장편소설 | Porter, Andrew | 파주 : 문학동네, 2026 | 823.92 P844iK민앤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39451/60/cover200/8932324921_1.jpg) | 무한 그 너머로 : 지구와 태양계, 그리고 블랙홀까지 우주를 가로지르는 아찔하고 흥미로운 지적 모험 | Tyson, Neil deGrasse | 서울 : 현암사, 2026 | 520 T994tK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39443/43/cover200/8962627108_1.jpg) | 기술이 인류를 구원한다는 착각 : 실리콘밸리 억만장자들의 위험한 미래 설계 | Becker, Adam | 서울 : 동아시아, 2026 | 658.514 B395mK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39350/27/cover200/8947502731_1.jpg) | 뉴로테리어 : 늙지 않는 뇌를 위한 공간 처방 | 손혜주 | 서울 : 한국경제신문 : 한경BP, 2026 | 613.5 손94뉴 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39254/4/cover200/8927813634_1.jpg) | 살 빠지는 몸의 비밀 : 다이어트 호르몬 GLP-1을 깨우는 방법 | Sams, Anette | 서울 : 중앙books : 중앙일보에스, 2026 | 613.25 S193kK강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38771/28/cover200/8932045143_1.jpg) | 소설 보다 : 2026 | 김채원 | 서울 : 문학과지성사, 2026 | 811.3708 소54문 2026 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37551/92/cover200/k362032329_1.jpg) | 나의 젠더법학 모험 | 양현아 | 서울 : 박영사, 2025 | 342.0878 양94나 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/39423/32/cover200/8962627140_2.jpg) | 세상이 그대를 속일지라도 : 변화의 시대, 변하지 않는 것에 대하여 | 김상욱 | 서울 : 동아시아, 2026 | 501 김52세 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38798/73/cover200/8946084375_1.jpg) | 극우시대가 온다 : 햇볕정치와 공화적 민주시민교육 | 조희연 | 파주 : 한울아카데미 : 한울엠플러스, 2026 | 320.951 조97극 | 중앙도서관 |
@@ -34,21 +52,3 @@
 | ![](https://image.aladin.co.kr/product/32342/74/cover/k602935363_1.jpg) | (쉽게 풀어 쓴) 지식재산 입문 | 특허청 | 서울 : 박문각, 2023 | 346.048 특94지입 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/31740/25/cover/k232833801_1.jpg) | (상위 1%의 커리어 비밀노트) 특허 빅데이터 : 거대한 기술의 흐름을 비즈니스로 풀어내는 단 하나의 방법 | 송완감 | 서울 : 비제이퍼블릭, 2023 | 346.0486 송65특 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/8554/46/cover/8999709671_1.jpg) | 구조방정식 모형의 기본과 확장 : Mplus 예제와 함께 | 김수영 | 서울 : 학지사, 2016(2025 6쇄) | 519.535 김56구 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/3996/58/cover/8960781770_1.jpg) | 지식재산을 경영하라 :고 박사의 창조경제 이야기 | 고충곤 | 서울 :휴먼앤북스, 2014 | 346.048 고85지 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | PowerScore LSAT reading comprehension bible | Killoran, David M | Dallas, TX : PowerScore LLC, 2026. | 340.076 K48p 2026 v.2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38588/77/cover200/k192136963_1.jpg) | 헌법의 기본원리 | 허완중 | 광주 : 전남대학교출판문화원, 2026 | 342 허65헌전 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Law and geopolitics : global disequilibrium | Ojumu, Femi D | London : Guardian Commercial Press, 2026. | 341.26 O39L | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Abuse, neglect, dependency, and termination of parental rights proceedings in North Carolina | DePasquale, Sara | [Chapel Hill, North Carolina] : UNC School of Government, 2026. | 346.017 D419a 2025 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | What is a family? : law and regulation in a transdisciplinary context | Margaria, Alice | Bristol : Bristol University Press, 2026. | 346.015 M327w | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | PowerScore LSAT logical reasoning bible | Killoran, David M | Dallas, TX : PowerScore LLC, 2026. | 340.076 K48p 2026 v.1 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39019/26/cover200/k292137639_1.jpg) | AI 시대의 법적 쟁점 | 전병주 | 서울 : 커뮤니케이션북스, 2026 | 343.0999 전44a | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38959/79/cover200/k022137314_1.jpg) | AI와 국제법 | 이주형 | 서울 : 커뮤니케이션북스, 2026 | 341 이76a | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37338/32/cover200/8970323341_1.jpg) | 상법개론 | 정찬형 | 서울 : 법영사, 2025 | 346.07 정82상개19 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39381/73/cover200/k892139872_1.jpg) | 안토니 가우디, 삶과 일 | Puig i Tàrrech, Armand | 서울 : 한스미디어 : 한즈미디어, 2026 | 720.92 G267pK송 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31522/53/cover200/k762832635_1.jpg) | (원서발췌) 꿈의 해석 : 10% 원서발췌 | Freud, Sigmund | 서울 : 지식을만드는지식, 2023 | 150.1952 F889tK강3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37068/27/cover200/8936812602_1.jpg) | (빅터 프랭클의) 죽음의 수용소에서 | Frankl, Viktor E | 파주 : 청아, 2025 | 150.195 F831pK이3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36489/60/cover200/8961095536_1.jpg) | 오늘부터 좋은 사람이 되기로 했다 : 원인과 결과의 법칙 실천편 | Allen, James | 서울 : 지식여행, 2025 | 158.128 A427이K조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33652/95/cover200/8961095331_1.jpg) | 원인과 결과의 법칙 | Allen, James | 서울 : 지식여행, 2024 | 158.128 A427aK조2 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34558/80/cover200/k732933167_1.jpg) | (제임스 앨런) 원인과 결과의 법칙 : 사람은 생각하는 대로 살게 된다 | Allen, James | 파주 : 21세기북스 : 북이십일 21세기북스, 2024 | 158.128 A427aK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39420/85/cover200/k542139295_1.jpg) | 다시 만난 세계 : 무질서 시대, 신질서의 설계자들 | 김희교 | 서울 : 푸른숲, 2026 | 327.51 김97다 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39117/22/cover200/k272137351_1.jpg) | 주식투자를 잘한다는 것 : 39세 파이어 육과장, 시장의 변동성을 압도적 수익으로 바꾼 투자 기록 | 육과장 | 서울 : 노티스, 2026 | 332.6322 육15주 | 중앙도서관 |
