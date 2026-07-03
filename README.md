@@ -2,6 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | International law | Shaw, Malcolm N | Cambridge, UK : Cambridge University Press, 2026. | 341 S535i10 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 新注釈民法.20-1, 相続(2) §§960~1003 | 수야기자 | 東京 : 有斐閣, 2026 | 346 유48신 v.20-1 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 新注釈民法.3, 総則(3)§§99~174 | 좌구간의 | 東京 : 有斐閣, 2026 | 346 유48신 v.3 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/39422/88/cover200/k522139296_1.jpg) | 가미야마 : 지역 재생 교과서 | 소원광 | 서울 : 오늘산책, 2026 | 307.1412 소66신K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39517/8/cover200/k952139516_1.jpg) | (바로 배워 바로 쓰는!) 바로바로 챗GPT X 덕테이프 X 코덱스 : 인공지능, 에이전트, Image 2.0, 바이브 코딩, 바로 배우고 바로 써먹는 AI 입문서 | 박현규 | 서울 : 골든래빗, 2026 | 006.3 박94바인 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39599/69/cover200/k602130774_1.jpg) | (누구나 프로처럼 실전 AI) 클로드 올인원 with 코워크, 코드, 디자인 : 문서 작업부터 대시보드 제작까지, 지금 바로 시작하는 업무 자동화 | 클리커 | 서울 : 한빛미디어, 2026 | 006.3 클298클문 | 중앙도서관 |
@@ -49,6 +52,3 @@
 | ![](https://image.aladin.co.kr/product/25380/86/cover200/k452633816_1.jpg) | 기독교 영성의 추구와 분석심리학 | 김성민 | 서울 : 달을긷는우물 : 월정분석심리학연구소, 2020 | 261.515 김54기 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32286/31/cover200/8932118612_1.jpg) | 교부들의 그리스도론 : 사도 시대부터 칼케돈 공의회까지 | Grillmeier, Alois | 서울 : 가톨릭, 2023 | 232 G858jK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39370/10/cover200/k402139668_1.jpg) | 굿 인사이드 : 아이도 부모도 기분 좋은 양육 | Kennedy, Becky | 서울 : Korea.com : 대성 Korea.com, 2026 | 155.924 K35gK김2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39402/28/cover200/k162139975_1.jpg) | 이것이 멀티 에이전트다 : 싱글 에이전트부터 멀티 에이전트까지, MCP와 A2A로 구현하는 에이전트 시스템 개발 | 서지영 | 서울 : 한빛미디어, 2026 | 006.3 서78이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39331/14/cover200/k362138334_1.jpg) | (된다!) 스레드 활용법 : 짧은 글로 시작하는 브랜딩&수익화 | 거북이걸음 | 서울 : 이지스퍼블리싱, 2026 | 658.872 거46스 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39336/32/cover200/8960885134_2.jpg) | 일 잘하는 직장인의 AI 활용법 : AI를 써도 여전히 바쁜 사람들을 위한 업무 재설계 안내서 | 김덕중 | 서울 : 디지털북스, 2026 | 006.3 김24일 | 중앙도서관 |
