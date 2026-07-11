@@ -2,6 +2,17 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The complete U : over 100 lessons for success in and out of the college classroom | Cohan, Deborah J | Miami. FL : Mango Publishing Group, 2025. | 378.1 C678c | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | One shot : a Reacher novel | Child, Lee | New York, NY : Bantam Books, an imprint of Random House, 2025. | 823.914 C536o | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook of digital public history | Noiret, Serge | Berlin : De Gruyter Oldenbourg, 2023. | 900 N783h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Truth, reparations and social cohesion : transitional justice lessons from Peru | Bunselmeyer, Elisabeth | Abingdon, Oxon : Routledge, 2021. | 340.1150985 B942t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Transitional justice, corporate accountability, and socio-economic rights : lessons from Argentina | Martín, Laura García | Abingdon, Oxon : Routledge, 2021 | 340.1150982 M381t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Truth, justice and reconciliation in Colombia : transitioning from violence | Pabón, Fabio Andrés Díaz | Abingdon, Oxon : Routledge, 2020. | 986.1063 P112t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Transitional justice and reconciliation : lessons from the Balkans | Fischer, Martina | Abingdon, Oxon : Routledge, 2017 | 340.11509496 F529t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sports economics for non-economists | Vamplew, Wray | Abingdon, Oxon | 796.069 V216s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The economics of sports | Leeds, Michael | Abingdon, Oxon : Routledge, 2025. | 338.43796 L484e7 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Learning pragmatics from native and nonnative language teachers | Cohen, Andrew D | Bristol | 418.0071 C678L | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18760/53/cover200/k932635277_1.jpg) | 에코의 뼈들 그리고 다른 침전물들 | Beckett, Samuel | 서울 : 워크룸프레스, 2019 | 841.914 B396oK김 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | International law | Shaw, Malcolm N | Cambridge, UK : Cambridge University Press, 2026. | 341 S535i10 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 新注釈民法.20-1, 相続(2) §§960~1003 | 수야기자 | 東京 : 有斐閣, 2026 | 346 유48신 v.20-1 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 新注釈民法.3, 総則(3)§§99~174 | 좌구간의 | 東京 : 有斐閣, 2026 | 346 유48신 v.3 | 법학도서관 |
@@ -41,14 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A mother's reckoning : living in the aftermath of tragedy | Klebold, Sue | New York : Broadway, 2016. | 373.0978882 K63m | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The secret of secrets : thriller | Brown, Dan | Köln : Lübbe, 2025. | 823.914 B877sGs | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Ruling ideas : how global neoliberalism goes local | Ban, Cornel | New York, NY : Oxford University Press, 2016. | 330.946 B212r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The score takes care of itself : my philosophy of leadership | Walsh, Bill | New York, NY : Portfolio, 2010 | 658.4092 W223s | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28465/73/cover/k092835920_1.jpg) | 물고기는 존재하지 않는다 : 상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 | Miller, Lulu | [인천] : 곰, 2021(2026 71쇄) | 502 M648wK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39532/4/cover200/k612139634_2.jpg) | 슈퍼개미 이정윤의 성장주 집중 투자 : 앞으로 10년, 10배 수익을 불러오는 8대 메가트렌트 | 이정윤 | 서울 : 베가북스, 2026 | 332.6322 이74슈앞 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36567/60/cover200/k692039243_2.jpg) | 내 삶을 가로막은 건 언제나 나였다 : 혼돈 가득한 삶에서 나를 지켜준 깨달음 | Holz, Gary | 서울 : 스몰빅라이프 : 스몰빅미디어, 2025 | 615.852 H762sK강혼 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39481/1/cover200/k982139317_1.jpg) | 다른 사랑 : 최은미 소설 | 최은미 | 파주 : 문학동네, 2026 | 811.37 최67다 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39443/51/cover200/k342139498_1.jpg) | 생존 지능 | Blankfein, Lloyd | 서울 : 필름, 2026 | 658.4092 B642sK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39474/31/cover200/k252139313_1.jpg) | 이병한의 대한민국 탐문 | 이병한 | 파주 : 서해문집, 2026 | 306.0951 이44이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37900/31/cover200/k032033730_1.jpg) | 건축이론 이야기 | 차윤석 | 부산 : 호밀밭, 2025 | 720.1 차66건 v.1 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25380/86/cover200/k452633816_1.jpg) | 기독교 영성의 추구와 분석심리학 | 김성민 | 서울 : 달을긷는우물 : 월정분석심리학연구소, 2020 | 261.515 김54기 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32286/31/cover200/8932118612_1.jpg) | 교부들의 그리스도론 : 사도 시대부터 칼케돈 공의회까지 | Grillmeier, Alois | 서울 : 가톨릭, 2023 | 232 G858jK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39370/10/cover200/k402139668_1.jpg) | 굿 인사이드 : 아이도 부모도 기분 좋은 양육 | Kennedy, Becky | 서울 : Korea.com : 대성 Korea.com, 2026 | 155.924 K35gK김2 | 중앙도서관 |
