@@ -2,8 +2,24 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/23671/19/cover200/8936486578_1.jpg) | 1987 그날 | 유승하 | 파주 : 창비, 2020 | 951.75 유57천 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33959/42/cover200/8936480227_1.jpg) | 불씨 | 다드래기 | 파주 : 창비, 2024 | 951.74 다27불 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23671/17/cover200/8936486551_1.jpg) | 사일구 | 윤태호 | 파주 : 창비, 2020 | 951.72 윤883사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23671/17/cover200/893648656x_1.jpg) | 아무리 얘기해도 | 마영신 | 파주 : 창비, 2020 | 951.74 마64아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23671/17/cover200/8936486543_1.jpg) | 빗창 | 김홍모 | 파주 : 창비, 2020 | 951.72 김95빗 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39576/57/cover200/k462139241_1.jpg) | 나의 지옥은 나를 죽이지 못했다 | 김강우 | 서울 : 책과삶, 2026 | 811.87 김12나책 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34212/61/cover200/k782931934_1.jpg) | 개를 데리고 다니는 남자 : 김화진 소설 | 김화진 | 파주 : 북다 : 교보문고, 2024 | 811.37 김95개북 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39575/12/cover200/8937465000_1.jpg) | 압록강은 흐른다 | Li, Mirok | 서울 : 민음사, 2026 | 833.914 L693yK안 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39422/92/cover200/k712139296_1.jpg) | 생존을 위한 최소한의 AI 교양 : "모르면 당한다. 알면 부린다." | 조남호 | 서울 : 골든래빗, 2026 | 303.483 조192생 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36571/64/cover200/k772039340_1.jpg) | 프로이트 전집 | Freud, Sigmund | 서울 : 세창, 2025 | 150.1952 F889pK홍 v.1~4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39536/65/cover200/k612139749_1.jpg) | 네이버 커넥트 the AI book | 김현철 | 파주 : 김영사, 2026 | 006.3 네68김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37244/13/cover200/8992132239_1.jpg) | (삶의 성장) 액티브 명상 바로알기 | 정효순 | 서울 : 작은이야기, 2025 | 158.128 정95액 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36652/96/cover200/k922030986_2.jpg) | 오늘도 간호사입니다 | 서울아산병원 | 파주 : 군자, 2025 | 610.7302 서66오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39650/65/cover200/k192130796_1.jpg) | 그림으로 이해하는 IT 인프라 구조와 기술 | 학장진일 | 서울 : 길벗, 2026 | 004.6 도93학K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35149/81/cover200/k192934011_1.jpg) | 서울 사람을 웃고 울린 스포츠 | 박귀순 | 서울 : 서울역사편찬원, 2022 | 796.0951 서66서 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The complete U : over 100 lessons for success in and out of the college classroom | Cohan, Deborah J | Miami. FL : Mango Publishing Group, 2025. | 378.1 C678c | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | One shot : a Reacher novel | Child, Lee | New York, NY : Bantam Books, an imprint of Random House, 2025. | 823.914 C536o | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39493/29/cover200/k182139415_1.jpg) | 빚의 심리학 : 우리는 왜 부채의 족쇄에서 벗어나지 못하는가 | 김도종 | 서울 : 미다스북스, 2026 | 332 김25빚 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook of digital public history | Noiret, Serge | Berlin : De Gruyter Oldenbourg, 2023. | 900 N783h | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Truth, reparations and social cohesion : transitional justice lessons from Peru | Bunselmeyer, Elisabeth | Abingdon, Oxon : Routledge, 2021. | 340.1150985 B942t | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Transitional justice, corporate accountability, and socio-economic rights : lessons from Argentina | Martín, Laura García | Abingdon, Oxon : Routledge, 2021 | 340.1150982 M381t | 중앙도서관 |
@@ -13,6 +29,8 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The economics of sports | Leeds, Michael | Abingdon, Oxon : Routledge, 2025. | 338.43796 L484e7 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Learning pragmatics from native and nonnative language teachers | Cohen, Andrew D | Bristol | 418.0071 C678L | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/18760/53/cover200/k932635277_1.jpg) | 에코의 뼈들 그리고 다른 침전물들 | Beckett, Samuel | 서울 : 워크룸프레스, 2019 | 841.914 B396oK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35625/92/cover200/k572036290_1.jpg) | 일본어 명카피 핸드북 | 정규영 | 서울 : 길벗이지:톡 : 길벗, 2025-2026 | 659.132 정16일 v.1~2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/de8abbe9-3dee-47b3-a25e-508db9ad706e) | 약창춘추 | 심창구 | 서울 : 약업신문, 2018-2024 | 615.02 심82약 v.2~3 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | International law | Shaw, Malcolm N | Cambridge, UK : Cambridge University Press, 2026. | 341 S535i10 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 新注釈民法.20-1, 相続(2) §§960~1003 | 수야기자 | 東京 : 有斐閣, 2026 | 346 유48신 v.20-1 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 新注釈民法.3, 総則(3)§§99~174 | 좌구간의 | 東京 : 有斐閣, 2026 | 346 유48신 v.3 | 법학도서관 |
@@ -34,21 +52,3 @@
 | ![](https://image.aladin.co.kr/product/39495/51/cover200/8974093049_1.jpg) | 1987 : 역촌동 사는 서울시민 J씨의 민주항쟁 동참기 | 조문호 | 서울 : 눈빛, 2026 | 779 조36천 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37496/61/cover200/k792032615_1.jpg) | 대형주 추세추종 투자법칙 : 130만 원으로 20억 만든 주식 실전 매매 전략 | 이종호 | 파주 : 사피엔테스, 2025 | 332.6322 이75대 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39403/32/cover200/k552139078_1.jpg) | 한글의 한 끗 : 한국인도 몰랐던 우리말 활용법 | 임가영 | 괴산군 : 정한책방, 2026 | 411.4 임12한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39545/21/cover200/k392139845_1.jpg) | 열람 엄금 : 엽기 살인범의 정신 감정 보고서 | 지념실희인 | 파주 : 북다 : 교보문고, 2026 | 813.37 지194열K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39581/37/cover200/k932139348_1.jpg) | 우리는 가장 밝은 밤에 헤어졌다 : 백야 | Dostoyevsky, Fyodor | [서울] : 윌마, 2026 | 891.733 D724bK김백 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39576/54/cover200/k342139241_1.jpg) | 흔들릴 때마다 나는 도스토옙스키를 읽었다 : 희망이 사치일 때 우리는 무엇으로 버티는가 | 닻 | [서울] : 닻, 2026 | 891.73309 D724닻 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26534/68/cover200/k412738625_1.jpg) | 정신분석 심리치료의 기본과 실천 : 정신분석·지지적 심리치료와의 차이 | 오처장 | 서울 : 한국코칭수퍼비전아카데미, 2021 | 616.8914 오83정K최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39544/12/cover200/k052139841_1.jpg) | 하나님의 마스터플랜 : 나라와 민족의 데스티니 | 고성준 | 서울 : 규장 : 규장갓피플, 2026 | 266 고54하 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7981/93/cover200/k752434431_1.jpg) | 리눅스 서버 보안관리 실무 | 홍석범 | [부산] : 리눅스포털 수퍼유저 : 수퍼유저코리아 : 와이비스, 2016 | 005.8 홍54리3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1813/26/cover200/8963309428_1.jpg) | 분석심리학과 기독교 | 김성민 | 서울 : 학지사, 2012(2024 4쇄) | 150.1954 김54분2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38474/13/cover200/8999736113_1.jpg) | (청소년의 마음건강을 위한) 자기조절 워크북 : 인지행동치료(CBT) 연습 42가지 활동 | Bass, Richard | 서울 : 학지사, 2026 | 158.10835 B317tK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38657/36/cover200/899973630x_1.jpg) | MMPI로 정신역동적 심리치료하기 | 최성진 | 서울 : 학지사, 2026 | 155.283 최54m | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39382/0/cover200/899973725x_1.jpg) | (초보 치료자를 위한) 놀이치료 실전 워크북 : 단계별 가이드 | 이소연 | 서울 : 학지사, 2026 | 615.85153 이55놀 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39491/97/cover200/k312139410_1.jpg) | 최소한의 습관 : 작은 시작으로 압도적 변화를 만드는 행동 공식 | Maurer, Robert | [파주] : 북모먼트 : 책읽어주는남자, 2026 | 158.1 M453oK장북 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39580/98/cover200/k892139246_1.jpg) | 포트폴리오 설계 수업 : 적은 돈부터 불려 나가는 10가지 현실주의 투자법 | 임현우 | 파주 : 21세기북스 : 북이십일 21세기북스, 2026 | 332.6 임94포 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (The) story of nine Asian alphabets : Hindi, Arabic,Thai, Vietnamese, Indonesian, Mongolian, Chinese, Japanese, Korean | Asia-Pacific Centre Of Education for International Understanding | 서울 : Hollym, 2015. | 410 A832s | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The cultivated forest : people and woodlands in Asian history | Miller, Ian Matthew | Seattle : University of Washington Press, 2022. | 634.9095 M648c | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Neoliberal citizenship : sacred markets, sacrificial lives | Mavelli, Luca | Oxford : Oxford University Press, 2022. | 323.6094 M461n | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | A mother's reckoning : living in the aftermath of tragedy | Klebold, Sue | New York : Broadway, 2016. | 373.0978882 K63m | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The secret of secrets : thriller | Brown, Dan | Köln : Lübbe, 2025. | 823.914 B877sGs | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Ruling ideas : how global neoliberalism goes local | Ban, Cornel | New York, NY : Oxford University Press, 2016. | 330.946 B212r | 중앙도서관 |
