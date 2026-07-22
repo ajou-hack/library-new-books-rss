@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 헬무트 얀 作品集 | Miller, Nory | 서울 : 기문당, 1988 | 720.28 M649hK정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39490/50/cover200/k192139410_1.jpg) | 세계를 품다 2026 | 글로벌 리더 선정자 29인 | 서울 : 매일경제신문사 : 매경, 2026 | 658.4092 글295세 2026 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39535/63/cover200/k532139635_1.jpg) | 4시 퇴근, 성과 두 배, 덴마크의 경쟁력 제3의 시간 | 침패유가 | 서울 : 센시오, 2026 | 331.2572 침893데K정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38597/44/cover200/k162136374_1.jpg) | 청춘의 투자 : 꿈꾸는 삶을 10년 앞당겨줄 자본주의 공략 매뉴얼 | 애플트리 | 서울 : 지식노마드, 2026 | 332.6 애897청 v.1~2 | 중앙도서관 |
@@ -22,12 +23,12 @@
 | ![](https://image.aladin.co.kr/product/35241/78/cover200/k072934945_1.jpg) | 계승과 변천 : 현대 중국 가정의 구조와 가정 양로 | 허기 | 서울 : 한국문화사, 2024 | 306.850952 허18전K장 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38560/1/cover200/k312135953_1.jpg) | 고서의 은밀한 매력 : 편집의 시각으로 옛책을 보다 | 이재정 | 서울 : 푸른역사, 2026 | 070.50951 이73고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/31568/30/cover200/k032832651_1.jpg) | 교사를 위한 마음공부 : 현직 교사가 전하는 행복한 교직생활을 위한 20가지 심리 법칙 | 류성창 | 고양 : 지노, 2023 | 370.15 류54교 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 영매 소녀 | 박에스더 | 서울 : 안전가옥, 2022 | 811.37 박64영 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 은퇴상담의 이론과 실제 | 김봉환 | 서울 : 학지사, 2025 | 306.38 은885김 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 은유와 이야기로 이해하는 DBT 기술 : 살아갈 가치가 있는 인생을 위해 | Esmail, James J | 서울 : 하나醫學社, 2022 | 616.89142 E76dK나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30217/50/cover200/k492839497_1.jpg) | 영매 소녀 | 박에스더 | 서울 : 안전가옥, 2022 | 811.37 박64영 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37231/47/cover200/8999735257_1.jpg) | 은퇴상담의 이론과 실제 | 김봉환 | 서울 : 학지사, 2025 | 306.38 은885김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30136/78/cover200/k582839180_1.jpg) | 은유와 이야기로 이해하는 DBT 기술 : 살아갈 가치가 있는 인생을 위해 | Esmail, James J | 서울 : 하나醫學社, 2022 | 616.89142 E76dK나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39581/25/cover200/k692139247_2.jpg) | 인비인 : 성해나 기담집 | 성해나 | 서울 : 한겨레출판, 2026 | 811.37 성93인 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 처음 해 보는 정원 식재디자인 | 이안숙 | 서울 : 목수책방, 2026 | 712.6 이62처 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 악마는 열심히 산다 : 김화진 장편소설 | 김화진 | 서울 : 민음사, 2026 | 811.37 김95악 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39575/9/cover200/k612139147_1.jpg) | 처음 해 보는 정원 식재디자인 | 이안숙 | 서울 : 목수책방, 2026 | 712.6 이62처 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39617/18/cover200/8937477475_1.jpg) | 악마는 열심히 산다 : 김화진 장편소설 | 김화진 | 서울 : 민음사, 2026 | 811.37 김95악 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (식품·의약품·의료기기) 최신 규제과학 총론 | 한국규제과학센터 | 서울 : 한국규제과학센터, 2025 | 363.19 한16최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/23671/19/cover200/8936486578_1.jpg) | 1987 그날 | 유승하 | 파주 : 창비, 2020 | 951.75 유57천 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33959/42/cover200/8936480227_1.jpg) | 불씨 | 다드래기 | 파주 : 창비, 2024 | 951.74 다27불 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Truth, reparations and social cohesion : transitional justice lessons from Peru | Bunselmeyer, Elisabeth | Abingdon, Oxon : Routledge, 2021. | 340.1150985 B942t | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Transitional justice, corporate accountability, and socio-economic rights : lessons from Argentina | Martín, Laura García | Abingdon, Oxon : Routledge, 2021 | 340.1150982 M381t | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Truth, justice and reconciliation in Colombia : transitioning from violence | Pabón, Fabio Andrés Díaz | Abingdon, Oxon : Routledge, 2020. | 986.1063 P112t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Transitional justice and reconciliation : lessons from the Balkans | Fischer, Martina | Abingdon, Oxon : Routledge, 2017 | 340.11509496 F529t | 중앙도서관 |
