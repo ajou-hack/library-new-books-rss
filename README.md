@@ -2,7 +2,9 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 經濟原論 | 조성환 | 서울 : 博英社 , 1978. | 330.1 조54경 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 헬무트 얀 作品集 | Miller, Nory | 서울 : 기문당, 1988 | 720.28 M649hK정 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/17201415-e8d5-4b32-954e-c5f4313cc5d6) | 유럽 도시 기행 | 유시민 | 파주 : 생각의길 : 아름다운사람들, 2019-2026 | 914.04 유58유 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39490/50/cover200/k192139410_1.jpg) | 세계를 품다 2026 | 글로벌 리더 선정자 29인 | 서울 : 매일경제신문사 : 매경, 2026 | 658.4092 글295세 2026 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39535/63/cover200/k532139635_1.jpg) | 4시 퇴근, 성과 두 배, 덴마크의 경쟁력 제3의 시간 | 침패유가 | 서울 : 센시오, 2026 | 331.2572 침893데K정 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38597/44/cover200/k162136374_1.jpg) | 청춘의 투자 : 꿈꾸는 삶을 10년 앞당겨줄 자본주의 공략 매뉴얼 | 애플트리 | 서울 : 지식노마드, 2026 | 332.6 애897청 v.1~2 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/39493/29/cover200/k182139415_1.jpg) | 빚의 심리학 : 우리는 왜 부채의 족쇄에서 벗어나지 못하는가 | 김도종 | 서울 : 미다스북스, 2026 | 332 김25빚 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook of digital public history | Noiret, Serge | Berlin : De Gruyter Oldenbourg, 2023. | 900 N783h | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Truth, reparations and social cohesion : transitional justice lessons from Peru | Bunselmeyer, Elisabeth | Abingdon, Oxon : Routledge, 2021. | 340.1150985 B942t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Transitional justice, corporate accountability, and socio-economic rights : lessons from Argentina | Martín, Laura García | Abingdon, Oxon : Routledge, 2021 | 340.1150982 M381t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Truth, justice and reconciliation in Colombia : transitioning from violence | Pabón, Fabio Andrés Díaz | Abingdon, Oxon : Routledge, 2020. | 986.1063 P112t | 중앙도서관 |
