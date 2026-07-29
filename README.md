@@ -2,6 +2,29 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/27521/52/cover200/8999724484_1.jpg) | (수용전념치료와 함께) 역경 마주하기 | Harris, Russ | 서울 : 학지사, 2021 | 158 H315rK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38730/29/cover200/k502136847_1.jpg) | 시간이 만든 건축 : 서양 건축 재이용의 역사 | 가등경일 | 서울 : 집, 2026 | 720.94 가27시K권 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39656/35/cover200/k292130198_3.jpg) | 독서의 기술 : 책은 어떻게 삶의 무기가 되는가 | 고명환 | 서울 : 라곰, 2026 | 028 고34독 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39666/69/cover200/8961474987_1.jpg) | 사유한다는 것은 아니라고 말하는 것이다 | Derrida, Jacques | 서울 : 이학사, 2026 | 190 D438pK강 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39827/79/cover200/k382130711_1.jpg) | 이름 없는 것들의 밤 : 정보라 연작소설 | 정보라 | 서울 : 현대문학, 2026 | 811.37 정45이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39821/4/cover200/8936425404_1.jpg) | 범지구적 사랑을 위한 최첨단 심령술 | 전수오 | 파주 : 창비, 2026 | 811.17 전56범 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39820/74/cover200/k472130605_2.jpg) | 햄버거를 먹다가 죽었는데, 저승에서 썸남을 만났다 | Greenwood, Kirsty | 서울 : 향기책방, 2026 | 823.92 G816LK허 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29152/92/cover200/k282837370_1.jpg) | 이제는 말해도 괜찮아 : 외상을 경험한 아동·청소년을 위한 인지행동치료 프로그램 [지침서] | 최지영 | 서울 : 사회평론아카데미, 2022 | 616.89142 최78이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/22618/79/cover200/8999719847_1.jpg) | (자기탐색을 통한) 인지행동치료 경험하기 : 치료사를 위한 자기훈련/자기반영 워크북 | Bennett-Levy, James | 서울 : 학지사, 2020 | 616.891425 E96bK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/3498/74/cover200/8960177814_1.jpg) | 나일 강의 죽음 : 애거서 크리스티 장편 소설 | Christie, Agatha | 서울 : 황금가지, 2013, (2025 19쇄) | 823.912 C555dK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39781/35/cover200/k832130208_1.jpg) | 사진구도 완전정복 : 좋은 사진은 구도에서 시작된다 | 허흥무 | 고양 : 아티오, 2026 | 770.11 허97사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39791/0/cover200/k992130307_1.jpg) | (예제가 가득한) 코파일럿 길라잡이 | 이승우 | 서울 : 정보문화사, 2026 | 006.3 이57코 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/195/23/cover200/8938204537_1.jpg) | 검찰 측의 증인 | Christie, Agatha | 서울 : 해문출판사, 2008 | 823.912 C555wK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2879/82/cover200/8982737758_3.jpg) | 운명의 문 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555pK천3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2879/78/cover200/898273774x_3.jpg) | 주머니 속의 호밀 | Christie, Agatha | 서울 : 황금가지, 2024 | 823.912 C555pK이3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2752/55/cover200/8982737731_3.jpg) | 잠자는 살인 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555sK김황3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2752/51/cover200/8982737723_3.jpg) | 죽은 자의 어리석음 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555dK송3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2750/25/cover200/8982737715_3.jpg) | 히코리 디코리 독 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555hK홍3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2750/24/cover200/8982737707_3.jpg) | 복수의 여신 | Christie, Agatha | 서울 : 황금가지, 2024 | 823.912 C555nK원3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2736/73/cover200/8982737685_3.jpg) | 버트럼 호텔에서 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555aK원3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39596/46/cover200/k832130667_1.jpg) | 내가 죽이지 않았다 : 정해연 장편소설 | 정해연 | 서울 : VANTA : 오팬하우스 , 2026 | 811.37 정93내정 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Psychotechnical becomings : psychoanalysis, identity, desire, and mourning in the age of AI and digital mediation | Lemma, Alessandra | Abingdon, Oxon | 150.195 L554p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Histoire de la littérature coréenne | Maurus, Patrick | Paris : Ellipses, 2005. | 811.09 M458h | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/2736/72/cover200/8982737677_3.jpg) | 세 번째 여인 | Christie, Agatha | 서울 : 황금가지, 2024 | 823.912 C555tK박3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/2723/72/cover200/8982737669_3.jpg) | 프랑크푸르트행 승객 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555pK허3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/2723/68/cover200/8982737650_3.jpg) | 마술 살인 | Christie, Agatha | 서울 : 황금가지, 2024 | 823.912 C555tK김3 | 중앙도서관 |
@@ -28,27 +51,4 @@
 | ![](https://image.aladin.co.kr/product/39726/38/cover200/k202130705_1.jpg) | 우리는 어쩌다 과학을 믿게 되었을까 : 노벨 물리학상으로 읽는 의심과 논쟁, 합의의 역사 | 이근희 | 서울 : 모어사이언스, 2026 | 530.09 이17우 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/24158/24/cover200/8942612865_1.jpg) | (유아교육기관에서의) 유아생활지도 | 조운주 | 서울 : 창지사, 2020 | 372.21 조66유4 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37884/2/cover200/8924173898_1.jpg) | 대학 랭킹 향상 전략 : 주요 대학 랭킹 분석 | 김승억 | 서울 : 퍼플, 2025 | 378.1 김57대 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 經濟原論 | 조성환 | 서울 : 博英社 , 1978. | 330.1 조54경 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 헬무트 얀 作品集 | Miller, Nory | 서울 : 기문당, 1988 | 720.28 M649hK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/9627/90/cover200/8994519920_1.jpg) | 한국 창작 SF의 거의 모든 것 | 박상준 | 서울 : 케포이북스, 2016 | 811.309 한16박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/12253/71/cover200/8994519904_1.jpg) | 드림 플레이어 : 크로스로드 SF 앤솔로지 | 듀나 | 서울 : 케포이북스, 2017 | 811.3708 드298리 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39138/67/cover200/8932045216_1.jpg) | 거대한 리바이어던을 분해하기 | Latour, Bruno | 서울 : 문학과지성사, 2026 | 301 L359uK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31953/97/cover200/k522833258_1.jpg) | 융의 심리학으로 읽는 성서와 꿈 | Stein, Murray | 과천 : 달을 긷는 우물, 2023 | 220.6019 S819bK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39582/2/cover200/k482139340_1.jpg) | 죽음의 수용소 이후 : 빅터 프랭클이 남긴 인생 강의 | Frankl, Viktor E | 서울 : 북하우스 : 북하우스 퍼블리셔스, 2026 | 150.195 F831sK유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39702/26/cover200/k772130492_1.jpg) | 대학로 귀신들 : 염기원 장편소설 | 염기원 | 서울 : 문학세계사, 2026 | 811.17 염18대 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39782/20/cover200/k042130202_1.jpg) | 콩팥 대회복 : 고혈압, 당뇨, 동맥경화, 심장병 잡는 100년 콩팥 만들기 | 상월정박 | 서울 : 북웨이브, 2026 | 616.61 상66신K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24341/4/cover200/892553682x_1.jpg) | 젊은 날의 초상 : 이문열 장편소설 | 이문열 | 서울 : RHK(알에이치코리아), 2020(2026 6쇄) | 811.36 이36젊2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39378/21/cover200/8927813669_1.jpg) | (프렌즈) 뉴욕 : 2026~2027년 최신판 | 이주은 | 서울 : 중앙books : 중앙일보에스, 2026 | 917.4704 이76뉴9 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32313/73/cover200/k482834158_1.jpg) | 세속의 철학자들 : 시대를 이끈 위대한 경제학자들의 사상과 생애 | Heilbroner, Robert L | 서울 : The Terrace(더 테라스), 2023 | 330.092 H466w7K장2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39448/48/cover200/k232139497_1.jpg) | 박수와 백마 | 전진우 | 서울 : 문학과행동, 2026 | 811.37 전78박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38333/13/cover200/8999416216_1.jpg) | 아동생활지도와 상담 | 이소은 | 파주 : 양서원, 2025 | 372.14 이55아2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39656/83/cover200/k972130191_1.jpg) | 매스커레이드 라이프 : 히가시노 게이고 장편소설 | 동야규오 | 서울 : 현대문학, 2026 | 813.37 동63매K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23475/50/cover200/8990982863_1.jpg) | 환야 | 동야규오 | 서울 : 재인, 2020(2025 2쇄) | 811.37 동63환K김 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/19711/55/cover200/8934995289_1.jpg) | 옛날에 내가 죽은 집 | 동야규오 | 파주 : 비채 : 김영사, 2019(2025 6쇄) | 813.37 동63무K최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39519/83/cover200/k522139614_1.jpg) | 르네상스 성당 : 빛, 인간을 만나다 | 강한수 | 파주 : 파람북, 2026 | 726.5 강92르 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39597/98/cover200/k562130771_2.jpg) | 스페이스 X 마켓 : 미래 자본이 모이는 우주항공 산업의 모든 것 | 정의훈 | 서울 : 경이로움, 2026 | 338.476291 정67스 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39369/31/cover200/8925420538_1.jpg) | 최신 백워드 교육과정과 수업설계의 미래 | 강현석 | 파주 : 교육과학사, 2026 | 375.001 최58강3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39721/77/cover200/k502130700_1.jpg) | 꿈이다 아니다 : 김중혁 장편소설 | 김중혁 | 서울 : 안온북스, 2026 | 811.37 김76꿈 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38950/61/cover200/k362137117_1.jpg) | 1020 극우가 온다 : 알고리즘에 빼앗긴 세대를 되찾기 위한 정민철의 현장 리포트 | 정민철 | 서울 : Page2 : 페이지2북스, 2026 | 305.242 정38일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30303/88/cover200/k662839934_1.jpg) | (변화를 위한) 상담의 원리, 과정 그리고 기법 | 노안영 | 서울 : 북앤정, 2023 | 158.3 노62상북 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36868/60/cover200/k042030608_1.jpg) | 나무 같은 사람이 되고 싶다 : 꾸준히, 천천히, 묵묵히 삶을 키우는 나무의 지혜 | Marvin, Liz | [서울] : 아멜리에북스, 2025 | 158.1 M391hK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31399/67/cover/k452832203_1.jpg) | 바다가 들리는 편의점 | 정전소노코 | 서울 : 모모 : 바이포엠 스튜디오, 2023-2026 | 813.37 정74바K황 v.1~4 | 중앙도서관 |
