@@ -2,6 +2,26 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/39581/37/cover200/k932139348_1.jpg) | 우리는 가장 밝은 밤에 헤어졌다 : 백야 | Dostoyevsky, Fyodor | [서울] : 윌마, 2026 | 891.733 D724bK김백 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38657/36/cover200/899973630x_1.jpg) | MMPI로 정신역동적 심리치료하기 | 최성진 | 서울 : 학지사, 2026 | 155.283 최54m | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39553/98/cover200/8936439960_1.jpg) | 아코디언 : 천명관 장편소설 | 천명관 | 파주 : 창비, 2026 | 811.37 천34아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39408/46/cover200/k862139099_1.jpg) | 리치먼드힐의 이층 버스 | 이경진 | [파주] : 북플레저 : 책읽어주는남자, 2026 | 811.37 이14리 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37068/27/cover200/8936812602_1.jpg) | (빅터 프랭클의) 죽음의 수용소에서 | Frankl, Viktor E | 파주 : 청아, 2025 | 150.195 F831pK이3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39243/86/cover200/k182138105_1.jpg) | (바로 배워 바로 쓰는!) 바로바로 클로드 : with 코워크, 스킬, 클로드 코드, 디자인 | 차진우 | 서울 : 골든래빗, 2026 | 006.3 차78바 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39443/89/cover200/k232139499_1.jpg) | 부의 갈림길 : 대전환의 시작, 다시 쓰는 투자 포트폴리오 | 오건영 | 서울 : 포레스트북스 : 콘텐츠그룹 포레스트, 2026 | 332.6 오14부대 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39443/32/cover200/k392139397_1.jpg) | 나의 첫 번째 부동산 교과서 | 송희구 | [서울] : 서삼독, 2026 | 332.6324 송97나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39381/10/cover200/k912139872_1.jpg) | (조코딩의) 바이브 코딩 1인 창업 : wih 클로드 코드, 수파베이스, 스트라이프 | 조동근 | 서울 : 한빛미디어, 2026 | 006.3 조25바 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39078/89/cover200/k942137951_1.jpg) | 우월한 열등감 : 비교와 불안의 시대, 단단한 사람으로 성장하는 자존감 교육 | Adler, Alfred | 파주 : 저녁달, 2026 | 150.1953 A237eK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38895/53/cover200/k602137608_1.jpg) | 내면 근력 : 결국 멘탈 게임이다 | Murphy, Jim | 서울 : 윌북, 2026 | 650.1 M978iK지 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39137/0/cover200/k732137654_1.jpg) | 백지 앞에서 : 최은영 산문 | 최은영 | 파주 : 문학동네, 2026 | 811.47 최67백 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38793/3/cover200/k292137262_1.jpg) | 이향인 : 세상 밖에서 세상의 중심이 되는 사람들 | Kaminski, Rami | 파주 : 21세기북스 : 북이십일 21세기북스, 2026 | 155.232 K15gK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38808/31/cover200/k552137982_1.jpg) | 박태웅의 AI 강의 2026 | 박태웅 | 서울 : 한빛비즈, 2026 | 303.483 박883박 2026 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33081/18/cover200/k582937507_1.jpg) | 수족관 : 유래혁 장편소설 | 유래혁 | 서울 : postershop, 2023 | 811.37 유293수 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/e0b9c6d7-c44e-4495-915a-bc805daf43e1) | 우리가 빛의 속도로 갈 수 없다면 : 김초엽 소설 | 김초엽 | 서울 : 허블, 2019 | 811.37 김84우 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/f7f078e8-92e2-4773-9161-17c32f9d6281) | 생각에 관한 생각 : 우리의 행동을 지배하는 생각의 반란 | Kahneman, Daniel | 파주 : 김영사, 2018, 2025년(51쇄) | 153.42 K12tK이2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/20929dec-5241-46f9-b4c9-77ed97e29ecc) | 가면산장 살인사건 | 동야규오 | 서울 : 재인, 2014(2026 48쇄) | 813.37 동63가K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32004/62/cover200/k462834667_2.jpg) | (디자인을 완성하는) 레이아웃과 그리드 | 홍영일 | 수원 : 더에이치, 2023 | 741.6 홍64레4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36852/51/cover200/k232030306_1.jpg) | 버려지는 디자인 통과되는 디자인 : 편집디자인 | 이미정 | 서울 : 길벗, 2025 | 741.6 이38버2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27521/52/cover200/8999724484_1.jpg) | (수용전념치료와 함께) 역경 마주하기 | Harris, Russ | 서울 : 학지사, 2021 | 158 H315rK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38730/29/cover200/k502136847_1.jpg) | 시간이 만든 건축 : 서양 건축 재이용의 역사 | 가등경일 | 서울 : 집, 2026 | 720.94 가27시K권 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39656/35/cover200/k292130198_3.jpg) | 독서의 기술 : 책은 어떻게 삶의 무기가 되는가 | 고명환 | 서울 : 라곰, 2026 | 028 고34독 | 중앙도서관 |
@@ -32,23 +52,3 @@
 | ![](https://image.aladin.co.kr/product/241/85/cover200/8982737618_3.jpg) | 빛나는 청산가리 | Christie, Agatha | 서울 : 황금가지, 2022 | 823.912 C555sK허3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/8301/92/cover200/k302434352_1.jpg) | 크리스마스 푸딩의 모험 | Christie, Agatha | 서울 : 황금가지, 2016(2024 4쇄) | 823.912 C555aK김3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39544/52/cover200/k932139843_1.jpg) | 단둥 프로젝트 : 21세기 하이브리드 전쟁 보고 | 김미영 | 서울 : 세이지, 2026 | 324.66 김38단 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39090/91/cover200/k962137054_1.jpg) | 제5공화국 전두환 시대 | 김용삼 | 파주 : 자작나무숲, 2026 | 951.75 김65제 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39445/99/cover200/k062139495_1.jpg) | 공감의 서사학 : 장두영 평론집 | 장두영 | 서울 : 도화, 2026 | 811.3709 장26공 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29307/87/cover200/k492837607_2.jpg) | 물리의 쁠리에 : 과학자가 보는 발레 세상 | 배진수 | 서울 : 플로어웍스, 2022 | 792.8 배78물 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/5739/1/cover200/6000843625_1.jpg) | 오쓰카 에이지 순문학의 죽음·오타쿠·스토리텔링을 말하다 | 대총영지 | 서울 : 북바이북, 2015 | 306.40953 대84오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39760/23/cover200/k522130009_1.jpg) | 생각을 외주화한 사람들 | 정재민 | 서울 : 더스퀘어, 2026 | 303.483 정73생 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39711/30/cover200/k762130597_1.jpg) | 생각은 설계다 : 생각이 이동한 시대, 사고를 설계하는 법 | 안세진 | 고양 : 좋은땅, 2026 | 153.42 안54생 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38752/58/cover200/8999736482_1.jpg) | 치료적 현존 : 효과적인 치료적 관계를 위한 마음챙김 접근법 | Geller, Shari M | 서울 : 학지사, 2026 | 616.8914 G318t2K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37207/69/cover200/k162031598_1.jpg) | 가까스로-있음 : 브뤼노 라투르와 파국의 존재론 | 김홍중 | 서울 : 이음, 2025 | 301.01 김95가 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38875/48/cover200/k302137106_1.jpg) | 처음 읽는 브뤼노 라투르 : 하이브리드 세계의 하이브리드 사상 | Blok, Anders | 고양 : 사월의책, 2026 | 301 L359bK황 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27451/88/cover200/k372733470_1.jpg) | 세 개의 달 : SF2021 판타지 오디세이 | 듀나 | 서울 : 알마, 2021 | 811.3708 세13듀 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/19698/67/cover200/k292635934_1.jpg) | 구부전 | 듀나 | 서울 : 알마, 2019 | 811.37 듀192구 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26333/67/cover200/k662738028_3.jpg) | 평형추 : 듀나 장편소설 | 듀나 | 서울 : 알마, 2021 | 811.37 듀192평 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34474/50/cover200/k562932633_1.jpg) | 바리 | 듀나 | 서울 : 위즈덤하우스, 2024 | 811.37 듀192바 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37632/62/cover200/893643165x_1.jpg) | 별이가 우리에게 왔을 때 : 듀나 연작소설 | 듀나 | 파주 : 창비, 2025 | 811.37 듀192별 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39251/68/cover200/k922138302_1.jpg) | 우양선화의 모험 : 듀나 연작소설 | 듀나 | 고양 : 단비, 2026 | 811.37 듀192우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39769/95/cover200/k152130100_1.jpg) | 공포의 문법 : 두려움, 불길함, 섬뜩함을 자극하는 노골적이고 미묘한 것들에 대하여 | 듀나 | 서울 : 어크로스, 2026 | 809.933164 듀192공 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39726/38/cover200/k202130705_1.jpg) | 우리는 어쩌다 과학을 믿게 되었을까 : 노벨 물리학상으로 읽는 의심과 논쟁, 합의의 역사 | 이근희 | 서울 : 모어사이언스, 2026 | 530.09 이17우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24158/24/cover200/8942612865_1.jpg) | (유아교육기관에서의) 유아생활지도 | 조운주 | 서울 : 창지사, 2020 | 372.21 조66유4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37884/2/cover200/8924173898_1.jpg) | 대학 랭킹 향상 전략 : 주요 대학 랭킹 분석 | 김승억 | 서울 : 퍼플, 2025 | 378.1 김57대 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31399/67/cover/k452832203_1.jpg) | 바다가 들리는 편의점 | 정전소노코 | 서울 : 모모 : 바이포엠 스튜디오, 2023-2026 | 813.37 정74바K황 v.1~4 | 중앙도서관 |
