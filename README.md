@@ -2,6 +2,22 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38829/60/cover200/k972137187_1.jpg) | 생성적 코칭 | Dilts, Robert B | 서울 : 박영story : 피와이메이트, 2026 | 158.1 D579gK이 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39532/5/cover200/k602139634_1.jpg) | 윗집 부부 | 황보름 | 파주 : 클레이하우스, 2026 | 811.37 황45윗 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39822/94/cover200/k042130719_2.jpg) | Q : 오승호(고 가쓰히로) 장편소설 | 오승호 | 파주 : 블루홀식스, 2026 | 813.37 오57q | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39608/96/cover200/k552130873_1.jpg) | 사고외주 : 생각하지 않는 인간의 출현 | 홍진기 | 서울 : 어크로스, 2026 | 303.483 홍78사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39638/93/cover200/k382130171_1.jpg) | 달러구트 꿈 백화점 0 : 달러구트와 양치기 소년 이야기 | 이미예 | 서울 : 팩토리나인, 2026 | 811.37 이38달프 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/22/98/cover200/8989075068_1.jpg) | 김우진 전집 | 서연호 | 서울 : 연극과 인간, 2000 | 811.08 김66서 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/20516/40/cover200/k782635551_1.jpg) | 난파 | 김우진 | 서울 : 지만지드라마, 2019 | 811.27 김66난 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18703/91/cover200/8960985899_1.jpg) | 베트남어는 뻔한 패턴의 반복이다 : pattern 100 | 이아영 | 파주 : 씨앤톡, 2019 | 495.922 이62베 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/18986/62/cover200/k992635790_1.jpg) | 모어 이펙티브 C# : 더 강력한 C# 코드를 구현하는 50가지 추가 전략과 기법 | Wagner, Bill | 서울 : 한빛미디어, 2019 | 005.133 W132m2K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/55/13/cover200/8974791609_2.jpg) | (무비 스님) 임제록 강설 | 무비 | 서울 : 불광출판사, 2005(2023 9쇄) | 294.3927 임94무 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/14656/58/cover200/8934981482_1.jpg) | (한 권으로 읽는) 종용록 | 만송행수 | 파주 : 김영사, 2018(2024 3쇄) | 294.3927 만55종K혜 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27231/95/cover200/8934989572_1.jpg) | (한 권으로 읽는) 벽암록 | 원오극근 | 파주 : 김영사, 2021 | 294.3927 원65벽K혜 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39646/25/cover200/k952130274_1.jpg) | 낙하 : 이희영 장편소설 | 이희영 | 서울 : 오리지널스 : kr 밀리의서재, 2026 | 811.37 이97낙 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39769/17/cover200/k602130108_1.jpg) | 그린 마일 | King, Stephen | 서울 : 황금가지, 2026 | 823.914 K54gK이2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39761/16/cover200/k272130000_1.jpg) | 알렉상드르 뒤마와 함께하는 여름 | Rufin, Jean-Christophe | 서울 : 뮤진트리, 2026 | 843.7 R926uK백 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37339/48/cover200/8930042090_1.jpg) | 자유와 형식 : 독일 정신사 연구 | Cassirer, Ernst | 파주 : 나남, 2025 | 193 C345fK임 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39581/37/cover200/k932139348_1.jpg) | 우리는 가장 밝은 밤에 헤어졌다 : 백야 | Dostoyevsky, Fyodor | [서울] : 윌마, 2026 | 891.733 D724bK김백 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38657/36/cover200/899973630x_1.jpg) | MMPI로 정신역동적 심리치료하기 | 최성진 | 서울 : 학지사, 2026 | 155.283 최54m | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39553/98/cover200/8936439960_1.jpg) | 아코디언 : 천명관 장편소설 | 천명관 | 파주 : 창비, 2026 | 811.37 천34아 | 중앙도서관 |
@@ -36,19 +52,3 @@
 | ![](https://image.aladin.co.kr/product/39791/0/cover200/k992130307_1.jpg) | (예제가 가득한) 코파일럿 길라잡이 | 이승우 | 서울 : 정보문화사, 2026 | 006.3 이57코 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/195/23/cover200/8938204537_1.jpg) | 검찰 측의 증인 | Christie, Agatha | 서울 : 해문출판사, 2008 | 823.912 C555wK최 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/2879/82/cover200/8982737758_3.jpg) | 운명의 문 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555pK천3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2879/78/cover200/898273774x_3.jpg) | 주머니 속의 호밀 | Christie, Agatha | 서울 : 황금가지, 2024 | 823.912 C555pK이3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2752/55/cover200/8982737731_3.jpg) | 잠자는 살인 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555sK김황3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2752/51/cover200/8982737723_3.jpg) | 죽은 자의 어리석음 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555dK송3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2750/25/cover200/8982737715_3.jpg) | 히코리 디코리 독 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555hK홍3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2750/24/cover200/8982737707_3.jpg) | 복수의 여신 | Christie, Agatha | 서울 : 황금가지, 2024 | 823.912 C555nK원3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2736/73/cover200/8982737685_3.jpg) | 버트럼 호텔에서 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555aK원3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39596/46/cover200/k832130667_1.jpg) | 내가 죽이지 않았다 : 정해연 장편소설 | 정해연 | 서울 : VANTA : 오팬하우스 , 2026 | 811.37 정93내정 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Psychotechnical becomings : psychoanalysis, identity, desire, and mourning in the age of AI and digital mediation | Lemma, Alessandra | Abingdon, Oxon | 150.195 L554p | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Histoire de la littérature coréenne | Maurus, Patrick | Paris : Ellipses, 2005. | 811.09 M458h | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2736/72/cover200/8982737677_3.jpg) | 세 번째 여인 | Christie, Agatha | 서울 : 황금가지, 2024 | 823.912 C555tK박3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2723/72/cover200/8982737669_3.jpg) | 프랑크푸르트행 승객 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555pK허3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2723/68/cover200/8982737650_3.jpg) | 마술 살인 | Christie, Agatha | 서울 : 황금가지, 2024 | 823.912 C555tK김3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/241/85/cover200/8982737634_3.jpg) | 그들은 바그다드로 갔다 | Christie, Agatha | 서울 : 황금가지, 2023 | 823.912 C555tK박황3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/241/85/cover200/8982737618_3.jpg) | 빛나는 청산가리 | Christie, Agatha | 서울 : 황금가지, 2022 | 823.912 C555sK허3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/8301/92/cover200/k302434352_1.jpg) | 크리스마스 푸딩의 모험 | Christie, Agatha | 서울 : 황금가지, 2016(2024 4쇄) | 823.912 C555aK김3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39544/52/cover200/k932139843_1.jpg) | 단둥 프로젝트 : 21세기 하이브리드 전쟁 보고 | 김미영 | 서울 : 세이지, 2026 | 324.66 김38단 | 중앙도서관 |
