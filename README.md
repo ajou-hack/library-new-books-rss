@@ -2,7 +2,23 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
-| ![](https://image.aladin.co.kr/product/38829/60/cover200/k972137187_1.jpg) | 생성적 코칭 | Dilts, Robert B | 서울 : 박영story : 피와이메이트, 2026 | 158.1 D579gK이 v.1 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/11548/6/cover200/8954646565_1.jpg) | 풀이 눕는다 : 김사과 장편소설 | 김사과 | 파주 : 문학동네, 2017(2026 10쇄) | 811.37 김52풀2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23596/32/cover200/8932036047_1.jpg) | 아카이브 취향 | Farge, Arlette | 서울 : 문학과지성사, 2020(2026 7쇄) | 907.2 F223gK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/5483/1/cover200/893646034x_1.jpg) | 순이삼촌 | 현기영 | 파주 : 창비, 2015(2025 35쇄) | 811.36 현18순3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38831/83/cover200/8937404613_1.jpg) | 농담 | Kundera, Milan | 서울 : 민음사, 2026 | 891.8635 K96pK방3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37686/72/cover200/8937464721_1.jpg) | 사람은 무엇으로 사는가 | Tolstoy, Leo | 서울 : 민음사, 2025 | 891.733 T654cK연 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/4282/41/cover200/8952771699_1.jpg) | 인간의 대지 | Saint Exupery, Antoine de | 서울 : 시공사, 2014(2026 13쇄) | 843.912 S157tK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/15851/5/cover200/8954650899_1.jpg) | (알랭 드 보통의) 영혼의 미술관 | Botton, Alain de | 파주 : 문학동네, 2018 | 701.18 B751aK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28307/25/cover200/8954683703_1.jpg) | 백야 : 표도르 도스토옙스키 소설 | Dostoyevsky, Fyodor Mikhaylovich | 파주 : 문학동네, 2021 | 891.733 D724bK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/406/73/cover200/8957462279_1.jpg) | 마음, 어떻게 움직이는가 | 미산 | 서울 : 운주사, 2009(2025 4쇄) | 150.2 마67미 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/651/8/cover200/8960862371_2.jpg) | 1만 시간의 법칙 | 이상훈 | 고양 : 위즈덤하우스, 2010(2024 57쇄) | 650.1 이52일위 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25636/23/cover200/8968332649_1.jpg) | 적당히 가까운 사이 | 댄싱스네일 | 서울 : 허밍버드 : 백도씨, 2020(2025 18쇄) | 811.87 댄58적 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29808/65/cover200/8984012556_1.jpg) | 페르마의 마지막 정리 | Singh, Simon | 서울 : 영림카디널 : 와이엘씨, 2022 | 512.74 S617fK박4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/57/3/cover200/6000344510_2.jpg) | '나'라고 할 만한 것이 없다는 사실이 있다 : 부처님이 가르친 것 | Rahula, Walpola | 서울 : 경서원, 1995(2011 5쇄) | 294.34 R148wK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29788/31/cover200/8989047412_1.jpg) | 18세기 영국 산업혁명 강의 | Toynbee, Arnold | 고양 : 지식의풍경, 2022 | 330.941 T756LK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39300/79/cover200/k172138712_1.jpg) | 헨리 포드의 원칙 : 100년의 격변을 이겨낸 일과 삶의 태도 | Ford, Henry | 서울 : 와이즈맵, 2026 | 629.2092 F699mK정 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31483/4/cover200/k312832629_1.jpg) | 블루마블 | 이종산 | 서울 : 위즈덤하우스, 2023 | 811.37 이75블 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38829/60/cover200/k972137187_1.jpg) | 생성적 코칭 | Dilts, Robert B | 서울 : 박영story : 피와이메이트, 2026 | 158.1 D579gK이 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39532/5/cover200/k602139634_1.jpg) | 윗집 부부 | 황보름 | 파주 : 클레이하우스, 2026 | 811.37 황45윗 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39822/94/cover200/k042130719_2.jpg) | Q : 오승호(고 가쓰히로) 장편소설 | 오승호 | 파주 : 블루홀식스, 2026 | 813.37 오57q | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39608/96/cover200/k552130873_1.jpg) | 사고외주 : 생각하지 않는 인간의 출현 | 홍진기 | 서울 : 어크로스, 2026 | 303.483 홍78사 | 중앙도서관 |
@@ -36,19 +52,3 @@
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/e0b9c6d7-c44e-4495-915a-bc805daf43e1) | 우리가 빛의 속도로 갈 수 없다면 : 김초엽 소설 | 김초엽 | 서울 : 허블, 2019 | 811.37 김84우 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/f7f078e8-92e2-4773-9161-17c32f9d6281) | 생각에 관한 생각 : 우리의 행동을 지배하는 생각의 반란 | Kahneman, Daniel | 파주 : 김영사, 2018, 2025년(51쇄) | 153.42 K12tK이2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/20929dec-5241-46f9-b4c9-77ed97e29ecc) | 가면산장 살인사건 | 동야규오 | 서울 : 재인, 2014(2026 48쇄) | 813.37 동63가K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32004/62/cover200/k462834667_2.jpg) | (디자인을 완성하는) 레이아웃과 그리드 | 홍영일 | 수원 : 더에이치, 2023 | 741.6 홍64레4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36852/51/cover200/k232030306_1.jpg) | 버려지는 디자인 통과되는 디자인 : 편집디자인 | 이미정 | 서울 : 길벗, 2025 | 741.6 이38버2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27521/52/cover200/8999724484_1.jpg) | (수용전념치료와 함께) 역경 마주하기 | Harris, Russ | 서울 : 학지사, 2021 | 158 H315rK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38730/29/cover200/k502136847_1.jpg) | 시간이 만든 건축 : 서양 건축 재이용의 역사 | 가등경일 | 서울 : 집, 2026 | 720.94 가27시K권 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39656/35/cover200/k292130198_3.jpg) | 독서의 기술 : 책은 어떻게 삶의 무기가 되는가 | 고명환 | 서울 : 라곰, 2026 | 028 고34독 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39666/69/cover200/8961474987_1.jpg) | 사유한다는 것은 아니라고 말하는 것이다 | Derrida, Jacques | 서울 : 이학사, 2026 | 190 D438pK강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39827/79/cover200/k382130711_1.jpg) | 이름 없는 것들의 밤 : 정보라 연작소설 | 정보라 | 서울 : 현대문학, 2026 | 811.37 정45이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39821/4/cover200/8936425404_1.jpg) | 범지구적 사랑을 위한 최첨단 심령술 | 전수오 | 파주 : 창비, 2026 | 811.17 전56범 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39820/74/cover200/k472130605_2.jpg) | 햄버거를 먹다가 죽었는데, 저승에서 썸남을 만났다 | Greenwood, Kirsty | 서울 : 향기책방, 2026 | 823.92 G816LK허 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29152/92/cover200/k282837370_1.jpg) | 이제는 말해도 괜찮아 : 외상을 경험한 아동·청소년을 위한 인지행동치료 프로그램 [지침서] | 최지영 | 서울 : 사회평론아카데미, 2022 | 616.89142 최78이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22618/79/cover200/8999719847_1.jpg) | (자기탐색을 통한) 인지행동치료 경험하기 : 치료사를 위한 자기훈련/자기반영 워크북 | Bennett-Levy, James | 서울 : 학지사, 2020 | 616.891425 E96bK정 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/3498/74/cover200/8960177814_1.jpg) | 나일 강의 죽음 : 애거서 크리스티 장편 소설 | Christie, Agatha | 서울 : 황금가지, 2013, (2025 19쇄) | 823.912 C555dK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39781/35/cover200/k832130208_1.jpg) | 사진구도 완전정복 : 좋은 사진은 구도에서 시작된다 | 허흥무 | 고양 : 아티오, 2026 | 770.11 허97사 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39791/0/cover200/k992130307_1.jpg) | (예제가 가득한) 코파일럿 길라잡이 | 이승우 | 서울 : 정보문화사, 2026 | 006.3 이57코 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/195/23/cover200/8938204537_1.jpg) | 검찰 측의 증인 | Christie, Agatha | 서울 : 해문출판사, 2008 | 823.912 C555wK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2879/82/cover200/8982737758_3.jpg) | 운명의 문 | Christie, Agatha | 서울 : 황금가지, 2025 | 823.912 C555pK천3 | 중앙도서관 |
