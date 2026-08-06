@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/37118/10/cover200/8984947555_1.jpg) | 중국 고대 법제의 기원과 전개 | 임병덕 | 서울 : 혜안, 2025 | 340.0952 임44중혜 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Probability and stochastic processes : a friendly introduction for electrical and computer engineers | Yates, Roy D | Hoboken, NJ : Wiley, 2025. | 519.2 Y33p4 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Grace in all simplicity : beauty, truth, and wonders on the path to the Higgs boson and new laws of nature | Cahn, Robert N | New York : Pegasus Books, 2023. | 539.721 C132g | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | AI systems performance engineering : optimizing model training and inference workloads with GPUs, CUDA, and PyTorch | Fregly, Chris | Santa Rosa, CA : O'Reilly Media, Inc., 2025. | 006.3 F858a | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://image.aladin.co.kr/product/39638/93/cover200/k382130171_1.jpg) | 달러구트 꿈 백화점 0 : 달러구트와 양치기 소년 이야기 | 이미예 | 서울 : 팩토리나인, 2026 | 811.37 이38달프 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/22/98/cover200/8989075068_1.jpg) | 김우진 전집 | 서연호 | 서울 : 연극과 인간, 2000 | 811.08 김66서 v.1 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/20516/40/cover200/k782635551_1.jpg) | 난파 | 김우진 | 서울 : 지만지드라마, 2019 | 811.27 김66난 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/18703/91/cover200/8960985899_1.jpg) | 베트남어는 뻔한 패턴의 반복이다 : pattern 100 | 이아영 | 파주 : 씨앤톡, 2019 | 495.922 이62베 | 중앙도서관 |
