@@ -2,6 +2,22 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/39516/92/cover200/k612139514_2.jpg) | 평등한 평범 : 차별금지법이 꿈꾸는 세계 | 장혜영 | 서울 : 후마니타스, 2026 | 342.087 장94평 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38872/86/cover200/k172137007_1.jpg) | 효성 오디세이아 | 백인호 | 서울 : 정음서원, 2026 | 338.092 백68효 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39648/56/cover200/k602130379_1.jpg) | 피지컬 AI 시스템 설계 : LLM/VLM에서 VLA까지, 시뮬레이터·데이터·오픈 생태계로 설계하는 로봇 지능 | 엥지유니버스 | 서울 : 한빛미디어, 2026 | 006.3 엥78피 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35935/85/cover200/8937464632_2.jpg) | 지킬 박사와 하이드 씨의 기이한 사건 | Stevenson, Robert Louis | 서울 : 민음사, 2025 | 823.8 S848sK전기 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39019/42/cover200/8999736814_1.jpg) | 수치심의 심리학 : 수치심 기반 증후군의 이론과 치료 | Kaufman, Gershen | 서울 : 학지사, 2026 | 616.852 K21p2K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39122/78/cover200/8999737071_1.jpg) | 트라우마 이해기반 죄책감 감소 치료 : 트라우마와 도덕적 손상으로 인한 죄책감과 수치심 치료 | Norman, Sonya | 서울 : 학지사, 2026 | 616.8521 T777nK현 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31563/32/cover200/k952832258_1.jpg) | (렛유인 한권으로 끝내는 전공·직무 면접) 반도체 이론편 : 트렌드, 기초이론, 소자, 8대 공정, 패키징/테스트 공정 이론 완성 | 공지훈 | 서울 : 렛유인, 2023 | 658.31124 반25공4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39895/75/cover200/k122130825_2.jpg) | 인 더 메가처치 : 아사이 료 장편소설 | 조정료 | 서울 : 은행나무, 2026 | 813.37 조74인K송 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39931/50/cover200/k652130123_1.jpg) | 기후로 보는 한국사 : 기후가 바꾼 5천 년, 새롭게 읽는 우리 역사 | 박정재 | 서울 : 바다, 2026 | 951 박74기 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39938/18/cover200/k662130229_1.jpg) | 나는 오늘도 유물과 대화하러 간다 : 고궁에서 장인까지, 아주 오래된 것들의 아름다움 | 서헌강 | 파주 : 다산초당, 2026 | 709.51 서94나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/26552/37/cover200/k822738837_2.jpg) | 나로 말할 것 같으면 : 윤명숙 에세이 | 윤명숙 | 서울 : Alma, 2021 | 811.87 윤34나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39705/19/cover200/k242130599_1.jpg) | 믹스테이프 : 전건우 장편소설 | 전건우 | 서울 : 앤드, 2026 | 811.37 전14믹 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Life after cars : freeing ourselves from the tyranny of the automobile | Goodyear, Sarah | New York, NY : Thesis, 2025. | 303.4832 G658L | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cognitive behavior therapy : basics and beyond | Beck, Judith S | New York : The Guilford Press, 2021. | 616.891425 B393c3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Using psychoanalysis to understand and address AI bias : refractions in the digital mirror | Messina, Karyne | Abingdon, Oxon | 006.3019 M585u | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cultural policy : management, value and modernity in the creative industries | O'Brien, Dave | London : Routledge, 2014. | 338.470705 O13c | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38594/42/cover200/k672136272_1.jpg) | 관동대지진 조선인 학살 관련 번역 자료집 | 서종진 | 서울 : 동북아역사재단, 2025 | 953.62 서75관 v.2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36588/64/cover200/k532039556_1.jpg) | 관동대지진과 조선인학살 | 성주현 | 서울 : 선인, 2024 | 953.62 성76관선 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38858/82/cover200/k222137000_1.jpg) | 지진과 학살 : 1923~2024 | 안전호일 | 세종 : 마르코폴로, 2026 | 953.62 안74지K김 | 중앙도서관 |
@@ -36,19 +52,3 @@
 | ![](https://image.aladin.co.kr/product/39001/58/cover200/899973613x_1.jpg) | 집단상담의 실제 | 강진령 | 서울 : 학지사, 2026 | 158.35 강78집4 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 이 모든 것의 철학적 의미는 | Nagel, Thomas | 파주 : 서광사, 1989(2018 14쇄) | 100 N147wK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37118/10/cover200/8984947555_1.jpg) | 중국 고대 법제의 기원과 전개 | 임병덕 | 서울 : 혜안, 2025 | 340.0952 임44중혜 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39664/46/cover200/k612130197_1.jpg) | AI도 모르는 글쓰기 : 초안을 완성으로 바꾸는 AI 협업 글쓰기 | 정나래 | 서울 : 한빛미디어, 2026 | 808.0028563 정192a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39575/25/cover200/k692139248_2.jpg) | 시뮬라시옹 서사 : AI 영상 콘텐츠의 기술미학 | 임종수 | 부천 : 팬덤북스, 2026 | 302.231 임75시 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39605/67/cover200/k422130878_1.jpg) | 허위자백 : 사람들은 왜 저지르지 않은 죄를 자백하는가? : 사람들은 왜 그것을 믿는가? | Kassin, Saul | 서울 : 진실의 힘, 2026 | 363.254 K19dK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39599/99/cover200/k112130775_1.jpg) | 이 말만은 남기고 싶었다오 : 6.25전쟁 교환 국군포로 6인의 증언 | 이혜민 | [서울] : 깊은바다돌고래, 2026 | 951.72 이94이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39582/46/cover200/k542139341_1.jpg) | 세계에 속한다는 것 : 아이들은 무엇을 배우며 어떻게 어른이 되는가 | 조은주 | 서울 : 생각의힘, 2026 | 305.235 조67세 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39553/24/cover200/k552139045_2.jpg) | 우리는 왜 사랑을 견디지 못하는가 | Odets, Walt | 서울 : 빛틈, 2026 | 306.7662 O23oK함 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39637/35/cover200/k232130077_1.jpg) | 근본 없는 민주주의 : 에르네스토 라클라우를 읽자 | 현우식 | 서울 : 빨간소금, 2026 | 320.01 L141현 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39646/50/cover200/k372130274_1.jpg) | 왜 가르쳐야 하는가 : AI 시대, 배움의 본질을 다시 설계하다 | 이진우 | 파주 : 다산북스, 2026 | 370.115 이78왜 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39717/50/cover200/k252130696_1.jpg) | 파시즘 신화 : 보르헤스, 프로이트, 슈미트에게서 나타난 비이성의 역사와 정치 | Finchelstein, Federico | 성남 : 에디투스, 2026 | 320.533 F492fK안 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39677/69/cover200/k222130391_1.jpg) | 세계화는 어떻게 실패했는가 : 자유무역의 반작용 그리고 트럼프 시대의 개막 | Lynch, David J | 파주 : 21세기북스, 2026 | 330.973 L987wK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39716/28/cover200/k802130693_1.jpg) | AI 시대, 공영방송은 어떻게 살아남는가 : 우리 아이들의 미래를 위한 공영교육미디어의 선택 | 류남이 | 서울 : 맘에드림, 2026 | 384.554 류192a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39656/99/cover200/k732130191_1.jpg) | 모자이크 : 가해자 감정과 학살 | 한성훈 | 서울 : 진실의 힘, 2026 | 364.151 한54모 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39641/52/cover200/k122130278_1.jpg) | 그룹 코칭 툴박스 : 현장에서 바로 적용하는 45가지 그룹 코칭 방법 | 구자호 | 서울 : 학토재, 2026 | 658.3124 구72그현 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39653/35/cover200/k712130096_1.jpg) | 일 잘하는 사람은 이렇게 말한다 : 성과로 이끄는 말의 기술 | 이지윤 | 서울 : 책과나무, 2026 | 658.45 이78일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39605/12/cover200/k622130777_1.jpg) | 국경을 넘어 나를 설계하다 : 여러 나라를 지나 바이오더마에 닿기까지의 여정 | 하주현 | 고양 : 예미, 2026 | 650.1 하76국 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39641/19/cover200/k122130177_1.jpg) | 멋지게 내 인생을 사는 법 | 석소안 | 고양 : 빅마우스, 2026 | 179.9 석55주K양빅 | 중앙도서관 |
