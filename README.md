@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38595/33/cover200/8977707811_1.jpg) | 상법강의 | 송옥렬 | 서울 : 弘文社, 2026 | 346.07 송65상16 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/29210/10/cover/k372837384_1.jpg) | 형사기록의 이해 | 박광서 | 서울 : 박영사, 2022 | 345.05 박15형 2022 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/40090/92/cover200/k102130449_1.jpg) | 2026년도 법학전문대학원 형사재판실무.4, 수습기록 | 사법연수원 | 서울 : 사법발전재단, 2026 | 345.05 사44법형 2026 v.4 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2026년도 법학전문대학원 형사재판실무.3, 강의노트 | 사법연수원 | 서울 : 사법발전재단, 2026 | 345.05 사44법형 2026 v.3 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2026년도 법학전문대학원 형사재판실무.2, 형사판결서 | 사법연수원 | 서울 : 사법발전재단, 2026 | 345.05 사44법형 2026 v.2 | 법학도서관 |
@@ -35,20 +37,18 @@
 | ![](https://image.aladin.co.kr/product/36930/87/cover200/897012179x_1.jpg) | 바벨 : R. F. 쿠앙 장편소설 | Kuang, R. F | 파주 : 문학사상, 2025 | 823.92 K95bK이 v.1~2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/30139/79/cover200/k212839289_1.jpg) | 고급 패널데이터 분석 STATA : 15-17 version | 민인식 | 고양 : 지필미디어, 2022 | 519.50285 민68고3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39987/24/cover200/k512130727_3.jpg) | 태양 아래 올리브 : 김초엽 장편소설 | 김초엽 | 고양 : 자이언트, 2026 | 811.37 김84태 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Profits of queerness : media, biomedicine, and citizenship in authoritarian South Korea, 1950-1980 | Henry, Todd A | Honolulu : University of Hawaii Press, 2026. | 306.760951 H524p | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Counseling the culturally diverse : theory and practice | Sue, Derald Wing | Hoboken, NJ : Wiley, 2022. | 158.3 S944c9 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The boys in the band | Crowley, Mart | [New York] : Samuel French, 2018. | 822.914 C953b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The immortal mind : a neurosurgeon's case for the existence of the soul | Egnor, Michael | New York : Worthy, 2025. | 128.1 E31i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook on sport and culture | Girginov, Vassil | Northampton : Edward Elgar Publishing, 2025. | 306.483 G524h | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | La beaute d'un Tout | 구본창 | Paris : l'Harmattan, 2024. | 770.1 구45b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fleabag : the scriptures | Waller-Bridge, Phoebe | New York : Ballantine Books : Random House, 2019. | 791.4572 W198f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The new other : alien intelligence and the innovation drive | Levy, Amy | Bicester, Oxford : Karnac Books, 2026. | 006.301 L668n | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The social design reader | Resnick, Elizabeth | London : Bloomsbury Visual Arts, 2019 | 745.2 R434s | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39517/42/cover200/8925569280_1.jpg) | 화성에 도시를 세운다면 : 인류가 우주에 진출하려면 꼭 해결해야 하는 숨은 난제들 | Weinersmith, Zach | 서울 : 알에이치코리아, 2026 | 629.4 W423cK지 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35536/63/cover200/8936431528_1.jpg) | 허밍 : 최정원 장편소설 | 최정원 | 파주 : 창비, 2025 | 811.37 최74허 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40015/30/cover200/k972130239_1.jpg) | 알리바이의 해부학 : 애슐리 엘스턴 장편소설 | Elston, Ashley | 파주 : 문학동네, 2026 | 823.92 E49ak엄 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40013/75/cover200/8936439995_1.jpg) | 찌니주의보 : 정지아 장편소설 | 정지아 | 파주 : 창비, 2026 | 811.37 정78찌 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39931/35/cover200/k432130123_1.jpg) | Talk! Talk! 알려줘! 시사 한국어 | 정유진 | 서울 : 한글파크, 2026 | 411.4 정66t | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40030/79/cover200/k562130536_1.jpg) | (2026) 이효석문학상 수상작품집 : 사과 | 박솔뫼 | 파주 : 북다교보문고,c2026 | 811.308 이95문 2026 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30508/21/cover200/k482830290_1.jpg) | 바자제 | Racine, Jean | 서울 : 책세상, 2022 | 842.4 R121bK심 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30838/39/cover200/k072831372_1.jpg) | 클래스 | 진주 | 서울 : 이음, 2022 | 811.27 진76클 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31239/25/cover200/k452832967_1.jpg) | 하이테크 마케팅 | 김상훈 | 서울 : 박영사, 2023 | 658.8 김52하5 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38723/25/cover200/8968445664_1.jpg) | 인적자원관리 | Noe, Raymond A | 서울 : 한경사, 2026 | 658.3 F981n10K박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36379/18/cover200/k652039573_1.jpg) | (사례로 쉽게 배우는) 기업가치 평가 | 엄성환 | 서울 : 율곡, 2025 | 658.15 김14기2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35897/31/cover200/k502037987_1.jpg) | 고용관계론 | 김주희 | 서울 : 박영사, 2025 | 331.8 고65김5 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37199/10/cover200/8999732428_1.jpg) | 특수교육학개론 | 이미숙 | 서울 : 학지사, 2025 | 371.9 특56이특 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/920/22/cover200/8963305287_1.jpg) | 다문화 상담 : 이론과 실제 | Sue, Derald Wing | 서울 : 학지사, 2011 | 158.3 S944c5K하 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33247/4/cover200/s132938660_1.jpg) | 도시행정론 : 이론과 정책 | 박종화 | 고양 : 대영문화사, 2024 | 352.008 박75도6 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32406/82/cover200/8941182328_1.jpg) | 의약품기기분석학 | 이후근 | 파주 : 동명사, 2023 | 615.19 약896의동3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27073/86/cover200/8925588889_1.jpg) | 필론과 돼지 | 이문열 | 서울 : 알에이치코리아 : RHK, 2021 | 811.36 이36필 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35897/27/cover200/k322037987_1.jpg) | 고려대 한국어.5 | 김정숙 | 서울 : 고려대학교출판문화원, 2025 | 411.8 고294고한 v.5A/v.5B | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35335/28/cover200/k772035589_1.jpg) | 컴퓨터구조론 | 김종현 | 파주 : 생능, 2024 | 004.22 김75컴6 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37898/49/cover200/k552033627_1.jpg) | 창의적 공학설계 | 김은경 | 서울 : 한빛아카데미, 2025 | 620.0042 김67창4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36747/55/cover200/8999734501_1.jpg) | 현대 심리치료와 상담 이론 : 마음의 치유와 성장으로 가는 길 | 권석만 | 서울 : 학지사, 2025 | 616.8914 권54현2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36114/6/cover200/k862038063_2.jpg) | 혼자 공부하는 머신러닝+딥러닝 | 박해선 | 서울 : 한빛미디어, 2025 | 006.31 박93혼2 | 중앙도서관 |
