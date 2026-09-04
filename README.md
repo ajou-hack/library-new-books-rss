@@ -2,6 +2,30 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38732/99/cover200/k002136944_1.jpg) | 세법스타트 | 이철재 | 서울 : 212 Design Studio, 2026 | 343.04076 세44이 2026 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/39520/44/cover200/k782139615_1.jpg) | 트럼프와 인공지능 시대의 국제 통상법 | 정찬모 | 서울 : 박영사, 2026 | 343.087 정82트 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/39164/91/cover200/k982138963_3.jpg) | 기계가 언어를 사용한다는 것에 대한 인문학적 사유 : LLM 인공지능이 생성하는 글과 말을 어떻게 바라볼 것인가 | Coeckelbergh, Mark | 서울 : 생각이음, 2026 | 006.301 C672cK신 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34374/15/cover200/895559450x_1.jpg) | 소비하는 삶 소비되는 삶 | Bauman, Zygmunt | 서울 : 새물결, 2024 | 339.47 B347cK궁 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36374/77/cover200/k462039578_1.jpg) | 뇌를 위한 침묵 수업 : 소란한 세상에서 나를 지키는 침묵의 뇌과학 | Le Van Quyen, Michel | 서울 : 어크로스, 2025 | 612.82 L655cK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35852/8/cover200/8955868405_1.jpg) | 니체의 『안티크리스트』 읽기 | 신호재 | 서울 : 세창미디어, 2025 | 193 N677신세 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35233/5/cover200/8964374703_1.jpg) | 상속자들 : 학생과 문화 | Bourdieu, Pierre | 서울 : 후마니타스, 2024 | 378.1980944 B769hK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34234/24/cover200/k012931330_1.jpg) | 의례를 통한 저항 : 전후 영국의 청년 하위문화 | Hall, Stuart | 서울 : 컬처룩, 2024 | 305.2350941 H179r2K임 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/19688/88/cover/k952635836_1.jpg) | 맨 끝줄 소년 | Mayorga, Juan | 서울 : 지만지드라마, 2019 | 862.64 M473cK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31338/20/cover/894607440x_1.jpg) | 문화코드, 어떻게 읽을 것인가? : 문화연구의 이론과 실제 | Longhurst, Brian | 파주 : 한울아카데미 : 한울엠플러스, 2023-2024 | 306 I61b3K조 v.1~2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 예방약학 | 한국약학교육협의회 | 서울 : 신일북스, 2023 | 615 한16예10 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/4376/36/cover/1185136096_1.jpg) | 스펙타클의 사회 | Debord, Guy | 서울 : 울력, 2014(2020 4쇄, 2026 6쇄) | 302 D287sK유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25568/73/cover/8964452283_1.jpg) | 계몽이란 무엇인가 | Kant, Immanuel | 서울 : 길, 2020(2025 3쇄) | 193 계35kK임 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/17665/92/cover/k122534513_1.jpg) | 인스파이어드 | Cagan, Marty | 파주 : 제이펍, 2018(2024 7쇄) | 658.575 C131i2K황 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24297/66/cover/k682630787_1.jpg) | 언어의 역사 : 말과 글에 관한 궁금증을 풀다 | Crystal, David | 서울 : 소소의책, 2020(2025 10쇄) | 400 C957LK서말 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23834/75/cover/8984119377_1.jpg) | 담론의 질서 | Foucault, Michel | 서울 : 세창, 2020 | 194 F762oK허 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/20168/25/cover/8962851423_1.jpg) | 도시설계 | 이제선 | 고양 : 대가, 2014 | 711.4 U72LK김 v.1~2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/1263ae23-bfab-46ce-a03b-d23aed1751cb) | 젊은작가상 수상작품집제7회(2016) | 김금희 | 파주 : 문학동네, 2016(2024 11쇄) | 811.3708 젊67문 v.7 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/1b36f37a-038e-4934-aa36-b74aed77865a) | 유년의 뜰 : 오정희 소설집 | 오정희 | 서울 : 문학과지성사, 2017(2024 9쇄) | 811.37 오74유3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/80a3e1d0-d0b9-4763-a9b8-2fd7a2c6a814) | 경영의 모험 | Brooks, John | 파주 : 쌤앤파커스, 2015(2023 10쇄) | 650.0973 B873bK이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/ae97211c-d2aa-4f35-ae3a-7f1b8cb0c985) | 리튬이차전지의 원리 및 응용 | 강기석 | 서울 : 홍릉과학, 2010(2025 20쇄) | 621.312424 리886박 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 실험 예방약학 | 한국약학대학협의회 | 서울 : 신일상사, 2006(2014 5쇄) | 615 한16실 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/302/5/cover/8970128336_1.jpg) | 달리기를 말할 때 내가 하고 싶은 이야기 | 촌상춘수 | 서울 : 문학사상, 2009(2026 100쇄) | 813.37 촌52주K임 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 國語史槪說 | 이기문 | 서울 : 太學社, 1998(2024 40쇄) | 411.09 이18국신 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36238/98/cover200/k932038716_2.jpg) | 일리아스 : 고대 그리스어 완역본 | Homeros | 서울 : 현대지성, 2025 | 883.01 H766iK박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27803/12/cover200/k392734164_1.jpg) | 당장 사랑을 멈춰주세요, 제발 : 김솔 소설집 | 김솔 | 서울 : 청색종이, 2021 | 811.37 김55당 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39990/49/cover200/8999737918_1.jpg) | 우울증의 인지치료 | Beck, Aaron T | 서울 : 학지사, 2026 | 616.852 C676b2K민 | 중앙도서관 |
@@ -22,33 +46,9 @@
 | ![](https://image.aladin.co.kr/product/39760/25/cover200/k602130009_1.jpg) | 엄마도 아이도 꼼꼼하게 성장 중입니다 : 느린 학습자 아이와 엄마의 성장 기록 | 석예희 | [서울] : 포르체, 2026 | 649.152 석64엄 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/29875/94/cover200/k212838732_1.jpg) | 함께 걷는 느린 학습자 학교생활 | 이보람 | 파주 : 이담 : 한국학술정보, 2022 | 371.926 이45함 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35799/26/cover200/k852036459_1.jpg) | 느린 학습자, 경계선 지능, ADHD를 위한 문해력 수업 : 읽고 쓰기의 즐거움을 깨닫게 해 주는 특급 문해력 솔루션 | 김나형 | 서울 : 카시오페아, 2025 | 371.926 김192느 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 함께 걷는 느린 학습자 진로 로드맵 : 우리 아이의 속도로 살아가는 법 | 이보람 | 파주 : 이담 : 한국학술정보, 2026 | 371.926 함14이 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 특수교육 교과 교재연구 및 지도법 | 정동영 | 파주 : 교육과학사, 2016(2023 6쇄) | 371.9043 한16특2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 특수교육공학 | 권충훈 | 서울 : 학지사, 2024 | 371.9 특56권학2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 특수교육·심리 진단과 평가 | 김동일 | 서울 : 학지사, 2022 | 371.9 특56김특2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 특수교육대상 학생 진단 및 평가 | 이미아 | 서울 : 북앤정, 2026 | 371.9 특56이북 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 『오뇌의 무도』 연구 | 구인모 | 서울 : 소명, 2026 | 808.81 오195구 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 중동의 역사 | Lewis, Bernard | 서울 : 까치글방, 2025 | 956 L673mK이2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 주린이를 위한 최소한의 주식공부 : 주린이에서 상위 1％ 투자자로 올라서는 투자 공부 | 불스토리 | [서울] : 하이스트, 2026 | 332.6322 불57주 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38716/83/cover200/8918916663_1.jpg) | 憲法學 | 성낙인 | 파주 : 法文社, 2026 | 342 성192헌26 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38772/56/cover200/k242137061_2.jpg) | 신행정법특강 | 홍정선 | 서울 : 박영사, 2026 | 342.06 홍74행특24 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/37091/99/cover200/k852030151_1.jpg) | 형법각론 | 최호진 | 서울 : 박영사, 2025 | 345 최95형박2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38557/96/cover200/k392135857_1.jpg) | 행정법 | 하명호 | 서울 : 박영사, 2026 | 342.06 하34행8 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39945/5/cover200/k612130329_1.jpg) | 채권법총론 | 송덕수 | 서울 : 박영사, 2026 | 346.02 송24채총8 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Speak your mind : student's book : + eccess to student's app, digital student's book and digital workbook.level 4 | Rogers, Mickey | London : Macmillan education, 2021 | 428.24 R728s v.4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Q : skills for success.Student book : with online practice | Daise, Debra | New York : Oxford University Press, 2025. | 428.24 D134q4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Organic chemistry | Klein, David R | [Singapore] : Wiley : John Wiley & Sons, 2022. | 547 K64o4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Mastering ethereum : implementing smart contracts | Antonopoulos, Andreas M | Santa Rosa, CA : O'Reilly Media Inc., 2026. | 005.43 A635m2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Information security : principles and practice | Stamp, Mark | Hoboken, NJ : John Wiley ＆ Sons, Inc., 2022. | 005.8 S783i3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fundamentals of radar signal processing | Richards, M. A | New York : McGraw Hill, 2022. | 621.3848 R517f3 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Advanced engineering mathematics : international adaptation | Kreyszig, Erwin | Hoboken, NJ : John Wiley and Sons, 2025. | 510.2462 K92a11 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Lewin's essential genes | Krebs, Jocelyn E | Burlington, MA : Jones ＆ Bartlett Learning, 2021. | 576.5 K92L4 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Totem : méthode de français : A1.1 | Lopes, Marie-José | Paris : Hachette, Français langue etrangère, 2014. | 448.24 L864t v.1-1 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Looking at movies : an introduction to film | Monahan, Dave | New York, NY : W.W. Norton ＆ Company, 2025. | 791.43 M734L8 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Beyond vibe coding : from coder to AI-era developer | Osmani, Addy | Santa Rosa, CA : O'Reilly Media, Inc., 2025. | 005.1 O83b | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Principles of Rubin's pathology | Rubin, Emanuel | Philadelphia : Wolters Kluwer, 2019. | 616.07 R896p7 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | World politics : interests, interactions, institutions | Frieden, Jeffry A | New York, NY : W.W. Norton ＆ Company, 2026. | 327 F899w6 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The geography of transport systems | Rodrigue, Jean-Paul | Abingdon, Oxon | 388.01 R696g6 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Learn AI-assisted Python programming : with GitHub Copliot and ChatGPT | Porter, Leo | Shelter Island, NY : Manning, 2024. | 005.133 P846L2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 2D materials : properties and devices | Avouris, Phaedon | Cambridge, United Kingdom | 620.115 A962t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Civil and environmental systems engineering | ReVelle, Charles S | Upper Saddle River, NJ : Pearson, 2014 | 624.0151972 R451c2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39423/17/cover200/k782139297_1.jpg) | 함께 걷는 느린 학습자 진로 로드맵 : 우리 아이의 속도로 살아가는 법 | 이보람 | 파주 : 이담 : 한국학술정보, 2026 | 371.926 함14이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/9112/62/cover200/8925410745_1.jpg) | 특수교육 교과 교재연구 및 지도법 | 정동영 | 파주 : 교육과학사, 2016(2023 6쇄) | 371.9043 한16특2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34426/35/cover200/8999730867_1.jpg) | 특수교육공학 | 권충훈 | 서울 : 학지사, 2024 | 371.9 특56권학2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/31797/22/cover200/8999725650_1.jpg) | 특수교육·심리 진단과 평가 | 김동일 | 서울 : 학지사, 2022 | 371.9 특56김특2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38552/32/cover200/k172135859_1.jpg) | 특수교육대상 학생 진단 및 평가 | 이미아 | 서울 : 북앤정, 2026 | 371.9 특56이북 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39830/85/cover200/k632130717_1.jpg) | 『오뇌의 무도』 연구 | 구인모 | 서울 : 소명, 2026 | 808.81 오195구 | 중앙도서관 |
