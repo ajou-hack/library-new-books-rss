@@ -2,6 +2,29 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/39873/15/cover200/k532130315_1.jpg) | 출력되는 마음 | 예소연 | 서울 : 허블, 2026 | 811.08 예55출 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39873/48/cover200/k542130316_1.jpg) | 외계 생물의 잠 | 이유리 | 서울 : 허블, 2026 | 811.08 이66외 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39873/42/cover200/k402130316_1.jpg) | 청포도를 줄게 | 현호정 | 서울 : 허블, 2026 | 811.08 현95청 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39986/86/cover200/k542130831_1.jpg) | 영원 부르기 : 어떻게 슬픔이 미래를 지키는가 | Markham, Lauren | 서울 : 기이프레스, 2026 | 306.9 M345iK황 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36885/15/cover200/k932030606_1.jpg) | 새벽에 전화해도 되나요 : 송세아 시집 | 송세아 | 서울 : 꿈공장플러스, 2025 | 811.17 송54새 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37876/21/cover200/k582033804_1.jpg) | 너의 지옥으로 사뿐사뿐 | 김하늘 | [서울] : 타이피스트, 2025 | 811.17 김92너 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40033/56/cover200/k582130633_1.jpg) | 나이 든다는 것은 마음에 무엇을 남기는가? : 우울, 불안, 상실, 돌봄, 노년의 마음 증상을 읽다 | 김민정 | 서울 : 포르체, 2026 | 155.67 김38나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34637/47/cover200/8999731995_1.jpg) | 특수교육평가 | 이승희 | 서울 : 학지사, 2024 | 371.9 이57특4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38473/74/cover200/k122135014_1.jpg) | 성경 왜곡의 역사 | Ehrman, Bart D | 서울 : 갈라파고스, 2026 | 225.486 E33mK민2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40090/97/cover200/k962130440_3.jpg) | 한국사 이상현상 연구원 : 최인서 소설 | 최인서 | 서울 : 다이브 : 빅피시, 2026 | 811.37 최68한다 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38461/7/cover200/k492135816_1.jpg) | (21세기 한국교회를 위한) 베드로후서 강설 | 김세민 | 서울 : 지식공감, 2026 | 227.93 김54베 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/6359/33/cover200/8959594253_1.jpg) | 제네바교회 요리문답 : 영한대역 | Calvin, Jean | 서울 : 한솜미디어, 2015 | 238.42 C168cK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33712/96/cover200/k932939443_1.jpg) | 이석증 정복하기 | 대한이과학회 | 서울 : 세종의학, 2024 | 617.882 대92이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37028/27/cover200/k342030735_1.jpg) | 왜 학교에서 문학을 읽어야 하는가? : 상상하고 해석하며 다시 생각하기 | Sumara, Dennis | 서울 : 노르웨이숲, 2025 | 807.1 S955wK오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40055/41/cover200/k202130842_1.jpg) | 세상에 순수한 미술은 없다 | 이지윤 | 서울 : 쌤앤파커스, 2026 | 701.03 이78세 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/42/34/cover200/s937460807_1.jpg) | 첫사랑 | Turgenev, Ivan Sergeevich | 서울 : 민음사, 2003 | 891.733 T936pK이민 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/191/28/cover200/8937461722_2.jpg) | 한여름 밤의 꿈 | Shakespeare, William | 서울 : 민음사, 2008(2026 47쇄) | 822.33 S527mK최한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40054/63/cover200/k042130840_1.jpg) | 한성요괴상점 : 눈꽃마을 집단 살인 사건 | 18세기구름 | 서울 : 라곰, 2026 | 811.37 십892한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38149/82/cover200/8937464845_1.jpg) | 댈러웨이 부인 | Woolf, Virginia | 서울 : 민음사, 2025 | 823.912 W913mK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/21224/66/cover200/8937443848_1.jpg) | 이방인 | Camus, Albert | 서울 : 민음사, 2019(2026 35쇄) | 843.914 C211eK김민2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36069/68/cover200/k562037144_1.jpg) | 오만과 편견 | Austen, Jane | 서울 : 더스토리 : 미르북컴퍼니, 2025 | 823.7 A933pK김더 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/10844/14/cover200/8937463482_1.jpg) | 설득 | Austen, Jane | 서울 : 민음사, 2017 | 823.7 A933pK전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32060/52/cover200/k362834898_1.jpg) | 사회복지조사방법론 | 송진영 | 고양 : 지식터, 2023 | 361.0072 송78사 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40087/86/cover200/k942130346_1.jpg) | 현대시를 읽는 열 가지 키워드 | 문혜원 | 서울 : 역락, 2026 | 811.17 문94현 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39187/34/cover200/k372138677_1.jpg) | 제미나이의 AI 인문학 : 활용, 한계, 공생 | 제미나이 | 서울 : 명인문화사, 2026 | 006.3 제38제 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36943/38/cover200/k392030511_1.jpg) | 임상심리학 | Abramowitz, Jonathan S | 서울 : 시그마프레스, 2025 | 616.89 A161c9K김 | 중앙도서관 |
@@ -29,26 +52,3 @@
 | ![](https://image.aladin.co.kr/product/39184/87/cover200/k002138674_1.jpg) | 헌법을 생각하는 일 | 김기영 | 서울 : 사회평론, 2026 | 342 김18헌사 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/39194/17/cover200/k312138780_1.jpg) | 크리에이터를 위한 미디어콘텐츠법 | 한상훈 | 서울 : 박영사, 2026 | 343.099 한52크 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/39167/35/cover200/k732138066_1.jpg) | 현대 시민사회의 헌법 | 조규상 | 서울 : 박영사, 2026 | 342 조16현 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39152/38/cover200/k362138865_1.jpg) | 왕관증인제도는 없다 | 박종순 | 고양 : 정독, 2026 | 345 박75왕 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39145/16/cover200/8918916809_1.jpg) | 북극항로와 해상법 | 김인현 | 파주 : 法文社, 2026 | 343.096 북17김 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39135/27/cover200/k012137652_1.jpg) | 발달장애인법 | 박정인 | 서울 : 지식과감성#, 2026 | 344.0324 박74발 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39137/8/cover200/k912137655_1.jpg) | 이제 헌법을 바꿀 시간입니다 : 새로운 시대를 여는 시민의 헌법은 어떤 모습이어야 할까? | 김예찬 | 파주 : 루아크, 2026 | 342 김64이 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39134/70/cover200/k382137659_1.jpg) | 2026년, 마지막 검찰청법 이야기 | 한제희 | 서울 : 박영사, 2026 | 347.012 한74이 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39134/70/cover200/k372137659_1.jpg) | 원형과 변형 : 한국 헌법·행정법의 난제와 그 해결 방안 | 홍강훈 | 서울 : 박영사, 2026 | 342 홍12원 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38764/83/cover200/k832137864_1.jpg) | 형사증거법의 원리와 주요 판례 | 윤종행 | 고양 : 피앤씨미디어, 2026 | 345.06 윤75형피 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/40030/81/cover200/k612130536_1.jpg) | 명품 판결문은 어디에서 오는가 : 좋은 재판, 좋은 법관, 좋은 사법부를 위한 최정규의 질문들 | 최정규 | 고양 : 시월, 2026 | 340.02 최74명 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/38727/23/cover200/k702136843_1.jpg) | 검찰이 숨기고 법원은 놓친 증거들 : 대장동 수사와 재판 비평 | 이창환 | 서울 : 피엠미디어, 2026 | 346.044 이82검 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36140/91/cover200/k472038678_1.jpg) | 행정소송의 이론과 실무.3, 노동 및 산업재해 | 서울행정법원 | 서울 : 박영사, 2025 | 342.066 서66행사 2025-1 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/40091/12/cover200/k152130441_1.jpg) | 재판소원논고 | 정주백 | 대전 : 충남대학교출판문화원, 2026 | 342.02 정76재 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39094/87/cover200/k552137156_1.jpg) | (상간소송변호사의) 상간소송 승소법 | 이유진 | 서울 : 바른북스, 2026 | 347 이66상 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39092/39/cover200/k472137159_1.jpg) | 환경법의 미래 : 새로운 패러다임을 여는 일곱 가지 열쇠 | 홍준형 | 파주 : 아카넷, 2026 | 344.046 홍76환새 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/40098/76/cover200/k652130358_1.jpg) | 법학 입문 : 민사법.5, 상법·민사소송법 | 김해마루 | 서울 : 율현, 2026 | 347 김93누7 v.5 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/40098/75/cover200/k512130358_1.jpg) | 법학 입문 : 민사법.4, 민법총칙 | 김해마루 | 서울 : 율현, 2026 | 347 김93누7 v.4 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/40098/73/cover200/k452130358_1.jpg) | 법학 입문 : 민사법.3, 채권법 | 김해마루 | 서울 : 율현, 2026 | 347 김93누7 v.3 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/40098/73/cover200/k492130358_1.jpg) | 법학 입문 : 민사법.2, 권리변동법 | 김해마루 | 서울 : 율현, 2026 | 347 김93누7 v.2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/40098/72/cover200/k312130358_1.jpg) | 법학 입문 : 민사법.1, 민사법 기초 | 김해마루 | 서울 : 율현, 2026 | 347 김93누7 v.1 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/40098/75/cover200/k522130358_1.jpg) | 법학 입문 : 형사법.2, 응용과 적용 | 김해마루 | 서울 : 율현, 2026 | 345 김93누7 v.2 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/40098/75/cover200/k562130358_1.jpg) | 법학 입문 : 형사법.1, 형사법 기초 | 김해마루 | 서울 : 율현, 2026 | 345 김93누7 v.1 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/40098/69/cover200/k242130358_1.jpg) | 법학 입문 : 공법 : 헌법·행정법 | 김해마루 | 서울 : 율현, 2026 | 342 김93누7 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/40003/39/cover200/8977707870_1.jpg) | 특별형법 | 이주원 | 서울 : 弘文社, 2026 | 345 이76특12 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39443/32/cover200/k392139397_1.jpg) | 나의 첫 번째 부동산 교과서 | 송희구 | [서울] : 서삼독, 2026 | 332.6324 송97나 | 중앙도서관 |
