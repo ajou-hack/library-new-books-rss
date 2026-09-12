@@ -2,6 +2,21 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/3363/22/cover200/8959593761_1.jpg) | 성경이 이끄는 삶 : 성경 일독을 위한 가이드 1100題 | 김세민 | 서울 : 한솜미디어, 2013 | 220 김54성 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37046/66/cover200/k622030134_1.jpg) | (21세기 한국교회를 위한) 베드로전서 강설 | 김세민 | 서울 : 지식공감, 2025 | 227.92 김54베 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35856/87/cover200/k402037570_1.jpg) | (21세기 한국교회를 위한) 갈라디아서 강설 | 김세민 | 서울 : 지식공감, 2025 | 227.4 김54갈 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/1242/60/cover200/8960922218_1.jpg) | 다른 복음을 전하는 교회들 | Gilley, Gary E | 서울 : 부흥과개혁사, 2011 | 262 G479tK김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28085/40/cover200/k642734747_1.jpg) | 나와 밍들의 세계 : 주목받는 작가 8인의 SF단편 앤솔러지 | 양진 | 서울 : 황금가지, 2021 | 811.3708 나65양 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Stealth antenna for ham radio | Ford, Steve | Newington, CT. : ARRL, the National Association for Amateur Radio, 2025. | 621.384135 F711s | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Broken republik : the inside story of Germany's descent into crisis | Reiter, Chris | London : Bloomsbury, 2026. | 943.087 R379b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | French Touch Vision : quels futurs pour l'économie créative ? | Parpex, Nicolas | Paris : La French Touch, 2026. | 338.4770944 P257f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introduction to mediation, moderation, and conditional process analysis : a regression-based approach | Hayes, Andrew F | New York, NY : The Guilford Press, 2022. | 001.422 H417i3 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Developmental psychopathology | Venta, Amanda | Hoboken, NJ : Wiley, 2021. | 618.9289 D489v | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Cultural issues in play therapy | Gil, Eliana | New York : The Guilford Press, 2021. | 618.92891653 G463c2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Bitter fruit : the story of the American coup in Guatemala | Schlesinger, Stephen C | Cambridge, Mass. | 972.81052 S342b2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Une autre histoire du monde | Singaravélou, Pierre | Paris : Editions Gallimard | 700.411 S617a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Après la fin : cartes pour un autre avenir | Borja-Villel, Manuel J | Metz : Centre Pompidou-Metz, 2025. | 700.411 B734a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/e62476ba-deab-4b0b-809c-1917b9c61e47) | RF 전자공학 | Razavi, Behzad | 서울 : 휴먼싸이언스, 2015 | 621.38412 R278r2K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39873/15/cover200/k532130315_1.jpg) | 출력되는 마음 | 예소연 | 서울 : 허블, 2026 | 811.08 예55출 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39873/48/cover200/k542130316_1.jpg) | 외계 생물의 잠 | 이유리 | 서울 : 허블, 2026 | 811.08 이66외 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39873/42/cover200/k402130316_1.jpg) | 청포도를 줄게 | 현호정 | 서울 : 허블, 2026 | 811.08 현95청 | 중앙도서관 |
@@ -37,18 +52,3 @@
 | ![](https://image.aladin.co.kr/product/37985/94/cover200/8931481764_1.jpg) | AI 리터러시 : 인공지능 시대를 살아가는 새로운 역량 | 이선종 | 서울 : Youngjin.com : 영진닷컴, 2025 | 006.3 이54a인 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35299/10/cover200/8964360001_2.jpg) | (김수연의) 아기발달백과 : 임신기부터 이해하고 준비하는 아기의 성장발달 로드맵 | 김수연 | 서울 : 삼인, 2024 | 649.122 김56아3 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40086/19/cover200/k932130342_1.jpg) | 한 조각씩 걷는 파리 : 나만의 속도로 맞춰가는 열 조각의 파리 도보 여행 | 손지연 | 서울 : 브레인스토어, 2026 | 914.4361 손78한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40087/55/cover200/k202130345_1.jpg) | 천하나의 유령 | Dumas, Alexandre | 파주 : 파람북, 2026 | 843.7 D886mK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39992/43/cover200/k482130931_1.jpg) | AI 프로덕트 매니지먼트 : AI 시대, 프로덕트 매니저의 역할을 정의하다 | 김영욱 | 서울 : 한빛미디어, 2026 | 658.575 김64a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40086/15/cover200/8962627183_1.jpg) | 통찰노동 : 경험을 인사이트로 바꾸는 데이터 포밍 기술 | 김진영 | 서울 : 동아시아, 2026 | 650.1 김78통 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39875/8/cover200/k182130410_3.jpg) | 어제의 세계 | Zweig, Stefan | 파주 : 다산초당, 2026 | 838.912 Z97wK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39763/13/cover200/898458360x_1.jpg) | FDA 장벽이 아니라 사다리다 | 박동명 | 서울 : 노드미디어, 2026 | 658.401 F287박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38580/6/cover200/k572135155_1.jpg) | (2026) 의료기기 인허가 : 한국 MFDS, 유럽 CE마킹, 미국 FDA 중심 | 김명교 | 서울 : 위즈덤플, 2026 | 610.28 김34의7 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38516/6/cover200/k072135131_1.jpg) | (뱃살이 너무 빠져 고민!) 닥터셰프 레시피 | 임상진 | 서울 : 책과삶, 2026 | 641.5635 임52닥 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28380/23/cover200/8965964792_1.jpg) | (피터 린치의) 투자 이야기 : 월佳의 영웅, 피터 린치가 말하는 거의 모든 것의 투자 | Lynch, Peter | 서울 : 흐름, 2021 | 332.6 L987LK고2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40068/20/cover200/k082130148_1.jpg) | 지중해의 탄생 : 태초부터 고대 그리스·로마의 등장까지 지중해의 역사 | Broodbank, Cyprian | 서울 : 사회평론아카데미, 2026 | 937 B871mK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39311/44/cover200/k922138034_1.jpg) | 민주헌정과 헌법학 : 송석윤 교수 논문선집 | 송석윤 | 서울 : 박영사, 2026 | 342 송54민 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39382/40/cover200/k652139874_1.jpg) | 중국 가족법의 원리 | 자하수삼 | 고양 : 學古房, 2026 | 346.52015 시12중2K박 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39243/80/cover200/k882138104_1.jpg) | 법적 자유의 정립 : 칸트와 피히테의 법철학에 입각한 고찰 | Zaczyk, Rainer | 서울 : 박영사, 2026 | 340.1 Z17kK손칸 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39184/87/cover200/k002138674_1.jpg) | 헌법을 생각하는 일 | 김기영 | 서울 : 사회평론, 2026 | 342 김18헌사 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39194/17/cover200/k312138780_1.jpg) | 크리에이터를 위한 미디어콘텐츠법 | 한상훈 | 서울 : 박영사, 2026 | 343.099 한52크 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39167/35/cover200/k732138066_1.jpg) | 현대 시민사회의 헌법 | 조규상 | 서울 : 박영사, 2026 | 342 조16현 | 법학도서관 |
