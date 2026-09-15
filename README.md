@@ -2,6 +2,11 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/38859/46/cover200/k372137001_1.jpg) | 한국 한문산문 설說 연구 | 이미진 | 서울 : 소명, 2026 | 811.909 이38한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38723/56/cover200/k032136746_1.jpg) | 이도영, 한국 근대미술의 설계자 | 김예진 | 서울 : 소명, 2026 | 759.11 김64이 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 한국어·일본어의 방언과 언어 기술 | 이기갑 | 서울 : 한국알타이학회출판부, 2026 | 411.7 한16이한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34129/92/cover200/k632931299_1.jpg) | 명나라의 정유전쟁 : 형개의 《경략어왜주의》역주 | 형개 | 진주 : 국립진주박물관, 2024 | 952.52 형13경K구 v.1~4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39135/69/cover200/8984947628_1.jpg) | 일본의 임진·정유전쟁 : 조선진기/고려일기/서정일기/조선일일기 | 대마번 | 진주 : 국립진주박물관, 2025 | 951.54 조54일K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/3363/22/cover200/8959593761_1.jpg) | 성경이 이끄는 삶 : 성경 일독을 위한 가이드 1100題 | 김세민 | 서울 : 한솜미디어, 2013 | 220 김54성 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37046/66/cover200/k622030134_1.jpg) | (21세기 한국교회를 위한) 베드로전서 강설 | 김세민 | 서울 : 지식공감, 2025 | 227.92 김54베 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/35856/87/cover200/k402037570_1.jpg) | (21세기 한국교회를 위한) 갈라디아서 강설 | 김세민 | 서울 : 지식공감, 2025 | 227.4 김54갈 | 중앙도서관 |
@@ -40,15 +45,10 @@
 | ![](https://image.aladin.co.kr/product/36069/68/cover200/k562037144_1.jpg) | 오만과 편견 | Austen, Jane | 서울 : 더스토리 : 미르북컴퍼니, 2025 | 823.7 A933pK김더 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/10844/14/cover200/8937463482_1.jpg) | 설득 | Austen, Jane | 서울 : 민음사, 2017 | 823.7 A933pK전 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/32060/52/cover200/k362834898_1.jpg) | 사회복지조사방법론 | 송진영 | 고양 : 지식터, 2023 | 361.0072 송78사 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40087/86/cover200/k942130346_1.jpg) | 현대시를 읽는 열 가지 키워드 | 문혜원 | 서울 : 역락, 2026 | 811.17 문94현 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39187/34/cover200/k372138677_1.jpg) | 제미나이의 AI 인문학 : 활용, 한계, 공생 | 제미나이 | 서울 : 명인문화사, 2026 | 006.3 제38제 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36943/38/cover200/k392030511_1.jpg) | 임상심리학 | Abramowitz, Jonathan S | 서울 : 시그마프레스, 2025 | 616.89 A161c9K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39999/72/cover200/k112130033_1.jpg) | 안에서 열리는 문 : AI 시대, 배움의 조건을 다시 묻다 | 조일현 | 서울 : 박영스토리, 2026 | 370.1523 조68안 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40064/68/cover200/k262130040_1.jpg) | AI와 교육공학 | 고보경 | 서울 : 커뮤니케이션북스, 2026 | 371.334 고45a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40031/24/cover200/8999738000_1.jpg) | (AI와 함께 하는) 진로 탐색과 미래 설계 | 이혜은 | 서울 : 학지사, 2026 | 378.19425 이94진 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/16963/34/cover200/k122534477_2.jpg) | 펭귄 하이웨이 : 모리미 도미히코 장편소설 | 삼견등미언 | 파주 : 작가정신, 2018(2024 2쇄) | 813.37 삼14펭K서2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/21040/75/cover200/896637722x_1.jpg) | (인생을 확 바꾸는) 미친 독서 | 권혁재 | 서울 : 미다스북스, 2019 | 028.9 권94미 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39828/72/cover200/k782130713_1.jpg) | 처음 배우는 주식 투자 완전정복 : 300만 주린이가 극찬한 최고의 주식 투자 입문서 | 백억남 | 서울 : Highest : 하이스트그로우, 2026 | 332.6322 백64처 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37985/94/cover200/8931481764_1.jpg) | AI 리터러시 : 인공지능 시대를 살아가는 새로운 역량 | 이선종 | 서울 : Youngjin.com : 영진닷컴, 2025 | 006.3 이54a인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35299/10/cover200/8964360001_2.jpg) | (김수연의) 아기발달백과 : 임신기부터 이해하고 준비하는 아기의 성장발달 로드맵 | 김수연 | 서울 : 삼인, 2024 | 649.122 김56아3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40086/19/cover200/k932130342_1.jpg) | 한 조각씩 걷는 파리 : 나만의 속도로 맞춰가는 열 조각의 파리 도보 여행 | 손지연 | 서울 : 브레인스토어, 2026 | 914.4361 손78한 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 피지컬 AI 기반 XR 훈련 플랫폼의 미래 : 산업훈련, 기술, 인간의 감각을 연결하는 새로운 교육 혁신 | 박진하 | 서울 : 피엠미디어, 2026 | 006.8 박78피 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 비극적 인간과 세계 : 서양 비극 문학 연구 | 채수환 | 서울 : 성균관대학교 출판부, 2026 | 809.9162 채56비 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39170/15/cover200/8984947687_1.jpg) | 고구려 · 발해 연구의 최전선 | 이준성 | 서울 : 혜안, 2026 | 951.32 고16이혜 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 경영전략 : 현대 경영의 핵심을 꿰뚫는 왕의 전략 | 임득수 | 서울 : 박영사, 2026 | 658.4012 임27경 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 뉴 혁신교육 패러다임 : 혁신교육, 다시 길을 묻다 | 조희연 | 서울 : 살림터, 2026 | 371 뉴94조 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (2026~2027) 대한민국 산업지도 : 투자자를 위한 업종별 투자 가이드 | 이래학 | 서울 : 경이로움 : 사이다경제, 2026 | 330.951 이293대 '26-27 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 역겨운 진실 : 과학, 철학, 심리학을 관통하는 새로운 과학적 세계관 에세이 | 신정훈 | 서울 : 좋은땅, 2026 | 128 신74역 | 중앙도서관 |
