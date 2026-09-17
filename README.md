@@ -2,6 +2,16 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Digital design and computer architecture | Harris, Sarah L | Waltham, MA : Morgan Kaufmann : Elsevier, 2016. | 621.395 H316dm | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Solid state chemistry : an introduction | Moore, Elaine A | Boca Raton : CRC Press, 2025. | 541.0421 S636s6 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Algebraic topology | Hatcher, Allen | Cambridge : Cambridge University Press, 2001 | 514.2 H361a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sustainability principles and practice | Robertson, Margaret | Abingdon, Oxon | 338.927 R639s4 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sensation and perception | Goldstein, E. Bruce | Boston, MA : Cengage, 2022. | 152.1 G618s11 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Introductory econometrics : a modern approach | Wooldridge, Jeffrey M | Mason, OH : Cengage, 2025. | 330.015195 W913i8 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Integrity and sustainability in sport : business, environmental and social goals | Manoli, Argyro Elisavet | Abingdon, Oxon : Routledge, 2025. | 175 M285i | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Ceramic processing and sintering | Rahaman, M. N | Boca Raton, FL : CRC Press, 2003 | 666 R147c2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Dynamics of structures : theory and applications to earthquake engineering | Chopra, Anil K | Hoboken, NJ : Pearson, 2023. | 624.171 C545d6 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Organization theory and design | Daft, Richard L | Boston, MA : Cengage, 2021. | 658.4 D124o13 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38859/46/cover200/k372137001_1.jpg) | 한국 한문산문 설說 연구 | 이미진 | 서울 : 소명, 2026 | 811.909 이38한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38723/56/cover200/k032136746_1.jpg) | 이도영, 한국 근대미술의 설계자 | 김예진 | 서울 : 소명, 2026 | 759.11 김64이 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 한국어·일본어의 방언과 언어 기술 | 이기갑 | 서울 : 한국알타이학회출판부, 2026 | 411.7 한16이한 | 중앙도서관 |
@@ -42,13 +52,3 @@
 | ![](https://image.aladin.co.kr/product/40054/63/cover200/k042130840_1.jpg) | 한성요괴상점 : 눈꽃마을 집단 살인 사건 | 18세기구름 | 서울 : 라곰, 2026 | 811.37 십892한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/38149/82/cover200/8937464845_1.jpg) | 댈러웨이 부인 | Woolf, Virginia | 서울 : 민음사, 2025 | 823.912 W913mK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/21224/66/cover200/8937443848_1.jpg) | 이방인 | Camus, Albert | 서울 : 민음사, 2019(2026 35쇄) | 843.914 C211eK김민2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36069/68/cover200/k562037144_1.jpg) | 오만과 편견 | Austen, Jane | 서울 : 더스토리 : 미르북컴퍼니, 2025 | 823.7 A933pK김더 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/10844/14/cover200/8937463482_1.jpg) | 설득 | Austen, Jane | 서울 : 민음사, 2017 | 823.7 A933pK전 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32060/52/cover200/k362834898_1.jpg) | 사회복지조사방법론 | 송진영 | 고양 : 지식터, 2023 | 361.0072 송78사 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 피지컬 AI 기반 XR 훈련 플랫폼의 미래 : 산업훈련, 기술, 인간의 감각을 연결하는 새로운 교육 혁신 | 박진하 | 서울 : 피엠미디어, 2026 | 006.8 박78피 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 비극적 인간과 세계 : 서양 비극 문학 연구 | 채수환 | 서울 : 성균관대학교 출판부, 2026 | 809.9162 채56비 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39170/15/cover200/8984947687_1.jpg) | 고구려 · 발해 연구의 최전선 | 이준성 | 서울 : 혜안, 2026 | 951.32 고16이혜 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 경영전략 : 현대 경영의 핵심을 꿰뚫는 왕의 전략 | 임득수 | 서울 : 박영사, 2026 | 658.4012 임27경 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 뉴 혁신교육 패러다임 : 혁신교육, 다시 길을 묻다 | 조희연 | 서울 : 살림터, 2026 | 371 뉴94조 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (2026~2027) 대한민국 산업지도 : 투자자를 위한 업종별 투자 가이드 | 이래학 | 서울 : 경이로움 : 사이다경제, 2026 | 330.951 이293대 '26-27 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 역겨운 진실 : 과학, 철학, 심리학을 관통하는 새로운 과학적 세계관 에세이 | 신정훈 | 서울 : 좋은땅, 2026 | 128 신74역 | 중앙도서관 |
