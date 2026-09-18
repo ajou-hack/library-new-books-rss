@@ -2,7 +2,14 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/39727/2/cover200/k042130706_1.jpg) | 독하게 돈 공부 : 10년 뒤 미래를 바꾸는 유일한 방법 | 박소연 | 서울 : 메이븐, 2026 | 332.024 박55독 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Digital design and computer architecture | Harris, Sarah L | Waltham, MA : Morgan Kaufmann : Elsevier, 2016. | 621.395 H316dm | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38771/28/cover200/8932045143_1.jpg) | 소설 보다 : 2026 | 김채원 | 서울 : 문학과지성사, 2026 | 811.3708 소54문 2026 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38496/20/cover200/k842135312_1.jpg) | 피지컬 AI 메가 트렌드 : 행동하는 인공지능이 만들어낼 70경 원 시장과 미래 생존 전략 | 최홍섭 | 서울 : 위즈덤하우스, 2026 | 303.483 최95피 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35490/32/cover200/k192035558_1.jpg) | 사람을 남기는 사람 : 삶을 재구성하는 관계의 법칙 | 정지우 | [고양] : 마름모, 2025 | 158.2 정78사 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/20911/36/cover/k052636076_2.jpg) | 왜 힘들지? 취직했는데 : 죽을 만큼 원했던 이곳에서 나는 왜 죽을 것 같을까? | 원지수 | 서울 : 인디고 : 글담, 2019 | 811.87 원78왜 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/29/21/cover200/s172933259_1.jpg) | 수레바퀴 아래서 | Hesse, Hermann | 서울 : 민음사, 2001(2026 111쇄) | 808.8 세148민v.50 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/33768d7d-e19c-4e96-a704-78caf3cfe59a) | 사랑 예찬 | Badiou, Alain | 서울 : 길, 2010 | 152.41 B136eK조 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Solid state chemistry : an introduction | Moore, Elaine A | Boca Raton : CRC Press, 2025. | 541.0421 S636s6 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Algebraic topology | Hatcher, Allen | Cambridge : Cambridge University Press, 2001 | 514.2 H361a | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sustainability principles and practice | Robertson, Margaret | Abingdon, Oxon | 338.927 R639s4 | 중앙도서관 |
@@ -45,10 +52,3 @@
 | ![](https://image.aladin.co.kr/product/38461/7/cover200/k492135816_1.jpg) | (21세기 한국교회를 위한) 베드로후서 강설 | 김세민 | 서울 : 지식공감, 2026 | 227.93 김54베 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/6359/33/cover200/8959594253_1.jpg) | 제네바교회 요리문답 : 영한대역 | Calvin, Jean | 서울 : 한솜미디어, 2015 | 238.42 C168cK김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33712/96/cover200/k932939443_1.jpg) | 이석증 정복하기 | 대한이과학회 | 서울 : 세종의학, 2024 | 617.882 대92이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37028/27/cover200/k342030735_1.jpg) | 왜 학교에서 문학을 읽어야 하는가? : 상상하고 해석하며 다시 생각하기 | Sumara, Dennis | 서울 : 노르웨이숲, 2025 | 807.1 S955wK오 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40055/41/cover200/k202130842_1.jpg) | 세상에 순수한 미술은 없다 | 이지윤 | 서울 : 쌤앤파커스, 2026 | 701.03 이78세 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/42/34/cover200/s937460807_1.jpg) | 첫사랑 | Turgenev, Ivan Sergeevich | 서울 : 민음사, 2003 | 891.733 T936pK이민 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/191/28/cover200/8937461722_2.jpg) | 한여름 밤의 꿈 | Shakespeare, William | 서울 : 민음사, 2008(2026 47쇄) | 822.33 S527mK최한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40054/63/cover200/k042130840_1.jpg) | 한성요괴상점 : 눈꽃마을 집단 살인 사건 | 18세기구름 | 서울 : 라곰, 2026 | 811.37 십892한 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38149/82/cover200/8937464845_1.jpg) | 댈러웨이 부인 | Woolf, Virginia | 서울 : 민음사, 2025 | 823.912 W913mK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/21224/66/cover200/8937443848_1.jpg) | 이방인 | Camus, Albert | 서울 : 민음사, 2019(2026 35쇄) | 843.914 C211eK김민2 | 중앙도서관 |
