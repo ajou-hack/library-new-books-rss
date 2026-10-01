@@ -2,6 +2,10 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/40139/56/cover200/k462131365_1.jpg) | 내 인생이 왜 당신 마음에 들어야 합니까 | 김경일 | 파주 : 퍼스트펭귄, 2026 | 158.1 김14내 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40090/97/cover200/k962130440_3.jpg) | 한국사 이상현상 연구원 : 최인서 소설 | 최인서 | 서울 : 다이브 : 빅피시, 2026 | 811.37 최68한다 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 독서라는 사건 | 밀리의서재 | 서울 : 오리지널스 : KT 밀리의서재, 2026 | 028 밀298독 v.1~2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Tick, tick...boom! : the complete book and lyrics | Larson, Jonathan | Lanham, MD : Applause Theatre ＆ Cinema, 2009. | 782.140268 L334t | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39928/86/cover200/k372130027_1.jpg) | 헝거 게임 : 50번째 추첨의 날 | Collins, Suzanne | 서울 : 북폴리오 : 미래엔, 2026 | 823.92 C713sK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27920/35/cover200/8999724891_1.jpg) | 교직실무 | 송기창 | 서울 : 학지사, 2021 | 371.1 교78교 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36706/8/cover200/8999734455_1.jpg) | (실행기능을 활용한) 내 삶의 관리자 되기 프로그램 : 효율적인 자기관리 방식을 배우고 싶은 청년을 위한 실행기능 활용 근거 기반 개입 매뉴얼 | 유희정 | 서울 : 학지사, 2025 | 616.85882 유97내 | 중앙도서관 |
@@ -48,7 +52,3 @@
 | ![](https://image.aladin.co.kr/product/40184/0/cover200/8924226398_1.jpg) | GPU와 AI 데이터센터 : GPU가 주도하는 거대 인프라의 구조적 변화 | 이재호 | 서울 : 퍼플, 2026 | 004.6782 이73g | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39961/69/cover200/k152130622_1.jpg) | AI 데이터센터 구축 운영 매뉴얼 : 실무자를 위한 AI 인프라 구축·운영 지침서 : 기획·설계·시공·시운전·운영을 잇는 전 생애주기 실무 | 최상규 | 서울 : 부크크, 2026 | 004.068 최52a | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39952/45/cover200/k132130424_1.jpg) | 누구나 아는 나만 모르는 클로드 : 세상에서 가장 쉬운 클로드＆바이브 코딩 입문서 | 누나IT | 서울 : 한빛미디어, 2026 | 006.3 누192누한 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (요즘 일잘러를 위한) 클로드 콘텐츠 자동화 with 코워크, 디자인, 코드 | 성구 | 서울 : 길벗, 2026 | 006.3 성16클 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (누구나 프로처럼 실전 AI) 바이브 코딩을 위한 안티그래비티 2.0 with 스킬, 멀티 에이전트, MCP, 하네스 : 켠 김에 배포까지! 코드 한 줄 없이 오늘 만들고 오늘 배포하는 아이디어 실현 방법 | 클리커 | 서울 : 한빛미디어, 2026 | 005.11 클298바켠 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 딸깍! 제미나이 ＆ 노트북 : 초보자도 AI＆AX 전문가로 만들어 주는 50가지 레시피 | 반병현 | 파주 : 생능북스2026 | 006.3 반44딸초 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | LLM을 활용한 데이터 분석 : 파이썬으로 익히는 멀티모달 분석 실전 가이드 | Trummer, Immanuel | 서울 : 에이콘, 2026 | 006.3 T871dK옥 | 중앙도서관 |
