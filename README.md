@@ -2,10 +2,30 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 세계로 가는 우리 경영 | 김일섭 | 서울 : 김영사 ,1995. | 658.4 김68세 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40139/56/cover200/k462131365_1.jpg) | 내 인생이 왜 당신 마음에 들어야 합니까 | 김경일 | 파주 : 퍼스트펭귄, 2026 | 158.1 김14내 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40071/48/cover200/8932120005_1.jpg) | 조선 천주교 출판사 : 프랑스 선교사 훈민정음 인쇄 출판 이야기 | 가톨릭출판사 | 서울 : 가톨릭출판사, 2026 | 282.519 가885조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40142/0/cover200/8970301895_1.jpg) | 지도의 역사와 한반도 : 세계 지도의 역사로 본 동해, 독도의 표기와 변천사 | 정각 | 서울 : 자유문고, 2026 | 912.09 정12지 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38300/51/cover200/k382034249_2.jpg) | AI 디지털 교육 트렌드 리포트 2026 : AI 에이전트 시대, 교육자를 위한 AI 리터러시 11대 키워드로 읽는 2026 핵심 이슈 | 박기현 | 서울 : 테크빌교육, 2026 | 371.334 A311박a 2026 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40110/52/cover200/k122130553_1.jpg) | 마감의 꽃말은 맥주 | 안나 | 파주 : 교유서가 : 교유당, 2026 | 811.8708 마12김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38835/1/cover200/8999736415_1.jpg) | 집단상담이론과 프로그램 개발 | 조항 | 서울 : 학지사, 2026 | 158.35 집22조 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/762/60/cover200/8925404028_1.jpg) | 평생학습사회연구 | 한숭희 | 파주 : 교육과학사, 2010 | 374 한56평교 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40061/48/cover200/k562130048_3.jpg) | 우런니 샌드위치 | 박혜진 | 서울 : 클, 2026 | 641.84 박94우 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/34348/71/cover200/k932932895_1.jpg) | 기초 회로이론 : 선형회로해석의 쉬운 이해 | 최윤식 | 서울 : 한빛아카데미, 2024 | 621.3192 최66기4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39134/91/cover200/k732137650_1.jpg) | 당신에게 미학은 어떤 의미입니까? : 미학의 열 가지 정의 | Koren, Leonard | 익산 : 1984Books, 2026 | 111.85 K84wK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35256/95/cover200/k582934248_1.jpg) | 라디오 모양의 다리미, 다리미 모양의 주전자, 주전자 모양의 라디오 | 이설희 | 서울 : 워크룸 프레스, 2024 | 709.51 김44이K양 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40130/7/cover200/k322131866_1.jpg) | 잘 늙겠다는 다짐 | 전야융사 | 서울 : 동양북스, 2026 | 155.67 전63노K송 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39720/47/cover200/8967822693_1.jpg) | 덜 아픈 마침표를 위하여 : 좋은 안녕을 위한 어느 이혼전문판사의 마음 | 정현숙 | 서울 : 푸른향기, 2026 | 811.87 정94덜 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27982/9/cover200/k092734228_1.jpg) | 아무튼, 아이돌 | 윤혜은 | [파주] : 제철소, 2021 | 811.87 윤94아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40141/55/cover200/k282131463_1.jpg) | 좌파 생활 : 다른 방식으로 산다는 것 | Pendakis, Andrew | 파주 : 오월의봄, 2026 | 335 P397LK유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40112/97/cover200/k312130656_1.jpg) | (Musical)Swing Days : 암호명 A | 김희재 | 서울 : 올댓스토리, 2026 | 811.27 김97s | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40127/63/cover200/k842131868_1.jpg) | 학교상담 실습 | 천성문 | 서울 : 박영스토리 : 피와이메이트, 2026 | 371.4 학15천박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/7492/3/cover200/8958289325_1.jpg) | 아틀라스 중앙유라시아사 | 김호동 | 파주 : 사계절, 2016(2025 12쇄) | 958 김95아 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40001/92/cover200/k802130036_1.jpg) | 내 심장을 줄게 : 심장을 이식받은 기상캐스터의 햇살 찬란 투병기 | 오수진 | 서울 : 소소사, 2026 | 811.87 오56내 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40090/97/cover200/k962130440_3.jpg) | 한국사 이상현상 연구원 : 최인서 소설 | 최인서 | 서울 : 다이브 : 빅피시, 2026 | 811.37 최68한다 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 독서라는 사건 | 밀리의서재 | 서울 : 오리지널스 : KT 밀리의서재, 2026 | 028 밀298독 v.1~2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Tick, tick...boom! : the complete book and lyrics | Larson, Jonathan | Lanham, MD : Applause Theatre ＆ Cinema, 2009. | 782.140268 L334t | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/34fa3058-7bf0-471b-b91e-8b1517d8d9c7) | 밑바닥부터 시작하는 딥러닝 | 재등강의 | 서울 : 한빛미디어, 2017-2026 | 006.31 재27밑K개 v.1~6 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39928/86/cover200/k372130027_1.jpg) | 헝거 게임 : 50번째 추첨의 날 | Collins, Suzanne | 서울 : 북폴리오 : 미래엔, 2026 | 823.92 C713sK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/27920/35/cover200/8999724891_1.jpg) | 교직실무 | 송기창 | 서울 : 학지사, 2021 | 371.1 교78교 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36706/8/cover200/8999734455_1.jpg) | (실행기능을 활용한) 내 삶의 관리자 되기 프로그램 : 효율적인 자기관리 방식을 배우고 싶은 청년을 위한 실행기능 활용 근거 기반 개입 매뉴얼 | 유희정 | 서울 : 학지사, 2025 | 616.85882 유97내 | 중앙도서관 |
@@ -32,23 +52,3 @@
 | ![](https://image.aladin.co.kr/product/39802/11/cover200/k082130602_3.jpg) | 투명한 나선 | 동야규오 | 파주 : 북다, 2026 | 813.37 동63투K김 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39872/66/cover200/k242130313_1.jpg) | 빵충 사육 준수 사항 : 김혜영 장편소설 | 김혜영 | 서울 : 안전가옥, 2026 | 811.37 김94빵 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39727/2/cover200/k042130706_1.jpg) | 독하게 돈 공부 : 10년 뒤 미래를 바꾸는 유일한 방법 | 박소연 | 서울 : 메이븐, 2026 | 332.024 박55독 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39640/49/cover200/k872130175_1.jpg) | 세네카, 오늘을 빼앗기고 있는 당신에게 | Seneca, Lucius Annaeus | 서울 : 논픽션, 2026 | 188 S475LK하 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39639/79/cover200/k992130174_2.jpg) | 테오 : 지금 우리에게 필요한 그 이름 | Levi, Allen | 서울 : 오팬하우스, 2026 | 823.92 L664tK노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39638/93/cover200/k382130171_1.jpg) | 달러구트 꿈 백화점 0 : 달러구트와 양치기 소년 이야기 | 이미예 | 서울 : 팩토리나인, 2026 | 811.37 이38달프 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39656/83/cover200/k972130191_1.jpg) | 매스커레이드 라이프 : 히가시노 게이고 장편소설 | 동야규오 | 서울 : 현대문학, 2026 | 813.37 동63매K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39704/96/cover200/k072130599_1.jpg) | 주와 연 : 청예 장편소설 | 청예 | 서울 : 래빗홀 : 인플루엔셜, 2026 | 811.37 청64주 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39581/25/cover200/k692139247_2.jpg) | 인비인 : 성해나 기담집 | 성해나 | 서울 : 한겨레 : 한겨레엔, 2026 | 811.37 성93인 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37539/55/cover200/k392032120_1.jpg) | 니체의 초월자(Übermensch) | Nietzsche, Friedrich Wilhelm | [서울] : 히읏, 2025 | 193 N677uK김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36239/0/cover200/k062038716_1.jpg) | 오디세이아 | Homeros | 서울 : 현대지성, 2025 | 883.01 H766hK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38559/40/cover200/k122135952_1.jpg) | 구원에게 : 정영욱 산문 | 정영욱 | [서울] : 부크럼, 2026 | 811.87 정64구 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/19822/35/cover/8972750034_2.jpg) | 악의 | 동야규오 | 서울 : 현대문학, 2019(2025 18쇄, 2026 22쇄) | 813.37 동63악K양2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34797/80/cover200/8937437562_1.jpg) | 참을 수 없는 존재의 가벼움 | Kundera, Milan | 서울 : 민음사, 2018(2025 40쇄, 2026 44쇄) | 891.8635 K96nK이4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29088/58/cover/8998521741_1.jpg) | 상담 및 심리치료 윤리 | Corey, Gerald | 서울 : 박학사, 2022 | 174.2 C797i10K서 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31799/62/cover/k532833319_1.jpg) | 종의 기원담 : 김보영 연작소설 | 김보영 | 서울 : 아작, 2023 | 811.37 김45종 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28529/1/cover/k612835031_2.jpg) | 패배의 신호 | Sagan, Françoise | [서울] : 녹색광선, 2022 | 843.914 S129cK장 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/2588/65/cover/8932023972_1.jpg) | 초조한 마음 | Zweig, Stefan | 서울 : 문학과지성사, 2013(2026 20쇄) | 833.912 Z97uK이문 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/2a775c4c-0eec-4ddc-91cc-a6dfaee2120e) | 시간은 흐르지 않는다 : 우리의 직관 너머 물리학의 눈으로 본 우주의 시간 | Rovelli, Carlo | 파주 : 쌤앤파커스, 2019(2026 83쇄) | 530.11 R873oK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/53/28/cover/8982819274_2.jpg) | 고래 : 천명관 장편소설 | 천명관 | 서울 : 문학동네, 2004(2026 69쇄) | 811.37 천34고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40184/0/cover200/8924226398_1.jpg) | GPU와 AI 데이터센터 : GPU가 주도하는 거대 인프라의 구조적 변화 | 이재호 | 서울 : 퍼플, 2026 | 004.6782 이73g | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39961/69/cover200/k152130622_1.jpg) | AI 데이터센터 구축 운영 매뉴얼 : 실무자를 위한 AI 인프라 구축·운영 지침서 : 기획·설계·시공·시운전·운영을 잇는 전 생애주기 실무 | 최상규 | 서울 : 부크크, 2026 | 004.068 최52a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39952/45/cover200/k132130424_1.jpg) | 누구나 아는 나만 모르는 클로드 : 세상에서 가장 쉬운 클로드＆바이브 코딩 입문서 | 누나IT | 서울 : 한빛미디어, 2026 | 006.3 누192누한 | 중앙도서관 |
