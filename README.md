@@ -2,6 +2,30 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/40000/48/cover200/8936431765_1.jpg) | 목소리가 들린다 | 최정원 | 파주 : 창비, 2026 | 811.37 최74목 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40087/92/cover200/k122130346_1.jpg) | 이효석의 21세기 투자법 | 이효석 | 성남 : 상상스퀘어, 2026 | 332.6 이95이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40109/96/cover200/k672130551_1.jpg) | 목사 딸의 백팔배 : 어느 종교학자의 자기 배려하기 | 이정은 | 고성군 : 온다프레스, 2026 | 811.47 이74목 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38390/55/cover200/k652135566_1.jpg) | 중국정치의 이해 | Dreyer, June Teufel | 서울 : 명인문화사, 2026 | 320.952 D778c11K김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39845/20/cover200/k682130215_1.jpg) | 전환기의 한미관계 : 적응과 대응의 뉴 파트너십 | 김계동 | 서울 : 명인문화사, 2026 | 327.51073 김14전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40088/76/cover200/k212130448_1.jpg) | 논리 - 철학 논고 | Wittgenstein, Ludwig | 서울 : 책세상, 2026 | 192 W831tK이4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35496/93/cover200/k082035658_1.jpg) | 경제안보와 기술동맹의 중견국 전략 : 인도·태평양 시대의 글로벌 중추국가 | 김상배 | 서울 : 사회평론아카데미, 2024 | 327 김52경 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/28157/77/cover200/8946068930_1.jpg) | 동북아 국제정치이론 : 불완전 주권국가들의 국제정치 | 전재성 | 파주 : 한울아카데미 : 한울엠플러스, 2020(2026 2쇄) | 327.5 전73동 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37944/64/cover200/k712033453_1.jpg) | 전공을 선택하지 않을 용기 : 자유전공 진로상담 가이드 | 신철균 | 서울 : 박영story : 피와이메이트, 2025 | 371.425 신83전 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39938/54/cover200/k472130220_1.jpg) | 일하는 인간 : 호모 라보란스의 1만 년 | 이서담 | 서울 : 바른, 2026 | 331.7 이54일 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39151/39/cover200/8937449293_1.jpg) | 지나가기 혹은 영원히 남아 있기 : 강보원 산문집 | 강보원 | 서울 : 민음사, 2026 | 811.47 강45지 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40181/77/cover200/k732131874_1.jpg) | 1차원의 삽목 | 송하용지개 | 서울 : 반타 : 오팬하우스, 2026 | 813.37 송92일K마 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40136/77/cover200/k792131166_1.jpg) | 테니스나무 : 윤고은 장편소설 | 윤고은 | 파주 : 문학동네, 2026 | 811.37 윤15테 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40166/22/cover200/k972131662_1.jpg) | 재이 | 조남주 | 파주 : 문학동네, 2026 | 811.37 조192재 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40218/22/cover200/k072131477_1.jpg) | 운이 좋은 사람은 이렇게 합니다 | 박성준 | 서울 : page2 : 페이지2북스, 2026 | 133.3 박54운페 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/30385/8/cover200/k352830867_1.jpg) | 0원으로 사는 삶 : 나의 작은 혁명 이야기 | 박정미 | 파주 : 들녘, 2022 | 811.87 박74영 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36429/2/cover200/8931024991_1.jpg) | 생의 한가운데 | Rinser, Luise | 서울 : 문예, 2025 | 833.914 R582mK전3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39443/6/cover200/8968802238_2.jpg) | 우정과 연대의 교육학 : 서로를 살리는 배움의 여정 | 최경미 | 서울 : 교육공동체 벗, 2026 | 371.04 우74최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40248/8/cover200/k452131180_1.jpg) | (한 땀 한 땀!) 나의 첫 AI 에이전트 | 허정준 | 안양 : 책만, 2026 | 006.3 허74나 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37938/61/cover200/k832033350_1.jpg) | 네모난 학교 속 동그란 아이들의 성장 이야기 : 학교 내 사회복지실천 사례집 | 유호태 | 고양 : 공동체, 2025 | 362.7 네35유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40273/47/cover200/k622131384_1.jpg) | 울음바다 : 알레프 시집 | 알레프 | 안산 : 쎄프로젝트, 2026 | 811.17 알294울 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40172/78/cover200/k892131770_1.jpg) | 눈 내리는 삼일포 : 김연수 소설 | 김연수 | 파주 : 문학동네, 2026 | 811.37 김64눈 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40190/75/cover200/k472131178_2.jpg) | 수원에서의 나날 : 퀄리티가 다른 KT 에이스 고영표의 생각들 | 고영표 | 서울 : 브레인스토어, 2026 | 796.357092 고64수 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40134/41/cover200/k642131067_3.jpg) | 트렌드 코리아 2027 : 2027 대한민국 소비트렌드 전망 | 김난도 | 서울 : 미래의창, 2026 | 338.544 트294김 2027 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The bearing capacity of soil analysis in foundation for shear failure : forecasting of safe bearing capacity of clayey soils by using neural network software | Kumar V., Phani | London : LAP LAMBERT Academic Publishing, 2026. | 624.154 K96b2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Regulatory freedom and investment treaty arbitration | Rajput, Aniruddha | Leiden, The Netherlands : Brill Nijhoff, 2026. | 346.092 R161r | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Digital health transformation : perspectives on technology integration in health care setting : from innovation to impact : integrating technology for better patient outcomes | Mohammed, Fatma Abdelaziz | London : LAP LAMBERT Academic Publishing, 2026. | 610.28 M697d | 중앙도서관 |
@@ -28,27 +52,3 @@
 | ![](https://image.aladin.co.kr/product/40127/64/cover200/8999738205_1.jpg) | 적성의 시대 : 왜 지금 적성의 시대인가 | 오헌석 | 서울 : 학지사, 2026 | 158.6 오94적 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40165/91/cover200/8925568365_1.jpg) | 과몰입 사회 : 감정 과잉은 어떻게 우리 삶을 지배하는가 | Jacob, Gitta | 서울 : RHK: 알에이치코리아, 2026 | 152.4 J15zK장 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40071/48/cover200/8932120005_1.jpg) | 조선 천주교 출판사 : 프랑스 선교사 훈민정음 인쇄 출판 이야기 | 가톨릭출판사 | 서울 : 가톨릭출판사, 2026 | 282.519 가885조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40142/0/cover200/8970301895_1.jpg) | 지도의 역사와 한반도 : 세계 지도의 역사로 본 동해, 독도의 표기와 변천사 | 정각 | 서울 : 자유문고, 2026 | 912.09 정12지 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1302/8/cover200/8963706451_2.jpg) | (외우지 않고 통으로 이해하는) 통아메리카사 | 김상훈 | 서울 : 다산초당 : 다산북스, 2011(2022 3쇄) | 970 김52통 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38300/51/cover200/k382034249_2.jpg) | AI 디지털 교육 트렌드 리포트 2026 : AI 에이전트 시대, 교육자를 위한 AI 리터러시 11대 키워드로 읽는 2026 핵심 이슈 | 박기현 | 서울 : 테크빌교육, 2026 | 371.334 A311박a 2026 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40110/52/cover200/k122130553_1.jpg) | 마감의 꽃말은 맥주 | 안나 | 파주 : 교유서가 : 교유당, 2026 | 811.8708 마12김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38835/1/cover200/8999736415_1.jpg) | 집단상담이론과 프로그램 개발 | 조항 | 서울 : 학지사, 2026 | 158.35 집22조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/762/60/cover200/8925404028_1.jpg) | 평생학습사회연구 | 한숭희 | 파주 : 교육과학사, 2010 | 374 한56평교 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40061/48/cover200/k562130048_3.jpg) | 우런니 샌드위치 | 박혜진 | 서울 : 클, 2026 | 641.84 박94우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34348/71/cover200/k932932895_1.jpg) | 기초 회로이론 : 선형회로해석의 쉬운 이해 | 최윤식 | 서울 : 한빛아카데미, 2024 | 621.3192 최66기4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39134/91/cover200/k732137650_1.jpg) | 당신에게 미학은 어떤 의미입니까? : 미학의 열 가지 정의 | Koren, Leonard | 익산 : 1984Books, 2026 | 111.85 K84wK박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35256/95/cover200/k582934248_1.jpg) | 라디오 모양의 다리미, 다리미 모양의 주전자, 주전자 모양의 라디오 | 이설희 | 서울 : 워크룸 프레스, 2024 | 709.51 김44이K양 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40130/7/cover200/k322131866_1.jpg) | 잘 늙겠다는 다짐 | 전야융사 | 서울 : 동양북스, 2026 | 155.67 전63노K송 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39720/47/cover200/8967822693_1.jpg) | 덜 아픈 마침표를 위하여 : 좋은 안녕을 위한 어느 이혼전문판사의 마음 | 정현숙 | 서울 : 푸른향기, 2026 | 811.87 정94덜 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27982/9/cover200/k092734228_1.jpg) | 아무튼, 아이돌 | 윤혜은 | [파주] : 제철소, 2021 | 811.87 윤94아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40141/55/cover200/k282131463_1.jpg) | 좌파 생활 : 다른 방식으로 산다는 것 | Pendakis, Andrew | 파주 : 오월의봄, 2026 | 335 P397LK유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40112/97/cover200/k312130656_1.jpg) | (Musical)Swing Days : 암호명 A | 김희재 | 서울 : 올댓스토리, 2026 | 811.27 김97s | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40127/63/cover200/k842131868_1.jpg) | 학교상담 실습 | 천성문 | 서울 : 박영스토리 : 피와이메이트, 2026 | 371.4 학15천박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29643/18/cover200/k492838573_1.jpg) | 슬기로운 독서생활 : 1일 1독, 나를 일으키는 기적의 습관 | 정예슬 | 고양 : 북퀘이크, 2022 | 028.9 정64슬 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/7492/3/cover200/8958289325_1.jpg) | 아틀라스 중앙유라시아사 | 김호동 | 파주 : 사계절, 2016(2025 12쇄) | 958 김95아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40001/92/cover200/k802130036_1.jpg) | 내 심장을 줄게 : 심장을 이식받은 기상캐스터의 햇살 찬란 투병기 | 오수진 | 서울 : 소소사, 2026 | 811.87 오56내 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40090/97/cover200/k962130440_3.jpg) | 한국사 이상현상 연구원 : 최인서 소설 | 최인서 | 서울 : 다이브 : 빅피시, 2026 | 811.37 최68한다 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 독서라는 사건 | 밀리의서재 | 서울 : 오리지널스 : KT 밀리의서재, 2026 | 028 밀298독 v.1~2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Tick, tick...boom! : the complete book and lyrics | Larson, Jonathan | Lanham, MD : Applause Theatre ＆ Cinema, 2009. | 782.140268 L334t | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/34fa3058-7bf0-471b-b91e-8b1517d8d9c7) | 밑바닥부터 시작하는 딥러닝 | 재등강의 | 서울 : 한빛미디어, 2017-2026 | 006.31 재27밑K개 v.1~6 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39928/86/cover200/k372130027_1.jpg) | 헝거 게임 : 50번째 추첨의 날 | Collins, Suzanne | 서울 : 북폴리오 : 미래엔, 2026 | 823.92 C713sK이 | 중앙도서관 |
