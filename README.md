@@ -2,6 +2,23 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/40191/63/cover200/k912131171_1.jpg) | 예수 전쟁 : 네 총대주교, 세 황후, 두 황제와 5세기 교회사 | Jenkins, Philip | 서울 : 브니엘, 2026 | 270.2 J52jK유 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/32927/44/cover200/k722936840_1.jpg) | 배정원의 사랑학 수업 : 연애는 덧셈, 섹스는 곱셈 | 배정원 | 김포 : 행성비, 2023 | 155.3 배74배 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39990/14/cover200/k342130836_1.jpg) | 클래식 : 곽재용 각본집 | 곽재용 | 서울 : Studio:ODR : 오팬하우스, 2026 | 811.27 곽73클 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40019/88/cover200/899424297x_3.jpg) | 참 쉬운 양치식물 : 누구나 쉽게 찾아 볼 수 있는 고사리 231종류 | 이만규 | 서울 : 지오북, 2026 | 587 이32참 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38957/56/cover200/k562137311_1.jpg) | 학술논문작성법 | Booth, Wayne C | 서울 : 휴먼싸이언스, 2026 | 808.066 C885b5K양 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40321/93/cover200/k082131686_1.jpg) | 핸즈온 머신러닝 with 사이킷런, 파이토치 : 머신러닝 기본기부터 트랜스포머·LLM까지 직접 구현하며 배우기 | Geron, Aurelien | 서울 : 한빛미디어, 2026 | 006.31 G377hK박머 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40343/3/cover200/k092131294_1.jpg) | 우리 모두의 팔레스타인 | 강진리 | 서울 : 서해문집, 2026 | 956.94 강78중K옥 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27288/71/cover200/k502732021_1.jpg) | 공부시간이 부족한 기술고시 수험생을 위한 필승합격법 | 기술고시수험연구회 | 서울 : 비피기술거래, 2021 | 371.30281 기56공 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39958/79/cover200/k892130526_1.jpg) | AI와 구조방정식모델링 | 김계수 | 서울 : 청람, 2026 | 519.535 김14a청 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/24555/4/cover200/k402631970_1.jpg) | (이공계 학생을 위한)파워포인트로 이미지 만들기 | 장우동 | 파주 : 자유아카데미, 2020 | 005.58 장66파 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40285/32/cover200/k522131487_1.jpg) | 일의 미래 : AI시대 증강인간과 증강조직을 향한 일·학습·성장의 재설계 | 김동호 | 서울 : 박영스토리, 2026 | 658.406 김25일 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/23719/23/cover200/8984946419_1.jpg) | 조선초기 관인 이력 : 태조~성종대 | 한충희 | 서울 : 혜안, 2020 | 951.51 한85조태 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/35866/2/cover200/k082037672_1.jpg) | (Razavi의) 아날로그 CMOS 집적회로 설계 | Razavi, Behzad | 서울 : 맥그로힐에듀케이션코리아, 2017(2025 3쇄) | 621.3815 R278d2K김2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Law and humanities | Newman, Daniel | New York : Anthem Press, 2026. | 340.1 N552L | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Allgemeines Verwaltungsrecht : mit Verwaltungsprozessrecht | Detterbeck, Steffen | München : C.H. Beck, 2025. | 342.06 D483a23 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 租税法 | 김자굉 | 東京 : 弘文堂, 20212026(11刷) | 343.04 금72조24 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36614/99/cover200/k132030968_1.jpg) | 청킹맨션의 보스는 알고 있다 : 기존의 호혜, 증여, 분배 이론을 뒤흔드는 불확실성의 인류학 | 소천사야카 | 서울 : 갈라파고스, 2025 | 306.3 소83청K지 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39520/43/cover200/k632139615_1.jpg) | 억울한 민심, 둔감한 법정 : 한국 사회 정의의 틈새를 보다 | 김주영 | 서울 : 박영사, 2026 | 340.02 김76억 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/39887/10/cover200/k922130720_1.jpg) | AI와 법학의 미래 | 류지웅 | 서울 : 커뮤니케이션북스, 2026 | 343.0999 류78a | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/39595/83/cover200/k572130665_1.jpg) | 고소 공화국에 오신 것을 환영합니다 : 나와 내 돈, 내 사람을 지키는 최소한의 법률 지식 | 임호균 | [서울] : 모티브, 2026 | 347.05 임95고 | 법학도서관 |
@@ -35,20 +52,3 @@
 | ![](https://image.aladin.co.kr/product/40071/96/cover200/k682130145_1.jpg) | 어두운 집 : 전건우 장편소설 | 전건우 | 파주 : & : 넥서스, 2026 | 811.37 전14어넥 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40088/18/cover200/8970871799_1.jpg) | 내가 본 김정은 : 북한 외교관의 탈북 스토리 | 이일규 | 서울 : 미래사, 2026 | 320.9518 이68내 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37484/56/cover200/k712032118_1.jpg) | 김정은의 숨겨진 비밀금고 : 노동당 39호실장 전일춘 딸과 사위 증언 | 류현우 | 서울 : 동아일보사, 2025 | 320.9518 류94김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40090/91/cover200/k842130448_2.jpg) | 매스니치 서바이벌 | 이기문 | 서울 : 북스톤, 2026 | 338.7 이18매 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38834/93/cover200/8999736423_1.jpg) | 상담연구방법론 | 신윤정 | 서울 : 학지사, 2026 | 158.3 상22신 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40217/38/cover200/k442131473_1.jpg) | 아름다운 것들은 비밀을 품고 있다 | 파묘 | [서울] : 모티브, 2026 | 750.118 파35아 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/31417/51/cover200/8994242856_1.jpg) | 침엽수의 자연사 | 공우석 | 서울 : 지오북, 2023 | 585.2 공66침 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/28414/66/cover200/k202835114_1.jpg) | 일기에도 거짓말을 쓰는 사람 : 99년생 시인의 자의식 과잉 에세이 | 차도하 | 서울 : 위즈덤하우스, 2021 | 811.47 차25일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38281/56/cover200/k802034047_1.jpg) | 대모험서울 : 떡볶이 도감 | 대모험서울 | [서울] : 대모험서울, 2026 | 647.9551 대35대 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37480/63/cover200/k912032019_1.jpg) | 남방 우편수송기 | Saint Exupéry, Antoine de | 서울 : 다빈치, 2025 | 843.912 S157cK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/1287/95/cover200/8997150014_1.jpg) | (이승훈의 알기 쉬운) 현대시작법 | 이승훈 | 서울 : 북인, 2011(2017 2쇄) | 808.1 이57현2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36596/95/cover200/k472030764_1.jpg) | AI와 한국 현대시 | 정끝별 | 서울 : 커뮤니케이션, 2025 | 811.109 정17a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/36985/99/cover200/k242030120_1.jpg) | 디지털 시대의 문학교육 매체로 시를 만나다 | 강정화 | 서울 : 역락, 2025 | 808.107 디78강 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35991/1/cover200/k182037611_1.jpg) | 재난과 문학 | 박인성 | 서울 : 역락, 2025 | 809 재192박 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40273/74/cover200/k382131385_1.jpg) | 결국 남의 집 고양이가 될 테지만 | 하상만 | 용인 : 별꽃, 2026 | 811.47 하52결 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/33371/69/cover200/k392938215_1.jpg) | 반도체 공학 : 그림으로 보여주는 반도체의 핵심 원리 | 김동명 | 서울 : 한빛아카데미, 2024 | 621.38152 김25반3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26861/96/cover200/s192137014_1.jpg) | 제일철학에 관한 성찰 : 자연의 빛에 의한 진리 탐구, 프로그램에 대한 주석 | Descartes, Rene | 서울 : 문예, 2021(2026 6쇄) | 194 D445mK이2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/29509/72/cover200/8931022751_2.jpg) | 방법서설 : 정신지도규칙 | Descartes, Rene | 서울 : 문예, 2022 | 194 D445dK이3 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40184/11/cover200/k362131976_1.jpg) | (스프링 AI 2.0으로 배우는) AI 에이전트 개발 완벽 가이드 | 허제민 | 파주 : 위키, 2026 | 006.3 허74a | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40134/97/cover200/k132131161_1.jpg) | 그냥 Postgres를 쓰세요! : 관계형 데이터베이스를 넘어 AI, 검색, JSON, 시계열, 지리 공간까지 | Magda, Denis | 파주 : 제이펍, 2026 | 005.7585 M189jK윤 | 중앙도서관 |
