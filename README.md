@@ -2,6 +2,25 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/39702/10/cover200/k022130492_1.jpg) | 연금술사 : 파울로 코엘료 장편소설 | Coelho, Paulo | 파주 : 북다 : 교보문고, 2026 | 869.342 C672aK최2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook of the psychology of aging | Gerstorf, Denis | London, England : Academic Press, [2027]. | 155.67 H236a10 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | When driving is not an option : steering away from car dependency | Zivarts, Anna Letitia | Washington : Island Press, 2024. | 388.4 Z82w | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Bike battles : a history of sharing the American road | Longhurst, James | Seattle | 388.34720973 L854b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Fighting traffic : the dawn of the motor age in the American city | Norton, Peter D | Cambridge, Mass. : MIT Press, 2008. | 388.321 N886f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Berkeley lectures on p-adic geometry | Scholze, Peter | Princeton : Princeton University Press, 2020. | 516.35 S368b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The politics of heroin : CIA complicity in the global drug trade : Afghanistan, Southeast Asia, Central America, Colombia | McCoy, Alfred W | Chicago : Lawrence Hill Books : Distributed by Independent Publishers Group, 2003. | 363.450959 M131p2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Drug policy and the public good | Babor, Thomas | Oxford : Oxford University Press, 2018. | 362.29156 D794b2 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The weight of the world : social suffering in contemporary society | Bourdieu, Pierre | Stanford, Calif. : Stanford University Press, 1999. | 305.560944 B769mEp | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Free agents : how evolution gave us free will | Mitchell, Kevin J | Princeton : Princeton University Press, 2023. | 123.5 M679f | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Robust political economy : classical liberalism and the future of public policy | Pennington, Mark | Cheltenham, UK | 338.9 P414r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Bag design : a handbook for accessories designers | Mini Miss Mia | [Kwun Tong, Hong Kong] : Fashionary, [2016]. | 646.48 M665b | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Everyday people in early modern Kyoto : family, firm and community | Nagata, Mary Louise | Abingdon, Oxon | 953.5 N147e | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Analyzed by Lacan : a personal account | Milan, Betty | New York : Bloomsbury Academic, 2024. | 869.84203 M637LEL | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Archives of the anthropocene : visual grammars of deep time | Furuhata, Yuriko | Durham : Duke University Press, 2026. | 304.2 F992a | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Representation theory : a first course | Fulton, William | New York : Springer-Verlag, 2004. | 512.2 F974r | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 유일한의 독립운동 자료 | 김도훈 | 서울 : 고려대학교 민족문화연구원 : 유일한박사기념연구재단 : 선인, 2026 | 951.61092 유68고 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/38960/31/cover200/8994140506_1.jpg) | 유대인과 한국인의 만남 : 前 서울대 총장 유기천 박사 부인 헬렌 실빙 박사 회고록 | Siliving, Helen | 서울 : 와이겔리, 2026 | 340.092 S587hK최 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/40149/43/cover200/k962131566_1.jpg) | 전환의 시대, 동반성장의 길 | 정운찬 | 서울 : 동반성장연구소, 2026 | 338.951 정66전 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40417/67/cover200/k652131008_1.jpg) | 격변(激變) : 미중 전략경쟁시대 대한민국 생존전략 | 김흥규 | 서울 : 더봄, 2026 | 327.519 김97격 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40321/82/cover200/k402131685_1.jpg) | 채달금전 : 서귤 장편소설 | 서귤 | 서울 : 위즈덤하우스, 2026 | 811.37 서16채 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40330/82/cover200/k042131796_1.jpg) | 서울 밖 감정 | 성해나 | 서울 : 한겨레 : 한겨레엔, 2026 | 811.4708 서66성 | 중앙도서관 |
@@ -33,22 +52,3 @@
 | ![](https://image.aladin.co.kr/product/3141/86/cover200/897585647x_1.jpg) | 한국족보의 특성과 동아시아에서의 위상 | 궁도박사 | 대구 : 계명대학교출판부, 2013 | 929.351 한16계 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40388/45/cover200/k282131805_1.jpg) | 폴리우레탄 : 기초와 응용 | 김형석 | 서울 : 한국폴리우레탄학회, 2026 | 668.4239 김94폴 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40321/75/cover200/k162131685_2.jpg) | 아메리칸 학원 | Lee, Min Jin | 서울 : 현대문학, 2026 | 823.92 L479aK정 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40191/63/cover200/k912131171_1.jpg) | 예수 전쟁 : 네 총대주교, 세 황후, 두 황제와 5세기 교회사 | Jenkins, Philip | 서울 : 브니엘, 2026 | 270.2 J52jK유 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/32927/44/cover200/k722936840_1.jpg) | 배정원의 사랑학 수업 : 연애는 덧셈, 섹스는 곱셈 | 배정원 | 김포 : 행성비, 2023 | 155.3 배74배 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39990/14/cover200/k342130836_1.jpg) | 클래식 : 곽재용 각본집 | 곽재용 | 서울 : Studio:ODR : 오팬하우스, 2026 | 811.27 곽73클 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40019/88/cover200/899424297x_3.jpg) | 참 쉬운 양치식물 : 누구나 쉽게 찾아 볼 수 있는 고사리 231종류 | 이만규 | 서울 : 지오북, 2026 | 587 이32참 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38957/56/cover200/k562137311_1.jpg) | 학술논문작성법 | Booth, Wayne C | 서울 : 휴먼싸이언스, 2026 | 808.066 C885b5K양 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40321/93/cover200/k082131686_1.jpg) | 핸즈온 머신러닝 with 사이킷런, 파이토치 : 머신러닝 기본기부터 트랜스포머·LLM까지 직접 구현하며 배우기 | Geron, Aurelien | 서울 : 한빛미디어, 2026 | 006.31 G377hK박머 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40343/3/cover200/k092131294_1.jpg) | 우리 모두의 팔레스타인 | 강진리 | 서울 : 서해문집, 2026 | 956.94 강78중K옥 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/27288/71/cover200/k502732021_1.jpg) | 공부시간이 부족한 기술고시 수험생을 위한 필승합격법 | 기술고시수험연구회 | 서울 : 비피기술거래, 2021 | 371.30281 기56공 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39958/79/cover200/k892130526_1.jpg) | AI와 구조방정식모델링 | 김계수 | 서울 : 청람, 2026 | 519.535 김14a청 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/24555/4/cover200/k402631970_1.jpg) | (이공계 학생을 위한)파워포인트로 이미지 만들기 | 장우동 | 파주 : 자유아카데미, 2020 | 005.58 장66파 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40285/32/cover200/k522131487_1.jpg) | 일의 미래 : AI시대 증강인간과 증강조직을 향한 일·학습·성장의 재설계 | 김동호 | 서울 : 박영스토리, 2026 | 658.406 김25일 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/23719/23/cover200/8984946419_1.jpg) | 조선초기 관인 이력 : 태조~성종대 | 한충희 | 서울 : 혜안, 2020 | 951.51 한85조태 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/35866/2/cover200/k082037672_1.jpg) | (Razavi의) 아날로그 CMOS 집적회로 설계 | Razavi, Behzad | 서울 : 맥그로힐에듀케이션코리아, 2017(2025 3쇄) | 621.3815 R278d2K김2 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Law and humanities | Newman, Daniel | New York : Anthem Press, 2026. | 340.1 N552L | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Allgemeines Verwaltungsrecht : mit Verwaltungsprozessrecht | Detterbeck, Steffen | München : C.H. Beck, 2025. | 342.06 D483a23 | 법학도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 租税法 | 김자굉 | 東京 : 弘文堂, 20212026(11刷) | 343.04 금72조24 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/36614/99/cover200/k132030968_1.jpg) | 청킹맨션의 보스는 알고 있다 : 기존의 호혜, 증여, 분배 이론을 뒤흔드는 불확실성의 인류학 | 소천사야카 | 서울 : 갈라파고스, 2025 | 306.3 소83청K지 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39520/43/cover200/k632139615_1.jpg) | 억울한 민심, 둔감한 법정 : 한국 사회 정의의 틈새를 보다 | 김주영 | 서울 : 박영사, 2026 | 340.02 김76억 | 법학도서관 |
-| ![](https://image.aladin.co.kr/product/39887/10/cover200/k922130720_1.jpg) | AI와 법학의 미래 | 류지웅 | 서울 : 커뮤니케이션북스, 2026 | 343.0999 류78a | 법학도서관 |
