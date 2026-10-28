@@ -2,6 +2,21 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/40415/21/cover200/k712131909_1.jpg) | 스타트업 마에스트로 : 기후·에너지 딥테크를 위한 24단계 플레이북 | Soltoff, Ben | 서울 : 박영사, 2026 | 658.11 D611sK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/37945/0/cover200/k512033455_2.jpg) | 오늘 밤, 세계에서 이 사랑이 사라진다 해도 : 각본집 | 김혜영 | 서울 : Studio:ODR : 오팬하우스, 2025 | 811.27 김94오 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/27691/51/cover200/8991729428_1.jpg) | 왓 이즈 섹스? : 성과 충동의 존재론, 그리고 무의식 | Zupančič, Alenka | 서울 : 여이연, 2021 | 306.7 Z95wK김 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 한자 석음 역사 사전 | 홍윤표 | 파주 : 태학사, 2026 | 411.3 홍66한 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40061/6/cover200/k672130947_1.jpg) | 마르타 아르헤리치 : 건반 위를 질주하는 전설의 피아니스트 | Bellamy, Olivier | 서울 : 앤의서재, 2026 | 786.2092 B435mK이앤 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40381/0/cover200/k792131700_1.jpg) | 바그너주의 : 그 현상과 여파로부터 | Ross, Alex | 서울 : 마티, 2026 | 782.1092 R823wK박 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40429/85/cover200/k542131205_1.jpg) | 총성 없는 전쟁, 중국의 초한전(超限戰) | 권영호 | 서울 : 북랩, 2026 | 355.4 권64총 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40092/84/cover200/k552130445_1.jpg) | 멈추지 못하는 아이들 : 스마트폰, 게임, 숏폼, SNS 중독 시대, 아이의 자기 조절력을 키우는 부모의 기술 | 선자연 | 서울 : 북하우스 : 북하우스 퍼블리셔스, 2026 | 649.1 선72멈 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40430/23/cover200/k902131207_1.jpg) | 왜 지금 AI를 감사해야 하는가 : Al 시대, 신뢰를 감사하는 기술 | 김영일 | 서울 : 북랩, 2026 | 658.4013 왜78김 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/4306/53/cover200/8994606270_1.jpg) | 중국 최후의 제국 : 하버드 중국사 청 | Rowe, William T | 서울 : 너머북스, 2014 | 952.6 R879cK기 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/25894/95/cover200/k832737771_1.jpg) | 터키어 표준 교재 : A1 | 연규석 | 서울 : Hu:ine : 한국외국어대학교 지식출판콘텐츠원, 2019 | 494.35 터878연 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40339/98/cover200/k492131994_1.jpg) | 그림으로 쉽게 푸는 공사계약 실무 | 박유왕 | 서울 : 가나북스, 2026 | 352.53 박66그 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40416/3/cover200/k462131902_1.jpg) | AI는 생각하지 않는다, AI 리터러시 | 이제현 | 서울 : 골든래빗, 2026 | 006.3 이74a | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40219/26/cover200/k722131578_1.jpg) | 경남 청년 엑소더스 : 중공업이 살아나면 청년도 돌아온다는 착각 | 김유현 | 고양 : 틈새책방, 2026 | 304.804 김66경 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40321/63/cover200/k242131684_2.jpg) | 가호 | 촌상춘수 | 파주 : 문학동네, 2026 | 813.37 촌52하K홍 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39702/10/cover200/k022130492_1.jpg) | 연금술사 : 파울로 코엘료 장편소설 | Coelho, Paulo | 파주 : 북다 : 교보문고, 2026 | 869.342 C672aK최2 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Handbook of the psychology of aging | Gerstorf, Denis | London, England : Academic Press, [2027]. | 155.67 H236a10 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | When driving is not an option : steering away from car dependency | Zivarts, Anna Letitia | Washington : Island Press, 2024. | 388.4 Z82w | 중앙도서관 |
@@ -19,7 +34,7 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Archives of the anthropocene : visual grammars of deep time | Furuhata, Yuriko | Durham : Duke University Press, 2026. | 304.2 F992a | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Representation theory : a first course | Fulton, William | New York : Springer-Verlag, 2004. | 512.2 F974r | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 유일한의 독립운동 자료 | 김도훈 | 서울 : 고려대학교 민족문화연구원 : 유일한박사기념연구재단 : 선인, 2026 | 951.61092 유68고 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38960/31/cover200/8994140506_1.jpg) | 유대인과 한국인의 만남 : 前 서울대 총장 유기천 박사 부인 헬렌 실빙 박사 회고록 | Siliving, Helen | 서울 : 와이겔리, 2026 | 340.092 S587hK최 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38960/31/cover200/8994140506_1.jpg) | 유대인과 한국인의 만남 : 前 서울대 총장 유기천 박사 부인 헬렌 실빙 박사 회고록 | Silving, Helen | 서울 : 와이겔리, 2026 | 340.092 S587hK최 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/40149/43/cover200/k962131566_1.jpg) | 전환의 시대, 동반성장의 길 | 정운찬 | 서울 : 동반성장연구소, 2026 | 338.951 정66전 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40417/67/cover200/k652131008_1.jpg) | 격변(激變) : 미중 전략경쟁시대 대한민국 생존전략 | 김흥규 | 서울 : 더봄, 2026 | 327.519 김97격 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40321/82/cover200/k402131685_1.jpg) | 채달금전 : 서귤 장편소설 | 서귤 | 서울 : 위즈덤하우스, 2026 | 811.37 서16채 | 중앙도서관 |
@@ -37,18 +52,3 @@
 | ![](https://image.aladin.co.kr/product/31270/23/cover200/k592832560_1.jpg) | 어린 자폐 자녀를 위한 ESDM 부모용 지침서 : 일상생활 활동을 이용한 상호작용, 의사소통, 학습을 돕기 | Rogers, Sally J | 서울 : 세원프레스, 2023 | 618.9285882 R729eK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39990/48/cover200/8999737640_1.jpg) | 자폐 범주성 장애 : 의사소통 및 사회적 상호작용을 위한 증거 기반의 중재 | Prelock, Patricia A | 서울 : 학지사, 2026 | 616.85882 P924t2K이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/17530/91/cover200/8993143684_1.jpg) | 우근이가 사라졌다 : 자폐 아들과 함께한 시간의 기록 | 송주한 | 서울 : 한울림스페셜, 2018(2024 4쇄) | 649.152 송76우 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40333/18/cover200/k442131891_1.jpg) | 지도는 답을 알고 있다 : 세상 원리가 한눈에 보이는 지정학 세계사 | 산기규일 | 서울 : 윌북, 2026 | 909 산18세K노 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40273/42/cover200/k592131384_1.jpg) | 환상사회 : 이상적 이미지를 넘어 자기-세계를 만드는 15가지 방법 | 정지우 | 서울 : 한겨레, 2026 | 302.231 정78환 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40056/77/cover200/k712130846_1.jpg) | 셸리 숍앤센터 : 설재인 장편소설 | 설재인 | 고양 : 나무옆의자 : 픽셀앤플로우, 2026 | 811.37 설73셸 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40278/13/cover200/k532131481_1.jpg) | 인수세공 | 소림태삼 | 서울 : 시공사, 2026 | 813.37 소298인K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38715/3/cover200/k292136634_1.jpg) | 에이든 국내여행 가이드북 : 2026-2027 | 이정기 | [아산] : 타블라라사, 2026 | 915.104 이74국4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/39769/65/cover200/k522130109_1.jpg) | 에이든 일본 여행 도감 100 : 대도시부터 소도시까지, 꼭 가봐야 할 도시 100 | 이정기 | [아산] : 타블라라사, 2026 | 915.304 이74에 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/34764/57/cover200/k292933926_1.jpg) | 자취백과사전 : 대한민국 세입자를 위한 집 구하기의 모든 것 | 자취남 | 파주 : 21세기북스 : 북이십일, 2024 | 333.33 자85자 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40317/10/cover200/k042131689_1.jpg) | 숫자 빼고 주문하신 회계 나왔습니다 : 어려운 용어도 단숨에 깨치는 기적의 회계상식사전 | 정소라 | 서울 : 현대지성, 2026 | 657 정55숫 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37890/11/cover200/k922033524_1.jpg) | 세상의 마지막 우체국 | 촌뢰건 | 서울 : 모모 : 오팬하우스, 2025 | 813.37 촌295절K김 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26817/48/cover200/8990514401_2.jpg) | 화성에서 온 남자 금성에서 온 여자 | Gray, John | 파주 : 동녘라이프, 2021 | 156 G779mK김4 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40245/57/cover200/k102131989_1.jpg) | 수저 인문학 : 고고학자가 파헤친 숟가락과 젓가락의 2만 년 연대기 | 오승환 | 서울 : 창해, 2026 | 394.12 오57수 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40347/79/cover200/8994242570_2.jpg) | 초록마법 : 화학생태학으로 읽는 식물과 신화 그리고 인간 | 박상규 | 서울 : 지오북, 2026 | 581.7 박52초 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/3141/86/cover200/897585647x_1.jpg) | 한국족보의 특성과 동아시아에서의 위상 | 궁도박사 | 대구 : 계명대학교출판부, 2013 | 929.351 한16계 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40388/45/cover200/k282131805_1.jpg) | 폴리우레탄 : 기초와 응용 | 김형석 | 서울 : 한국폴리우레탄학회, 2026 | 668.4239 김94폴 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40321/75/cover200/k162131685_2.jpg) | 아메리칸 학원 | Lee, Min Jin | 서울 : 현대문학, 2026 | 823.92 L479aK정 v.1~2 | 중앙도서관 |
