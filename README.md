@@ -2,6 +2,13 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/37144/67/cover200/k232031479_1.jpg) | 한국민사법의 발전적 변화 : 1960-2025 | 김상용 | 고양 : 피앤씨미디어, 2025 | 347 김52한 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38595/57/cover200/8971806699_1.jpg) | 법언어학 입문 | 김성룡 | 대구 : 경북대학교출판부, 2026 | 340.14 김54법 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/38595/74/cover200/8920055017_1.jpg) | 민주주의의 위기와 헌법재판 : 대응적 사법심사에 관한 비교헌법 연구 | Dixon, Rosalind | 서울 : 에피스테메 : 한국방송통신대학교출판문화원, 2026 | 342 D621rK박 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/36449/20/cover200/k392039493_1.jpg) | 민법의 해석 | 이계정 | 서울 : 박영사, 2025 | 346 민44이 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/34875/69/cover200/8928519993_1.jpg) | 조선후기 법사회사 연구 | 심재우 | 서울 : 민속원, 2024-2025 | 340.0951 조54심 v.1~2 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 사물인터넷 개론 | 구은희 | 수원 : 아주대학교 출판부, 2026 | 004.678 구67사 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | (코딩 문제 해결을 위한) C언어 포인터 실전 코딩 | 구은희 | 수원 : 아주대학교 출판부, 2026 | 005.133 구67c아 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40126/81/cover200/k422131767_1.jpg) | 역사 속의 다문화 | 전영준 | 서울 : 선인, 2026 | 951 전64역 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40190/79/cover200/k722131178_1.jpg) | 정희 : 박정희에 관한 오만과 편견을 깨뜨릴 우리들의 대통령 이야기 | 김용삼 | 서울 : 플로우북스, 2026 | 951.74092 박74김박 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/483/88/cover200/8932908877_1.jpg) | 장미의 이름 작가 노트 | Eco, Umberto | 파주 : 열린책들, 2009(2022 5쇄) | 853 E19pK이3 | 중앙도서관 |
@@ -45,10 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36120/76/cover200/k952038260_1.jpg) | 자폐아와 아빠 : 희망의 작은 발걸음 | 임기원 | 서울 : 소미미디어, 2025 | 649.152 임18자 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40349/17/cover200/k712131498_1.jpg) | 우리 아이, 학교에서 잘 지내고 있을까요 : 특수교육 현장에서 들려주는 아이의 진짜 학교생활 | 강화정 | 서울 : 미다스북스, 2026 | 371.9 우298강 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/39523/96/cover200/k422139728_2.jpg) | 다이어트 상식의 배신 : 이선생님 뒤집어 놓은 다이어트 상식 100가지 | 황준연 | 제주 : 작가의 집, 2026 | 613.25 황76다 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Sexuality | Weeks, Jeffrey | Abingdon, Oxon : Routledge, 2023. | 306.7 W395s5 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Growth : a reckoning | Susskind, Daniel | London : Penguin Books, 2025. | 338.9 S964g | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Natural intelligence ＆ the logic of consciousness | Damasio, Antonio R | New York : Pantheon Books, 2026. | 612.8233 D155n | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | The nine lives of Christopher Columbus | Restall, Matthew | New York, NY : W. W. Norton ＆ Company, 2025. | 970.015092 C726r | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Mega builds : ten colossal construction projects that will change our world | Mills, Fred | London : WH Allen, 2026. | 624 M657m | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | APA handbook of adult development and aging | Lachman, Margie E | Washington, DC : American Psychological Association, 2026. | 155.67 L138a | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Economic growth : international student edition | Ashraf, Quamrul | New York, NY : Routledge, 2025. | 338.9 A827e4 | 중앙도서관 |
