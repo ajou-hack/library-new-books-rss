@@ -2,6 +2,26 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/24781/67/cover200/8931021267_1.jpg) | 일단, 성교육을 합니다 : 소년부터 성년까지 남자가 알아야 할 성 a to z | Chavez Perez, Inti | 서울 : 문예, 2020(2025 4쇄) | 306.7 C512rK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/2232/79/cover200/8966806325_2.jpg) | 사일러스 마너 | Eliot, George | 서울 : 지식을만드는지식 : 커뮤니케이션북스, 2012 | 823.8 E42sK한 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/33198/34/cover200/8937464365_1.jpg) | 미들마치 : 지방 생활의 고찰 | Eliot, George | 서울 : 민음사, 2024 | 823.8 E42mK이 v.1~2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40664/25/cover200/k442131346_1.jpg) | 식민지 조선의 낯선 이웃들 | 박준형 | 서울 : 푸른역사, 2026 | 951.6 박76식 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36201/19/cover200/k482038691_1.jpg) | (최고의 몸 상태를 만드는) 100가지 자율신경 관리법 | 삼전료개 | 서울 : 시그마북스, 2025 | 612.89 삼74자K이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40545/80/cover200/k852131921_1.jpg) | 호루몽 : 살아남은 여자 신숙옥의 투쟁기 | 신숙옥 | 서울 : 라우더북스, 2026 | 323.092 신56호 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39577/83/cover200/k132139244_1.jpg) | 콘크리트 유토피아 | 박해천 | 서울 : 워크룸 프레스, 2026 | 307.76 박93콘2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39223/73/cover200/k942138987_1.jpg) | 건축은 예술인가 | 김원 | [파주] : 흰소, 2026 | 720.951 김66건2 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40279/45/cover200/k522131483_1.jpg) | 누가 K-Pop을 소유하는가 | 권, 크리스 | 파주 : 혜지원, 2026 | 338.4778 권877누 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/4729/90/cover200/8937408252_1.jpg) | 응 : 문정희 시집 | 문정희 | 서울 : 민음사, 2014 | 811.17 문74응 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40600/31/cover200/k172131839_1.jpg) | 날마다 돌 하나 : 오래된 돌이 전하는 위로와 경이 | 권홍진 | 파주 : 김영사, 2026 | 549.09 권95날 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/39018/68/cover200/8957469214_1.jpg) | 영성과 아동 발달 : 아이와 부모가 함께 성장하는 새로운 과학 | Miller, Lisa | 서울 : 운주사, 2026 | 649.7 M648sK이 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40191/50/cover200/k512131170_1.jpg) | 금융의 종말 : 크립토와 AI가 지배하는 국경 없는 금융의 시대 | 오태민 | 서울 : 거인의정원, 2026 | 332.0285 오883금 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40100/23/cover200/k992130351_1.jpg) | (Again!) 뒤집어본 영문법 | 오성호 | 파주 : 김영사, 2026 | 425 오54뒤3 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/36705/68/cover200/k002030799_1.jpg) | 루이 보나파르트의 브뤼메르 18일 | Marx, Karl | 서울 : 세창, 2025 | 944.07 M392aK최 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/40625/77/cover200/8968509557_1.jpg) | 경제학의 침묵을 넘어서 | 홍훈 | 서울 : 연세대학교 출판문화원, 2026 | 330 홍96경 | 중앙도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Droit administratif | Waline, Jean | Paris : Lefebvre Dalloz, 2025. | 342.06 W176d30 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Droit administratif : cours, réflexions et débats | Morand-Deviller, Jacqueline | Paris : LGDJ : un savoir-faire de Lextenso, 2025. | 342.06 M829d19 | 법학도서관 |
+| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Droit administratif | Petit, Jacques | Paris : LGDJ : un savoir-faire de Lextenso, 2026. | 342.06 P489d20 | 법학도서관 |
+| ![](https://image.aladin.co.kr/product/39103/41/cover200/k102137254_1.jpg) | 건축잡지 미로 | 정림건축문화재단 | 서울 : 마티 : 정림건축문화재단, 2026 | 729 정298건 v.5~6 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40037/45/cover200/k932130740_1.jpg) | 수용전념치료 기초 배우기 : 단계적으로 배우는 초진단적 ACT 기본 매뉴얼 | Twohig, Michael P | 서울 : 박영story : 피와이메이트, 2026 | 616.891425 T974aK송 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40643/18/cover200/k412131336_1.jpg) | 대학원생 때 알았더라면 좋았을 것들 : 대학원이라는 미지의 영역에 대한 궁극의 안내서! | 엄태웅 | 서울 : 클라우드나인, 2026 | 378.155 엄883대2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40506/16/cover200/k092131515_1.jpg) | 멘탈 샤워 : 불안을 씻어내고 정신 건강을 최적화하는 기술 | Conti, Paul | 서울 : 비즈니스북스, 2026 | 158.1 C762wK박 | 중앙도서관 |
@@ -32,23 +52,3 @@
 | ![](https://image.aladin.co.kr/product/36144/91/cover200/k992038676_1.jpg) | 에로스, 달콤씁쓸한 | Carson, Anne | 파주 : 난다, 2025 | 880.9 C321eK황 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/22253/90/cover/k962636821_1.jpg) | 레드 닥 | Carson, Anne | 서울 : 한겨레, 2019(2026 2쇄) | 821.914 C321rK민 | 중앙도서관 |
 | ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/8aae0d6f-8d71-4205-b4e7-ad1f2ea183b3) | 빨강의 자서전 : 시로 쓴 소설 | Carson, Anne | 서울 : 한겨레, 2016(2026 10쇄) | 823.914 C321aK민 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/9c7097b8-9188-4824-a540-8a5b0610aa2d) | 남편의 아름다움 : 스물아홉 번의 탱고로 쓴 허구의 에세이 | Carson, Anne | 서울 : 한겨레, 2016(2026 7쇄) | 821.914 C321bK민 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25056/19/cover200/8999721760_1.jpg) | 건강장애 학생 교육 | 김정연 | 서울 : 학지사, 2020 | 371.9 김74건 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/26651/39/cover200/k552739334_1.jpg) | 유래를 품은 한자 : 문자학자의 인류학 여행기 | 허진웅 | [부산] : 3, 2021 | 412.12 허78자K하 v.1~2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/38954/26/cover200/k282137215_1.jpg) | 스스로 자라는 아이 : 내면의 선생님 | 정이비 | 성남 : Hexagon(헥사곤), 2025 | 372.21 정68스2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/30314/1/cover200/k562839130_1.jpg) | 괜찮아, 우리도 몬테소리가 처음이야 : 30인 엄마들이 실천한 AMI 0~3세 가정 몬테소리 교육 매뉴얼 | 정이비 | 성남 : Hexagon(헥사곤), 2022 | 371.392 정68괜 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40594/10/cover200/s622131036_1.jpg) | 같은 여자끼리 : 청예 소설 | 청예 | 서울 : 오리지널스 : kt밀리의서재, 2026 | 811.37 청64같 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40641/93/cover200/k662131332_1.jpg) | 나의 미친 페미니스트 여자친구 : 민지형 장편소설 | 민지형 | 서울 : 라우더북스, 2025 | 811.37 민78나2 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25115/15/cover200/k192633172_1.jpg) | (고디스) 역학 | Celentano, David D | 서울 : 범문에듀케이션, 2020 | 614.4 C392g6K학 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/21011/49/cover200/8999719464_1.jpg) | 장애 이론 : 장애 정체성의 이론화 | Siebers, Tobin | 서울 : 학지사, 2019 | 305.908 S571dK조 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40533/5/cover200/k822131728_1.jpg) | 파라오의 밀실 | 백천상사 | 파주 : 북다 : 교보문고, 2026 | 813.37 백83파K최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40552/28/cover200/k062131027_1.jpg) | 체조합시다 : 김사사 소설 | 김사사 | 파주 : 문학동네, 2026 | 811.37 김52체 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | On creaturely life : Rilke, Benjamin, Sebald | Santner, Eric L | Chicago : University of Chicago Press, 2006. | 833.914 S236o | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Mathematical methods for molecular science : theory and applications, visualizations and narrative | Straub, John Edward | New York : University Science Books, 2022. | 572.8 S912m | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Quantum information : a first course | Al-Qasimi, Asma | Cambridge | 006.3843 A316q | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | 毎日おにぎり365日 | 일일오니기리유코 | 東京 : 自由国民社, 2022 | 641.5953 일68매 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Curbing traffic : the human case for fewer cars in our lives | Bruntlett, Melissa | Washington, DC : Island Press, 2021. | 388.31 B911c | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/25660/32/cover/k422735249_1.jpg) | 실리콘밸리의 최고 기업은 어떻게 협업하는가 | Dilts, Robert B | 서울 : 박영story : 피와이메이트, 2020 | 658.406 D579gK이 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40315/21/cover200/k092131585_2.jpg) | 사무실에서 | Walser, Robert | 서울 : 미간행본, 2026 | 838.912 W222iK안 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/37444/82/cover200/k282032501_1.jpg) | 존 캘훈의 랫시티 : 완벽한 세계 유니버스25가 보여준 디스토피아 | Adams, Jon | 서울 : Cbrain Books : 씨브레인북스, 2025 | 591.788 A214rK최 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40185/90/cover200/k042131071_1.jpg) | 사회문제의 90％는 비즈니스로 해결할 수 있다 | 전구일성 | 서울 : MYSC : 엠와이소셜컴퍼니, 2026 | 658.421 전16구K김 | 중앙도서관 |
