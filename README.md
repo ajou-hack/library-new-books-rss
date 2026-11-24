@@ -2,6 +2,8 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/9962/38/cover200/8968174431_1.jpg) | 다니엘 데론다 | Eliot, George | 서울 : 한국문화사, 2016 | 823.8 E42dK정 v.1~4 | 중앙도서관 |
+| ![](https://image.aladin.co.kr/product/1152/56/cover200/8987279987_2.jpg) | 소아의학을 거쳐 정신분석학으로 | Winnicott, Donald | 서울 : 한국심리치료연구소, 2011 | 618.9289 W776tK이한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/24781/67/cover200/8931021267_1.jpg) | 일단, 성교육을 합니다 : 소년부터 성년까지 남자가 알아야 할 성 a to z | Chavez Perez, Inti | 서울 : 문예, 2020(2025 4쇄) | 306.7 C512rK이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/2232/79/cover200/8966806325_2.jpg) | 사일러스 마너 | Eliot, George | 서울 : 지식을만드는지식 : 커뮤니케이션북스, 2012 | 823.8 E42sK한 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/33198/34/cover200/8937464365_1.jpg) | 미들마치 : 지방 생활의 고찰 | Eliot, George | 서울 : 민음사, 2024 | 823.8 E42mK이 v.1~2 | 중앙도서관 |
@@ -50,5 +52,3 @@
 | ![](https://image.aladin.co.kr/product/37336/79/cover200/k292032663_2.jpg) | 유리, 아이러니 그리고 신 | Carson, Anne | 파주 : 난다 : 문학동네, 2025 | 821.914 C321gK황2 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/37200/65/cover200/k212031491_1.jpg) | 플레인워터 | Carson, Anne | 파주 : 난다, 2025 | 824.914 C321pK황 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/36144/91/cover200/k992038676_1.jpg) | 에로스, 달콤씁쓸한 | Carson, Anne | 파주 : 난다, 2025 | 880.9 C321eK황 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/22253/90/cover/k962636821_1.jpg) | 레드 닥 | Carson, Anne | 서울 : 한겨레, 2019(2026 2쇄) | 821.914 C321rK민 | 중앙도서관 |
-| ![](https://library.ajou.ac.kr/pyxis-api//attachments/biblio/thumbnails/8aae0d6f-8d71-4205-b4e7-ad1f2ea183b3) | 빨강의 자서전 : 시로 쓴 소설 | Carson, Anne | 서울 : 한겨레, 2016(2026 10쇄) | 823.914 C321aK민 | 중앙도서관 |
