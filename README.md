@@ -2,6 +2,7 @@
 
 | 표지 | 제목 | 저자 | 발행사항 | 청구기호 | 도서관 |
 |----|----|----|----|----|----|
+| ![](https://image.aladin.co.kr/product/39782/23/cover200/k192130202_1.jpg) | 어떻게 살아낼 것인가 : 안개, 절벽, 그리고 내면의 불꽃 | Collins, James C | 서울 : 필름(Feelm), 2026 | 158.1 C712wK고 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40491/27/cover200/k682131216_1.jpg) | 이상한 나라의 경기도민 : 계란 흰자처럼 서울을 둘러싼 1400만의 기쁨과 슬픔 | 이준희 | 서울 : 한겨레 : 한겨레엔, 2026 | 307.760951 이76이 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40473/7/cover200/8901300915_1.jpg) | 나는 코드를 모르는 AI 팀장입니다 : 세상에서 가장 똑똑한 기계를 만드는 곳에서 찾은 인간의 미래 가치 | 정수진 | 파주 : 웅진지식하우스, 2026 | 650.1 정56나 | 중앙도서관 |
 | ![](https://image.aladin.co.kr/product/40573/34/cover200/k122131324_2.jpg) | 아더스 : 생명과 AI 사이 | Chiang, Ted | 서울 : 엘리, 2026 | 006.3 A311cK송 | 중앙도서관 |
@@ -51,4 +52,3 @@
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Droit administratif : cours, réflexions et débats | Morand-Deviller, Jacqueline | Paris : LGDJ : un savoir-faire de Lextenso, 2025. | 342.06 M829d19 | 법학도서관 |
 | ![](https://library.ajou.ac.kr/assets/images/ajou/common/default-item-img.png) | Droit administratif | Petit, Jacques | Paris : LGDJ : un savoir-faire de Lextenso, 2026. | 342.06 P489d20 | 법학도서관 |
 | ![](https://image.aladin.co.kr/product/39103/41/cover200/k102137254_1.jpg) | 건축잡지 미로 | 정림건축문화재단 | 서울 : 마티 : 정림건축문화재단, 2026 | 729 정298건 v.5~6 | 중앙도서관 |
-| ![](https://image.aladin.co.kr/product/40037/45/cover200/k932130740_1.jpg) | 수용전념치료 기초 배우기 : 단계적으로 배우는 초진단적 ACT 기본 매뉴얼 | Twohig, Michael P | 서울 : 박영story : 피와이메이트, 2026 | 616.891425 T974aK송 | 중앙도서관 |
